@@ -1,0 +1,7 @@
+name = "jlpt-app-v2"
+pages_build_output_dir = "dist"
+compatibility_date = "2024-06-21"
+
+[[r2_buckets]]
+binding = "JLPT_BUCKET"
+bucket_name = "my-r2-storage"
