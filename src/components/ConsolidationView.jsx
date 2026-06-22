@@ -131,15 +131,50 @@ const adjSubCategories = [
   { id: "abstract_difficulty", label: "難易與安全", group: "abstract_concept" }
 ];
 
+const advCategoryGroups = [
+  { id: "all", label: "✨ 全部副詞" },
+  { id: "human_self", label: "🧍 人類自身" },
+  { id: "material_life", label: "🏠 物質生活" },
+  { id: "nature_universe", label: "🌍 自然與宇宙" },
+  { id: "society_civilization", label: "🤝 社會與文明" },
+  { id: "abstract_concept", label: "💭 抽象概念" }
+];
+
+const advSubCategories = [
+  // 人類自身
+  { id: "adv_body_movement", label: "肢體與生理模樣", group: "human_self" },
+  { id: "adv_emotion_state", label: "心理情緒狀態", group: "human_self" },
+  { id: "adv_senses", label: "五官感知描述", group: "human_self" },
+  
+  // 物質生活
+  { id: "adv_daily_action", label: "日常行為方式", group: "material_life" },
+  { id: "adv_food_cooking", label: "飲食與烹飪狀態", group: "material_life" },
+  { id: "adv_speed_efficiency", label: "速度與效率", group: "material_life" },
+  
+  // 自然與宇宙
+  { id: "adv_weather_physics", label: "天氣與物理現象", group: "nature_universe" },
+  { id: "adv_sound_mimic", label: "聲音模擬", group: "nature_universe" },
+  
+  // 社會與文明
+  { id: "adv_comm_attitude", label: "人際溝通態度", group: "society_civilization" },
+  { id: "adv_work_manner", label: "職場禮貌語氣", group: "society_civilization" },
+  
+  // 抽象概念
+  { id: "adv_time_freq", label: "時間頻率", group: "abstract_concept" },
+  { id: "adv_degree_qty", label: "程度數量", group: "abstract_concept" },
+  { id: "adv_logic_mood", label: "邏輯與主觀語氣", group: "abstract_concept" }
+];
+
 const catLabels = {
   ...nounSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
   ...verbSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
-  ...adjSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
+  ...adjSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...advSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
 };
 
 export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
-  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : nounCategoryGroups;
-  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : nounSubCategories;
+  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : posFilter === 'adverb' ? advCategoryGroups : nounCategoryGroups;
+  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : posFilter === 'adverb' ? advSubCategories : nounSubCategories;
   const [level, setLevel] = useState('全部等級');
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
@@ -165,13 +200,15 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
 
     if (posFilter === 'noun') {
       if (!(t === 'noun' || p.includes('名詞') || p.includes('noun'))) return false;
-      if (vCat.startsWith('verb_')) return false; // Noun tab shouldn't show verb_ categories
+      if (vCat.startsWith('verb_') || vCat.startsWith('adv_')) return false; // Noun tab shouldn't show verb/adv categories
       if (t === 'adjective' || p.includes('形容詞')) return false;
     } else if (posFilter === 'verb') {
       if (!(t === 'verb' || p.includes('動詞') || p.includes('verb'))) return false;
       if (!vCat.startsWith('verb_')) return false; // STRICT: Only show words generated for the new verb categories!
     } else if (posFilter === 'adjective') {
       if (!(t === 'adjective' || p.includes('形容詞') || p.includes('adj'))) return false;
+    } else if (posFilter === 'adverb') {
+      if (!(t === 'adverb' || p.includes('副詞') || p.includes('adv'))) return false;
     }
     
     // Search
@@ -775,9 +812,9 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
               <div key={i} className="old-vocab-card">
                 <div className="old-card-top">
                   <div>
-                    {!item.furigana && <div className="old-furi">{item.reading || ' '}</div>}
+                    {(!item.furigana || !item.furigana.includes('[')) && <div className="old-furi">{item.reading || item.furigana || ' '}</div>}
                     <div className="old-word">
-                      {item.furigana ? <FuriganaText text={item.furigana} /> : (item.word || '-')}
+                      {(item.furigana && item.furigana.includes('[')) ? <FuriganaText text={item.furigana} /> : (item.word || '-')}
                     </div>
                     <div className="old-romaji">{item.romaji || '-'}</div>
                   </div>
@@ -807,7 +844,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <button className="btn-speaker">
                     <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
                   </button>
-                  {(posFilter === 'verb' || posFilter === 'adjective') && (
+                  {(posFilter === 'verb' || posFilter === 'adjective' || posFilter === 'adverb') && (
                     <button className="btn-detail" onClick={() => setSelectedVerb(item)}>
                       詳細解說
                     </button>
@@ -831,13 +868,14 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
             <button className="verb-modal-close" onClick={() => setSelectedVerb(null)}>×</button>
             
             <div className="verb-modal-header">
-              {!selectedVerb.furigana && <div className="verb-modal-furi">{selectedVerb.reading}</div>}
+              {(!selectedVerb.furigana || !selectedVerb.furigana.includes('[')) && <div className="verb-modal-furi">{selectedVerb.reading || selectedVerb.furigana}</div>}
               <div className="verb-modal-word">
-                {selectedVerb.furigana ? <FuriganaText text={selectedVerb.furigana} /> : selectedVerb.word}
+                {(selectedVerb.furigana && selectedVerb.furigana.includes('[')) ? <FuriganaText text={selectedVerb.furigana} /> : selectedVerb.word}
               </div>
               <div className="verb-modal-badges">
                 {selectedVerb.verb_group && <span className="vm-badge-group">{selectedVerb.verb_group}</span>}
-                {selectedVerb.type === 'adjective' && selectedVerb.pos && <span className="vm-badge-group">{selectedVerb.pos}</span>}
+                {(selectedVerb.type === 'adjective' || selectedVerb.type === 'adverb') && selectedVerb.pos && <span className="vm-badge-group">{selectedVerb.pos}</span>}
+                {selectedVerb.grammar_class && <span className="vm-badge-group">{selectedVerb.grammar_class}</span>}
                 {selectedVerb.transitivity && <span className="vm-badge-trans">{selectedVerb.transitivity}</span>}
                 <span className="vm-badge-cat">{selectedVerb.encyclopedia_category || catLabels[selectedVerb.category] || '單字'}</span>
               </div>
@@ -935,6 +973,38 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                       <div className="vm-conj-item">
                         <div className="vm-conj-label">過度型 (太...)</div>
                         <div className="vm-conj-val">{selectedVerb.too_much || '-'}</div>
+                      </div>
+                    </div>
+                  </div>
+                </>
+              )}
+
+              {selectedVerb.type === 'adverb' && (
+                <>
+                  <div className="vm-section">
+                    <h3 className="vm-section-title">用法與呼應規則 (Usage & Rules)</h3>
+                    <div className="vm-conj-grid">
+                      <div className="vm-conj-item" style={{ gridColumn: 'span 2' }}>
+                        <div className="vm-conj-label">主要修飾對象</div>
+                        <div className="vm-conj-val">{selectedVerb.target || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item" style={{ gridColumn: 'span 2' }}>
+                        <div className="vm-conj-label">句尾呼應規則</div>
+                        <div className="vm-conj-val">{selectedVerb.ending_rule || '-'}</div>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="vm-section">
+                    <h3 className="vm-section-title">學習提示 (Learning Tips)</h3>
+                    <div className="vm-conj-grid">
+                      <div className="vm-conj-item" style={{ gridColumn: 'span 2' }}>
+                        <div className="vm-conj-label">特殊發音/用法提示</div>
+                        <div className="vm-conj-val">{selectedVerb.special_note || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item" style={{ gridColumn: 'span 2' }}>
+                        <div className="vm-conj-label">近義詞比較</div>
+                        <div className="vm-conj-val">{selectedVerb.synonym || '-'}</div>
                       </div>
                     </div>
                   </div>
