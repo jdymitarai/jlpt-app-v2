@@ -40,7 +40,7 @@ const catLabels = subCategories.reduce((acc, cat) => {
   return acc;
 }, {});
 
-export default function ConsolidationView({ chunks }) {
+export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
   const [level, setLevel] = useState('全部等級');
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
@@ -54,14 +54,18 @@ export default function ConsolidationView({ chunks }) {
     vocabulary = chunks?.[level]?.vocabulary || [];
   }
   
-  // 2. Filter for Nouns & Search
+  // 2. Filter for Nouns/Verbs & Search
   let filteredVocab = vocabulary.filter(v => {
     if (!v) return false;
     
-    // Only Nouns
+    // Check Part of Speech
     const t = String(v.type || '').toLowerCase();
     const p = String(v.pos || v.type || '').toLowerCase();
-    if (!(t === 'noun' || p.includes('名詞') || p.includes('noun'))) return false;
+    if (posFilter === 'noun') {
+      if (!(t === 'noun' || p.includes('名詞') || p.includes('noun'))) return false;
+    } else if (posFilter === 'verb') {
+      if (!(t === 'verb' || p.includes('動詞') || p.includes('verb'))) return false;
+    }
     
     // Search
     if (search) {
