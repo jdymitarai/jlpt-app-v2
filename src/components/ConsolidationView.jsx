@@ -122,7 +122,6 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
     }
     
     // Thematic Filter
-    const vCat = v.category || 'other';
     if (activeGroup !== 'all') {
       const catDef = subCategories.find(sc => sc.id === vCat);
       if (!catDef || catDef.group !== activeGroup) return false;
