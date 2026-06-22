@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const categoryGroups = [
+const nounCategoryGroups = [
   { id: "all", label: "✨ 全部類別" },
   { id: "human_existence", label: "👥 人類自身" },
   { id: "clinical_medical", label: "🏥 護理專業" },
@@ -10,7 +10,7 @@ const categoryGroups = [
   { id: "abstract_concepts", label: "💡 抽象概念" }
 ];
 
-const subCategories = [
+const nounSubCategories = [
   { id: "body_physiology", label: "身體部位與生理", group: "human_existence" },
   { id: "health_medical", label: "常見疾病與常規醫療", group: "human_existence" },
   { id: "psychology_character", label: "心理情感與性格", group: "human_existence" },
@@ -35,12 +35,52 @@ const subCategories = [
   { id: "properties_relations", label: "性質狀態關係", group: "abstract_concepts" }
 ];
 
-const catLabels = subCategories.reduce((acc, cat) => {
-  acc[cat.id] = cat.label;
-  return acc;
-}, {});
+const verbCategoryGroups = [
+  { id: "all", label: "✨ 全部動詞" },
+  { id: "human_action", label: "🧍 人類自身" },
+  { id: "material_life", label: "🏠 物質生活" },
+  { id: "society_civilization", label: "🤝 社會與文明" },
+  { id: "nature_universe", label: "🌍 自然與宇宙" },
+  { id: "abstract_concept", label: "💭 抽象概念" }
+];
+
+const verbSubCategories = [
+  // 人類自身
+  { id: "verb_body_movement", label: "肢體動作", group: "human_action" },
+  { id: "verb_senses", label: "五官感知", group: "human_action" },
+  { id: "verb_physiology", label: "生理與生存", group: "human_action" },
+  { id: "verb_psychology", label: "心理與思考", group: "human_action" },
+  
+  // 物質生活
+  { id: "verb_food_cooking", label: "飲食與烹飪", group: "material_life" },
+  { id: "verb_clothing", label: "穿脫與打扮", group: "material_life" },
+  { id: "verb_housework", label: "家事與居住", group: "material_life" },
+  { id: "verb_transport_leisure", label: "交通與休閒", group: "material_life" },
+  
+  // 社會與文明
+  { id: "verb_communication", label: "溝通與表達", group: "society_civilization" },
+  { id: "verb_giving_receiving", label: "人際授受", group: "society_civilization" },
+  { id: "verb_work_economy", label: "工作與經濟", group: "society_civilization" },
+  { id: "verb_learning_education", label: "學習與教育", group: "society_civilization" },
+  
+  // 自然與宇宙
+  { id: "verb_weather", label: "天氣變化", group: "nature_universe" },
+  { id: "verb_nature_growth", label: "動植物生長", group: "nature_universe" },
+  { id: "verb_physical_change", label: "物理與狀態改變", group: "nature_universe" },
+  
+  // 抽象概念
+  { id: "verb_existence_possession", label: "存在與擁有", group: "abstract_concept" },
+  { id: "verb_time_process", label: "時間與開始結束", group: "abstract_concept" }
+];
+
+const catLabels = {
+  ...nounSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...verbSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
+};
 
 export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
+  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : nounCategoryGroups;
+  const subCategories = posFilter === 'verb' ? verbSubCategories : nounSubCategories;
   const [level, setLevel] = useState('全部等級');
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
@@ -61,10 +101,14 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
     // Check Part of Speech
     const t = String(v.type || '').toLowerCase();
     const p = String(v.pos || v.type || '').toLowerCase();
+    const vCat = v.category || 'other';
+
     if (posFilter === 'noun') {
       if (!(t === 'noun' || p.includes('名詞') || p.includes('noun'))) return false;
+      if (vCat.startsWith('verb_')) return false; // Noun tab shouldn't show verb_ categories
     } else if (posFilter === 'verb') {
       if (!(t === 'verb' || p.includes('動詞') || p.includes('verb'))) return false;
+      if (!vCat.startsWith('verb_')) return false; // STRICT: Only show words generated for the new verb categories!
     }
     
     // Search
