@@ -375,10 +375,43 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
           font-weight: 600;
           cursor: pointer;
         }
+        .verb-intro-banner {
+          background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+          border-left: 6px solid #0ea5e9;
+          padding: 24px 32px;
+          border-radius: 16px;
+          margin-bottom: 32px;
+          color: #0f172a;
+        }
+        .verb-intro-title {
+          font-size: 1.4rem;
+          font-weight: 800;
+          color: #0369a1;
+          margin-bottom: 12px;
+          display: flex;
+          align-items: center;
+          gap: 12px;
+        }
+        .verb-intro-desc {
+          font-size: 1.05rem;
+          line-height: 1.7;
+          color: #334155;
+          margin-bottom: 0;
+        }
       `}</style>
 
       <div className="vocab-main-container">
         
+        {posFilter === 'verb' && (
+          <div className="verb-intro-banner">
+            <div className="verb-intro-title">
+              <span>📖</span> 動詞（動作與變化百科）
+            </div>
+            <p className="verb-intro-desc">
+              日文的動詞不僅僅是文法，更是描述世界萬物變化的精準工具。在這裡，我們<strong>將世界上所有的動作，依照發生的場景與主體來細分</strong>：從人類自身的肢體與心靈變化、日常物質生活、社會人際運作，一路延伸到自然宇宙的狀態改變以及抽象邏輯的推演。透過這套分類，幫助您建立完整且系統化的日語動詞思維模型。
+            </p>
+          </div>
+        )}
         <div className="vocab-filter-topbar">
           <div className="vocab-search-box">
             <span style={{ opacity: 0.5 }}>🔍</span>
