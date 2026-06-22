@@ -82,7 +82,7 @@ function App() {
             <li className={`nav-item ${activeTab === 'verbs' ? 'active' : ''}`} onClick={() => setActiveTab('verbs')}>
               <a>
                 <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
-                <span>動詞</span>
+                <span>動詞分類</span>
               </a>
             </li>
             <li className={`nav-item ${activeTab === 'grammar' ? 'active' : ''}`} onClick={() => setActiveTab('grammar')}>
