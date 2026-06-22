@@ -85,6 +85,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
   const [activeSub, setActiveSub] = useState('all');
+  const [selectedVerb, setSelectedVerb] = useState(null);
 
   // 1. Get raw vocab
   let vocabulary = [];
@@ -398,6 +399,205 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
           color: #334155;
           margin-bottom: 0;
         }
+        
+        /* Modal Styles */
+        .verb-modal-overlay {
+          position: fixed;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background: rgba(15, 23, 42, 0.6);
+          backdrop-filter: blur(8px);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          z-index: 9999;
+          animation: fadeIn 0.3s ease-out forwards;
+        }
+        @keyframes fadeIn {
+          from { opacity: 0; }
+          to { opacity: 1; }
+        }
+        @keyframes slideUp {
+          from { opacity: 0; transform: translateY(30px) scale(0.95); }
+          to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+        .verb-modal-content {
+          background: #ffffff;
+          width: 90%;
+          max-width: 750px;
+          max-height: 90vh;
+          border-radius: 24px;
+          overflow-y: auto;
+          position: relative;
+          box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+          animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+          display: flex;
+          flex-direction: column;
+        }
+        .verb-modal-close {
+          position: absolute;
+          top: 20px; right: 20px;
+          width: 36px; height: 36px;
+          border-radius: 50%;
+          background: rgba(255, 255, 255, 0.5);
+          border: none;
+          font-size: 1.5rem;
+          color: #64748b;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+          transition: all 0.2s;
+          z-index: 10;
+        }
+        .verb-modal-close:hover {
+          background: #e2e8f0;
+          color: #0f172a;
+        }
+        .verb-modal-header {
+          padding: 40px 40px 30px;
+          background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+          border-bottom: 1px solid #e2e8f0;
+          position: relative;
+        }
+        .verb-modal-furi {
+          font-size: 1.1rem;
+          color: #64748b;
+          margin-bottom: 4px;
+          font-weight: 600;
+        }
+        .verb-modal-word {
+          font-size: 3.5rem;
+          font-weight: 800;
+          color: #0f172a;
+          margin-bottom: 16px;
+          letter-spacing: -0.02em;
+          line-height: 1.1;
+        }
+        .verb-modal-badges {
+          display: flex;
+          gap: 10px;
+          flex-wrap: wrap;
+          margin-bottom: 24px;
+        }
+        .vm-badge-group {
+          background: #eff6ff; color: #2563eb;
+          padding: 6px 16px; border-radius: 20px;
+          font-size: 0.9rem; font-weight: 700;
+          border: 1px solid #bfdbfe;
+        }
+        .vm-badge-trans {
+          background: #fef2f2; color: #dc2626;
+          padding: 6px 16px; border-radius: 20px;
+          font-size: 0.9rem; font-weight: 700;
+          border: 1px solid #fecaca;
+        }
+        .vm-badge-cat {
+          background: #f0fdf4; color: #16a34a;
+          padding: 6px 16px; border-radius: 20px;
+          font-size: 0.9rem; font-weight: 700;
+          border: 1px solid #bbf7d0;
+        }
+        .verb-modal-meaning {
+          font-size: 1.4rem;
+          font-weight: 700;
+          color: #334155;
+        }
+        .verb-modal-body {
+          padding: 30px 40px;
+          display: flex;
+          flex-direction: column;
+          gap: 36px;
+        }
+        .vm-section-title {
+          font-size: 1.15rem;
+          font-weight: 800;
+          color: #0f172a;
+          margin-bottom: 20px;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+        .vm-section-title::before {
+          content: '';
+          display: block;
+          width: 4px; height: 18px;
+          background: #f43f5e;
+          border-radius: 4px;
+        }
+        .vm-conj-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+          gap: 16px;
+        }
+        .vm-conj-item {
+          background: #f8fafc;
+          border: 1px solid #e2e8f0;
+          border-radius: 12px;
+          padding: 16px;
+          transition: all 0.2s;
+        }
+        .vm-conj-item:hover {
+          border-color: #cbd5e1;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+          transform: translateY(-2px);
+        }
+        .vm-conj-label {
+          font-size: 0.85rem;
+          color: #64748b;
+          font-weight: 600;
+          margin-bottom: 8px;
+        }
+        .vm-conj-val {
+          font-size: 1.2rem;
+          font-weight: 700;
+          color: #0f172a;
+        }
+        .vm-keigo-box {
+          background: #fefce8;
+          border: 1px solid #fef08a;
+          padding: 20px;
+          border-radius: 12px;
+          color: #854d0e;
+          font-weight: 600;
+          font-size: 1.1rem;
+          line-height: 1.6;
+        }
+        .vm-sentence {
+          background: #fff;
+          border: 1px solid #e2e8f0;
+          border-left: 4px solid #3b82f6;
+          padding: 24px;
+          border-radius: 12px;
+          margin-bottom: 16px;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+        }
+        .vm-sent-ja {
+          font-size: 1.2rem;
+          font-weight: 600;
+          color: #1e293b;
+          margin-bottom: 10px;
+          line-height: 1.5;
+        }
+        .vm-sent-zh {
+          font-size: 1.05rem;
+          color: #64748b;
+          line-height: 1.5;
+        }
+        .btn-detail {
+          background: #f1f5f9;
+          color: #334155;
+          border: none;
+          padding: 8px 16px;
+          border-radius: 8px;
+          font-size: 0.85rem;
+          font-weight: 600;
+          cursor: pointer;
+          transition: all 0.2s;
+        }
+        .btn-detail:hover {
+          background: #e2e8f0;
+          color: #0f172a;
+        }
       `}</style>
 
       <div className="vocab-main-container">
@@ -543,6 +743,11 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <button className="btn-speaker">
                     <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
                   </button>
+                  {posFilter === 'verb' && (
+                    <button className="btn-detail" onClick={() => setSelectedVerb(item)}>
+                      詳細解說
+                    </button>
+                  )}
                   <button className="btn-learned">標記為已學</button>
                 </div>
               </div>
@@ -555,6 +760,91 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
         )}
 
       </div>
+
+      {selectedVerb && (
+        <div className="verb-modal-overlay" onClick={() => setSelectedVerb(null)}>
+          <div className="verb-modal-content" onClick={e => e.stopPropagation()}>
+            <button className="verb-modal-close" onClick={() => setSelectedVerb(null)}>×</button>
+            
+            <div className="verb-modal-header">
+              <div className="verb-modal-furi">{selectedVerb.furigana || selectedVerb.reading}</div>
+              <div className="verb-modal-word">{selectedVerb.word}</div>
+              <div className="verb-modal-badges">
+                <span className="vm-badge-group">{selectedVerb.verb_group || '-'}</span>
+                <span className="vm-badge-trans">{selectedVerb.transitivity || '-'}</span>
+                <span className="vm-badge-cat">{selectedVerb.encyclopedia_category || catLabels[selectedVerb.category] || '單字'}</span>
+              </div>
+              <div className="verb-modal-meaning">{selectedVerb.meaning}</div>
+            </div>
+            
+            <div className="verb-modal-body">
+              <div className="vm-section">
+                <h3 className="vm-section-title">變化型 (Conjugations)</h3>
+                <div className="vm-conj-grid">
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">辭書形 (原形)</div>
+                    <div className="vm-conj-val">{selectedVerb.word || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">ます形 (丁寧)</div>
+                    <div className="vm-conj-val">{selectedVerb.masu_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">ない形 (否定)</div>
+                    <div className="vm-conj-val">{selectedVerb.nai_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">た形 (過去)</div>
+                    <div className="vm-conj-val">{selectedVerb.ta_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">なかった形 (過去否定)</div>
+                    <div className="vm-conj-val">{selectedVerb.nakatta_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">可能形 (能力)</div>
+                    <div className="vm-conj-val">{selectedVerb.potential_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">使役形 (強迫/允許)</div>
+                    <div className="vm-conj-val">{selectedVerb.causative_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">受身形 (被動)</div>
+                    <div className="vm-conj-val">{selectedVerb.passive_form || '-'}</div>
+                  </div>
+                  <div className="vm-conj-item">
+                    <div className="vm-conj-label">意向形 (意志/勸誘)</div>
+                    <div className="vm-conj-val">{selectedVerb.volitional_form || '-'}</div>
+                  </div>
+                </div>
+              </div>
+
+              {selectedVerb.keigo && selectedVerb.keigo !== '-' && (
+                <div className="vm-section">
+                  <h3 className="vm-section-title">敬語 (Keigo)</h3>
+                  <div className="vm-keigo-box">
+                    {selectedVerb.keigo}
+                  </div>
+                </div>
+              )}
+
+              {selectedVerb.sentences && selectedVerb.sentences.length > 0 && (
+                <div className="vm-section">
+                  <h3 className="vm-section-title">實用例句 (Examples)</h3>
+                  {selectedVerb.sentences.map((sent, i) => (
+                    <div className="vm-sentence" key={i}>
+                      <div className="vm-sent-ja">{sent.ja}</div>
+                      <div className="vm-sent-zh">{sent.zh}</div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
     </section>
   );
 }
