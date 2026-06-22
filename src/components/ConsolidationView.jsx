@@ -1,5 +1,31 @@
 import React, { useState } from 'react';
 
+const FuriganaText = ({ text }) => {
+  if (!text) return null;
+  // Match one or more Kanji characters followed by brackets containing Kana
+  const regex = /([一-龥々]+)\[([^\]]+)\]/g;
+  const elements = [];
+  let lastIndex = 0;
+  let match;
+
+  while ((match = regex.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      elements.push(<span key={lastIndex}>{text.substring(lastIndex, match.index)}</span>);
+    }
+    elements.push(
+      <ruby key={match.index}>
+        {match[1]}<rt>{match[2]}</rt>
+      </ruby>
+    );
+    lastIndex = regex.lastIndex;
+  }
+  if (lastIndex < text.length) {
+    elements.push(<span key={lastIndex}>{text.substring(lastIndex)}</span>);
+  }
+
+  return <>{elements.length > 0 ? elements : text}</>;
+};
+
 const nounCategoryGroups = [
   { id: "all", label: "✨ 全部類別" },
   { id: "human_existence", label: "👥 人類自身" },
@@ -713,8 +739,10 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
               <div key={i} className="old-vocab-card">
                 <div className="old-card-top">
                   <div>
-                    <div className="old-furi">{item.reading || item.furigana || ' '}</div>
-                    <div className="old-word">{item.word || '-'}</div>
+                    {!item.furigana && <div className="old-furi">{item.reading || ' '}</div>}
+                    <div className="old-word">
+                      {item.furigana ? <FuriganaText text={item.furigana} /> : (item.word || '-')}
+                    </div>
                     <div className="old-romaji">{item.romaji || '-'}</div>
                   </div>
                   <div className="old-badges">
@@ -743,11 +771,9 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <button className="btn-speaker">
                     <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
                   </button>
-                  {posFilter === 'verb' && (
-                    <button className="btn-detail" onClick={() => setSelectedVerb(item)}>
-                      詳細解說
-                    </button>
-                  )}
+                  <button className="btn-detail" onClick={() => setSelectedVerb(item)}>
+                    詳細解說
+                  </button>
                   <button className="btn-learned">標記為已學</button>
                 </div>
               </div>
@@ -767,58 +793,62 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
             <button className="verb-modal-close" onClick={() => setSelectedVerb(null)}>×</button>
             
             <div className="verb-modal-header">
-              <div className="verb-modal-furi">{selectedVerb.furigana || selectedVerb.reading}</div>
-              <div className="verb-modal-word">{selectedVerb.word}</div>
+              {!selectedVerb.furigana && <div className="verb-modal-furi">{selectedVerb.reading}</div>}
+              <div className="verb-modal-word">
+                {selectedVerb.furigana ? <FuriganaText text={selectedVerb.furigana} /> : selectedVerb.word}
+              </div>
               <div className="verb-modal-badges">
-                <span className="vm-badge-group">{selectedVerb.verb_group || '-'}</span>
-                <span className="vm-badge-trans">{selectedVerb.transitivity || '-'}</span>
+                {selectedVerb.verb_group && <span className="vm-badge-group">{selectedVerb.verb_group}</span>}
+                {selectedVerb.transitivity && <span className="vm-badge-trans">{selectedVerb.transitivity}</span>}
                 <span className="vm-badge-cat">{selectedVerb.encyclopedia_category || catLabels[selectedVerb.category] || '單字'}</span>
               </div>
               <div className="verb-modal-meaning">{selectedVerb.meaning}</div>
             </div>
             
             <div className="verb-modal-body">
-              <div className="vm-section">
-                <h3 className="vm-section-title">變化型 (Conjugations)</h3>
-                <div className="vm-conj-grid">
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">辭書形 (原形)</div>
-                    <div className="vm-conj-val">{selectedVerb.word || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">ます形 (丁寧)</div>
-                    <div className="vm-conj-val">{selectedVerb.masu_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">ない形 (否定)</div>
-                    <div className="vm-conj-val">{selectedVerb.nai_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">た形 (過去)</div>
-                    <div className="vm-conj-val">{selectedVerb.ta_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">なかった形 (過去否定)</div>
-                    <div className="vm-conj-val">{selectedVerb.nakatta_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">可能形 (能力)</div>
-                    <div className="vm-conj-val">{selectedVerb.potential_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">使役形 (強迫/允許)</div>
-                    <div className="vm-conj-val">{selectedVerb.causative_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">受身形 (被動)</div>
-                    <div className="vm-conj-val">{selectedVerb.passive_form || '-'}</div>
-                  </div>
-                  <div className="vm-conj-item">
-                    <div className="vm-conj-label">意向形 (意志/勸誘)</div>
-                    <div className="vm-conj-val">{selectedVerb.volitional_form || '-'}</div>
+              {selectedVerb.masu_form && (
+                <div className="vm-section">
+                  <h3 className="vm-section-title">變化型 (Conjugations)</h3>
+                  <div className="vm-conj-grid">
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">辭書形 (原形)</div>
+                      <div className="vm-conj-val">{selectedVerb.word || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">ます形 (丁寧)</div>
+                      <div className="vm-conj-val">{selectedVerb.masu_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">ない形 (否定)</div>
+                      <div className="vm-conj-val">{selectedVerb.nai_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">た形 (過去)</div>
+                      <div className="vm-conj-val">{selectedVerb.ta_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">なかった形 (過去否定)</div>
+                      <div className="vm-conj-val">{selectedVerb.nakatta_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">可能形 (能力)</div>
+                      <div className="vm-conj-val">{selectedVerb.potential_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">使役形 (強迫/允許)</div>
+                      <div className="vm-conj-val">{selectedVerb.causative_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">受身形 (被動)</div>
+                      <div className="vm-conj-val">{selectedVerb.passive_form || '-'}</div>
+                    </div>
+                    <div className="vm-conj-item">
+                      <div className="vm-conj-label">意向形 (意志/勸誘)</div>
+                      <div className="vm-conj-val">{selectedVerb.volitional_form || '-'}</div>
+                    </div>
                   </div>
                 </div>
-              </div>
+              )}
 
               {selectedVerb.keigo && selectedVerb.keigo !== '-' && (
                 <div className="vm-section">
