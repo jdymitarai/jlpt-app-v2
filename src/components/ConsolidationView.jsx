@@ -405,11 +405,34 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
         {posFilter === 'verb' && (
           <div className="verb-intro-banner">
             <div className="verb-intro-title">
-              <span>📖</span> 動詞（動作與變化百科）
+              <span>📖</span> 日文動詞的三大分類（三段動詞）
             </div>
-            <p className="verb-intro-desc">
-              日文的動詞不僅僅是文法，更是描述世界萬物變化的精準工具。在這裡，我們<strong>將世界上所有的動作，依照發生的場景與主體來細分</strong>：從人類自身的肢體與心靈變化、日常物質生活、社會人際運作，一路延伸到自然宇宙的狀態改變以及抽象邏輯的推演。透過這套分類，幫助您建立完整且系統化的日語動詞思維模型。
+            <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
+              日文動詞依照變化的規律，主要分為三大類。掌握這三個分類，是學好動詞變化的最重要基礎：
             </p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>I 類動詞（五段動詞）</div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                  字典形語尾必定是<strong>「う」段音</strong>（如 く、す、つ、ぬ、む、る、う 等）。變化最多樣。<br/>
+                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：書く (kaku)、話す (hanasu)、乗る (noru)</span>
+                </div>
+              </div>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>II 類動詞（上一段/下一段）</div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                  字典形語尾必定是<strong>「る」</strong>，且「る」前面的音落在<strong>「い」段或「え」段</strong>。變化最規律。<br/>
+                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：見る (mi-ru)、食べる (tabe-ru)、起きる (oki-ru)</span>
+                </div>
+              </div>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>III 類動詞（不規則動詞）</div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                  只有兩個不規則變化的動詞，以及由「名詞＋する」所構成的動詞群。<br/>
+                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：する (做)、来る (くる / 來)、勉強する</span>
+                </div>
+              </div>
+            </div>
           </div>
         )}
         <div className="vocab-filter-topbar">
