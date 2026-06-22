@@ -416,7 +416,8 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                 <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
                   字典形語尾必定是<strong>「う」段音</strong>。變化最多樣。<br/>
                   <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 語尾轉「い」段音＋ます</span><br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：書（か）く → 書（か）きます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;話（はな）す → 話（はな）します</span>
+                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：書（か）く → 書（か）きます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;話（はな）す → 話（はな）します</span><br/>
+                  <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>※例外：帰（かえ）る、切（き）る、知（し）る、走（はし）る、入（はい）る等，長得像 II 類，但屬於 I 類動詞。</span>
                 </div>
               </div>
               <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
