@@ -99,19 +99,52 @@ const verbSubCategories = [
   { id: "verb_time_process", label: "時間與開始結束", group: "abstract_concept" }
 ];
 
+const adjCategoryGroups = [
+  { id: "all", label: "✨ 全部形容詞" },
+  { id: "human_action", label: "🧍 人類自身" },
+  { id: "material_life", label: "🏠 物質生活" },
+  { id: "nature_universe", label: "🌍 自然與宇宙" },
+  { id: "society_civilization", label: "🤝 社會與文明" },
+  { id: "abstract_concept", label: "💭 抽象概念" }
+];
+
+const adjSubCategories = [
+  // 人類自身
+  { id: "adj_emotion", label: "情感心理", group: "human_action" },
+  { id: "human_body", label: "生理狀態與痛覺", group: "human_action" },
+  
+  // 物質生活
+  { id: "adj_taste", label: "味覺與口感", group: "material_life" },
+  { id: "looks_size", label: "外觀與尺寸", group: "material_life" },
+  { id: "looks_state", label: "物品新舊與狀態", group: "material_life" },
+  
+  // 自然與宇宙
+  { id: "nature_weather", label: "天氣與溫度", group: "nature_universe" },
+  { id: "looks_space", label: "空間與環境", group: "nature_universe" },
+  
+  // 社會與文明
+  { id: "social_personality", label: "性格特質", group: "society_civilization" },
+  { id: "adj_social_eval", label: "社會與人際評價", group: "society_civilization" },
+  
+  // 抽象概念
+  { id: "abstract_value", label: "好壞與價值", group: "abstract_concept" },
+  { id: "abstract_difficulty", label: "難易與安全", group: "abstract_concept" }
+];
+
 const catLabels = {
   ...nounSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
-  ...verbSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
+  ...verbSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...adjSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
 };
 
 export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
-  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : nounCategoryGroups;
-  const subCategories = posFilter === 'verb' ? verbSubCategories : nounSubCategories;
+  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : nounCategoryGroups;
+  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : nounSubCategories;
   const [level, setLevel] = useState('全部等級');
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
   const [activeSub, setActiveSub] = useState('all');
-  const [selectedVerb, setSelectedVerb] = useState(null);
+  const [selectedVerb, setSelectedVerb] = useState(null); // Used for both Verbs and Adjectives detail modals
 
   // 1. Get raw vocab
   let vocabulary = [];
@@ -121,7 +154,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
     vocabulary = chunks?.[level]?.vocabulary || [];
   }
   
-  // 2. Filter for Nouns/Verbs & Search
+  // 2. Filter for Nouns/Verbs/Adjs & Search
   let filteredVocab = vocabulary.filter(v => {
     if (!v) return false;
     
@@ -133,9 +166,12 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
     if (posFilter === 'noun') {
       if (!(t === 'noun' || p.includes('名詞') || p.includes('noun'))) return false;
       if (vCat.startsWith('verb_')) return false; // Noun tab shouldn't show verb_ categories
+      if (t === 'adjective' || p.includes('形容詞')) return false;
     } else if (posFilter === 'verb') {
       if (!(t === 'verb' || p.includes('動詞') || p.includes('verb'))) return false;
       if (!vCat.startsWith('verb_')) return false; // STRICT: Only show words generated for the new verb categories!
+    } else if (posFilter === 'adjective') {
+      if (!(t === 'adjective' || p.includes('形容詞') || p.includes('adj'))) return false;
     }
     
     // Search
@@ -771,7 +807,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <button className="btn-speaker">
                     <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
                   </button>
-                  {posFilter === 'verb' && (
+                  {(posFilter === 'verb' || posFilter === 'adjective') && (
                     <button className="btn-detail" onClick={() => setSelectedVerb(item)}>
                       詳細解說
                     </button>
@@ -801,6 +837,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
               </div>
               <div className="verb-modal-badges">
                 {selectedVerb.verb_group && <span className="vm-badge-group">{selectedVerb.verb_group}</span>}
+                {selectedVerb.type === 'adjective' && selectedVerb.pos && <span className="vm-badge-group">{selectedVerb.pos}</span>}
                 {selectedVerb.transitivity && <span className="vm-badge-trans">{selectedVerb.transitivity}</span>}
                 <span className="vm-badge-cat">{selectedVerb.encyclopedia_category || catLabels[selectedVerb.category] || '單字'}</span>
               </div>
@@ -808,7 +845,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
             </div>
             
             <div className="verb-modal-body">
-              {selectedVerb.masu_form && (
+              {selectedVerb.type === 'verb' && selectedVerb.masu_form && (
                 <div className="vm-section">
                   <h3 className="vm-section-title">變化型 (Conjugations)</h3>
                   <div className="vm-conj-grid">
@@ -852,7 +889,59 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                 </div>
               )}
 
-              {selectedVerb.keigo && selectedVerb.keigo !== '-' && (
+              {selectedVerb.type === 'adjective' && (
+                <>
+                  <div className="vm-section">
+                    <h3 className="vm-section-title">基本時態 (Basic Tenses)</h3>
+                    <div className="vm-conj-grid">
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">現在肯定 (敬體)</div>
+                        <div className="vm-conj-val">{selectedVerb.present_affirmative || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">現在否定 (常體)</div>
+                        <div className="vm-conj-val">{selectedVerb.present_negative || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">過去肯定 (常體)</div>
+                        <div className="vm-conj-val">{selectedVerb.past_affirmative || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">過去否定 (常體)</div>
+                        <div className="vm-conj-val">{selectedVerb.past_negative || '-'}</div>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="vm-section">
+                    <h3 className="vm-section-title">進階活用 (Advanced Conjugations)</h3>
+                    <div className="vm-conj-grid">
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">修飾名詞型</div>
+                        <div className="vm-conj-val">{selectedVerb.noun_modifier || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">副詞化變形</div>
+                        <div className="vm-conj-val">{selectedVerb.adverb_modifier || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">名詞化變形</div>
+                        <div className="vm-conj-val">{selectedVerb.noun_form || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">樣態型 (看起來...)</div>
+                        <div className="vm-conj-val">{selectedVerb.looks_like || '-'}</div>
+                      </div>
+                      <div className="vm-conj-item">
+                        <div className="vm-conj-label">過度型 (太...)</div>
+                        <div className="vm-conj-val">{selectedVerb.too_much || '-'}</div>
+                      </div>
+                    </div>
+                  </div>
+                </>
+              )}
+
+              {selectedVerb.type === 'verb' && selectedVerb.keigo && selectedVerb.keigo !== '-' && (
                 <div className="vm-section">
                   <h3 className="vm-section-title">敬語 (Keigo)</h3>
                   <div className="vm-keigo-box">

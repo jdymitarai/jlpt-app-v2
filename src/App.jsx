@@ -85,6 +85,12 @@ function App() {
                 <span>動詞分類</span>
               </a>
             </li>
+            <li className={`nav-item ${activeTab === 'adjectives' ? 'active' : ''}`} onClick={() => setActiveTab('adjectives')}>
+              <a>
+                <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" /></svg>
+                <span>形容詞分類</span>
+              </a>
+            </li>
             <li className={`nav-item ${activeTab === 'grammar' ? 'active' : ''}`} onClick={() => setActiveTab('grammar')}>
               <a>
                 <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
@@ -128,6 +134,10 @@ function App() {
                 
                 {activeTab === 'verbs' && (
                   <ConsolidationView chunks={jlptData.JLPT_DATA_CHUNKS} posFilter="verb" />
+                )}
+
+                {activeTab === 'adjectives' && (
+                  <ConsolidationView chunks={jlptData.JLPT_DATA_CHUNKS} posFilter="adjective" />
                 )}
                 
                 {/* Placholders for other views to be implemented */}
