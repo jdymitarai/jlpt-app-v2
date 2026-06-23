@@ -602,7 +602,218 @@
         "do": "どちら (哪方向)"
       }
     ],
-    "vocabulary": [],
+    "vocabulary": [
+      {
+        "jp": "躊躇",
+        "romaji": "chuucho",
+        "kana": "ちゅうちょ",
+        "pos": "Noun, Suru verb",
+        "meaning": "猶豫、遲疑"
+      },
+      {
+        "jp": "妥協",
+        "romaji": "dakyou",
+        "kana": "だきょう",
+        "pos": "Noun, Suru verb",
+        "meaning": "妥協、讓步"
+      },
+      {
+        "jp": "矛盾",
+        "romaji": "mujun",
+        "kana": "むじゅん",
+        "pos": "Noun, Suru verb",
+        "meaning": "矛盾、不一致"
+      },
+      {
+        "jp": "貢献",
+        "romaji": "kouken",
+        "kana": "こうけん",
+        "pos": "Noun, Suru verb",
+        "meaning": "貢獻"
+      },
+      {
+        "jp": "普及",
+        "romaji": "fukyuu",
+        "kana": "ふきゅう",
+        "pos": "Noun, Suru verb",
+        "meaning": "普及、推廣"
+      },
+      {
+        "jp": "極端",
+        "romaji": "kyokutan",
+        "kana": "きょくたん",
+        "pos": "Na-adjective, Noun",
+        "meaning": "極端"
+      },
+      {
+        "jp": "輝く",
+        "romaji": "kagayaku",
+        "kana": "かがやく",
+        "pos": "Intransitive verb",
+        "meaning": "閃耀、發光"
+      },
+      {
+        "jp": "奪う",
+        "romaji": "ubau",
+        "kana": "うばう",
+        "pos": "Transitive verb",
+        "meaning": "奪走、剝奪"
+      },
+      {
+        "jp": "劣る",
+        "romaji": "otoru",
+        "kana": "おとる",
+        "pos": "Intransitive verb",
+        "meaning": "遜色、不如"
+      },
+      {
+        "jp": "優れる",
+        "romaji": "sugureru",
+        "kana": "すぐれる",
+        "pos": "Intransitive verb",
+        "meaning": "優秀、出色"
+      },
+      {
+        "jp": "怠る",
+        "romaji": "okotaru",
+        "kana": "おこたる",
+        "pos": "Transitive verb",
+        "meaning": "怠慢、疏忽"
+      },
+      {
+        "jp": "偏る",
+        "romaji": "katayoru",
+        "kana": "かたよる",
+        "pos": "Intransitive verb",
+        "meaning": "偏頗、失去平衡"
+      },
+      {
+        "jp": "渋い",
+        "romaji": "shibui",
+        "kana": "しぶい",
+        "pos": "I-adjective",
+        "meaning": "苦澀的、雅致的"
+      },
+      {
+        "jp": "鋭い",
+        "romaji": "surudoi",
+        "kana": "するどい",
+        "pos": "I-adjective",
+        "meaning": "敏銳的、鋒利的"
+      },
+      {
+        "jp": "鈍い",
+        "romaji": "nibui",
+        "kana": "にぶい",
+        "pos": "I-adjective",
+        "meaning": "遲鈍的、不鋒利的"
+      },
+      {
+        "jp": "怪しい",
+        "romaji": "ayashii",
+        "kana": "あやしい",
+        "pos": "I-adjective",
+        "meaning": "可疑的、靠不住的"
+      },
+      {
+        "jp": "卑怯",
+        "romaji": "hikyou",
+        "kana": "ひきょう",
+        "pos": "Na-adjective, Noun",
+        "meaning": "卑鄙、懦弱"
+      },
+      {
+        "jp": "生意気",
+        "romaji": "namaiki",
+        "kana": "なまいき",
+        "pos": "Na-adjective, Noun",
+        "meaning": "傲慢、自大"
+      },
+      {
+        "jp": "厄介",
+        "romaji": "yakkai",
+        "kana": "やっかい",
+        "pos": "Na-adjective, Noun",
+        "meaning": "麻煩、棘手"
+      },
+      {
+        "jp": "慎重",
+        "romaji": "shinchou",
+        "kana": "しんちょう",
+        "pos": "Na-adjective, Noun",
+        "meaning": "謹慎、慎重"
+      },
+      {
+        "jp": "柔軟",
+        "romaji": "juunan",
+        "kana": "じゅうなん",
+        "pos": "Na-adjective, Noun",
+        "meaning": "靈活、有彈性"
+      },
+      {
+        "jp": "鮮やか",
+        "romaji": "azayaka",
+        "kana": "あざやか",
+        "pos": "Na-adjective",
+        "meaning": "鮮艷的、精湛的"
+      },
+      {
+        "jp": "穏やか",
+        "romaji": "odayaka",
+        "kana": "おだやか",
+        "pos": "Na-adjective",
+        "meaning": "平靜的、溫和的"
+      },
+      {
+        "jp": "爽やか",
+        "romaji": "sawayaka",
+        "kana": "さわやか",
+        "pos": "Na-adjective",
+        "meaning": "清爽的、神清氣爽的"
+      },
+      {
+        "jp": "健やか",
+        "romaji": "sukoyaka",
+        "kana": "すこやか",
+        "pos": "Na-adjective",
+        "meaning": "健康的、健壯的"
+      },
+      {
+        "jp": "滑らか",
+        "romaji": "nameraka",
+        "kana": "なめらか",
+        "pos": "Na-adjective",
+        "meaning": "光滑的、流暢的"
+      },
+      {
+        "jp": "早速",
+        "romaji": "sassoku",
+        "kana": "さっそく",
+        "pos": "Adverb",
+        "meaning": "馬上、立刻"
+      },
+      {
+        "jp": "忽ち",
+        "romaji": "tachimachi",
+        "kana": "たちまち",
+        "pos": "Adverb",
+        "meaning": "轉眼間、立刻"
+      },
+      {
+        "jp": "密か",
+        "romaji": "hisoka",
+        "kana": "ひそか",
+        "pos": "Na-adjective",
+        "meaning": "偷偷地、暗中"
+      },
+      {
+        "jp": "微か",
+        "romaji": "kasuka",
+        "kana": "かすか",
+        "pos": "Na-adjective",
+        "meaning": "微弱的、隱約的"
+      }
+    ],
     "grammar": [
       {
         "id": "g1",
@@ -11120,8 +11331,8 @@
         },
         {
           "id": "v_kushami",
-          "word": "くしゃみ",
-          "furigana": "くしゃみ",
+          "word": "嚏",
+          "furigana": "嚏[くしゃみ]",
           "romaji": "kushami",
           "meaning": "打噴嚏",
           "level": "N5",
@@ -11281,8 +11492,8 @@
         },
         {
           "id": "v_ugai",
-          "word": "うがい",
-          "furigana": "うがい",
+          "word": "嗽",
+          "furigana": "嗽[うがい]",
           "romaji": "ugai",
           "meaning": "漱口",
           "level": "N5",
@@ -12936,8 +13147,8 @@
         },
         {
           "id": "v_zurui",
-          "word": "ずるい",
-          "furigana": "ずるい",
+          "word": "狡い",
+          "furigana": "狡[ずる]い",
           "romaji": "zurui",
           "meaning": "狡猾的 / 奸詐的",
           "level": "N5",
@@ -14738,8 +14949,8 @@
         },
         {
           "id": "v_mukumu",
-          "word": "むくむ",
-          "furigana": "むくむ",
+          "word": "浮腫む",
+          "furigana": "浮腫[むく]む",
           "romaji": "mukumu",
           "meaning": "水腫 / 浮腫",
           "level": "N3",
@@ -15721,8 +15932,8 @@
         },
         {
           "id": "v_f_shoppai",
-          "word": "しょっぱい",
-          "furigana": "しょっぱい",
+          "word": "塩っぱい",
+          "furigana": "塩[しょっ]ぱい",
           "romaji": "shoppai",
           "meaning": "鹹的",
           "level": "N4",
@@ -16981,8 +17192,8 @@
         },
         {
           "id": "v_t_massugu",
-          "word": "まっすぐ",
-          "furigana": "まっすぐ",
+          "word": "真っ直ぐ",
+          "furigana": "真[ま]っ直[す]ぐ",
           "romaji": "massugu",
           "meaning": "筆直 / 直走",
           "level": "N5",
@@ -17769,8 +17980,8 @@
         },
         {
           "id": "v_c_kitsui",
-          "word": "きつい",
-          "furigana": "きつい",
+          "word": "苛い",
+          "furigana": "苛[きつ]い",
           "romaji": "kitsui",
           "meaning": "緊的 / 辛苦的",
           "level": "N3",
@@ -26842,9 +27053,9 @@
           ]
         },
         {
-          "word": "おもちゃ",
+          "word": "玩具",
           "reading": "おもちゃ",
-          "furigana": "おもちゃ",
+          "furigana": "玩具[おもちゃ]",
           "romaji": "omocha",
           "meaning": "玩具",
           "pos": "名詞",
@@ -26978,9 +27189,9 @@
           ]
         },
         {
-          "word": "おじいさん",
+          "word": "お爺さん",
           "reading": "おじいさん",
-          "furigana": "おじいさん",
+          "furigana": "お爺[じい]さん",
           "romaji": "ojiisan",
           "meaning": "爺爺、老爺爺",
           "pos": "名詞",
@@ -26995,9 +27206,9 @@
           ]
         },
         {
-          "word": "おばあさん",
+          "word": "お婆さん",
           "reading": "おばあさん",
-          "furigana": "おばあさん",
+          "furigana": "お婆[ばあ]さん",
           "romaji": "obaasan",
           "meaning": "奶奶、老奶奶",
           "pos": "名詞",
@@ -27862,9 +28073,9 @@
           ]
         },
         {
-          "word": "うさぎ",
+          "word": "兎",
           "reading": "うさぎ",
-          "furigana": "うさぎ",
+          "furigana": "兎[うさぎ]",
           "romaji": "usagi",
           "meaning": "兔子",
           "pos": "名詞",
@@ -27879,9 +28090,9 @@
           ]
         },
         {
-          "word": "ネズミ",
+          "word": "鼠",
           "reading": "ねずみ",
-          "furigana": "ネズミ",
+          "furigana": "鼠[ねずみ]",
           "romaji": "nezumi",
           "meaning": "老鼠",
           "pos": "名詞",
@@ -27896,9 +28107,9 @@
           ]
         },
         {
-          "word": "カエル",
+          "word": "蛙",
           "reading": "かえる",
-          "furigana": "カエル",
+          "furigana": "蛙[かえる]",
           "romaji": "kaeru",
           "meaning": "青蛙",
           "pos": "名詞",
@@ -28406,9 +28617,9 @@
           ]
         },
         {
-          "word": "ひらがな",
+          "word": "平仮名",
           "reading": "ひらがな",
-          "furigana": "ひらがな",
+          "furigana": "平仮名[ひらがな]",
           "romaji": "hiragana",
           "meaning": "平假名",
           "pos": "名詞",
@@ -28423,9 +28634,9 @@
           ]
         },
         {
-          "word": "カタカナ",
+          "word": "片仮名",
           "reading": "かたかな",
-          "furigana": "カタカナ",
+          "furigana": "片仮名[カタカナ]",
           "romaji": "katakana",
           "meaning": "片假名",
           "pos": "名詞",
@@ -28712,9 +28923,9 @@
           ]
         },
         {
-          "word": "たくさん",
+          "word": "沢山",
           "reading": "たくさん",
-          "furigana": "たくさん",
+          "furigana": "沢山[たくさん]",
           "romaji": "takusan",
           "meaning": "很多",
           "pos": "名詞",
@@ -34208,9 +34419,9 @@
         },
         {
           "id": "v_n5_batch11_20",
-          "word": "いじめる",
+          "word": "苛める",
           "reading": "いじめる",
-          "furigana": "いじめる",
+          "furigana": "苛[いじ]める",
           "romaji": "ijimeru",
           "meaning": "欺負",
           "pos": "動詞",
@@ -34714,7 +34925,7 @@
         },
         {
           "id": "adj_n5_batch1_19",
-          "word": "いい",
+          "word": "良い",
           "reading": "いい",
           "furigana": "良[い]い",
           "romaji": "ii",
@@ -36570,9 +36781,9 @@
         },
         {
           "id": "n_n5_batch8_5",
-          "word": "ゴミ",
+          "word": "塵",
           "reading": "ごみ",
-          "furigana": "ゴミ",
+          "furigana": "塵[ごみ]",
           "romaji": "gomi",
           "meaning": "垃圾",
           "pos": "名詞",
@@ -36966,9 +37177,9 @@
         },
         {
           "id": "n_n5_batch9_10",
-          "word": "どこ",
+          "word": "何処",
           "reading": "どこ",
-          "furigana": "どこ",
+          "furigana": "何処[どこ]",
           "romaji": "doko",
           "meaning": "哪裡",
           "pos": "名詞",
@@ -36984,9 +37195,9 @@
         },
         {
           "id": "n_n5_batch9_11",
-          "word": "いつ",
+          "word": "何時",
           "reading": "いつ",
-          "furigana": "いつ",
+          "furigana": "何時[いつ]",
           "romaji": "itsu",
           "meaning": "什麼時候",
           "pos": "名詞",
@@ -37398,9 +37609,9 @@
         },
         {
           "id": "n_n5_batch10_15",
-          "word": "うち",
+          "word": "家",
           "reading": "うち",
-          "furigana": "うち",
+          "furigana": "家[うち]",
           "romaji": "uchi",
           "meaning": "家 (自己的)",
           "pos": "名詞",
@@ -38906,9 +39117,9 @@
         },
         {
           "id": "adj_n5_cron_b4_20",
-          "word": "うるさい",
+          "word": "煩い",
           "reading": "うるさい",
-          "furigana": "うるさい",
+          "furigana": "煩[うるさ]い",
           "romaji": "urusai",
           "meaning": "吵鬧的、煩人的",
           "pos": "い形容詞",
@@ -39074,9 +39285,9 @@
         },
         {
           "id": "adj_n5_cron_b5_6",
-          "word": "だめ",
+          "word": "駄目",
           "reading": "だめ",
-          "furigana": "だめ",
+          "furigana": "駄目[だめ]",
           "romaji": "dame",
           "meaning": "不行的、沒用的",
           "pos": "な形容詞",
@@ -39130,9 +39341,9 @@
         },
         {
           "id": "adj_n5_cron_b5_8",
-          "word": "かわいそう",
+          "word": "可哀想",
           "reading": "かわいそう",
-          "furigana": "かわいそう",
+          "furigana": "可哀想[かわいそう]",
           "romaji": "kawaisou",
           "meaning": "可憐的",
           "pos": "な形容詞",
@@ -39406,9 +39617,9 @@
         },
         {
           "id": "adj_cron_107",
-          "word": "ひどい",
+          "word": "酷い",
           "reading": "ひどい",
-          "furigana": "ひどい",
+          "furigana": "酷[ひど]い",
           "romaji": "hidoi",
           "meaning": "過分的、嚴重的",
           "pos": "い形容詞",
@@ -39858,9 +40069,9 @@
         },
         {
           "id": "adj_cron_143",
-          "word": "おかしい",
+          "word": "可笑しい",
           "reading": "おかしい",
-          "furigana": "おかしい",
+          "furigana": "可笑[おか]しい",
           "romaji": "okashii",
           "meaning": "奇怪的、可笑的",
           "pos": "い形容詞",
@@ -39886,9 +40097,9 @@
         },
         {
           "id": "adj_cron_145",
-          "word": "ぬるい",
+          "word": "温い",
           "reading": "ぬるい",
-          "furigana": "ぬるい",
+          "furigana": "温[ぬる]い",
           "romaji": "nurui",
           "meaning": "微溫的",
           "pos": "い形容詞",
@@ -39914,9 +40125,9 @@
         },
         {
           "id": "adj_cron_146",
-          "word": "まぶしい",
+          "word": "眩しい",
           "reading": "まぶしい",
-          "furigana": "まぶしい",
+          "furigana": "眩[まぶ]しい",
           "romaji": "mabushii",
           "meaning": "刺眼的、耀眼的",
           "pos": "い形容詞",
@@ -43647,9 +43858,9 @@
         },
         {
           "id": "adj_cron_005",
-          "word": "いい",
+          "word": "良い",
           "reading": "いい",
-          "furigana": "いい",
+          "furigana": "良[い]い",
           "meaning": "好的",
           "pos": "形容詞",
           "type": "adjective",
@@ -43927,9 +44138,9 @@
         },
         {
           "id": "adj_cron_015",
-          "word": "おいしい",
+          "word": "美味しい",
           "reading": "おいしい",
-          "furigana": "おいしい",
+          "furigana": "美味[おい]しい",
           "meaning": "好吃的",
           "pos": "形容詞",
           "type": "adjective",
@@ -44846,9 +45057,9 @@
         },
         {
           "id": "verb_cron_021",
-          "word": "あげる",
+          "word": "上げる",
           "reading": "あげる",
-          "furigana": "あげる",
+          "furigana": "上[あ]げる",
           "meaning": "給",
           "pos": "動詞",
           "type": "verb",
@@ -44875,9 +45086,9 @@
         },
         {
           "id": "verb_cron_022",
-          "word": "もらう",
+          "word": "貰う",
           "reading": "もらう",
-          "furigana": "もらう",
+          "furigana": "貰[もら]う",
           "meaning": "收到",
           "pos": "動詞",
           "type": "verb",
@@ -44904,9 +45115,9 @@
         },
         {
           "id": "verb_cron_023",
-          "word": "くれる",
+          "word": "呉れる",
           "reading": "くれる",
-          "furigana": "くれる",
+          "furigana": "呉[く]れる",
           "meaning": "給（我）",
           "pos": "動詞",
           "type": "verb",
@@ -45339,9 +45550,9 @@
         },
         {
           "id": "verb_cron_038",
-          "word": "かぶる",
+          "word": "被る",
           "reading": "かぶる",
-          "furigana": "かぶる",
+          "furigana": "被[かぶ]る",
           "meaning": "戴（帽子等）",
           "pos": "動詞",
           "type": "verb",
@@ -45368,9 +45579,9 @@
         },
         {
           "id": "verb_cron_039",
-          "word": "かける",
+          "word": "掛ける",
           "reading": "かける",
-          "furigana": "かける",
+          "furigana": "掛[か]ける",
           "meaning": "戴（眼鏡）、掛、打（電話）",
           "pos": "動詞",
           "type": "verb",
@@ -46662,7 +46873,7 @@
         },
         {
           "id": "adv_cron_177",
-          "word": "たくさん",
+          "word": "沢山",
           "reading": "たくさん",
           "meaning": "很多",
           "pos": "副詞",
@@ -46678,7 +46889,7 @@
               "zh": "吃了很多。"
             }
           ],
-          "furigana": "たくさん",
+          "furigana": "沢山[たくさん]",
           "kana": "",
           "kanji": "たくさん",
           "category": "adv_degree_qty"
@@ -46783,9 +46994,9 @@
         },
         {
           "id": "verb_cron_042",
-          "word": "つける",
+          "word": "付ける",
           "reading": "つける",
-          "furigana": "つける",
+          "furigana": "付[つ]ける",
           "meaning": "打開（電源）、附加上去",
           "pos": "動詞",
           "type": "verb",
@@ -47015,7 +47226,7 @@
         },
         {
           "id": "verb_cron_050",
-          "word": "わかる",
+          "word": "分かる",
           "reading": "わかる",
           "furigana": "分[わ]かる",
           "meaning": "明白、懂",
@@ -47044,9 +47255,9 @@
         },
         {
           "id": "verb_cron_051",
-          "word": "ある",
+          "word": "有る",
           "reading": "ある",
-          "furigana": "ある",
+          "furigana": "有[あ]る",
           "meaning": "有（無生命）",
           "pos": "動詞",
           "type": "verb",
@@ -47073,9 +47284,9 @@
         },
         {
           "id": "verb_cron_052",
-          "word": "いる",
+          "word": "居る",
           "reading": "いる",
-          "furigana": "いる",
+          "furigana": "居[い]る",
           "meaning": "有、在（有生命）",
           "pos": "動詞",
           "type": "verb",
@@ -47102,9 +47313,9 @@
         },
         {
           "id": "verb_cron_053",
-          "word": "なる",
+          "word": "成る",
           "reading": "なる",
-          "furigana": "なる",
+          "furigana": "成[な]る",
           "meaning": "變成",
           "pos": "動詞",
           "type": "verb",
@@ -47131,9 +47342,9 @@
         },
         {
           "id": "verb_cron_054",
-          "word": "する",
+          "word": "為る",
           "reading": "する",
-          "furigana": "する",
+          "furigana": "為[す]る",
           "meaning": "做",
           "pos": "動詞",
           "type": "verb",
@@ -47160,9 +47371,9 @@
         },
         {
           "id": "verb_cron_055",
-          "word": "できる",
+          "word": "出来る",
           "reading": "できる",
-          "furigana": "できる",
+          "furigana": "出来[でき]る",
           "meaning": "能夠、完成",
           "pos": "動詞",
           "type": "verb",
@@ -47782,9 +47993,9 @@
         },
         {
           "id": "adj_cron_057",
-          "word": "いろいろ",
+          "word": "色々",
           "reading": "いろいろ",
-          "furigana": "いろいろ",
+          "furigana": "色々[いろいろ]",
           "meaning": "各式各樣的",
           "pos": "形容詞",
           "type": "adjective",
@@ -48045,9 +48256,9 @@
           "example": "すばしっこい猫です。"
         },
         {
-          "word": "たやすい",
+          "word": "容易すい",
           "kanji": "たやすい",
-          "furigana": "たやすい",
+          "furigana": "容易[たや]すい",
           "type": "adjective",
           "meaning": "容易的",
           "example": "それはたやすい仕事です。"
@@ -48109,9 +48320,9 @@
           "example": "愚かな真似をするな。"
         },
         {
-          "word": "かすか",
+          "word": "微か",
           "kanji": "",
-          "furigana": "かすか",
+          "furigana": "微[かす]か",
           "type": "adjective",
           "meaning": "微弱的",
           "example": "かすかな音が聞こえる。"
@@ -48229,9 +48440,9 @@
           "example": "麗しい声で歌う。"
         },
         {
-          "word": "おびただしい",
+          "word": "夥しい",
           "kanji": "",
-          "furigana": "おびただしい",
+          "furigana": "夥[おびただ]しい",
           "type": "adjective",
           "meaning": "大量的",
           "example": "おびただしい数の人が集まった。"
@@ -48277,9 +48488,9 @@
           "example": "久しい間会っていない。"
         },
         {
-          "word": "ふさわしい",
+          "word": "相応しい",
           "kanji": "",
-          "furigana": "ふさわしい",
+          "furigana": "相応[ふさわ]しい",
           "type": "adjective",
           "meaning": "適合的",
           "example": "リーダーにふさわしい人物。"
@@ -48341,9 +48552,9 @@
           "example": "故郷が恋しいです。"
         },
         {
-          "word": "しつこい",
+          "word": "執拗い",
           "kanji": "",
-          "furigana": "しつこい",
+          "furigana": "執拗[しつこ]い",
           "type": "adjective",
           "meaning": "固執的、糾纏不休的",
           "example": "しつこい風邪ですね。"
@@ -48405,9 +48616,9 @@
           "example": "呆気ない結末だった。"
         },
         {
-          "word": "おっかない",
+          "word": "恐っかない",
           "kanji": "",
-          "furigana": "おっかない",
+          "furigana": "恐[お]っかない",
           "type": "adjective",
           "meaning": "可怕的",
           "example": "おっかない顔をしている。"
@@ -48429,9 +48640,9 @@
           "example": "黄色い花が咲く。"
         },
         {
-          "word": "きつい",
+          "word": "苛い",
           "kanji": "",
-          "furigana": "きつい",
+          "furigana": "苛[きつ]い",
           "type": "adjective",
           "meaning": "緊的、嚴厲的",
           "example": "靴がきついです。"
@@ -48453,9 +48664,9 @@
           "example": "足の裏がくすぐったい。"
         },
         {
-          "word": "くだらない",
+          "word": "下らない",
           "kanji": "",
-          "furigana": "くだらない",
+          "furigana": "下[くだ]らない",
           "type": "adjective",
           "meaning": "無聊的、沒有價值的",
           "example": "くだらない冗談を言う。"
@@ -48517,9 +48728,9 @@
           "example": "図々しい態度をとる。"
         },
         {
-          "word": "ずるい",
+          "word": "狡い",
           "kanji": "",
-          "furigana": "ずるい",
+          "furigana": "狡[ずる]い",
           "type": "adjective",
           "meaning": "狡猾的",
           "example": "ずるいやり方だ。"
@@ -48533,9 +48744,9 @@
           "example": "切ない気持ちになる。"
         },
         {
-          "word": "かっこいい",
+          "word": "格好良い",
           "kanji": "",
-          "furigana": "かっこいい",
+          "furigana": "格好良[かっこい]い",
           "type": "adjective",
           "meaning": "帥氣的",
           "example": "彼はとてもかっこいいです。"
@@ -48557,9 +48768,9 @@
           "example": "宿題が面倒くさいです。"
         },
         {
-          "word": "あやふや",
+          "word": "曖昧",
           "kanji": "",
-          "furigana": "あやふや",
+          "furigana": "曖昧[あやふや]",
           "type": "adjective",
           "meaning": "含糊的",
           "example": "あやふやな態度をとる。"
@@ -48605,9 +48816,9 @@
           "example": "狡賢いやり方だ。"
         },
         {
-          "word": "そそっかしい",
+          "word": "粗忽しい",
           "kanji": "",
-          "furigana": "そそっかしい",
+          "furigana": "粗忽[そそっか]しい",
           "type": "adjective",
           "meaning": "粗心大意的",
           "example": "私はそそっかしい性格です。"
@@ -48621,9 +48832,9 @@
           "example": "だらしない格好をするな。"
         },
         {
-          "word": "もどかしい",
+          "word": "焦しい",
           "kanji": "",
-          "furigana": "もどかしい",
+          "furigana": "焦[もどか]しい",
           "type": "adjective",
           "meaning": "令人著急的",
           "example": "もどかしい気持ちになる。"
@@ -48669,9 +48880,9 @@
           "example": "汚らわしい話だ。"
         },
         {
-          "word": "さもしい",
+          "word": "浅ましい",
           "kanji": "",
-          "furigana": "さもしい",
+          "furigana": "浅間[さも]しい",
           "type": "adjective",
           "meaning": "卑鄙的",
           "example": "さもしい根性だ。"
@@ -49653,9 +49864,9 @@
           "example": "淑やかな女性。"
         },
         {
-          "word": "いじらしい",
+          "word": "弄らしい",
           "kanji": "",
-          "furigana": "いじらしい",
+          "furigana": "弄[いじ]らしい",
           "type": "adjective",
           "meaning": "惹人憐愛的",
           "example": "いじらしい姿だ。"
@@ -49813,7 +50024,7 @@
           "example": "息子の活躍が誇らしい。"
         },
         {
-          "word": "さみしい",
+          "word": "寂しい",
           "kanji": "寂しい",
           "furigana": "寂[さみ]しい",
           "type": "adjective",
@@ -49829,9 +50040,9 @@
           "example": "雨だから仕方ない。"
         },
         {
-          "word": "はしたない",
+          "word": "端ない",
           "kanji": "",
-          "furigana": "はしたない",
+          "furigana": "端[はした]ない",
           "type": "adjective",
           "meaning": "不端莊的",
           "example": "はしたない言葉遣い。"
@@ -49861,9 +50072,9 @@
           "example": "ぎこちない動作。"
         },
         {
-          "word": "さりげない",
+          "word": "然り気ない",
           "kanji": "",
-          "furigana": "さりげない",
+          "furigana": "然[さ]り気[げ]ない",
           "type": "adjective",
           "meaning": "若無其事的",
           "example": "さりげない優しさ。"
@@ -50013,9 +50224,9 @@
           "example": "穏やかな天気です。"
         },
         {
-          "word": "しなやか",
+          "word": "柔やか",
           "kanji": "",
-          "furigana": "しなやか",
+          "furigana": "柔[しな]やか",
           "type": "adjective",
           "meaning": "柔軟有彈性的",
           "example": "しなやかな動き。"
@@ -50061,17 +50272,17 @@
           "example": "大雑把な性格です。"
         },
         {
-          "word": "こまめ",
+          "word": "小忠実",
           "kanji": "",
-          "furigana": "こまめ",
+          "furigana": "小忠実[こまめ]",
           "type": "adjective",
           "meaning": "勤快的",
           "example": "こまめに掃除する。"
         },
         {
-          "word": "まめ",
+          "word": "忠実",
           "kanji": "",
-          "furigana": "まめ",
+          "furigana": "忠実[まめ]",
           "type": "adjective",
           "meaning": "勤奮的",
           "example": "彼はまめな人だ。"
@@ -50125,9 +50336,9 @@
           "example": "勉強を疎かにするな。"
         },
         {
-          "word": "ささやか",
+          "word": "細やか",
           "kanji": "",
-          "furigana": "ささやか",
+          "furigana": "細[ささ]やか",
           "type": "adjective",
           "meaning": "微薄的、小規模的",
           "example": "ささやかなお祝い。"
@@ -50933,9 +51144,9 @@
           "example": "文化的な背景。"
         },
         {
-          "word": "あくどい",
+          "word": "悪どい",
           "kanji": "",
-          "furigana": "あくどい",
+          "furigana": "悪[あく]どい",
           "type": "adjective",
           "meaning": "惡毒的、太過火的",
           "example": "あくどい商法。"
@@ -51037,9 +51248,9 @@
           "example": "まん丸い顔。"
         },
         {
-          "word": "みすぼらしい",
+          "word": "見窄らしい",
           "kanji": "",
-          "furigana": "みすぼらしい",
+          "furigana": "見窄[みすぼ]らしい",
           "type": "adjective",
           "meaning": "破舊的、寒酸的",
           "example": "みすぼらしい格好。"
@@ -51069,17 +51280,17 @@
           "example": "脆いガラス。"
         },
         {
-          "word": "やばい",
+          "word": "厄介い",
           "kanji": "",
-          "furigana": "やばい",
+          "furigana": "厄介[やば]い",
           "type": "adjective",
           "meaning": "糟糕的、厲害的",
           "example": "これはやばい状況だ。"
         },
         {
-          "word": "あどけない",
+          "word": "稚ない",
           "kanji": "",
-          "furigana": "あどけない",
+          "furigana": "稚[あどけ]ない",
           "type": "adjective",
           "meaning": "天真無邪的",
           "example": "あどけない笑顔。"
@@ -51101,9 +51312,9 @@
           "example": "恭しい態度。"
         },
         {
-          "word": "がさつ",
+          "word": "麁末",
           "kanji": "",
-          "furigana": "がさつ",
+          "furigana": "麁末[がさつ]",
           "type": "adjective",
           "meaning": "粗魯的",
           "example": "がさつな人。"
@@ -51501,9 +51712,9 @@
           "example": "狂おしいほど愛している。"
         },
         {
-          "word": "けちくさい",
+          "word": "吝嗇臭い",
           "kanji": "",
-          "furigana": "けちくさい",
+          "furigana": "吝嗇臭[けちくさ]い",
           "type": "adjective",
           "meaning": "小氣的",
           "example": "けちくさいことを言うな。"
@@ -51517,9 +51728,9 @@
           "example": "一人では心許ない。"
         },
         {
-          "word": "しおらしい",
+          "word": "萎らしい",
           "kanji": "",
-          "furigana": "しおらしい",
+          "furigana": "萎[しお]らしい",
           "type": "adjective",
           "meaning": "溫順的、乖巧的",
           "example": "しおらしくしている。"
@@ -51989,7 +52200,7 @@
           "example": "動きが鈍い。"
         },
         {
-          "word": "のろい",
+          "word": "鈍い",
           "kanji": "鈍い",
           "furigana": "鈍[のろ]い",
           "type": "adjective",
@@ -52021,9 +52232,9 @@
           "example": "腹立たしい事件。"
         },
         {
-          "word": "いかがわしい",
+          "word": "如何わしい",
           "kanji": "",
-          "furigana": "いかがわしい",
+          "furigana": "如何[いかが]わしい",
           "type": "adjective",
           "meaning": "可疑的",
           "example": "いかがわしい店。"
@@ -52053,9 +52264,9 @@
           "example": "照れ臭くて言えない。"
         },
         {
-          "word": "おぼろげ",
+          "word": "朧気",
           "kanji": "おぼろげ",
-          "furigana": "おぼろげ",
+          "furigana": "朧気[おぼろげ]",
           "type": "adjective",
           "meaning": "模糊的",
           "example": "おぼろげな記憶。"
@@ -52109,9 +52320,9 @@
           "example": "冷ややかな視線。"
         },
         {
-          "word": "まろやか",
+          "word": "円やか",
           "kanji": "",
-          "furigana": "まろやか",
+          "furigana": "円[まろ]やか",
           "type": "adjective",
           "meaning": "醇厚的、圓潤的",
           "example": "まろやかな味。"
@@ -52221,9 +52432,9 @@
           "example": "気怠い朝。"
         },
         {
-          "word": "くどい",
+          "word": "諄い",
           "kanji": "",
-          "furigana": "くどい",
+          "furigana": "諄[くど]い",
           "type": "adjective",
           "meaning": "囉嗦的、油膩的",
           "example": "説明がくどい。"
@@ -52333,9 +52544,9 @@
           "example": "付き合い辛い人だ。"
         },
         {
-          "word": "やましい",
+          "word": "疚しい",
           "kanji": "",
-          "furigana": "やましい",
+          "furigana": "疚[やま]しい",
           "type": "adjective",
           "meaning": "內疚的",
           "example": "やましいところはない。"
@@ -52381,9 +52592,9 @@
           "example": "影響が色濃い。"
         },
         {
-          "word": "いかつい",
+          "word": "厳つい",
           "kanji": "",
-          "furigana": "いかつい",
+          "furigana": "厳[いか]つい",
           "type": "adjective",
           "meaning": "粗獷的、嚴厲的",
           "example": "いかつい顔つき。"
@@ -52493,9 +52704,9 @@
           "example": "鼻高い様子。"
         },
         {
-          "word": "ひもじい",
+          "word": "飢じい",
           "kanji": "",
-          "furigana": "ひもじい",
+          "furigana": "飢[ひもじ]い",
           "type": "adjective",
           "meaning": "飢餓的",
           "example": "ひもじい思いをする。"
@@ -52645,17 +52856,17 @@
           "example": "でかい声。"
         },
         {
-          "word": "なだらか",
+          "word": "緩らか",
           "kanji": "",
-          "furigana": "なだらか",
+          "furigana": "緩[なだ]らか",
           "type": "adjective",
           "meaning": "平緩的",
           "example": "なだらかな坂。"
         },
         {
-          "word": "ふてぶてしい",
+          "word": "態々しい",
           "kanji": "",
-          "furigana": "ふてぶてしい",
+          "furigana": "態々[ふてぶて]しい",
           "type": "adjective",
           "meaning": "厚顏無恥的、滿不在乎的",
           "example": "ふてぶてしい態度。"
@@ -52725,9 +52936,9 @@
           "example": "浅はかな考え。"
         },
         {
-          "word": "うやむや",
+          "word": "有耶無耶",
           "kanji": "",
-          "furigana": "うやむや",
+          "furigana": "有耶無耶[うやむや]",
           "type": "adjective",
           "meaning": "含糊的",
           "example": "うやむやにする。"
@@ -52741,9 +52952,9 @@
           "example": "華やかな舞台。"
         },
         {
-          "word": "しめやか",
+          "word": "湿やか",
           "kanji": "",
-          "furigana": "しめやか",
+          "furigana": "湿[しめ]やか",
           "type": "adjective",
           "meaning": "寂靜的、肅穆的",
           "example": "しめやかに葬儀が行われた。"
@@ -52805,41 +53016,41 @@
           "example": "いんちきな商売。"
         },
         {
-          "word": "にわか",
+          "word": "俄",
           "kanji": "",
-          "furigana": "にわか",
+          "furigana": "俄[にわか]",
           "type": "adjective",
           "meaning": "突然的、臨時的",
           "example": "にわか雨。"
         },
         {
-          "word": "めちゃくちゃ",
+          "word": "滅茶苦茶",
           "kanji": "",
-          "furigana": "めちゃくちゃ",
+          "furigana": "滅茶苦茶[めちゃくちゃ]",
           "type": "adjective",
           "meaning": "亂七八糟的",
           "example": "部屋がめちゃくちゃだ。"
         },
         {
-          "word": "ちぐはぐ",
+          "word": "鎮具破具",
           "kanji": "",
-          "furigana": "ちぐはぐ",
+          "furigana": "鎮具破具[ちぐはぐ]",
           "type": "adjective",
           "meaning": "不協調的、顛三倒四的",
           "example": "ちぐはぐな会話。"
         },
         {
-          "word": "ばらばら",
+          "word": "散々",
           "kanji": "",
-          "furigana": "ばらばら",
+          "furigana": "散々[ばらばら]",
           "type": "adjective",
           "meaning": "七零八落的",
           "example": "意見がばらばらだ。"
         },
         {
-          "word": "ぼろぼろ",
+          "word": "襤褸襤褸",
           "kanji": "",
-          "furigana": "ぼろぼろ",
+          "furigana": "襤褸襤褸[ぼろぼろ]",
           "type": "adjective",
           "meaning": "破破爛爛的",
           "example": "服がぼろぼろだ。"
@@ -52853,9 +53064,9 @@
           "example": "カバンの中がぐちゃぐちゃだ。"
         },
         {
-          "word": "しょっぱい",
+          "word": "塩っぱい",
           "kanji": "塩っぱい",
-          "furigana": "塩[しょ]っぱい",
+          "furigana": "塩[しょっ]ぱい",
           "type": "adjective",
           "meaning": "鹹的",
           "example": "しょっぱいスープ。"
@@ -52893,9 +53104,9 @@
           "example": "訝しい人物。"
         },
         {
-          "word": "あほらしい",
+          "word": "阿呆らしい",
           "kanji": "",
-          "furigana": "あほらしい",
+          "furigana": "阿呆[あほ]らしい",
           "type": "adjective",
           "meaning": "愚蠢的",
           "example": "あほらしい言い訳。"
@@ -52965,9 +53176,9 @@
           "example": "艶やかな姿。"
         },
         {
-          "word": "しがない",
+          "word": "賤ない",
           "kanji": "",
-          "furigana": "しがない",
+          "furigana": "賤[しが]ない",
           "type": "adjective",
           "meaning": "微賤的",
           "example": "しがないサラリーマン。"
@@ -52981,25 +53192,25 @@
           "example": "拙い字。"
         },
         {
-          "word": "かたじけない",
+          "word": "忝ない",
           "kanji": "",
-          "furigana": "かたじけない",
+          "furigana": "忝[かたじけ]ない",
           "type": "adjective",
           "meaning": "感激的",
           "example": "お言葉、かたじけない。"
         },
         {
-          "word": "やりきれない",
+          "word": "遣り切れない",
           "kanji": "",
-          "furigana": "やりきれない",
+          "furigana": "遣[や]り切[き]れない",
           "type": "adjective",
           "meaning": "受不了的",
           "example": "やりきれない気持ち。"
         },
         {
-          "word": "たまらない",
+          "word": "堪らない",
           "kanji": "",
-          "furigana": "たまらない",
+          "furigana": "堪[たま]らない",
           "type": "adjective",
           "meaning": "受不了的",
           "example": "暑くてたまらない。"
@@ -53085,17 +53296,17 @@
           "example": "ダサい服。"
         },
         {
-          "word": "うざい",
+          "word": "煩い",
           "kanji": "",
-          "furigana": "うざい",
+          "furigana": "煩[うざ]い",
           "type": "adjective",
           "meaning": "煩人的",
           "example": "あいつはうざい。"
         },
         {
-          "word": "きもい",
+          "word": "肝い",
           "kanji": "",
-          "furigana": "きもい",
+          "furigana": "肝[きも]い",
           "type": "adjective",
           "meaning": "噁心的",
           "example": "きもい虫。"
@@ -53514,9 +53725,9 @@
         },
         {
           "id": "pro_1782205852337_24",
-          "word": "どこ",
+          "word": "何処",
           "kanji": "どこ",
-          "furigana": "どこ",
+          "furigana": "何処[どこ]",
           "kana": "",
           "romaji": "",
           "type": "pronoun",
@@ -53574,9 +53785,9 @@
         },
         {
           "id": "pro_1782205852337_27",
-          "word": "いつ",
+          "word": "何時",
           "kanji": "いつ",
-          "furigana": "いつ",
+          "furigana": "何時[いつ]",
           "kana": "",
           "romaji": "",
           "type": "pronoun",
@@ -59055,9 +59266,9 @@
           ]
         },
         {
-          "word": "おもちゃ",
+          "word": "玩具",
           "reading": "おもちゃ",
-          "furigana": "おもちゃ",
+          "furigana": "玩具[おもちゃ]",
           "romaji": "omocha",
           "meaning": "玩具",
           "pos": "名詞",
@@ -59922,9 +60133,9 @@
           ]
         },
         {
-          "word": "ゴミ",
+          "word": "塵",
           "reading": "ごみ",
-          "furigana": "ゴミ",
+          "furigana": "塵[ごみ]",
           "romaji": "gomi",
           "meaning": "垃圾",
           "pos": "名詞",
@@ -60041,9 +60252,9 @@
           ]
         },
         {
-          "word": "うがい",
+          "word": "嗽",
           "reading": "うがい",
-          "furigana": "うがい",
+          "furigana": "嗽[うがい]",
           "romaji": "ugai",
           "meaning": "漱口",
           "pos": "名詞",
@@ -62574,9 +62785,9 @@
           ]
         },
         {
-          "word": "ウサギ",
+          "word": "兎",
           "reading": "うさぎ",
-          "furigana": "ウサギ",
+          "furigana": "兎[うさぎ]",
           "romaji": "usagi",
           "meaning": "兔子",
           "pos": "名詞",
@@ -68794,9 +69005,9 @@
           ]
         },
         {
-          "word": "くしゃみ",
+          "word": "嚏",
           "reading": "くしゃみ",
-          "furigana": "くしゃみ",
+          "furigana": "嚏[くしゃみ]",
           "romaji": "kushami",
           "meaning": "打噴嚏",
           "pos": "名詞",
@@ -70086,9 +70297,9 @@
           ]
         },
         {
-          "word": "おかず",
+          "word": "御菜",
           "reading": "おかず",
-          "furigana": "おかず",
+          "furigana": "御菜[おかず]",
           "romaji": "okazu",
           "meaning": "配菜、菜餚",
           "pos": "名詞",
@@ -74301,9 +74512,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_5",
-          "word": "そっくり",
+          "word": "其っ繰り",
           "kanji": "そっくり",
-          "furigana": "そっくり",
+          "furigana": "其[そ]っ繰[く]り",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74361,9 +74572,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_8",
-          "word": "びっくり",
+          "word": "吃驚",
           "kanji": "びっくり",
-          "furigana": "びっくり",
+          "furigana": "吃驚[びっくり]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74401,9 +74612,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_10",
-          "word": "ぎりぎり",
+          "word": "限界",
           "kanji": "ぎりぎり",
-          "furigana": "ぎりぎり",
+          "furigana": "限界[ぎりぎり]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74461,9 +74672,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_13",
-          "word": "イライラ",
+          "word": "苛苛",
           "kanji": "イライラ",
-          "furigana": "イライラ",
+          "furigana": "苛苛[いらいら]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74481,9 +74692,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_14",
-          "word": "めちゃくちゃ",
+          "word": "滅茶苦茶",
           "kanji": "めちゃくちゃ",
-          "furigana": "めちゃくちゃ",
+          "furigana": "滅茶苦茶[めちゃくちゃ]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74501,7 +74712,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_15",
-          "word": "まったく",
+          "word": "全く",
           "kanji": "全く",
           "furigana": "全[まった]く",
           "kana": "",
@@ -74521,7 +74732,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_16",
-          "word": "おそらく",
+          "word": "恐らく",
           "kanji": "恐らく",
           "furigana": "恐[おそ]らく",
           "kana": "",
@@ -74541,7 +74752,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_17",
-          "word": "やはり",
+          "word": "矢張り",
           "kanji": "矢張り",
           "furigana": "矢張[やは]り",
           "kana": "",
@@ -74561,7 +74772,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_18",
-          "word": "さすが",
+          "word": "流石",
           "kanji": "流石",
           "furigana": "流石[さすが]",
           "kana": "",
@@ -74581,9 +74792,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_19",
-          "word": "いちいち",
+          "word": "一々",
           "kanji": "一一",
-          "furigana": "一一[いちいち]",
+          "furigana": "一々[いちいち]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74601,9 +74812,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_20",
-          "word": "ついでに",
+          "word": "次第に",
           "kanji": "序でに",
-          "furigana": "序[つい]でに",
+          "furigana": "次第[ついで]に",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74621,7 +74832,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_21",
-          "word": "かえって",
+          "word": "却って",
           "kanji": "却って",
           "furigana": "却[かえ]って",
           "kana": "",
@@ -74641,9 +74852,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_22",
-          "word": "とにかく",
+          "word": "兎に角",
           "kanji": "兎に角",
-          "furigana": "兎に角[とにかく]",
+          "furigana": "兎[と]に角[かく]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74661,9 +74872,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_23",
-          "word": "にわかに",
+          "word": "俄に",
           "kanji": "俄かに",
-          "furigana": "俄[にわ]かに",
+          "furigana": "俄[にわか]に",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74681,7 +74892,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_24",
-          "word": "ふと",
+          "word": "不図",
           "kanji": "不図",
           "furigana": "不図[ふと]",
           "kana": "",
@@ -74701,7 +74912,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_25",
-          "word": "むしろ",
+          "word": "寧ろ",
           "kanji": "寧ろ",
           "furigana": "寧[むし]ろ",
           "kana": "",
@@ -74721,7 +74932,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_26",
-          "word": "ようやく",
+          "word": "漸く",
           "kanji": "漸く",
           "furigana": "漸[ようや]く",
           "kana": "",
@@ -74741,7 +74952,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_27",
-          "word": "おもわず",
+          "word": "思わず",
           "kanji": "思わず",
           "furigana": "思[おも]わず",
           "kana": "",
@@ -74761,7 +74972,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_28",
-          "word": "かならずしも",
+          "word": "必ずしも",
           "kanji": "必ずしも",
           "furigana": "必[かなら]ずしも",
           "kana": "",
@@ -74781,7 +74992,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_29",
-          "word": "しばしば",
+          "word": "屡々",
           "kanji": "屡々",
           "furigana": "屡々[しばしば]",
           "kana": "",
@@ -74801,7 +75012,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_30",
-          "word": "すなわち",
+          "word": "即ち",
           "kanji": "即ち",
           "furigana": "即[すなわ]ち",
           "kana": "",
@@ -74821,7 +75032,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_31",
-          "word": "せっかく",
+          "word": "折角",
           "kanji": "折角",
           "furigana": "折角[せっかく]",
           "kana": "",
@@ -74841,7 +75052,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_32",
-          "word": "たまたま",
+          "word": "偶々",
           "kanji": "偶々",
           "furigana": "偶々[たまたま]",
           "kana": "",
@@ -74861,7 +75072,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_33",
-          "word": "つねに",
+          "word": "常に",
           "kanji": "常に",
           "furigana": "常[つね]に",
           "kana": "",
@@ -74881,7 +75092,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_34",
-          "word": "とりあえず",
+          "word": "取り敢えず",
           "kanji": "取り敢えず",
           "furigana": "取[と]り敢[あ]えず",
           "kana": "",
@@ -74901,9 +75112,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_35",
-          "word": "はたして",
+          "word": "果たして",
           "kanji": "果たして",
-          "furigana": "果[は]たして",
+          "furigana": "果[はた]して",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -74921,7 +75132,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_36",
-          "word": "まさか",
+          "word": "真逆",
           "kanji": "真逆",
           "furigana": "真逆[まさか]",
           "kana": "",
@@ -74941,7 +75152,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_37",
-          "word": "もはや",
+          "word": "最早",
           "kanji": "最早",
           "furigana": "最早[もはや]",
           "kana": "",
@@ -74961,7 +75172,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_38",
-          "word": "やたら",
+          "word": "矢鱈",
           "kanji": "矢鱈",
           "furigana": "矢鱈[やたら]",
           "kana": "",
@@ -74981,7 +75192,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_39",
-          "word": "ろくに",
+          "word": "碌に",
           "kanji": "碌に",
           "furigana": "碌[ろく]に",
           "kana": "",
@@ -75001,9 +75212,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_40",
-          "word": "あえて",
+          "word": "敢えて",
           "kanji": "敢えて",
-          "furigana": "敢[あ]えて",
+          "furigana": "敢[あえ]て",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75021,7 +75232,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_41",
-          "word": "あらかじめ",
+          "word": "予め",
           "kanji": "予め",
           "furigana": "予[あらかじ]め",
           "kana": "",
@@ -75041,7 +75252,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_42",
-          "word": "いかにも",
+          "word": "如何にも",
           "kanji": "如何にも",
           "furigana": "如何[いか]にも",
           "kana": "",
@@ -75061,7 +75272,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_43",
-          "word": "いまだに",
+          "word": "未だに",
           "kanji": "未だに",
           "furigana": "未[いま]だに",
           "kana": "",
@@ -75081,7 +75292,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_44",
-          "word": "かつて",
+          "word": "嘗て",
           "kanji": "嘗て",
           "furigana": "嘗[かつ]て",
           "kana": "",
@@ -75101,7 +75312,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_45",
-          "word": "さぞ",
+          "word": "嘸",
           "kanji": "嘸",
           "furigana": "嘸[さぞ]",
           "kana": "",
@@ -75121,7 +75332,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_46",
-          "word": "じきに",
+          "word": "直に",
           "kanji": "直に",
           "furigana": "直[じき]に",
           "kana": "",
@@ -75141,9 +75352,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_47",
-          "word": "しょっちゅう",
+          "word": "初中",
           "kanji": "しょっちゅう",
-          "furigana": "しょっちゅう",
+          "furigana": "初中[しょっちゅう]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75161,7 +75372,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_48",
-          "word": "すでに",
+          "word": "既に",
           "kanji": "既に",
           "furigana": "既[すで]に",
           "kana": "",
@@ -75181,7 +75392,7 @@
         },
         {
           "id": "adv_bulk_1782201016972_49",
-          "word": "せいぜい",
+          "word": "精々",
           "kanji": "精々",
           "furigana": "精々[せいぜい]",
           "kana": "",
@@ -75201,7 +75412,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_0",
-          "word": "あいにく",
+          "word": "生憎",
           "kanji": "生憎",
           "furigana": "生憎[あいにく]",
           "kana": "",
@@ -75241,7 +75452,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_2",
-          "word": "いずれ",
+          "word": "何れ",
           "kanji": "何れ",
           "furigana": "何[いず]れ",
           "kana": "",
@@ -75281,7 +75492,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_4",
-          "word": "いっそう",
+          "word": "一層",
           "kanji": "一層",
           "furigana": "一層[いっそう]",
           "kana": "",
@@ -75301,7 +75512,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_5",
-          "word": "いったん",
+          "word": "一旦",
           "kanji": "一旦",
           "furigana": "一旦[いったん]",
           "kana": "",
@@ -75321,9 +75532,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_6",
-          "word": "いつのまにか",
+          "word": "何時の間にか",
           "kanji": "いつの間にか",
-          "furigana": "いつの間[ま]にか",
+          "furigana": "何時[いつ]のまにか",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75381,9 +75592,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_9",
-          "word": "かろうじて",
+          "word": "辛うじて",
           "kanji": "辛うじて",
-          "furigana": "辛[かろ]うじて",
+          "furigana": "辛[かろう]じて",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75461,9 +75672,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_13",
-          "word": "ぐずぐず",
+          "word": "愚図愚図",
           "kanji": "ぐずぐず",
-          "furigana": "ぐずぐず",
+          "furigana": "愚図愚図[ぐずぐず]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75521,9 +75732,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_16",
-          "word": "さっさと",
+          "word": "颯と",
           "kanji": "さっさと",
-          "furigana": "さっさと",
+          "furigana": "颯[さっさ]と",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75541,9 +75752,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_17",
-          "word": "さほど",
+          "word": "然程",
           "kanji": "さほど",
-          "furigana": "さほど",
+          "furigana": "然程[さほど]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75561,7 +75772,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_18",
-          "word": "さらに",
+          "word": "更に",
           "kanji": "更に",
           "furigana": "更[さら]に",
           "kana": "",
@@ -75601,7 +75812,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_20",
-          "word": "しだいに",
+          "word": "次第に",
           "kanji": "次第に",
           "furigana": "次第[しだい]に",
           "kana": "",
@@ -75621,7 +75832,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_21",
-          "word": "しばらく",
+          "word": "暫く",
           "kanji": "暫く",
           "furigana": "暫[しばら]く",
           "kana": "",
@@ -75661,9 +75872,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_23",
-          "word": "しみじみ",
+          "word": "染々",
           "kanji": "しみじみ",
-          "furigana": "しみじみ",
+          "furigana": "染々[しみじみ]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75681,7 +75892,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_24",
-          "word": "じょじょに",
+          "word": "徐々に",
           "kanji": "徐々に",
           "furigana": "徐々[じょじょ]に",
           "kana": "",
@@ -75721,9 +75932,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_26",
-          "word": "せめて",
+          "word": "迫めて",
           "kanji": "せめて",
-          "furigana": "せめて",
+          "furigana": "迫[せ]めて",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -75761,7 +75972,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_28",
-          "word": "たいして",
+          "word": "大して",
           "kanji": "大して",
           "furigana": "大[たい]して",
           "kana": "",
@@ -75781,7 +75992,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_29",
-          "word": "ただちに",
+          "word": "直ちに",
           "kanji": "直ちに",
           "furigana": "直[ただ]ちに",
           "kana": "",
@@ -75821,7 +76032,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_31",
-          "word": "たびたび",
+          "word": "度々",
           "kanji": "度々",
           "furigana": "度々[たびたび]",
           "kana": "",
@@ -75861,7 +76072,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_33",
-          "word": "つぎつぎ",
+          "word": "次々",
           "kanji": "次々",
           "furigana": "次々[つぎつぎ]",
           "kana": "",
@@ -75881,7 +76092,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_34",
-          "word": "つとめて",
+          "word": "努めて",
           "kanji": "努めて",
           "furigana": "努[つと]めて",
           "kana": "",
@@ -76081,9 +76292,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_44",
-          "word": "ひたすら",
+          "word": "只管",
           "kanji": "ひたすら",
-          "furigana": "ひたすら",
+          "furigana": "只管[ひたすら]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76101,7 +76312,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_45",
-          "word": "ひそかに",
+          "word": "密かに",
           "kanji": "密かに",
           "furigana": "密[ひそ]かに",
           "kana": "",
@@ -76121,9 +76332,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_46",
-          "word": "ひとまず",
+          "word": "一先ず",
           "kanji": "ひとまず",
-          "furigana": "ひとまず",
+          "furigana": "一先[ひとま]ず",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76181,7 +76392,7 @@
         },
         {
           "id": "adv_bulk2_1782204460650_49",
-          "word": "まっすぐ",
+          "word": "真っ直ぐ",
           "kanji": "真っ直ぐ",
           "furigana": "真[ま]っ直[す]ぐ",
           "kana": "",
@@ -76201,9 +76412,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_0",
-          "word": "あくまで",
+          "word": "飽くまで",
           "kanji": "飽くまで",
-          "furigana": "飽[あく]まで",
+          "furigana": "飽[あ]くまで",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76221,7 +76432,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_1",
-          "word": "あきらかに",
+          "word": "明らかに",
           "kanji": "明らかに",
           "furigana": "明[あき]らかに",
           "kana": "",
@@ -76241,7 +76452,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_2",
-          "word": "いちがいに",
+          "word": "一概に",
           "kanji": "一概に",
           "furigana": "一概[いちがい]に",
           "kana": "",
@@ -76261,7 +76472,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_3",
-          "word": "いやいや",
+          "word": "嫌々",
           "kanji": "嫌々",
           "furigana": "嫌々[いやいや]",
           "kana": "",
@@ -76301,7 +76512,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_5",
-          "word": "えんえんと",
+          "word": "延々と",
           "kanji": "延々と",
           "furigana": "延々[えんえん]と",
           "kana": "",
@@ -76321,7 +76532,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_6",
-          "word": "おおいに",
+          "word": "大いに",
           "kanji": "大いに",
           "furigana": "大[おお]いに",
           "kana": "",
@@ -76341,9 +76552,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_7",
-          "word": "かくして",
+          "word": "斯くして",
           "kanji": "かくして",
-          "furigana": "かくして",
+          "furigana": "斯[か]くして",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76381,9 +76592,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_9",
-          "word": "くどくど",
+          "word": "諄々",
           "kanji": "くどくど",
-          "furigana": "くどくど",
+          "furigana": "諄々[くどくど]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76421,7 +76632,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_11",
-          "word": "ごく",
+          "word": "極",
           "kanji": "極",
           "furigana": "極[ごく]",
           "kana": "",
@@ -76441,9 +76652,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_12",
-          "word": "こつこつ",
+          "word": "兀々",
           "kanji": "こつこつ",
-          "furigana": "こつこつ",
+          "furigana": "兀々[こつこつ]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76481,7 +76692,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_14",
-          "word": "じかに",
+          "word": "直に",
           "kanji": "直に",
           "furigana": "直[じか]に",
           "kana": "",
@@ -76501,7 +76712,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_15",
-          "word": "しきりに",
+          "word": "頻りに",
           "kanji": "頻りに",
           "furigana": "頻[しき]りに",
           "kana": "",
@@ -76521,9 +76732,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_16",
-          "word": "しとやかに",
+          "word": "淑やかに",
           "kanji": "しとやかに",
-          "furigana": "しとやかに",
+          "furigana": "淑[しと]やかに",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76561,7 +76772,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_18",
-          "word": "ぞくぞく",
+          "word": "続々",
           "kanji": "続々",
           "furigana": "続々[ぞくぞく]",
           "kana": "",
@@ -76621,9 +76832,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_21",
-          "word": "つくづく",
+          "word": "熟",
           "kanji": "つくづく",
-          "furigana": "つくづく",
+          "furigana": "熟[つくづく]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76641,7 +76852,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_22",
-          "word": "とうてい",
+          "word": "到底",
           "kanji": "到底",
           "furigana": "到底[とうてい]",
           "kana": "",
@@ -76661,7 +76872,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_23",
-          "word": "どうどうと",
+          "word": "堂々と",
           "kanji": "堂々と",
           "furigana": "堂々[どうどう]と",
           "kana": "",
@@ -76701,7 +76912,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_25",
-          "word": "なお",
+          "word": "尚",
           "kanji": "尚",
           "furigana": "尚[なお]",
           "kana": "",
@@ -76721,7 +76932,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_26",
-          "word": "なにしろ",
+          "word": "何しろ",
           "kanji": "何しろ",
           "furigana": "何[なに]しろ",
           "kana": "",
@@ -76741,7 +76952,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_27",
-          "word": "なんなりと",
+          "word": "何なりと",
           "kanji": "何なりと",
           "furigana": "何[なん]なりと",
           "kana": "",
@@ -76781,7 +76992,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_29",
-          "word": "のきなみ",
+          "word": "軒並み",
           "kanji": "軒並み",
           "furigana": "軒並[のきな]み",
           "kana": "",
@@ -76801,9 +77012,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_30",
-          "word": "のびのび",
+          "word": "伸び伸び",
           "kanji": "のびのび",
-          "furigana": "のびのび",
+          "furigana": "伸[の]び伸[の]び",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76841,9 +77052,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_32",
-          "word": "ひやひや",
+          "word": "冷や冷や",
           "kanji": "ひやひや",
-          "furigana": "ひやひや",
+          "furigana": "冷[ひ]や冷[ひ]や",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -76981,7 +77192,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_39",
-          "word": "まんざら",
+          "word": "満更",
           "kanji": "満更",
           "furigana": "満更[まんざら]",
           "kana": "",
@@ -77001,7 +77212,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_40",
-          "word": "みるみる",
+          "word": "見る見る",
           "kanji": "見る見る",
           "furigana": "見[み]る見[み]る",
           "kana": "",
@@ -77021,9 +77232,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_41",
-          "word": "もろに",
+          "word": "諸に",
           "kanji": "もろに",
-          "furigana": "もろに",
+          "furigana": "諸[もろ]に",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -77041,9 +77252,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_42",
-          "word": "やむをえず",
+          "word": "止むを得ず",
           "kanji": "已むを得ず",
-          "furigana": "已[や]むを得[え]ず",
+          "furigana": "止[や]むを得[え]ず",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -77081,7 +77292,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_44",
-          "word": "ゆうゆう",
+          "word": "悠々",
           "kanji": "悠々",
           "furigana": "悠々[ゆうゆう]",
           "kana": "",
@@ -77101,7 +77312,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_45",
-          "word": "よほど",
+          "word": "余程",
           "kanji": "余程",
           "furigana": "余程[よほど]",
           "kana": "",
@@ -77141,7 +77352,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_47",
-          "word": "あたかも",
+          "word": "宛も",
           "kanji": "宛も",
           "furigana": "宛[あたか]も",
           "kana": "",
@@ -77161,7 +77372,7 @@
         },
         {
           "id": "adv_bulk3_1782205661561_48",
-          "word": "しいて",
+          "word": "強いて",
           "kanji": "強いて",
           "furigana": "強[し]いて",
           "kana": "",
@@ -77181,9 +77392,9 @@
         },
         {
           "id": "adv_bulk3_1782205661561_49",
-          "word": "どうせ",
+          "word": "如何せ",
           "kanji": "どうせ",
-          "furigana": "どうせ",
+          "furigana": "如何[どう]せ",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -97418,8 +97629,8 @@
           ]
         },
         {
-          "word": "もたれる",
-          "furigana": "もたれる",
+          "word": "凭れる",
+          "furigana": "凭[もた]れる",
           "meaning": "靠著、倚靠",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -97472,8 +97683,8 @@
           ]
         },
         {
-          "word": "さする",
-          "furigana": "さする",
+          "word": "摩る",
+          "furigana": "摩[さす]る",
           "meaning": "撫摸、搓揉",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -97526,8 +97737,8 @@
           ]
         },
         {
-          "word": "むしる",
-          "furigana": "むしる",
+          "word": "毟る",
+          "furigana": "毟[むし]る",
           "meaning": "拔、揪",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -98039,8 +98250,8 @@
           ]
         },
         {
-          "word": "かじる",
-          "furigana": "かじる",
+          "word": "囓る",
+          "furigana": "囓[かじ]る",
           "meaning": "咬、啃、略知一二",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -98120,8 +98331,8 @@
           ]
         },
         {
-          "word": "いじる",
-          "furigana": "いじる",
+          "word": "弄る",
+          "furigana": "弄[いじ]る",
           "meaning": "擺弄、觸摸",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -98660,8 +98871,8 @@
           ]
         },
         {
-          "word": "こじらせる",
-          "furigana": "こじらせる",
+          "word": "拗らせる",
+          "furigana": "拗[こじ]らせる",
           "meaning": "使病情惡化、使複雜化",
           "verb_group": "第二類動詞",
           "transitivity": "他動詞",
@@ -98768,8 +98979,8 @@
           ]
         },
         {
-          "word": "むせぶ",
-          "furigana": "むせぶ",
+          "word": "咽ぶ",
+          "furigana": "咽[むせ]ぶ",
           "meaning": "哽咽、抽泣",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -98822,8 +99033,8 @@
           ]
         },
         {
-          "word": "むくむ",
-          "furigana": "むくむ",
+          "word": "浮腫む",
+          "furigana": "浮腫[むく]む",
           "meaning": "浮腫、水腫",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -99524,8 +99735,8 @@
           ]
         },
         {
-          "word": "ふやかす",
-          "furigana": "ふやかす",
+          "word": "脹かす",
+          "furigana": "脹[ふや]かす",
           "meaning": "泡軟",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -99551,8 +99762,8 @@
           ]
         },
         {
-          "word": "ふやける",
-          "furigana": "ふやける",
+          "word": "脹ける",
+          "furigana": "脹[ふや]ける",
           "meaning": "泡軟、發脹",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -99848,8 +100059,8 @@
           ]
         },
         {
-          "word": "まぶす",
-          "furigana": "まぶす",
+          "word": "塗す",
+          "furigana": "塗[まぶ]す",
           "meaning": "撒上、裹上",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -99983,8 +100194,8 @@
           ]
         },
         {
-          "word": "まとう",
-          "furigana": "まとう",
+          "word": "纏う",
+          "furigana": "纏[まと]う",
           "meaning": "纏繞、穿著",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -100064,8 +100275,8 @@
           ]
         },
         {
-          "word": "はだける",
-          "furigana": "はだける",
+          "word": "散ける",
+          "furigana": "散[はだ]ける",
           "meaning": "敞開、露出",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -100361,8 +100572,8 @@
           ]
         },
         {
-          "word": "よれる",
-          "furigana": "よれる",
+          "word": "縒れる",
+          "furigana": "縒[よ]れる",
           "meaning": "變形、起皺",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -100415,8 +100626,8 @@
           ]
         },
         {
-          "word": "ほころびる",
-          "furigana": "ほころびる",
+          "word": "綻びる",
+          "furigana": "綻[ほころ]びる",
           "meaning": "綻線、裂開",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -100604,8 +100815,8 @@
           ]
         },
         {
-          "word": "くつろぐ",
-          "furigana": "くつろぐ",
+          "word": "寛ぐ",
+          "furigana": "寛[くつろ]ぐ",
           "meaning": "放鬆、休息",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -100901,8 +101112,8 @@
           ]
         },
         {
-          "word": "しまう",
-          "furigana": "しまう",
+          "word": "仕舞う",
+          "furigana": "仕舞[しま]う",
           "meaning": "收起來",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -101225,8 +101436,8 @@
           ]
         },
         {
-          "word": "さまよう",
-          "furigana": "さまよう",
+          "word": "彷徨う",
+          "furigana": "彷徨[さまよ]う",
           "meaning": "徘徊、流浪",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -101603,8 +101814,8 @@
           ]
         },
         {
-          "word": "ほのめかす",
-          "furigana": "ほのめかす",
+          "word": "仄めかす",
+          "furigana": "仄[ほの]めかす",
           "meaning": "暗示、透露",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -101657,8 +101868,8 @@
           ]
         },
         {
-          "word": "なだめる",
-          "furigana": "なだめる",
+          "word": "宥める",
+          "furigana": "宥[なだ]める",
           "meaning": "安撫、勸解",
           "verb_group": "第二類動詞",
           "transitivity": "他動詞",
@@ -101684,8 +101895,8 @@
           ]
         },
         {
-          "word": "けなす",
-          "furigana": "けなす",
+          "word": "貶す",
+          "furigana": "貶[けな]す",
           "meaning": "貶低、說壞話",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -101711,8 +101922,8 @@
           ]
         },
         {
-          "word": "つぶやく",
-          "furigana": "つぶやく",
+          "word": "呟く",
+          "furigana": "呟[つぶや]く",
           "meaning": "嘟囔、喃喃自語",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -101954,8 +102165,8 @@
           ]
         },
         {
-          "word": "ささやく",
-          "furigana": "ささやく",
+          "word": "囁く",
+          "furigana": "囁[ささや]く",
           "meaning": "低聲私語、耳語",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -103979,8 +104190,8 @@
           ]
         },
         {
-          "word": "ぐずつく",
-          "furigana": "ぐずつく",
+          "word": "愚図つく",
+          "furigana": "愚図[ぐず]つく",
           "meaning": "陰晴不定、連綿陰雨",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -104141,8 +104352,8 @@
           ]
         },
         {
-          "word": "はびこる",
-          "furigana": "はびこる",
+          "word": "蔓延る",
+          "furigana": "蔓延[はびこ]る",
           "meaning": "蔓延、滋長",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -104276,8 +104487,8 @@
           ]
         },
         {
-          "word": "しなびる",
-          "furigana": "しなびる",
+          "word": "萎びる",
+          "furigana": "萎[しな]びる",
           "meaning": "枯萎、乾癟",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -104303,8 +104514,8 @@
           ]
         },
         {
-          "word": "しおれる",
-          "furigana": "しおれる",
+          "word": "萎れる",
+          "furigana": "萎[しお]れる",
           "meaning": "凋謝、枯萎",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -104330,8 +104541,8 @@
           ]
         },
         {
-          "word": "しなう",
-          "furigana": "しなう",
+          "word": "撓う",
+          "furigana": "撓[しな]う",
           "meaning": "彎曲、柔軟而有彈性",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -104681,8 +104892,8 @@
           ]
         },
         {
-          "word": "ゆがむ",
-          "furigana": "ゆがむ",
+          "word": "歪む",
+          "furigana": "歪[ゆが]む",
           "meaning": "歪曲、變形",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -104708,8 +104919,8 @@
           ]
         },
         {
-          "word": "たるむ",
-          "furigana": "たるむ",
+          "word": "弛む",
+          "furigana": "弛[たる]む",
           "meaning": "鬆弛、下垂",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -104762,8 +104973,8 @@
           ]
         },
         {
-          "word": "きしむ",
-          "furigana": "きしむ",
+          "word": "軋む",
+          "furigana": "軋[きし]む",
           "meaning": "發出嘎吱聲",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -104897,8 +105108,8 @@
           ]
         },
         {
-          "word": "ねじれる",
-          "furigana": "ねじれる",
+          "word": "捩れる",
+          "furigana": "捩[ねじ]れる",
           "meaning": "扭曲、絞轉",
           "verb_group": "第二類動詞",
           "transitivity": "自動詞",
@@ -104924,8 +105135,8 @@
           ]
         },
         {
-          "word": "しぼむ",
-          "furigana": "しぼむ",
+          "word": "萎む",
+          "furigana": "萎[しぼ]む",
           "meaning": "枯萎、癟掉",
           "verb_group": "第一類動詞",
           "transitivity": "自動詞",
@@ -105221,8 +105432,8 @@
           ]
         },
         {
-          "word": "はらむ",
-          "furigana": "はらむ",
+          "word": "孕む",
+          "furigana": "孕[はら]む",
           "meaning": "包含、懷有",
           "verb_group": "第一類動詞",
           "transitivity": "他動詞",
@@ -107675,7 +107886,7 @@
         },
         {
           "id": "m_1782207884069_2",
-          "word": "イライラ",
+          "word": "苛苛",
           "type": "mimetic",
           "pos": "擬態語",
           "category": "mim_emotion",
@@ -107685,7 +107896,8 @@
               "ja": "電車が遅れていて、イライラする。",
               "zh": "電車誤點了，覺得很煩躁。"
             }
-          ]
+          ],
+          "furigana": "苛苛[いらいら]"
         },
         {
           "id": "m_1782207884069_3",

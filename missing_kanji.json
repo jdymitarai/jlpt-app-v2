@@ -1,0 +1,2616 @@
+[
+  {
+    "id": "シャワー",
+    "chunk": "N5",
+    "word": "シャワー",
+    "meaning": "淋浴",
+    "pos": "名詞"
+  },
+  {
+    "id": "ミルク",
+    "chunk": "N5",
+    "word": "ミルク",
+    "meaning": "牛奶、配方奶",
+    "pos": "名詞"
+  },
+  {
+    "id": "おもちゃ",
+    "chunk": "N5",
+    "word": "おもちゃ",
+    "meaning": "玩具",
+    "pos": "名詞"
+  },
+  {
+    "id": "おじいさん",
+    "chunk": "N5",
+    "word": "おじいさん",
+    "meaning": "爺爺、老爺爺",
+    "pos": "名詞"
+  },
+  {
+    "id": "おばあさん",
+    "chunk": "N5",
+    "word": "おばあさん",
+    "meaning": "奶奶、老奶奶",
+    "pos": "名詞"
+  },
+  {
+    "id": "ハンカチ",
+    "chunk": "N5",
+    "word": "ハンカチ",
+    "meaning": "手帕",
+    "pos": "名詞"
+  },
+  {
+    "id": "ポケット",
+    "chunk": "N5",
+    "word": "ポケット",
+    "meaning": "口袋",
+    "pos": "名詞"
+  },
+  {
+    "id": "ボタン",
+    "chunk": "N5",
+    "word": "ボタン",
+    "meaning": "鈕扣、按鈕",
+    "pos": "名詞"
+  },
+  {
+    "id": "カレンダー",
+    "chunk": "N5",
+    "word": "カレンダー",
+    "meaning": "日曆、月曆",
+    "pos": "名詞"
+  },
+  {
+    "id": "プール",
+    "chunk": "N5",
+    "word": "プール",
+    "meaning": "游泳池",
+    "pos": "名詞"
+  },
+  {
+    "id": "テニス",
+    "chunk": "N5",
+    "word": "テニス",
+    "meaning": "網球",
+    "pos": "名詞"
+  },
+  {
+    "id": "うさぎ",
+    "chunk": "N5",
+    "word": "うさぎ",
+    "meaning": "兔子",
+    "pos": "名詞"
+  },
+  {
+    "id": "ネズミ",
+    "chunk": "N5",
+    "word": "ネズミ",
+    "meaning": "老鼠",
+    "pos": "名詞"
+  },
+  {
+    "id": "カエル",
+    "chunk": "N5",
+    "word": "カエル",
+    "meaning": "青蛙",
+    "pos": "名詞"
+  },
+  {
+    "id": "デパート",
+    "chunk": "N5",
+    "word": "デパート",
+    "meaning": "百貨公司",
+    "pos": "名詞"
+  },
+  {
+    "id": "スーパー",
+    "chunk": "N5",
+    "word": "スーパー",
+    "meaning": "超級市場",
+    "pos": "名詞"
+  },
+  {
+    "id": "クラス",
+    "chunk": "N5",
+    "word": "クラス",
+    "meaning": "班級",
+    "pos": "名詞"
+  },
+  {
+    "id": "マッチ",
+    "chunk": "N5",
+    "word": "マッチ",
+    "meaning": "火柴",
+    "pos": "名詞"
+  },
+  {
+    "id": "フィルム",
+    "chunk": "N5",
+    "word": "フィルム",
+    "meaning": "底片、膠捲",
+    "pos": "名詞"
+  },
+  {
+    "id": "ひらがな",
+    "chunk": "N5",
+    "word": "ひらがな",
+    "meaning": "平假名",
+    "pos": "名詞"
+  },
+  {
+    "id": "カタカナ",
+    "chunk": "N5",
+    "word": "カタカナ",
+    "meaning": "片假名",
+    "pos": "名詞"
+  },
+  {
+    "id": "たくさん",
+    "chunk": "N5",
+    "word": "たくさん",
+    "meaning": "很多",
+    "pos": "名詞"
+  },
+  {
+    "id": "キロ",
+    "chunk": "N5",
+    "word": "キロ",
+    "meaning": "公斤、公里",
+    "pos": "名詞"
+  },
+  {
+    "id": "グラム",
+    "chunk": "N5",
+    "word": "グラム",
+    "meaning": "公克",
+    "pos": "名詞"
+  },
+  {
+    "id": "メートル",
+    "chunk": "N5",
+    "word": "メートル",
+    "meaning": "公尺",
+    "pos": "名詞"
+  },
+  {
+    "id": "ページ",
+    "chunk": "N5",
+    "word": "ページ",
+    "meaning": "頁",
+    "pos": "名詞"
+  },
+  {
+    "id": "ゼロ",
+    "chunk": "N5",
+    "word": "ゼロ",
+    "meaning": "零",
+    "pos": "名詞"
+  },
+  {
+    "id": "v_n5_batch4_19",
+    "chunk": "N5",
+    "word": "コピーする",
+    "meaning": "影印",
+    "pos": "動詞"
+  },
+  {
+    "id": "v_n5_batch11_20",
+    "chunk": "N5",
+    "word": "いじめる",
+    "meaning": "欺負",
+    "pos": "動詞"
+  },
+  {
+    "id": "adj_n5_batch1_19",
+    "chunk": "N5",
+    "word": "いい",
+    "meaning": "好的",
+    "pos": "い形容詞"
+  },
+  {
+    "id": "n_n5_batch2_9",
+    "chunk": "N5",
+    "word": "バス",
+    "meaning": "公車、巴士",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch4_4",
+    "chunk": "N5",
+    "word": "ノート",
+    "meaning": "筆記本",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch4_6",
+    "chunk": "N5",
+    "word": "ボールペン",
+    "meaning": "原子筆",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch4_8",
+    "chunk": "N5",
+    "word": "テレビ",
+    "meaning": "電視",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch4_9",
+    "chunk": "N5",
+    "word": "ラジオ",
+    "meaning": "廣播",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch4_10",
+    "chunk": "N5",
+    "word": "カメラ",
+    "meaning": "相機",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch4_11",
+    "chunk": "N5",
+    "word": "パソコン",
+    "meaning": "電腦",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch7_16",
+    "chunk": "N5",
+    "word": "テスト",
+    "meaning": "考試、測驗",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch8_5",
+    "chunk": "N5",
+    "word": "ゴミ",
+    "meaning": "垃圾",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch8_13",
+    "chunk": "N5",
+    "word": "トイレ",
+    "meaning": "廁所",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch8_17",
+    "chunk": "N5",
+    "word": "ベッド",
+    "meaning": "床",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch8_20",
+    "chunk": "N5",
+    "word": "エレベーター",
+    "meaning": "電梯",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_10",
+    "chunk": "N5",
+    "word": "どこ",
+    "meaning": "哪裡",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_11",
+    "chunk": "N5",
+    "word": "いつ",
+    "meaning": "什麼時候",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_16",
+    "chunk": "N5",
+    "word": "レシート",
+    "meaning": "收據、發票",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_17",
+    "chunk": "N5",
+    "word": "カード",
+    "meaning": "卡片、信用卡",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_18",
+    "chunk": "N5",
+    "word": "パスポート",
+    "meaning": "護照",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_19",
+    "chunk": "N5",
+    "word": "ビザ",
+    "meaning": "簽證",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch9_20",
+    "chunk": "N5",
+    "word": "タクシー",
+    "meaning": "計程車",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch10_13",
+    "chunk": "N5",
+    "word": "アパート",
+    "meaning": "公寓",
+    "pos": "名詞"
+  },
+  {
+    "id": "n_n5_batch10_15",
+    "chunk": "N5",
+    "word": "うち",
+    "meaning": "家 (自己的)",
+    "pos": "名詞"
+  },
+  {
+    "id": "adj_n5_cron_b4_20",
+    "chunk": "N5",
+    "word": "うるさい",
+    "meaning": "吵鬧的、煩人的",
+    "pos": "い形容詞"
+  },
+  {
+    "id": "adj_n5_cron_b5_6",
+    "chunk": "N5",
+    "word": "だめ",
+    "meaning": "不行的、沒用的",
+    "pos": "な形容詞"
+  },
+  {
+    "id": "adj_n5_cron_b5_8",
+    "chunk": "N5",
+    "word": "かわいそう",
+    "meaning": "可憐的",
+    "pos": "な形容詞"
+  },
+  {
+    "id": "adv_manual_2",
+    "chunk": "N5",
+    "word": "ドキドキ",
+    "meaning": "心怦怦跳地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_manual_4",
+    "chunk": "N5",
+    "word": "こっそり",
+    "meaning": "偷偷地、悄悄地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adj_cron_107",
+    "chunk": "N5",
+    "word": "ひどい",
+    "meaning": "過分的、嚴重的",
+    "pos": "い形容詞"
+  },
+  {
+    "id": "adj_cron_143",
+    "chunk": "N5",
+    "word": "おかしい",
+    "meaning": "奇怪的、可笑的",
+    "pos": "い形容詞"
+  },
+  {
+    "id": "adj_cron_145",
+    "chunk": "N5",
+    "word": "ぬるい",
+    "meaning": "微溫的",
+    "pos": "い形容詞"
+  },
+  {
+    "id": "adj_cron_146",
+    "chunk": "N5",
+    "word": "まぶしい",
+    "meaning": "刺眼的、耀眼的",
+    "pos": "い形容詞"
+  },
+  {
+    "id": "noun_cron_018",
+    "chunk": "N5",
+    "word": "パン",
+    "meaning": "麵包",
+    "pos": "名詞"
+  },
+  {
+    "id": "adj_cron_005",
+    "chunk": "N5",
+    "word": "いい",
+    "meaning": "好的",
+    "pos": "形容詞"
+  },
+  {
+    "id": "adj_cron_015",
+    "chunk": "N5",
+    "word": "おいしい",
+    "meaning": "好吃的",
+    "pos": "形容詞"
+  },
+  {
+    "id": "noun_cron_031",
+    "chunk": "N5",
+    "word": "ドア",
+    "meaning": "門",
+    "pos": "名詞"
+  },
+  {
+    "id": "verb_cron_021",
+    "chunk": "N5",
+    "word": "あげる",
+    "meaning": "給",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_022",
+    "chunk": "N5",
+    "word": "もらう",
+    "meaning": "收到",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_023",
+    "chunk": "N5",
+    "word": "くれる",
+    "meaning": "給（我）",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_038",
+    "chunk": "N5",
+    "word": "かぶる",
+    "meaning": "戴（帽子等）",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_039",
+    "chunk": "N5",
+    "word": "かける",
+    "meaning": "戴（眼鏡）、掛、打（電話）",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_042",
+    "chunk": "N5",
+    "word": "つける",
+    "meaning": "打開（電源）、附加上去",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_050",
+    "chunk": "N5",
+    "word": "わかる",
+    "meaning": "明白、懂",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_051",
+    "chunk": "N5",
+    "word": "ある",
+    "meaning": "有（無生命）",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_052",
+    "chunk": "N5",
+    "word": "いる",
+    "meaning": "有、在（有生命）",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_053",
+    "chunk": "N5",
+    "word": "なる",
+    "meaning": "變成",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_054",
+    "chunk": "N5",
+    "word": "する",
+    "meaning": "做",
+    "pos": "動詞"
+  },
+  {
+    "id": "verb_cron_055",
+    "chunk": "N5",
+    "word": "できる",
+    "meaning": "能夠、完成",
+    "pos": "動詞"
+  },
+  {
+    "id": "adj_cron_057",
+    "chunk": "N5",
+    "word": "いろいろ",
+    "meaning": "各式各樣的",
+    "pos": "形容詞"
+  },
+  {
+    "id": "しぶとい",
+    "chunk": "N5",
+    "word": "しぶとい",
+    "meaning": "頑強的"
+  },
+  {
+    "id": "すばしっこい",
+    "chunk": "N5",
+    "word": "すばしっこい",
+    "meaning": "敏捷的"
+  },
+  {
+    "id": "たやすい",
+    "chunk": "N5",
+    "word": "たやすい",
+    "meaning": "容易的"
+  },
+  {
+    "id": "かすか",
+    "chunk": "N5",
+    "word": "かすか",
+    "meaning": "微弱的"
+  },
+  {
+    "id": "おびただしい",
+    "chunk": "N5",
+    "word": "おびただしい",
+    "meaning": "大量的"
+  },
+  {
+    "id": "ふさわしい",
+    "chunk": "N5",
+    "word": "ふさわしい",
+    "meaning": "適合的"
+  },
+  {
+    "id": "しつこい",
+    "chunk": "N5",
+    "word": "しつこい",
+    "meaning": "固執的、糾纏不休的"
+  },
+  {
+    "id": "とんでもない",
+    "chunk": "N5",
+    "word": "とんでもない",
+    "meaning": "出乎意料的、豈有此理的"
+  },
+  {
+    "id": "おっかない",
+    "chunk": "N5",
+    "word": "おっかない",
+    "meaning": "可怕的"
+  },
+  {
+    "id": "きつい",
+    "chunk": "N5",
+    "word": "きつい",
+    "meaning": "緊的、嚴厲的"
+  },
+  {
+    "id": "くすぐったい",
+    "chunk": "N5",
+    "word": "くすぐったい",
+    "meaning": "發癢的、難為情的"
+  },
+  {
+    "id": "くだらない",
+    "chunk": "N5",
+    "word": "くだらない",
+    "meaning": "無聊的、沒有價值的"
+  },
+  {
+    "id": "ずるい",
+    "chunk": "N5",
+    "word": "ずるい",
+    "meaning": "狡猾的"
+  },
+  {
+    "id": "かっこいい",
+    "chunk": "N5",
+    "word": "かっこいい",
+    "meaning": "帥氣的"
+  },
+  {
+    "id": "あやふや",
+    "chunk": "N5",
+    "word": "あやふや",
+    "meaning": "含糊的"
+  },
+  {
+    "id": "けたたましい",
+    "chunk": "N5",
+    "word": "けたたましい",
+    "meaning": "刺耳的、嘈雜的"
+  },
+  {
+    "id": "そそっかしい",
+    "chunk": "N5",
+    "word": "そそっかしい",
+    "meaning": "粗心大意的"
+  },
+  {
+    "id": "だらしない",
+    "chunk": "N5",
+    "word": "だらしない",
+    "meaning": "散漫的、不檢點的"
+  },
+  {
+    "id": "もどかしい",
+    "chunk": "N5",
+    "word": "もどかしい",
+    "meaning": "令人著急的"
+  },
+  {
+    "id": "さもしい",
+    "chunk": "N5",
+    "word": "さもしい",
+    "meaning": "卑鄙的"
+  },
+  {
+    "id": "まとも",
+    "chunk": "N5",
+    "word": "まとも",
+    "meaning": "正經的"
+  },
+  {
+    "id": "いじらしい",
+    "chunk": "N5",
+    "word": "いじらしい",
+    "meaning": "惹人憐愛的"
+  },
+  {
+    "id": "えげつない",
+    "chunk": "N5",
+    "word": "えげつない",
+    "meaning": "無情的、下流的"
+  },
+  {
+    "id": "おこがましい",
+    "chunk": "N5",
+    "word": "おこがましい",
+    "meaning": "狂妄的"
+  },
+  {
+    "id": "がめつい",
+    "chunk": "N5",
+    "word": "がめつい",
+    "meaning": "貪婪的"
+  },
+  {
+    "id": "けばけばしい",
+    "chunk": "N5",
+    "word": "けばけばしい",
+    "meaning": "花哨的"
+  },
+  {
+    "id": "しょうもない",
+    "chunk": "N5",
+    "word": "しょうもない",
+    "meaning": "無聊的、沒價值的"
+  },
+  {
+    "id": "とてつもない",
+    "chunk": "N5",
+    "word": "とてつもない",
+    "meaning": "荒唐的、不可思議的"
+  },
+  {
+    "id": "ばかでかい",
+    "chunk": "N5",
+    "word": "ばかでかい",
+    "meaning": "巨大的"
+  },
+  {
+    "id": "さみしい",
+    "chunk": "N5",
+    "word": "さみしい",
+    "meaning": "寂寞的"
+  },
+  {
+    "id": "はしたない",
+    "chunk": "N5",
+    "word": "はしたない",
+    "meaning": "不端莊的"
+  },
+  {
+    "id": "ぎこちない",
+    "chunk": "N5",
+    "word": "ぎこちない",
+    "meaning": "笨拙的"
+  },
+  {
+    "id": "さりげない",
+    "chunk": "N5",
+    "word": "さりげない",
+    "meaning": "若無其事的"
+  },
+  {
+    "id": "しなやか",
+    "chunk": "N5",
+    "word": "しなやか",
+    "meaning": "柔軟有彈性的"
+  },
+  {
+    "id": "こまめ",
+    "chunk": "N5",
+    "word": "こまめ",
+    "meaning": "勤快的"
+  },
+  {
+    "id": "まめ",
+    "chunk": "N5",
+    "word": "まめ",
+    "meaning": "勤奮的"
+  },
+  {
+    "id": "ぞんざい",
+    "chunk": "N5",
+    "word": "ぞんざい",
+    "meaning": "草率的、粗魯的"
+  },
+  {
+    "id": "ささやか",
+    "chunk": "N5",
+    "word": "ささやか",
+    "meaning": "微薄的、小規模的"
+  },
+  {
+    "id": "あくどい",
+    "chunk": "N5",
+    "word": "あくどい",
+    "meaning": "惡毒的、太過火的"
+  },
+  {
+    "id": "ごつい",
+    "chunk": "N5",
+    "word": "ごつい",
+    "meaning": "粗大的、粗魯的"
+  },
+  {
+    "id": "ちっこい",
+    "chunk": "N5",
+    "word": "ちっこい",
+    "meaning": "非常小的"
+  },
+  {
+    "id": "みすぼらしい",
+    "chunk": "N5",
+    "word": "みすぼらしい",
+    "meaning": "破舊的、寒酸的"
+  },
+  {
+    "id": "やばい",
+    "chunk": "N5",
+    "word": "やばい",
+    "meaning": "糟糕的、厲害的"
+  },
+  {
+    "id": "あどけない",
+    "chunk": "N5",
+    "word": "あどけない",
+    "meaning": "天真無邪的"
+  },
+  {
+    "id": "がさつ",
+    "chunk": "N5",
+    "word": "がさつ",
+    "meaning": "粗魯的"
+  },
+  {
+    "id": "もっともらしい",
+    "chunk": "N5",
+    "word": "もっともらしい",
+    "meaning": "冠冕堂皇的、似乎有理的"
+  },
+  {
+    "id": "けちくさい",
+    "chunk": "N5",
+    "word": "けちくさい",
+    "meaning": "小氣的"
+  },
+  {
+    "id": "しおらしい",
+    "chunk": "N5",
+    "word": "しおらしい",
+    "meaning": "溫順的、乖巧的"
+  },
+  {
+    "id": "のろい",
+    "chunk": "N5",
+    "word": "のろい",
+    "meaning": "緩慢的"
+  },
+  {
+    "id": "いかがわしい",
+    "chunk": "N5",
+    "word": "いかがわしい",
+    "meaning": "可疑的"
+  },
+  {
+    "id": "おぼろげ",
+    "chunk": "N5",
+    "word": "おぼろげ",
+    "meaning": "模糊的"
+  },
+  {
+    "id": "まろやか",
+    "chunk": "N5",
+    "word": "まろやか",
+    "meaning": "醇厚的、圓潤的"
+  },
+  {
+    "id": "くどい",
+    "chunk": "N5",
+    "word": "くどい",
+    "meaning": "囉嗦的、油膩的"
+  },
+  {
+    "id": "やましい",
+    "chunk": "N5",
+    "word": "やましい",
+    "meaning": "內疚的"
+  },
+  {
+    "id": "いかつい",
+    "chunk": "N5",
+    "word": "いかつい",
+    "meaning": "粗獷的、嚴厲的"
+  },
+  {
+    "id": "ひもじい",
+    "chunk": "N5",
+    "word": "ひもじい",
+    "meaning": "飢餓的"
+  },
+  {
+    "id": "でかい",
+    "chunk": "N5",
+    "word": "でかい",
+    "meaning": "巨大的"
+  },
+  {
+    "id": "なだらか",
+    "chunk": "N5",
+    "word": "なだらか",
+    "meaning": "平緩的"
+  },
+  {
+    "id": "ふてぶてしい",
+    "chunk": "N5",
+    "word": "ふてぶてしい",
+    "meaning": "厚顏無恥的、滿不在乎的"
+  },
+  {
+    "id": "うやむや",
+    "chunk": "N5",
+    "word": "うやむや",
+    "meaning": "含糊的"
+  },
+  {
+    "id": "しめやか",
+    "chunk": "N5",
+    "word": "しめやか",
+    "meaning": "寂靜的、肅穆的"
+  },
+  {
+    "id": "あべこべ",
+    "chunk": "N5",
+    "word": "あべこべ",
+    "meaning": "相反的、顛倒的"
+  },
+  {
+    "id": "いんちき",
+    "chunk": "N5",
+    "word": "いんちき",
+    "meaning": "騙人的、假冒的"
+  },
+  {
+    "id": "にわか",
+    "chunk": "N5",
+    "word": "にわか",
+    "meaning": "突然的、臨時的"
+  },
+  {
+    "id": "めちゃくちゃ",
+    "chunk": "N5",
+    "word": "めちゃくちゃ",
+    "meaning": "亂七八糟的"
+  },
+  {
+    "id": "ちぐはぐ",
+    "chunk": "N5",
+    "word": "ちぐはぐ",
+    "meaning": "不協調的、顛三倒四的"
+  },
+  {
+    "id": "ばらばら",
+    "chunk": "N5",
+    "word": "ばらばら",
+    "meaning": "七零八落的"
+  },
+  {
+    "id": "ぼろぼろ",
+    "chunk": "N5",
+    "word": "ぼろぼろ",
+    "meaning": "破破爛爛的"
+  },
+  {
+    "id": "ぐちゃぐちゃ",
+    "chunk": "N5",
+    "word": "ぐちゃぐちゃ",
+    "meaning": "軟塌塌的、亂七八糟的"
+  },
+  {
+    "id": "しょっぱい",
+    "chunk": "N5",
+    "word": "しょっぱい",
+    "meaning": "鹹的"
+  },
+  {
+    "id": "あほらしい",
+    "chunk": "N5",
+    "word": "あほらしい",
+    "meaning": "愚蠢的"
+  },
+  {
+    "id": "しがない",
+    "chunk": "N5",
+    "word": "しがない",
+    "meaning": "微賤的"
+  },
+  {
+    "id": "かたじけない",
+    "chunk": "N5",
+    "word": "かたじけない",
+    "meaning": "感激的"
+  },
+  {
+    "id": "やりきれない",
+    "chunk": "N5",
+    "word": "やりきれない",
+    "meaning": "受不了的"
+  },
+  {
+    "id": "たまらない",
+    "chunk": "N5",
+    "word": "たまらない",
+    "meaning": "受不了的"
+  },
+  {
+    "id": "どぎつい",
+    "chunk": "N5",
+    "word": "どぎつい",
+    "meaning": "刺眼的、刺耳的"
+  },
+  {
+    "id": "ダサい",
+    "chunk": "N5",
+    "word": "ダサい",
+    "meaning": "土氣的、俗氣的"
+  },
+  {
+    "id": "うざい",
+    "chunk": "N5",
+    "word": "うざい",
+    "meaning": "煩人的"
+  },
+  {
+    "id": "きもい",
+    "chunk": "N5",
+    "word": "きもい",
+    "meaning": "噁心的"
+  },
+  {
+    "id": "しょぼい",
+    "chunk": "N5",
+    "word": "しょぼい",
+    "meaning": "寒酸的、不起眼的"
+  },
+  {
+    "id": "しどけない",
+    "chunk": "N5",
+    "word": "しどけない",
+    "meaning": "衣冠不整的、懶散的"
+  },
+  {
+    "id": "ベッド",
+    "chunk": "N4",
+    "word": "ベッド",
+    "meaning": "病床、床",
+    "pos": "名詞"
+  },
+  {
+    "id": "ミルク",
+    "chunk": "N4",
+    "word": "ミルク",
+    "meaning": "牛奶、配方奶",
+    "pos": "名詞"
+  },
+  {
+    "id": "おもちゃ",
+    "chunk": "N4",
+    "word": "おもちゃ",
+    "meaning": "玩具",
+    "pos": "名詞"
+  },
+  {
+    "id": "ストレス",
+    "chunk": "N4",
+    "word": "ストレス",
+    "meaning": "壓力",
+    "pos": "名詞"
+  },
+  {
+    "id": "タオル",
+    "chunk": "N4",
+    "word": "タオル",
+    "meaning": "毛巾",
+    "pos": "名詞"
+  },
+  {
+    "id": "シャワー",
+    "chunk": "N4",
+    "word": "シャワー",
+    "meaning": "淋浴、蓮蓬頭",
+    "pos": "名詞"
+  },
+  {
+    "id": "ゴミ",
+    "chunk": "N4",
+    "word": "ゴミ",
+    "meaning": "垃圾",
+    "pos": "名詞"
+  },
+  {
+    "id": "マスク",
+    "chunk": "N4",
+    "word": "マスク",
+    "meaning": "口罩",
+    "pos": "名詞"
+  },
+  {
+    "id": "うがい",
+    "chunk": "N4",
+    "word": "うがい",
+    "meaning": "漱口",
+    "pos": "名詞"
+  },
+  {
+    "id": "ジャム",
+    "chunk": "N4",
+    "word": "ジャム",
+    "meaning": "果醬",
+    "pos": "名詞"
+  },
+  {
+    "id": "サラダ",
+    "chunk": "N4",
+    "word": "サラダ",
+    "meaning": "沙拉",
+    "pos": "名詞"
+  },
+  {
+    "id": "ステーキ",
+    "chunk": "N4",
+    "word": "ステーキ",
+    "meaning": "牛排",
+    "pos": "名詞"
+  },
+  {
+    "id": "ぶどう",
+    "chunk": "N4",
+    "word": "ぶどう",
+    "meaning": "葡萄",
+    "pos": "名詞"
+  },
+  {
+    "id": "アクセサリー",
+    "chunk": "N4",
+    "word": "アクセサリー",
+    "meaning": "飾品、配件",
+    "pos": "名詞"
+  },
+  {
+    "id": "サイズ",
+    "chunk": "N4",
+    "word": "サイズ",
+    "meaning": "尺寸",
+    "pos": "名詞"
+  },
+  {
+    "id": "ドレス",
+    "chunk": "N4",
+    "word": "ドレス",
+    "meaning": "洋裝、禮服",
+    "pos": "名詞"
+  },
+  {
+    "id": "マンション",
+    "chunk": "N4",
+    "word": "マンション",
+    "meaning": "公寓大樓",
+    "pos": "名詞"
+  },
+  {
+    "id": "カーテン",
+    "chunk": "N4",
+    "word": "カーテン",
+    "meaning": "窗簾",
+    "pos": "名詞"
+  },
+  {
+    "id": "クーラー",
+    "chunk": "N4",
+    "word": "クーラー",
+    "meaning": "冷氣機",
+    "pos": "名詞"
+  },
+  {
+    "id": "ガラス",
+    "chunk": "N4",
+    "word": "ガラス",
+    "meaning": "玻璃",
+    "pos": "名詞"
+  },
+  {
+    "id": "オートバイ",
+    "chunk": "N4",
+    "word": "オートバイ",
+    "meaning": "摩托車",
+    "pos": "名詞"
+  },
+  {
+    "id": "ガソリン",
+    "chunk": "N4",
+    "word": "ガソリン",
+    "meaning": "汽油",
+    "pos": "名詞"
+  },
+  {
+    "id": "ウサギ",
+    "chunk": "N4",
+    "word": "ウサギ",
+    "meaning": "兔子",
+    "pos": "名詞"
+  },
+  {
+    "id": "ペット",
+    "chunk": "N4",
+    "word": "ペット",
+    "meaning": "寵物",
+    "pos": "名詞"
+  },
+  {
+    "id": "レジ",
+    "chunk": "N4",
+    "word": "レジ",
+    "meaning": "收銀台",
+    "pos": "名詞"
+  },
+  {
+    "id": "ボーナス",
+    "chunk": "N4",
+    "word": "ボーナス",
+    "meaning": "獎金",
+    "pos": "名詞"
+  },
+  {
+    "id": "ウイルス",
+    "chunk": "N3",
+    "word": "ウイルス",
+    "meaning": "病毒",
+    "pos": "名詞"
+  },
+  {
+    "id": "くしゃみ",
+    "chunk": "N3",
+    "word": "くしゃみ",
+    "meaning": "打噴嚏",
+    "pos": "名詞"
+  },
+  {
+    "id": "アレルギー",
+    "chunk": "N3",
+    "word": "アレルギー",
+    "meaning": "過敏",
+    "pos": "名詞"
+  },
+  {
+    "id": "ストレス",
+    "chunk": "N3",
+    "word": "ストレス",
+    "meaning": "壓力",
+    "pos": "名詞"
+  },
+  {
+    "id": "おかず",
+    "chunk": "N3",
+    "word": "おかず",
+    "meaning": "配菜、菜餚",
+    "pos": "名詞"
+  },
+  {
+    "id": "デザート",
+    "chunk": "N3",
+    "word": "デザート",
+    "meaning": "甜點",
+    "pos": "名詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_0",
+    "chunk": "N3",
+    "word": "うっかり",
+    "meaning": "不小心地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_1",
+    "chunk": "N3",
+    "word": "がっかり",
+    "meaning": "失望地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_2",
+    "chunk": "N3",
+    "word": "ぐっすり",
+    "meaning": "熟睡地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_3",
+    "chunk": "N3",
+    "word": "さっぱり",
+    "meaning": "完全不、清爽",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_4",
+    "chunk": "N3",
+    "word": "すっきり",
+    "meaning": "清爽地、舒暢地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_5",
+    "chunk": "N3",
+    "word": "そっくり",
+    "meaning": "一模一樣",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_6",
+    "chunk": "N3",
+    "word": "にっこり",
+    "meaning": "微笑地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_7",
+    "chunk": "N3",
+    "word": "のんびり",
+    "meaning": "悠哉地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_8",
+    "chunk": "N3",
+    "word": "びっくり",
+    "meaning": "嚇一跳",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_9",
+    "chunk": "N3",
+    "word": "めっきり",
+    "meaning": "顯著地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_10",
+    "chunk": "N3",
+    "word": "ぎりぎり",
+    "meaning": "極限、勉強",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_11",
+    "chunk": "N3",
+    "word": "ぺらぺら",
+    "meaning": "流利地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_12",
+    "chunk": "N3",
+    "word": "わくわく",
+    "meaning": "興奮地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_13",
+    "chunk": "N3",
+    "word": "イライラ",
+    "meaning": "焦躁地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_14",
+    "chunk": "N3",
+    "word": "めちゃくちゃ",
+    "meaning": "亂七八糟",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_15",
+    "chunk": "N3",
+    "word": "まったく",
+    "meaning": "完全地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_16",
+    "chunk": "N3",
+    "word": "おそらく",
+    "meaning": "恐怕、大概",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_17",
+    "chunk": "N3",
+    "word": "やはり",
+    "meaning": "果然",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_18",
+    "chunk": "N3",
+    "word": "さすが",
+    "meaning": "不愧是",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_19",
+    "chunk": "N3",
+    "word": "いちいち",
+    "meaning": "逐一地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_20",
+    "chunk": "N3",
+    "word": "ついでに",
+    "meaning": "順便",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_21",
+    "chunk": "N3",
+    "word": "かえって",
+    "meaning": "反而",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_22",
+    "chunk": "N3",
+    "word": "とにかく",
+    "meaning": "總之",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_23",
+    "chunk": "N3",
+    "word": "にわかに",
+    "meaning": "突然地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_24",
+    "chunk": "N3",
+    "word": "ふと",
+    "meaning": "突然、偶然",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_25",
+    "chunk": "N3",
+    "word": "むしろ",
+    "meaning": "與其...不如...",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_26",
+    "chunk": "N3",
+    "word": "ようやく",
+    "meaning": "終於",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_27",
+    "chunk": "N3",
+    "word": "おもわず",
+    "meaning": "不由得",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_28",
+    "chunk": "N3",
+    "word": "かならずしも",
+    "meaning": "未必",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_29",
+    "chunk": "N3",
+    "word": "しばしば",
+    "meaning": "屢次",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_30",
+    "chunk": "N3",
+    "word": "すなわち",
+    "meaning": "也就是",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_31",
+    "chunk": "N3",
+    "word": "せっかく",
+    "meaning": "特地、難得",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_32",
+    "chunk": "N3",
+    "word": "たまたま",
+    "meaning": "偶然",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_33",
+    "chunk": "N3",
+    "word": "つねに",
+    "meaning": "總是",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_34",
+    "chunk": "N3",
+    "word": "とりあえず",
+    "meaning": "暫且",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_35",
+    "chunk": "N3",
+    "word": "はたして",
+    "meaning": "果真",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_36",
+    "chunk": "N3",
+    "word": "まさか",
+    "meaning": "怎麼可能",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_37",
+    "chunk": "N3",
+    "word": "もはや",
+    "meaning": "已經",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_38",
+    "chunk": "N3",
+    "word": "やたら",
+    "meaning": "胡亂地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_39",
+    "chunk": "N3",
+    "word": "ろくに",
+    "meaning": "沒能好好地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_40",
+    "chunk": "N3",
+    "word": "あえて",
+    "meaning": "硬是",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_41",
+    "chunk": "N3",
+    "word": "あらかじめ",
+    "meaning": "事先",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_42",
+    "chunk": "N3",
+    "word": "いかにも",
+    "meaning": "的確、簡直",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_43",
+    "chunk": "N3",
+    "word": "いまだに",
+    "meaning": "至今還",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_44",
+    "chunk": "N3",
+    "word": "かつて",
+    "meaning": "曾經",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_45",
+    "chunk": "N3",
+    "word": "さぞ",
+    "meaning": "想必",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_46",
+    "chunk": "N3",
+    "word": "じきに",
+    "meaning": "立刻",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_47",
+    "chunk": "N3",
+    "word": "しょっちゅう",
+    "meaning": "經常",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_48",
+    "chunk": "N3",
+    "word": "すでに",
+    "meaning": "已經",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk_1782201016972_49",
+    "chunk": "N3",
+    "word": "せいぜい",
+    "meaning": "充其量",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_0",
+    "chunk": "N3",
+    "word": "あいにく",
+    "meaning": "不巧地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_1",
+    "chunk": "N3",
+    "word": "あっさり",
+    "meaning": "清淡地、輕易地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_2",
+    "chunk": "N3",
+    "word": "いずれ",
+    "meaning": "遲早",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_3",
+    "chunk": "N3",
+    "word": "いっそ",
+    "meaning": "索性、乾脆",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_4",
+    "chunk": "N3",
+    "word": "いっそう",
+    "meaning": "更加",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_5",
+    "chunk": "N3",
+    "word": "いったん",
+    "meaning": "一旦",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_6",
+    "chunk": "N3",
+    "word": "いつのまにか",
+    "meaning": "不知不覺地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_7",
+    "chunk": "N3",
+    "word": "うろうろ",
+    "meaning": "徘徊地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_9",
+    "chunk": "N3",
+    "word": "かろうじて",
+    "meaning": "好不容易才",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_10",
+    "chunk": "N3",
+    "word": "がらりと",
+    "meaning": "完全改變地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_11",
+    "chunk": "N3",
+    "word": "きっぱり",
+    "meaning": "斷然地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_12",
+    "chunk": "N3",
+    "word": "ぎっしり",
+    "meaning": "擠得滿滿地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_13",
+    "chunk": "N3",
+    "word": "ぐずぐず",
+    "meaning": "磨蹭地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_14",
+    "chunk": "N3",
+    "word": "くっきり",
+    "meaning": "清晰地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_15",
+    "chunk": "N3",
+    "word": "ころころ",
+    "meaning": "滾動地、頻繁改變地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_16",
+    "chunk": "N3",
+    "word": "さっさと",
+    "meaning": "趕快地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_17",
+    "chunk": "N3",
+    "word": "さほど",
+    "meaning": "並不那麼（搭配否定）",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_18",
+    "chunk": "N3",
+    "word": "さらに",
+    "meaning": "更加",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_19",
+    "chunk": "N3",
+    "word": "しいんと",
+    "meaning": "靜悄悄地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_20",
+    "chunk": "N3",
+    "word": "しだいに",
+    "meaning": "逐漸地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_21",
+    "chunk": "N3",
+    "word": "しばらく",
+    "meaning": "暫時",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_22",
+    "chunk": "N3",
+    "word": "じっと",
+    "meaning": "凝視地、一動也不動地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_23",
+    "chunk": "N3",
+    "word": "しみじみ",
+    "meaning": "深切地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_24",
+    "chunk": "N3",
+    "word": "じょじょに",
+    "meaning": "徐徐地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_25",
+    "chunk": "N3",
+    "word": "ずらりと",
+    "meaning": "一字排開地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_26",
+    "chunk": "N3",
+    "word": "せめて",
+    "meaning": "至少",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_27",
+    "chunk": "N3",
+    "word": "そろそろ",
+    "meaning": "差不多該",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_28",
+    "chunk": "N3",
+    "word": "たいして",
+    "meaning": "並不怎麼（搭配否定）",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_29",
+    "chunk": "N3",
+    "word": "ただちに",
+    "meaning": "立刻",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_30",
+    "chunk": "N3",
+    "word": "たっぷり",
+    "meaning": "充分地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_31",
+    "chunk": "N3",
+    "word": "たびたび",
+    "meaning": "屢次",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_32",
+    "chunk": "N3",
+    "word": "ちらっと",
+    "meaning": "瞥見地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_33",
+    "chunk": "N3",
+    "word": "つぎつぎ",
+    "meaning": "接二連三地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_34",
+    "chunk": "N3",
+    "word": "つとめて",
+    "meaning": "盡量",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_35",
+    "chunk": "N3",
+    "word": "てっきり",
+    "meaning": "以為一定",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_36",
+    "chunk": "N3",
+    "word": "どうにか",
+    "meaning": "總算",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_37",
+    "chunk": "N3",
+    "word": "どうやら",
+    "meaning": "看來",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_38",
+    "chunk": "N3",
+    "word": "どっと",
+    "meaning": "一下子、突然",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_39",
+    "chunk": "N3",
+    "word": "にやにや",
+    "meaning": "嗤笑地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_40",
+    "chunk": "N3",
+    "word": "のろのろ",
+    "meaning": "遲緩地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_41",
+    "chunk": "N3",
+    "word": "はきはき",
+    "meaning": "爽快地、活潑地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_42",
+    "chunk": "N3",
+    "word": "ばったり",
+    "meaning": "突然遇見",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_43",
+    "chunk": "N3",
+    "word": "はらはら",
+    "meaning": "捏一把冷汗地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_44",
+    "chunk": "N3",
+    "word": "ひたすら",
+    "meaning": "只管、一味地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_45",
+    "chunk": "N3",
+    "word": "ひそかに",
+    "meaning": "秘密地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_46",
+    "chunk": "N3",
+    "word": "ひとまず",
+    "meaning": "暫且",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_47",
+    "chunk": "N3",
+    "word": "ぶらぶら",
+    "meaning": "溜達地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_48",
+    "chunk": "N3",
+    "word": "ぶるぶる",
+    "meaning": "發抖地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk2_1782204460650_49",
+    "chunk": "N3",
+    "word": "まっすぐ",
+    "meaning": "筆直地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_0",
+    "chunk": "N3",
+    "word": "あくまで",
+    "meaning": "到底、徹底地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_1",
+    "chunk": "N3",
+    "word": "あきらかに",
+    "meaning": "明顯地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_2",
+    "chunk": "N3",
+    "word": "いちがいに",
+    "meaning": "一概地、無差別地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_3",
+    "chunk": "N3",
+    "word": "いやいや",
+    "meaning": "不情願地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_4",
+    "chunk": "N3",
+    "word": "うとうと",
+    "meaning": "打瞌睡地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_5",
+    "chunk": "N3",
+    "word": "えんえんと",
+    "meaning": "沒完沒了地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_6",
+    "chunk": "N3",
+    "word": "おおいに",
+    "meaning": "大大地、非常",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_7",
+    "chunk": "N3",
+    "word": "かくして",
+    "meaning": "於是、就這樣",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_8",
+    "chunk": "N3",
+    "word": "きらきら",
+    "meaning": "閃閃發光地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_9",
+    "chunk": "N3",
+    "word": "くどくど",
+    "meaning": "囉嗦地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_10",
+    "chunk": "N3",
+    "word": "くたくた",
+    "meaning": "筋疲力盡地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_11",
+    "chunk": "N3",
+    "word": "ごく",
+    "meaning": "極其",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_12",
+    "chunk": "N3",
+    "word": "こつこつ",
+    "meaning": "孜孜不倦地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_13",
+    "chunk": "N3",
+    "word": "ざっと",
+    "meaning": "粗略地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_14",
+    "chunk": "N3",
+    "word": "じかに",
+    "meaning": "直接地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_15",
+    "chunk": "N3",
+    "word": "しきりに",
+    "meaning": "頻繁地、不斷地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_16",
+    "chunk": "N3",
+    "word": "しとやかに",
+    "meaning": "端莊地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_17",
+    "chunk": "N3",
+    "word": "すんなり",
+    "meaning": "順利地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_18",
+    "chunk": "N3",
+    "word": "ぞくぞく",
+    "meaning": "陸續地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_19",
+    "chunk": "N3",
+    "word": "だぶだぶ",
+    "meaning": "肥大地、寬大地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_20",
+    "chunk": "N3",
+    "word": "ちやほや",
+    "meaning": "溺愛、奉承",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_21",
+    "chunk": "N3",
+    "word": "つくづく",
+    "meaning": "深切地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_22",
+    "chunk": "N3",
+    "word": "とうてい",
+    "meaning": "到底、無論如何也",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_23",
+    "chunk": "N3",
+    "word": "どうどうと",
+    "meaning": "堂堂正正地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_24",
+    "chunk": "N3",
+    "word": "どきまぎ",
+    "meaning": "慌張、不知所措",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_25",
+    "chunk": "N3",
+    "word": "なお",
+    "meaning": "尚、還",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_26",
+    "chunk": "N3",
+    "word": "なにしろ",
+    "meaning": "總之、因為",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_27",
+    "chunk": "N3",
+    "word": "なんなりと",
+    "meaning": "無論什麼",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_28",
+    "chunk": "N3",
+    "word": "にこにこ",
+    "meaning": "笑咪咪地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_29",
+    "chunk": "N3",
+    "word": "のきなみ",
+    "meaning": "幾乎全部、一律",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_30",
+    "chunk": "N3",
+    "word": "のびのび",
+    "meaning": "無拘無束地、放鬆地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_31",
+    "chunk": "N3",
+    "word": "ぱんぱん",
+    "meaning": "鼓鼓的",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_32",
+    "chunk": "N3",
+    "word": "ひやひや",
+    "meaning": "心驚膽戰地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_33",
+    "chunk": "N3",
+    "word": "ぶつぶつ",
+    "meaning": "嘟噥地、發牢騷地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_34",
+    "chunk": "N3",
+    "word": "ふらふら",
+    "meaning": "搖晃地、蹣跚地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_35",
+    "chunk": "N3",
+    "word": "ぺこぺこ",
+    "meaning": "點頭哈腰、肚子極餓",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_36",
+    "chunk": "N3",
+    "word": "ほっと",
+    "meaning": "鬆了一口氣",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_37",
+    "chunk": "N3",
+    "word": "ぽろぽろ",
+    "meaning": "紛紛落下的樣子",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_38",
+    "chunk": "N3",
+    "word": "まじまじ",
+    "meaning": "目不轉睛地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_39",
+    "chunk": "N3",
+    "word": "まんざら",
+    "meaning": "未必、並不完全（接否定）",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_40",
+    "chunk": "N3",
+    "word": "みるみる",
+    "meaning": "眼看著",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_41",
+    "chunk": "N3",
+    "word": "もろに",
+    "meaning": "迎面、直接",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_42",
+    "chunk": "N3",
+    "word": "やむをえず",
+    "meaning": "不得已",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_43",
+    "chunk": "N3",
+    "word": "やれやれ",
+    "meaning": "哎呀、總算",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_44",
+    "chunk": "N3",
+    "word": "ゆうゆう",
+    "meaning": "悠然自得地",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_45",
+    "chunk": "N3",
+    "word": "よほど",
+    "meaning": "相當、很",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_46",
+    "chunk": "N3",
+    "word": "わんわん",
+    "meaning": "大哭聲",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_47",
+    "chunk": "N3",
+    "word": "あたかも",
+    "meaning": "簡直就像",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_48",
+    "chunk": "N3",
+    "word": "しいて",
+    "meaning": "硬要說的話、勉強",
+    "pos": "副詞"
+  },
+  {
+    "id": "adv_bulk3_1782205661561_49",
+    "chunk": "N3",
+    "word": "どうせ",
+    "meaning": "反正",
+    "pos": "副詞"
+  },
+  {
+    "id": "レントゲン",
+    "chunk": "N2",
+    "word": "レントゲン",
+    "meaning": "X光",
+    "pos": "名詞"
+  },
+  {
+    "id": "ビタミン",
+    "chunk": "N2",
+    "word": "ビタミン",
+    "meaning": "維他命、維生素",
+    "pos": "名詞"
+  },
+  {
+    "id": "ワクチン",
+    "chunk": "N2",
+    "word": "ワクチン",
+    "meaning": "疫苗",
+    "pos": "名詞"
+  },
+  {
+    "id": "ユーモア",
+    "chunk": "N2",
+    "word": "ユーモア",
+    "meaning": "幽默",
+    "pos": "名詞"
+  },
+  {
+    "id": "ダイヤ",
+    "chunk": "N2",
+    "word": "ダイヤ",
+    "meaning": "時刻表",
+    "pos": "名詞"
+  },
+  {
+    "id": "カウンセリング",
+    "chunk": "N1",
+    "word": "カウンセリング",
+    "meaning": "心理諮商",
+    "pos": "名詞"
+  },
+  {
+    "id": "ネットワーク",
+    "chunk": "N1",
+    "word": "ネットワーク",
+    "meaning": "網路、網絡",
+    "pos": "名詞"
+  },
+  {
+    "id": "コミュニティー",
+    "chunk": "N1",
+    "word": "コミュニティー",
+    "meaning": "社區、社群",
+    "pos": "名詞"
+  },
+  {
+    "id": "もたれる",
+    "chunk": "N1",
+    "word": "もたれる",
+    "meaning": "靠著、倚靠",
+    "pos": "動詞"
+  },
+  {
+    "id": "さする",
+    "chunk": "N1",
+    "word": "さする",
+    "meaning": "撫摸、搓揉",
+    "pos": "動詞"
+  },
+  {
+    "id": "むしる",
+    "chunk": "N1",
+    "word": "むしる",
+    "meaning": "拔、揪",
+    "pos": "動詞"
+  },
+  {
+    "id": "かじる",
+    "chunk": "N1",
+    "word": "かじる",
+    "meaning": "咬、啃、略知一二",
+    "pos": "動詞"
+  },
+  {
+    "id": "しゃぶる",
+    "chunk": "N1",
+    "word": "しゃぶる",
+    "meaning": "吸吮、含在嘴裡",
+    "pos": "動詞"
+  },
+  {
+    "id": "いじる",
+    "chunk": "N1",
+    "word": "いじる",
+    "meaning": "擺弄、觸摸",
+    "pos": "動詞"
+  },
+  {
+    "id": "こじらせる",
+    "chunk": "N1",
+    "word": "こじらせる",
+    "meaning": "使病情惡化、使複雜化",
+    "pos": "動詞"
+  },
+  {
+    "id": "むせぶ",
+    "chunk": "N1",
+    "word": "むせぶ",
+    "meaning": "哽咽、抽泣",
+    "pos": "動詞"
+  },
+  {
+    "id": "むくむ",
+    "chunk": "N1",
+    "word": "むくむ",
+    "meaning": "浮腫、水腫",
+    "pos": "動詞"
+  },
+  {
+    "id": "ふやかす",
+    "chunk": "N1",
+    "word": "ふやかす",
+    "meaning": "泡軟",
+    "pos": "動詞"
+  },
+  {
+    "id": "ふやける",
+    "chunk": "N1",
+    "word": "ふやける",
+    "meaning": "泡軟、發脹",
+    "pos": "動詞"
+  },
+  {
+    "id": "まぶす",
+    "chunk": "N1",
+    "word": "まぶす",
+    "meaning": "撒上、裹上",
+    "pos": "動詞"
+  },
+  {
+    "id": "まとう",
+    "chunk": "N1",
+    "word": "まとう",
+    "meaning": "纏繞、穿著",
+    "pos": "動詞"
+  },
+  {
+    "id": "はだける",
+    "chunk": "N1",
+    "word": "はだける",
+    "meaning": "敞開、露出",
+    "pos": "動詞"
+  },
+  {
+    "id": "よれる",
+    "chunk": "N1",
+    "word": "よれる",
+    "meaning": "變形、起皺",
+    "pos": "動詞"
+  },
+  {
+    "id": "ほころびる",
+    "chunk": "N1",
+    "word": "ほころびる",
+    "meaning": "綻線、裂開",
+    "pos": "動詞"
+  },
+  {
+    "id": "くつろぐ",
+    "chunk": "N1",
+    "word": "くつろぐ",
+    "meaning": "放鬆、休息",
+    "pos": "動詞"
+  },
+  {
+    "id": "しまう",
+    "chunk": "N1",
+    "word": "しまう",
+    "meaning": "收起來",
+    "pos": "動詞"
+  },
+  {
+    "id": "さまよう",
+    "chunk": "N1",
+    "word": "さまよう",
+    "meaning": "徘徊、流浪",
+    "pos": "動詞"
+  },
+  {
+    "id": "ぶらつく",
+    "chunk": "N1",
+    "word": "ぶらつく",
+    "meaning": "閒逛、溜達",
+    "pos": "動詞"
+  },
+  {
+    "id": "ぼやく",
+    "chunk": "N1",
+    "word": "ぼやく",
+    "meaning": "發牢騷、抱怨",
+    "pos": "動詞"
+  },
+  {
+    "id": "ほのめかす",
+    "chunk": "N1",
+    "word": "ほのめかす",
+    "meaning": "暗示、透露",
+    "pos": "動詞"
+  },
+  {
+    "id": "なだめる",
+    "chunk": "N1",
+    "word": "なだめる",
+    "meaning": "安撫、勸解",
+    "pos": "動詞"
+  },
+  {
+    "id": "けなす",
+    "chunk": "N1",
+    "word": "けなす",
+    "meaning": "貶低、說壞話",
+    "pos": "動詞"
+  },
+  {
+    "id": "つぶやく",
+    "chunk": "N1",
+    "word": "つぶやく",
+    "meaning": "嘟囔、喃喃自語",
+    "pos": "動詞"
+  },
+  {
+    "id": "ささやく",
+    "chunk": "N1",
+    "word": "ささやく",
+    "meaning": "低聲私語、耳語",
+    "pos": "動詞"
+  },
+  {
+    "id": "ぐずつく",
+    "chunk": "N1",
+    "word": "ぐずつく",
+    "meaning": "陰晴不定、連綿陰雨",
+    "pos": "動詞"
+  },
+  {
+    "id": "はびこる",
+    "chunk": "N1",
+    "word": "はびこる",
+    "meaning": "蔓延、滋長",
+    "pos": "動詞"
+  },
+  {
+    "id": "しなびる",
+    "chunk": "N1",
+    "word": "しなびる",
+    "meaning": "枯萎、乾癟",
+    "pos": "動詞"
+  },
+  {
+    "id": "しおれる",
+    "chunk": "N1",
+    "word": "しおれる",
+    "meaning": "凋謝、枯萎",
+    "pos": "動詞"
+  },
+  {
+    "id": "しなう",
+    "chunk": "N1",
+    "word": "しなう",
+    "meaning": "彎曲、柔軟而有彈性",
+    "pos": "動詞"
+  },
+  {
+    "id": "ゆがむ",
+    "chunk": "N1",
+    "word": "ゆがむ",
+    "meaning": "歪曲、變形",
+    "pos": "動詞"
+  },
+  {
+    "id": "たるむ",
+    "chunk": "N1",
+    "word": "たるむ",
+    "meaning": "鬆弛、下垂",
+    "pos": "動詞"
+  },
+  {
+    "id": "きしむ",
+    "chunk": "N1",
+    "word": "きしむ",
+    "meaning": "發出嘎吱聲",
+    "pos": "動詞"
+  },
+  {
+    "id": "ねじれる",
+    "chunk": "N1",
+    "word": "ねじれる",
+    "meaning": "扭曲、絞轉",
+    "pos": "動詞"
+  },
+  {
+    "id": "しぼむ",
+    "chunk": "N1",
+    "word": "しぼむ",
+    "meaning": "枯萎、癟掉",
+    "pos": "動詞"
+  },
+  {
+    "id": "ばらける",
+    "chunk": "N1",
+    "word": "ばらける",
+    "meaning": "散開、七零八落",
+    "pos": "動詞"
+  },
+  {
+    "id": "はらむ",
+    "chunk": "N1",
+    "word": "はらむ",
+    "meaning": "包含、懷有",
+    "pos": "動詞"
+  }
+]
