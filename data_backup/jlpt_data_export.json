@@ -812,6 +812,216 @@
         "kana": "かすか",
         "pos": "Na-adjective",
         "meaning": "微弱的、隱約的"
+      },
+      {
+        "jp": "あっさり",
+        "romaji": "assari",
+        "kana": "あっさり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "清淡地、輕易地"
+      },
+      {
+        "jp": "いらいら",
+        "romaji": "iraira",
+        "kana": "いらいら",
+        "pos": "Adverb, Suru verb",
+        "meaning": "焦躁、心煩意亂"
+      },
+      {
+        "jp": "うっかり",
+        "romaji": "ukkari",
+        "kana": "うっかり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "不留神、不小心"
+      },
+      {
+        "jp": "がっかり",
+        "romaji": "gakkari",
+        "kana": "がっかり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "失望、頹喪"
+      },
+      {
+        "jp": "きっちり",
+        "romaji": "kicchiri",
+        "kana": "きっちり",
+        "pos": "Adverb",
+        "meaning": "整整齊齊地、正好"
+      },
+      {
+        "jp": "ぎっしり",
+        "romaji": "gisshiri",
+        "kana": "ぎっしり",
+        "pos": "Adverb",
+        "meaning": "擠得滿滿地"
+      },
+      {
+        "jp": "こっそり",
+        "romaji": "kossori",
+        "kana": "こっそり",
+        "pos": "Adverb",
+        "meaning": "偷偷地、悄悄地"
+      },
+      {
+        "jp": "さっぱり",
+        "romaji": "sappari",
+        "kana": "さっぱり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "清爽、完全（不）"
+      },
+      {
+        "jp": "しっかり",
+        "romaji": "shikkari",
+        "kana": "しっかり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "牢固地、可靠地"
+      },
+      {
+        "jp": "すっきり",
+        "romaji": "sukkiri",
+        "kana": "すっきり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "舒暢、簡潔"
+      },
+      {
+        "jp": "そっくり",
+        "romaji": "sokkuri",
+        "kana": "そっくり",
+        "pos": "Adverb, Na-adjective",
+        "meaning": "一模一樣、全部"
+      },
+      {
+        "jp": "たっぷり",
+        "romaji": "tappuri",
+        "kana": "たっぷり",
+        "pos": "Adverb",
+        "meaning": "充足地、滿滿地"
+      },
+      {
+        "jp": "にっこり",
+        "romaji": "nikkori",
+        "kana": "にっこり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "微微一笑"
+      },
+      {
+        "jp": "のんびり",
+        "romaji": "nonbiri",
+        "kana": "のんびり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "悠閒地、無憂無慮地"
+      },
+      {
+        "jp": "ばったり",
+        "romaji": "battari",
+        "kana": "ばったり",
+        "pos": "Adverb",
+        "meaning": "突然相遇、突然倒下"
+      },
+      {
+        "jp": "ぴったり",
+        "romaji": "pittari",
+        "kana": "ぴったり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "恰好、緊緊地"
+      },
+      {
+        "jp": "めっきり",
+        "romaji": "mekkiri",
+        "kana": "めっきり",
+        "pos": "Adverb",
+        "meaning": "顯著地、急劇地"
+      },
+      {
+        "jp": "ゆっくり",
+        "romaji": "yukkuri",
+        "kana": "ゆっくり",
+        "pos": "Adverb, Suru verb",
+        "meaning": "慢慢地、好好地"
+      },
+      {
+        "jp": "わざわざ",
+        "romaji": "wazawaza",
+        "kana": "わざわざ",
+        "pos": "Adverb",
+        "meaning": "特地、大老遠"
+      },
+      {
+        "jp": "しみじみ",
+        "romaji": "shimijimi",
+        "kana": "しみじみ",
+        "pos": "Adverb",
+        "meaning": "深切地、仔細地"
+      },
+      {
+        "jp": "つくづく",
+        "romaji": "tsukuzuku",
+        "kana": "つくづく",
+        "pos": "Adverb",
+        "meaning": "深切地、痛切地"
+      },
+      {
+        "jp": "てっきり",
+        "romaji": "tekkiri",
+        "kana": "てっきり",
+        "pos": "Adverb",
+        "meaning": "一定是、還以為是"
+      },
+      {
+        "jp": "どっと",
+        "romaji": "dotto",
+        "kana": "どっと",
+        "pos": "Adverb",
+        "meaning": "一下子、哄堂（大笑）"
+      },
+      {
+        "jp": "はっと",
+        "romaji": "hatto",
+        "kana": "はっと",
+        "pos": "Adverb, Suru verb",
+        "meaning": "猛然、吃驚"
+      },
+      {
+        "jp": "ほっと",
+        "romaji": "hotto",
+        "kana": "ほっと",
+        "pos": "Adverb, Suru verb",
+        "meaning": "鬆了一口氣"
+      },
+      {
+        "jp": "ますます",
+        "romaji": "masumasu",
+        "kana": "ますます",
+        "pos": "Adverb",
+        "meaning": "越來越、更加"
+      },
+      {
+        "jp": "いよいよ",
+        "romaji": "iyoiyo",
+        "kana": "いよいよ",
+        "pos": "Adverb",
+        "meaning": "終於、越發"
+      },
+      {
+        "jp": "とうとう",
+        "romaji": "toutou",
+        "kana": "とうとう",
+        "pos": "Adverb",
+        "meaning": "終於、到底（用於結果）"
+      },
+      {
+        "jp": "ようやく",
+        "romaji": "youyaku",
+        "kana": "ようやく",
+        "pos": "Adverb",
+        "meaning": "好不容易、總算"
+      },
+      {
+        "jp": "せめて",
+        "romaji": "semete",
+        "kana": "せめて",
+        "pos": "Adverb",
+        "meaning": "至少、哪怕是"
       }
     ],
     "grammar": [
