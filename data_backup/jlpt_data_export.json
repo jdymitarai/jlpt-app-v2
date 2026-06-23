@@ -5012,6 +5012,216 @@
         "kana": "おりかえし",
         "pos": "Adverb",
         "meaning": "立刻、馬上（回電或回信）"
+      },
+      {
+        "jp": "暗中模索",
+        "romaji": "anchuumosaku",
+        "kana": "あんちゅうもさく",
+        "pos": "Noun",
+        "meaning": "暗中摸索、在黑暗中尋找方向"
+      },
+      {
+        "jp": "以心伝心",
+        "romaji": "ishindenshin",
+        "kana": "いしんでんしん",
+        "pos": "Noun",
+        "meaning": "以心傳心、心領神會"
+      },
+      {
+        "jp": "一攫千金",
+        "romaji": "ikkakusenkin",
+        "kana": "いっかくせんきん",
+        "pos": "Noun",
+        "meaning": "一攫千金、一夜暴富"
+      },
+      {
+        "jp": "一挙両得",
+        "romaji": "ikkyoryoutoku",
+        "kana": "いっきょりょうとく",
+        "pos": "Noun",
+        "meaning": "一舉兩得"
+      },
+      {
+        "jp": "一石二鳥",
+        "romaji": "issekinichou",
+        "kana": "いっせきにちょう",
+        "pos": "Noun",
+        "meaning": "一石二鳥"
+      },
+      {
+        "jp": "一朝一夕",
+        "romaji": "itchouisseki",
+        "kana": "いっちょういっせき",
+        "pos": "Noun",
+        "meaning": "一朝一夕、短時間內"
+      },
+      {
+        "jp": "右往左往",
+        "romaji": "uousaou",
+        "kana": "うおうさおう",
+        "pos": "Noun",
+        "meaning": "驚慌失措、四處逃竄"
+      },
+      {
+        "jp": "有象無象",
+        "romaji": "uzoumuzou",
+        "kana": "うぞうむぞう",
+        "pos": "Noun",
+        "meaning": "烏合之眾、各式各樣的人"
+      },
+      {
+        "jp": "温故知新",
+        "romaji": "onkochishin",
+        "kana": "おんこちしん",
+        "pos": "Noun",
+        "meaning": "溫故知新"
+      },
+      {
+        "jp": "我田引水",
+        "romaji": "gadeninsui",
+        "kana": "がでんいんすい",
+        "pos": "Noun",
+        "meaning": "自私自利（把水引到自己的田裡）"
+      },
+      {
+        "jp": "完全無欠",
+        "romaji": "kanzenmuketsu",
+        "kana": "かんぜんむけつ",
+        "pos": "Noun",
+        "meaning": "完美無缺"
+      },
+      {
+        "jp": "危機一髪",
+        "romaji": "kikiippatsu",
+        "kana": "ききいっぱつ",
+        "pos": "Noun",
+        "meaning": "千鈞一髮"
+      },
+      {
+        "jp": "起死回生",
+        "romaji": "kishikaisei",
+        "kana": "きしかいせい",
+        "pos": "Noun",
+        "meaning": "起死回生"
+      },
+      {
+        "jp": "喜怒哀楽",
+        "romaji": "kidoairaku",
+        "kana": "きどあいらく",
+        "pos": "Noun",
+        "meaning": "喜怒哀樂"
+      },
+      {
+        "jp": "急転直下",
+        "romaji": "kyuutenchokka",
+        "kana": "きゅうてんちょっか",
+        "pos": "Noun",
+        "meaning": "急轉直下（事態突然改變並解決）"
+      },
+      {
+        "jp": "玉石混交",
+        "romaji": "gyokusekikonkou",
+        "kana": "ぎょくせきこんこう",
+        "pos": "Noun",
+        "meaning": "玉石混雜（好的跟壞的混在一起）"
+      },
+      {
+        "jp": "空前絶後",
+        "romaji": "kuuzenzetsugo",
+        "kana": "くうぜんぜつご",
+        "pos": "Noun",
+        "meaning": "空前絕後"
+      },
+      {
+        "jp": "言語道断",
+        "romaji": "gongodoudan",
+        "kana": "ごんごどうだん",
+        "pos": "Noun",
+        "meaning": "荒謬透頂、豈有此理"
+      },
+      {
+        "jp": "試行錯誤",
+        "romaji": "shikousakugo",
+        "kana": "しこうさくご",
+        "pos": "Noun",
+        "meaning": "不斷摸索、反覆試驗"
+      },
+      {
+        "jp": "自業自得",
+        "romaji": "jigoujitoku",
+        "kana": "じごうじとく",
+        "pos": "Noun",
+        "meaning": "自作自受"
+      },
+      {
+        "jp": "十人十色",
+        "romaji": "juunintoiro",
+        "kana": "じゅうにんといろ",
+        "pos": "Noun",
+        "meaning": "十人十色、每個人都不一樣"
+      },
+      {
+        "jp": "絶体絶命",
+        "romaji": "zettaizetsumei",
+        "kana": "ぜったいぜつめい",
+        "pos": "Noun",
+        "meaning": "走投無路、窮途末路"
+      },
+      {
+        "jp": "千載一遇",
+        "romaji": "senzaiichiguu",
+        "kana": "せんざいいちぐう",
+        "pos": "Noun",
+        "meaning": "千載難逢"
+      },
+      {
+        "jp": "前代未聞",
+        "romaji": "zendaimimon",
+        "kana": "ぜんだいみもん",
+        "pos": "Noun",
+        "meaning": "前所未聞"
+      },
+      {
+        "jp": "大器晩成",
+        "romaji": "taikibansei",
+        "kana": "たいきばんせい",
+        "pos": "Noun",
+        "meaning": "大器晚成"
+      },
+      {
+        "jp": "適材適所",
+        "romaji": "tekizaitekisho",
+        "kana": "てきざいてきしょ",
+        "pos": "Noun",
+        "meaning": "適才適所、用人唯才"
+      },
+      {
+        "jp": "天衣無縫",
+        "romaji": "tennimuhou",
+        "kana": "てんいむほう",
+        "pos": "Noun",
+        "meaning": "天衣無縫、自然不造作"
+      },
+      {
+        "jp": "半信半疑",
+        "romaji": "hanshinhangi",
+        "kana": "はんしんはんぎ",
+        "pos": "Noun",
+        "meaning": "半信半疑"
+      },
+      {
+        "jp": "百発百中",
+        "romaji": "hyappatsuhyakuchuu",
+        "kana": "ひゃっぱつひゃくちゅう",
+        "pos": "Noun",
+        "meaning": "百發百中"
+      },
+      {
+        "jp": "本末転倒",
+        "romaji": "honmatsutentou",
+        "kana": "ほんまつてんとう",
+        "pos": "Noun",
+        "meaning": "本末倒置"
       }
     ],
     "grammar": [
