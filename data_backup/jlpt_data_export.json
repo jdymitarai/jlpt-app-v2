@@ -46941,7 +46941,7 @@
         },
         {
           "id": "adv_cron_037",
-          "word": "ゆっくり",
+          "word": "悠っくり",
           "reading": "ゆっくり",
           "meaning": "慢慢地、悠閒地",
           "pos": "副詞",
@@ -46957,14 +46957,14 @@
               "zh": "休假時在家裡悠閒地休息。"
             }
           ],
-          "furigana": "ゆっくり",
+          "furigana": "悠[ゆ]っくり",
           "kana": "",
           "kanji": "ゆっくり",
           "category": "adv_body_physio"
         },
         {
           "id": "adv_cron_040",
-          "word": "ますます",
+          "word": "益々",
           "reading": "ますます",
           "meaning": "越來越～",
           "pos": "副詞",
@@ -46980,7 +46980,7 @@
               "zh": "他變得越來越有精神了。"
             }
           ],
-          "furigana": "ますます",
+          "furigana": "益々[ますます]",
           "kana": "",
           "kanji": "ますます",
           "category": "adv_physical_change"
@@ -47033,7 +47033,7 @@
         },
         {
           "id": "adv_cron_045",
-          "word": "わざと",
+          "word": "態と",
           "reading": "わざと",
           "meaning": "故意地",
           "pos": "副詞",
@@ -47049,14 +47049,14 @@
               "zh": "他故意把玻璃杯摔了。"
             }
           ],
-          "furigana": "わざと",
+          "furigana": "態[わざ]と",
           "kana": "",
           "kanji": "わざと",
           "category": "adv_comm_attitude"
         },
         {
           "id": "adv_cron_046",
-          "word": "わざわざ",
+          "word": "態々",
           "reading": "わざわざ",
           "meaning": "特地",
           "pos": "副詞",
@@ -47072,14 +47072,14 @@
               "zh": "謝謝您特地跑來一趟。"
             }
           ],
-          "furigana": "わざわざ",
+          "furigana": "態々[わざわざ]",
           "kana": "",
           "kanji": "わざわざ",
           "category": "adv_comm_attitude"
         },
         {
           "id": "adv_cron_047",
-          "word": "たしか",
+          "word": "確か",
           "reading": "たしか",
           "meaning": "好像是、記得是",
           "pos": "副詞",
@@ -47095,14 +47095,14 @@
               "zh": "他的名字我記得是田中先生。"
             }
           ],
-          "furigana": "たしか",
+          "furigana": "確[たし]か",
           "kana": "",
           "kanji": "たしか",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_048",
-          "word": "たしかに",
+          "word": "確かに",
           "reading": "たしかに",
           "meaning": "確實、沒錯",
           "pos": "副詞",
@@ -47118,14 +47118,14 @@
               "zh": "確實，如同你所說的。"
             }
           ],
-          "furigana": "たしかに",
+          "furigana": "確[たし]かに",
           "kana": "",
           "kanji": "たしかに",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_049",
-          "word": "そのまま",
+          "word": "其の儘",
           "reading": "そのまま",
           "meaning": "就那樣、保持原狀",
           "pos": "副詞",
@@ -47141,7 +47141,7 @@
               "zh": "請不要穿著鞋子進房間（雖然這裡是名詞用法，但そのまま可直接修飾動作）。"
             }
           ],
-          "furigana": "そのまま",
+          "furigana": "其[そ]の儘[まま]",
           "kana": "",
           "kanji": "そのまま",
           "category": "adv_daily_action"
@@ -47171,7 +47171,7 @@
         },
         {
           "id": "adv_cron_056",
-          "word": "できるだけ",
+          "word": "出来る丈",
           "reading": "できるだけ",
           "meaning": "盡可能地",
           "pos": "副詞",
@@ -47187,14 +47187,14 @@
               "zh": "請盡可能算便宜一點。"
             }
           ],
-          "furigana": "できるだけ",
+          "furigana": "出来[でき]る丈[だけ]",
           "kana": "",
           "kanji": "できるだけ",
           "category": "adv_work_study"
         },
         {
           "id": "adv_cron_058",
-          "word": "およそ",
+          "word": "凡そ",
           "reading": "およそ",
           "meaning": "大約",
           "pos": "副詞",
@@ -47210,7 +47210,7 @@
               "zh": "大約聚集了一百人。"
             }
           ],
-          "furigana": "およそ",
+          "furigana": "凡[およ]そ",
           "kana": "",
           "kanji": "およそ",
           "category": "adv_degree_qty"
@@ -47286,7 +47286,7 @@
         },
         {
           "id": "adv_cron_066",
-          "word": "ほとんど",
+          "word": "殆ど",
           "reading": "ほとんど",
           "meaning": "幾乎",
           "pos": "副詞",
@@ -47302,14 +47302,14 @@
               "zh": "作業幾乎做完了。"
             }
           ],
-          "furigana": "ほとんど",
+          "furigana": "殆[ほとん]ど",
           "kana": "",
           "kanji": "ほとんど",
           "category": "adv_degree_qty"
         },
         {
           "id": "adv_cron_068",
-          "word": "かなり",
+          "word": "可也",
           "reading": "かなり",
           "meaning": "相當",
           "pos": "副詞",
@@ -47325,14 +47325,14 @@
               "zh": "這本書相當有趣。"
             }
           ],
-          "furigana": "かなり",
+          "furigana": "可也[かなり]",
           "kana": "",
           "kanji": "かなり",
           "category": "adv_degree_qty"
         },
         {
           "id": "adv_cron_069",
-          "word": "なかなか",
+          "word": "中々",
           "reading": "なかなか",
           "meaning": "相當（肯定）、怎麼也無法（否定）",
           "pos": "副詞",
@@ -47348,14 +47348,14 @@
               "zh": "公車怎麼都不來。"
             }
           ],
-          "furigana": "なかなか",
+          "furigana": "中々[なかなか]",
           "kana": "",
           "kanji": "なかなか",
           "category": "adv_degree_qty"
         },
         {
           "id": "adv_cron_070",
-          "word": "ちょうどいい",
+          "word": "丁度良い",
           "reading": "ちょうどいい",
           "meaning": "恰好、正合適",
           "pos": "副詞",
@@ -47371,7 +47371,7 @@
               "zh": "這個尺寸正合適。"
             }
           ],
-          "furigana": "ちょうどいい",
+          "furigana": "丁度[ちょうど]良[い]い",
           "kana": "",
           "kanji": "ちょうどいい",
           "category": "adv_subjective_grammar"
@@ -47401,7 +47401,7 @@
         },
         {
           "id": "adv_cron_073",
-          "word": "すぐに",
+          "word": "直ぐに",
           "reading": "すぐに",
           "meaning": "馬上",
           "pos": "副詞",
@@ -47417,14 +47417,14 @@
               "zh": "我馬上回來。"
             }
           ],
-          "furigana": "すぐに",
+          "furigana": "直[す]ぐに",
           "kana": "",
           "kanji": "すぐに",
           "category": "adv_daily_action"
         },
         {
           "id": "adv_cron_074",
-          "word": "これから",
+          "word": "此れから",
           "reading": "これから",
           "meaning": "從現在起、接下來",
           "pos": "副詞",
@@ -47440,14 +47440,14 @@
               "zh": "接下來要開始開會。"
             }
           ],
-          "furigana": "これから",
+          "furigana": "此[こ]れから",
           "kana": "",
           "kanji": "これから",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_075",
-          "word": "もうすぐ",
+          "word": "もう直ぐ",
           "reading": "もうすぐ",
           "meaning": "馬上、快要",
           "pos": "副詞",
@@ -47463,7 +47463,7 @@
               "zh": "春天快要來了。"
             }
           ],
-          "furigana": "もうすぐ",
+          "furigana": "もう直[す]ぐ",
           "kana": "",
           "kanji": "もうすぐ",
           "category": "adv_time_freq"
@@ -47516,7 +47516,7 @@
         },
         {
           "id": "adv_cron_078",
-          "word": "いつか",
+          "word": "何時か",
           "reading": "いつか",
           "meaning": "遲早、總有一天",
           "pos": "副詞",
@@ -47532,7 +47532,7 @@
               "zh": "總有一天想去日本。"
             }
           ],
-          "furigana": "いつか",
+          "furigana": "何時[いつ]か",
           "kana": "",
           "kanji": "いつか",
           "category": "adv_time_freq"
@@ -47654,7 +47654,7 @@
         },
         {
           "id": "adv_cron_084",
-          "word": "そのうち",
+          "word": "其の内",
           "reading": "そのうち",
           "meaning": "過不久、遲早",
           "pos": "副詞",
@@ -47670,14 +47670,14 @@
               "zh": "遲早會明白的吧。"
             }
           ],
-          "furigana": "そのうち",
+          "furigana": "其[そ]の内[うち]",
           "kana": "",
           "kanji": "そのうち",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_085",
-          "word": "やがて",
+          "word": "軈て",
           "reading": "やがて",
           "meaning": "不久、漸漸地",
           "pos": "副詞",
@@ -47693,14 +47693,14 @@
               "zh": "不久春天就要來了。"
             }
           ],
-          "furigana": "やがて",
+          "furigana": "軈[やが]て",
           "kana": "",
           "kanji": "やがて",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_086",
-          "word": "まず",
+          "word": "先ず",
           "reading": "まず",
           "meaning": "首先",
           "pos": "副詞",
@@ -47716,7 +47716,7 @@
               "zh": "首先，請洗手。"
             }
           ],
-          "furigana": "まず",
+          "furigana": "先[ま]ず",
           "kana": "",
           "kanji": "まず",
           "category": "adv_time_freq"
@@ -47746,7 +47746,7 @@
         },
         {
           "id": "adv_cron_088",
-          "word": "それから",
+          "word": "其れから",
           "reading": "それから",
           "meaning": "然後、接著",
           "pos": "副詞",
@@ -47762,7 +47762,7 @@
               "zh": "吃完飯，然後睡覺。"
             }
           ],
-          "furigana": "それから",
+          "furigana": "其[そ]れから",
           "kana": "",
           "kanji": "それから",
           "category": "adv_time_freq"
@@ -47815,7 +47815,7 @@
         },
         {
           "id": "adv_cron_091",
-          "word": "ぜひとも",
+          "word": "是非共",
           "reading": "ぜひとも",
           "meaning": "無論如何也、務必",
           "pos": "副詞",
@@ -47831,14 +47831,14 @@
               "zh": "無論如何都想參加。"
             }
           ],
-          "furigana": "ぜひとも",
+          "furigana": "是非共[ぜひとも]",
           "kana": "",
           "kanji": "ぜひとも",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_093",
-          "word": "たとえ",
+          "word": "例え",
           "reading": "たとえ",
           "meaning": "即使、就算",
           "pos": "副詞",
@@ -47854,14 +47854,14 @@
               "zh": "就算下雨我也要去。"
             }
           ],
-          "furigana": "たとえ",
+          "furigana": "例[たと]え",
           "kana": "",
           "kanji": "たとえ",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_095",
-          "word": "おかげで",
+          "word": "お蔭で",
           "reading": "おかげで",
           "meaning": "多虧、托福",
           "pos": "副詞",
@@ -47877,14 +47877,14 @@
               "zh": "多虧了老師我才及格了。"
             }
           ],
-          "furigana": "おかげで",
+          "furigana": "お蔭[かげ]で",
           "kana": "",
           "kanji": "おかげで",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_096",
-          "word": "せいで",
+          "word": "所為で",
           "reading": "せいで",
           "meaning": "都怪、因為",
           "pos": "副詞",
@@ -47900,14 +47900,14 @@
               "zh": "都怪下雨害我遲到了。"
             }
           ],
-          "furigana": "せいで",
+          "furigana": "所為[せい]で",
           "kana": "",
           "kanji": "せいで",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_097",
-          "word": "おかげさまで",
+          "word": "お蔭様で",
           "reading": "おかげさまで",
           "meaning": "托您的福",
           "pos": "副詞",
@@ -47923,14 +47923,14 @@
               "zh": "托您的福，我很好。"
             }
           ],
-          "furigana": "おかげさまで",
+          "furigana": "お蔭様[かげさま]で",
           "kana": "",
           "kanji": "おかげさまで",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_099",
-          "word": "つまり",
+          "word": "詰まり",
           "reading": "つまり",
           "meaning": "也就是說、換言之",
           "pos": "副詞",
@@ -47946,14 +47946,14 @@
               "zh": "明天是星期天，也就是說是假日。"
             }
           ],
-          "furigana": "つまり",
+          "furigana": "詰[つま]り",
           "kana": "",
           "kanji": "つまり",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_100",
-          "word": "しかし",
+          "word": "然し",
           "reading": "しかし",
           "meaning": "但是、可是",
           "pos": "副詞",
@@ -47969,14 +47969,14 @@
               "zh": "我想去。但是沒有時間。"
             }
           ],
-          "furigana": "しかし",
+          "furigana": "然[しか]し",
           "kana": "",
           "kanji": "しかし",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_101",
-          "word": "それでは",
+          "word": "其れでは",
           "reading": "それでは",
           "meaning": "那麼、既然如此",
           "pos": "副詞",
@@ -47992,7 +47992,7 @@
               "zh": "那麼，明天見。"
             }
           ],
-          "furigana": "それでは",
+          "furigana": "其[そ]れでは",
           "kana": "",
           "kanji": "それでは",
           "category": "adv_subjective_grammar"
@@ -48068,7 +48068,7 @@
         },
         {
           "id": "adv_cron_105",
-          "word": "すると",
+          "word": "然ると",
           "reading": "すると",
           "meaning": "於是、這麼一來",
           "pos": "副詞",
@@ -48084,14 +48084,14 @@
               "zh": "打開了窗戶。於是，鳥飛了進來。"
             }
           ],
-          "furigana": "すると",
+          "furigana": "然[す]ると",
           "kana": "",
           "kanji": "すると",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_106",
-          "word": "そこで",
+          "word": "其処で",
           "reading": "そこで",
           "meaning": "因此、於是",
           "pos": "副詞",
@@ -48107,14 +48107,14 @@
               "zh": "錢不夠了。因此跟朋友借了。"
             }
           ],
-          "furigana": "そこで",
+          "furigana": "其処[そこ]で",
           "kana": "",
           "kanji": "そこで",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_107",
-          "word": "あるいは",
+          "word": "或いは",
           "reading": "あるいは",
           "meaning": "或者、也許",
           "pos": "副詞",
@@ -48130,14 +48130,14 @@
               "zh": "也許他就是犯人。"
             }
           ],
-          "furigana": "あるいは",
+          "furigana": "或[ある]いは",
           "kana": "",
           "kanji": "あるいは",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_108",
-          "word": "または",
+          "word": "又は",
           "reading": "または",
           "meaning": "或者",
           "pos": "副詞",
@@ -48153,14 +48153,14 @@
               "zh": "請用英文或日文填寫。"
             }
           ],
-          "furigana": "または",
+          "furigana": "又[また]は",
           "kana": "",
           "kanji": "または",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_109",
-          "word": "それとも",
+          "word": "其れ共",
           "reading": "それとも",
           "meaning": "還是...",
           "pos": "副詞",
@@ -48176,14 +48176,14 @@
               "zh": "要喝咖啡？還是紅茶？"
             }
           ],
-          "furigana": "それとも",
+          "furigana": "其[そ]れ共[とも]",
           "kana": "",
           "kanji": "それとも",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_110",
-          "word": "ところで",
+          "word": "所で",
           "reading": "ところで",
           "meaning": "話說回來、對了",
           "pos": "副詞",
@@ -48199,14 +48199,14 @@
               "zh": "話說回來，明天的行程是？"
             }
           ],
-          "furigana": "ところで",
+          "furigana": "所[ところ]で",
           "kana": "",
           "kanji": "ところで",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_111",
-          "word": "なるほど",
+          "word": "成程",
           "reading": "なるほど",
           "meaning": "原來如此",
           "pos": "副詞",
@@ -48222,14 +48222,14 @@
               "zh": "原來如此，是這麼一回事啊。"
             }
           ],
-          "furigana": "なるほど",
+          "furigana": "成程[なるほど]",
           "kana": "",
           "kanji": "なるほど",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_112",
-          "word": "もしかしたら",
+          "word": "若しかしたら",
           "reading": "もしかしたら",
           "meaning": "說不定、或許",
           "pos": "副詞",
@@ -48245,14 +48245,14 @@
               "zh": "說不定會下雨。"
             }
           ],
-          "furigana": "もしかしたら",
+          "furigana": "若[も]しかしたら",
           "kana": "",
           "kanji": "もしかしたら",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_113",
-          "word": "もしかすると",
+          "word": "若しかすると",
           "reading": "もしかすると",
           "meaning": "說不定、也許",
           "pos": "副詞",
@@ -48268,14 +48268,14 @@
               "zh": "說不定他會來。"
             }
           ],
-          "furigana": "もしかすると",
+          "furigana": "若[も]しかすると",
           "kana": "",
           "kanji": "もしかすると",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_114",
-          "word": "まるで",
+          "word": "丸で",
           "reading": "まるで",
           "meaning": "簡直就像",
           "pos": "副詞",
@@ -48291,7 +48291,7 @@
               "zh": "簡直就像做夢一樣。"
             }
           ],
-          "furigana": "まるで",
+          "furigana": "丸[まる]で",
           "kana": "",
           "kanji": "まるで",
           "category": "adv_subjective_grammar"
@@ -48344,7 +48344,7 @@
         },
         {
           "id": "adv_cron_118",
-          "word": "なぜなら",
+          "word": "何故なら",
           "reading": "なぜなら",
           "meaning": "因為、原因是",
           "pos": "副詞",
@@ -48360,7 +48360,7 @@
               "zh": "我遲到了。原因是發生了車禍。"
             }
           ],
-          "furigana": "なぜなら",
+          "furigana": "何故[なぜ]なら",
           "kana": "",
           "kanji": "なぜなら",
           "category": "adv_subjective_grammar"
@@ -48773,7 +48773,7 @@
         },
         {
           "id": "adv_cron_121",
-          "word": "とうとう",
+          "word": "到頭",
           "reading": "とうとう",
           "meaning": "終於、到底",
           "pos": "副詞",
@@ -48789,14 +48789,14 @@
               "zh": "終於還是下雨了。"
             }
           ],
-          "furigana": "とうとう",
+          "furigana": "到頭[とうとう]",
           "kana": "",
           "kanji": "とうとう",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_122",
-          "word": "ついに",
+          "word": "遂に",
           "reading": "ついに",
           "meaning": "終於",
           "pos": "副詞",
@@ -48812,14 +48812,14 @@
               "zh": "終於及格了。"
             }
           ],
-          "furigana": "ついに",
+          "furigana": "遂[つい]に",
           "kana": "",
           "kanji": "ついに",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_123",
-          "word": "やっと",
+          "word": "漸と",
           "reading": "やっと",
           "meaning": "好不容易才...",
           "pos": "副詞",
@@ -48835,7 +48835,7 @@
               "zh": "好不容易才做完作業。"
             }
           ],
-          "furigana": "やっと",
+          "furigana": "漸[やっ]と",
           "kana": "",
           "kanji": "やっと",
           "category": "adv_time_freq"
@@ -48865,7 +48865,7 @@
         },
         {
           "id": "adv_cron_125",
-          "word": "しっかり",
+          "word": "確り",
           "reading": "しっかり",
           "meaning": "牢固地、可靠地",
           "pos": "副詞",
@@ -48881,14 +48881,14 @@
               "zh": "請抓緊。"
             }
           ],
-          "furigana": "しっかり",
+          "furigana": "確[しっか]り",
           "kana": "",
           "kanji": "しっかり",
           "category": "adv_work_study"
         },
         {
           "id": "adv_cron_126",
-          "word": "はっきり",
+          "word": "判然り",
           "reading": "はっきり",
           "meaning": "清楚地",
           "pos": "副詞",
@@ -48904,7 +48904,7 @@
               "zh": "可以清楚看見富士山。"
             }
           ],
-          "furigana": "はっきり",
+          "furigana": "判然[はっき]り",
           "kana": "",
           "kanji": "はっきり",
           "category": "adv_comm_attitude"
@@ -49003,7 +49003,7 @@
         },
         {
           "id": "adv_cron_131",
-          "word": "なるべく",
+          "word": "成る可く",
           "reading": "なるべく",
           "meaning": "盡量",
           "pos": "副詞",
@@ -49019,14 +49019,14 @@
               "zh": "我會盡快回覆。"
             }
           ],
-          "furigana": "なるべく",
+          "furigana": "成[な]る可[べ]く",
           "kana": "",
           "kanji": "なるべく",
           "category": "adv_work_study"
         },
         {
           "id": "adv_cron_132",
-          "word": "どうしても",
+          "word": "如何しても",
           "reading": "どうしても",
           "meaning": "無論如何也",
           "pos": "副詞",
@@ -49042,14 +49042,14 @@
               "zh": "無論如何都想去。"
             }
           ],
-          "furigana": "どうしても",
+          "furigana": "如何[どう]しても",
           "kana": "",
           "kanji": "どうしても",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_136",
-          "word": "たまに",
+          "word": "偶に",
           "reading": "たまに",
           "meaning": "偶爾",
           "pos": "副詞",
@@ -49065,14 +49065,14 @@
               "zh": "偶爾會去看電影。"
             }
           ],
-          "furigana": "たまに",
+          "furigana": "偶[たま]に",
           "kana": "",
           "kanji": "たまに",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_137",
-          "word": "めったに",
+          "word": "滅多に",
           "reading": "めったに",
           "meaning": "罕見地、幾乎不",
           "pos": "副詞",
@@ -49088,7 +49088,7 @@
               "zh": "我幾乎不喝酒。"
             }
           ],
-          "furigana": "めったに",
+          "furigana": "滅多[めった]に",
           "kana": "",
           "kanji": "めったに",
           "category": "adv_time_freq"
@@ -49118,7 +49118,7 @@
         },
         {
           "id": "adv_cron_139",
-          "word": "ちっとも",
+          "word": "些とも",
           "reading": "ちっとも",
           "meaning": "一點也不",
           "pos": "副詞",
@@ -49134,7 +49134,7 @@
               "zh": "一點也不冷。"
             }
           ],
-          "furigana": "ちっとも",
+          "furigana": "些[ちっ]とも",
           "kana": "",
           "kanji": "ちっとも",
           "category": "adv_degree_qty"
@@ -50606,7 +50606,7 @@
         },
         {
           "id": "adv_cron_141",
-          "word": "たいてい",
+          "word": "大抵",
           "reading": "たいてい",
           "meaning": "通常、大抵",
           "pos": "副詞",
@@ -50622,14 +50622,14 @@
               "zh": "早上通常吃麵包。"
             }
           ],
-          "furigana": "たいてい",
+          "furigana": "大抵[たいてい]",
           "kana": "",
           "kanji": "たいてい",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_142",
-          "word": "だんだん",
+          "word": "段々",
           "reading": "だんだん",
           "meaning": "漸漸地",
           "pos": "副詞",
@@ -50645,14 +50645,14 @@
               "zh": "漸漸變暖和了。"
             }
           ],
-          "furigana": "だんだん",
+          "furigana": "段々[だんだん]",
           "kana": "",
           "kanji": "だんだん",
           "category": "adv_physical_change"
         },
         {
           "id": "adv_cron_143",
-          "word": "どんどん",
+          "word": "駸々",
           "reading": "どんどん",
           "meaning": "不斷地、迅速地",
           "pos": "副詞",
@@ -50668,14 +50668,14 @@
               "zh": "繼續不斷前進吧。"
             }
           ],
-          "furigana": "どんどん",
+          "furigana": "駸々[どんどん]",
           "kana": "",
           "kanji": "どんどん",
           "category": "adv_physical_change"
         },
         {
           "id": "adv_cron_145",
-          "word": "たぶん",
+          "word": "多分",
           "reading": "たぶん",
           "meaning": "大概、也許",
           "pos": "副詞",
@@ -50691,14 +50691,14 @@
               "zh": "明天大概會下雨吧。"
             }
           ],
-          "furigana": "たぶん",
+          "furigana": "多分[たぶん]",
           "kana": "",
           "kanji": "たぶん",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_146",
-          "word": "きっと",
+          "word": "屹度",
           "reading": "きっと",
           "meaning": "一定會",
           "pos": "副詞",
@@ -50714,14 +50714,14 @@
               "zh": "他一定會來。"
             }
           ],
-          "furigana": "きっと",
+          "furigana": "屹度[きっと]",
           "kana": "",
           "kanji": "きっと",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_147",
-          "word": "ぜひ",
+          "word": "是非",
           "reading": "ぜひ",
           "meaning": "務必、一定",
           "pos": "副詞",
@@ -50737,14 +50737,14 @@
               "zh": "請務必來玩。"
             }
           ],
-          "furigana": "ぜひ",
+          "furigana": "是非[ぜひ]",
           "kana": "",
           "kanji": "ぜひ",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_148",
-          "word": "もし",
+          "word": "若し",
           "reading": "もし",
           "meaning": "如果",
           "pos": "副詞",
@@ -50760,14 +50760,14 @@
               "zh": "如果有的話，請幫忙。"
             }
           ],
-          "furigana": "もし",
+          "furigana": "若[も]し",
           "kana": "",
           "kanji": "もし",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_149",
-          "word": "いくら",
+          "word": "幾ら",
           "reading": "いくら",
           "meaning": "無論多麼",
           "pos": "副詞",
@@ -50783,14 +50783,14 @@
               "zh": "無論多便宜我都不買。"
             }
           ],
-          "furigana": "いくら",
+          "furigana": "幾[いく]ら",
           "kana": "",
           "kanji": "いくら",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_150",
-          "word": "もちろん",
+          "word": "勿論",
           "reading": "もちろん",
           "meaning": "當然",
           "pos": "副詞",
@@ -50806,7 +50806,7 @@
               "zh": "當然要去。"
             }
           ],
-          "furigana": "もちろん",
+          "furigana": "勿論[もちろん]",
           "kana": "",
           "kanji": "もちろん",
           "category": "adv_subjective_grammar"
@@ -50836,7 +50836,7 @@
         },
         {
           "id": "adv_cron_152",
-          "word": "ずいぶん",
+          "word": "随分",
           "reading": "ずいぶん",
           "meaning": "相當、非常",
           "pos": "副詞",
@@ -50852,7 +50852,7 @@
               "zh": "今天人真多啊。"
             }
           ],
-          "furigana": "ずいぶん",
+          "furigana": "随分[ずいぶん]",
           "kana": "",
           "kanji": "ずいぶん",
           "category": "adv_degree_qty"
@@ -50882,7 +50882,7 @@
         },
         {
           "id": "adv_cron_155",
-          "word": "あまり",
+          "word": "余り",
           "reading": "あまり",
           "meaning": "不太",
           "pos": "副詞",
@@ -50898,7 +50898,7 @@
               "zh": "不太好吃。"
             }
           ],
-          "furigana": "あまり",
+          "furigana": "余[あま]り",
           "kana": "",
           "kanji": "あまり",
           "category": "adv_degree_qty"
@@ -50928,7 +50928,7 @@
         },
         {
           "id": "adv_cron_157",
-          "word": "いつも",
+          "word": "何時も",
           "reading": "いつも",
           "meaning": "總是",
           "pos": "副詞",
@@ -50944,14 +50944,14 @@
               "zh": "總是喝咖啡。"
             }
           ],
-          "furigana": "いつも",
+          "furigana": "何時[いつ]も",
           "kana": "",
           "kanji": "いつも",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_158",
-          "word": "よく",
+          "word": "良く",
           "reading": "よく",
           "meaning": "經常、好好地",
           "pos": "副詞",
@@ -50967,7 +50967,7 @@
               "zh": "他經常看電影。"
             }
           ],
-          "furigana": "よく",
+          "furigana": "良[よ]く",
           "kana": "",
           "kanji": "よく",
           "category": "adv_time_freq"
@@ -52441,7 +52441,7 @@
         },
         {
           "id": "adv_cron_161",
-          "word": "ちょうど",
+          "word": "丁度",
           "reading": "ちょうど",
           "meaning": "正好",
           "pos": "副詞",
@@ -52457,14 +52457,14 @@
               "zh": "剛剛好。"
             }
           ],
-          "furigana": "ちょうど",
+          "furigana": "丁度[ちょうど]",
           "kana": "",
           "kanji": "ちょうど",
           "category": "adv_subjective_grammar"
         },
         {
           "id": "adv_cron_162",
-          "word": "もう",
+          "word": "最早",
           "reading": "もう",
           "meaning": "已經、再",
           "pos": "副詞",
@@ -52484,14 +52484,14 @@
               "zh": "請再給我一個。"
             }
           ],
-          "furigana": "もう",
+          "furigana": "最早[もう]",
           "kana": "",
           "kanji": "もう",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_163",
-          "word": "まだ",
+          "word": "未だ",
           "reading": "まだ",
           "meaning": "還（沒）",
           "pos": "副詞",
@@ -52507,14 +52507,14 @@
               "zh": "還沒結束。"
             }
           ],
-          "furigana": "まだ",
+          "furigana": "未[ま]だ",
           "kana": "",
           "kanji": "まだ",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_164",
-          "word": "すぐ",
+          "word": "直ぐ",
           "reading": "すぐ",
           "meaning": "馬上",
           "pos": "副詞",
@@ -52530,14 +52530,14 @@
               "zh": "馬上過去。"
             }
           ],
-          "furigana": "すぐ",
+          "furigana": "直[す]ぐ",
           "kana": "",
           "kanji": "すぐ",
           "category": "adv_daily_action"
         },
         {
           "id": "adv_cron_165",
-          "word": "さっき",
+          "word": "先き",
           "reading": "さっき",
           "meaning": "剛才",
           "pos": "副詞",
@@ -52553,14 +52553,14 @@
               "zh": "剛才來的。"
             }
           ],
-          "furigana": "さっき",
+          "furigana": "先[さっ]き",
           "kana": "",
           "kanji": "さっき",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_166",
-          "word": "あとで",
+          "word": "後で",
           "reading": "あとで",
           "meaning": "稍後",
           "pos": "副詞",
@@ -52576,14 +52576,14 @@
               "zh": "晚點打電話。"
             }
           ],
-          "furigana": "あとで",
+          "furigana": "後[あと]で",
           "kana": "",
           "kanji": "あとで",
           "category": "adv_time_freq"
         },
         {
           "id": "adv_cron_167",
-          "word": "また",
+          "word": "又",
           "reading": "また",
           "meaning": "又、再",
           "pos": "副詞",
@@ -52599,7 +52599,7 @@
               "zh": "再會。"
             }
           ],
-          "furigana": "また",
+          "furigana": "又[また]",
           "kana": "",
           "kanji": "また",
           "category": "adv_time_freq"
@@ -52675,7 +52675,7 @@
         },
         {
           "id": "adv_cron_171",
-          "word": "みんなで",
+          "word": "皆で",
           "reading": "みんなで",
           "meaning": "大家一起",
           "pos": "副詞",
@@ -52691,7 +52691,7 @@
               "zh": "大家一起唱歌吧。"
             }
           ],
-          "furigana": "みんなで",
+          "furigana": "皆[みんな]で",
           "kana": "",
           "kanji": "みんなで",
           "category": "adv_daily_action"
@@ -52721,7 +52721,7 @@
         },
         {
           "id": "adv_cron_173",
-          "word": "とても",
+          "word": "迚も",
           "reading": "とても",
           "meaning": "非常",
           "pos": "副詞",
@@ -52737,7 +52737,7 @@
               "zh": "非常開心。"
             }
           ],
-          "furigana": "とても",
+          "furigana": "迚[とて]も",
           "kana": "",
           "kanji": "とても",
           "category": "adv_degree_qty"
@@ -52790,7 +52790,7 @@
         },
         {
           "id": "adv_cron_176",
-          "word": "ちょっと",
+          "word": "一寸",
           "reading": "ちょっと",
           "meaning": "稍微、等一下",
           "pos": "副詞",
@@ -52806,7 +52806,7 @@
               "zh": "請等一下。"
             }
           ],
-          "furigana": "ちょっと",
+          "furigana": "一寸[ちょっと]",
           "kana": "",
           "kanji": "ちょっと",
           "category": "adv_degree_qty"
@@ -52859,7 +52859,7 @@
         },
         {
           "id": "adv_cron_179",
-          "word": "だいたい",
+          "word": "大体",
           "reading": "だいたい",
           "meaning": "大概、大部分",
           "pos": "副詞",
@@ -52875,7 +52875,7 @@
               "zh": "大概懂了。"
             }
           ],
-          "furigana": "だいたい",
+          "furigana": "大体[だいたい]",
           "kana": "",
           "kanji": "だいたい",
           "category": "adv_degree_qty"
@@ -80352,9 +80352,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_0",
-          "word": "うっかり",
+          "word": "漫り",
           "kanji": "うっかり",
-          "furigana": "うっかり",
+          "furigana": "漫[うっか]り",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -80392,9 +80392,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_2",
-          "word": "ぐっすり",
+          "word": "熟睡り",
           "kanji": "ぐっすり",
-          "furigana": "ぐっすり",
+          "furigana": "熟睡[ぐっす]り",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -80412,9 +80412,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_3",
-          "word": "さっぱり",
+          "word": "薩張",
           "kanji": "さっぱり",
-          "furigana": "さっぱり",
+          "furigana": "薩張[さっぱり]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -80472,9 +80472,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_6",
-          "word": "にっこり",
+          "word": "莞爾",
           "kanji": "にっこり",
-          "furigana": "にっこり",
+          "furigana": "莞爾[にっこり]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -80532,9 +80532,9 @@
         },
         {
           "id": "adv_bulk_1782201016972_9",
-          "word": "めっきり",
+          "word": "滅切り",
           "kanji": "めっきり",
-          "furigana": "めっきり",
+          "furigana": "滅切[めっき]り",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81372,9 +81372,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_1",
-          "word": "あっさり",
+          "word": "呆気さり",
           "kanji": "あっさり",
-          "furigana": "あっさり",
+          "furigana": "呆気[あっ]さり",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81412,9 +81412,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_3",
-          "word": "いっそ",
+          "word": "一層",
           "kanji": "いっそ",
-          "furigana": "いっそ",
+          "furigana": "一層[いっそ]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81572,9 +81572,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_11",
-          "word": "きっぱり",
+          "word": "斬っ張",
           "kanji": "きっぱり",
-          "furigana": "きっぱり",
+          "furigana": "斬[き]っ張[ぱり]",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81732,9 +81732,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_19",
-          "word": "しいんと",
+          "word": "悄然と",
           "kanji": "しいんと",
-          "furigana": "しいんと",
+          "furigana": "悄然[しいん]と",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81792,9 +81792,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_22",
-          "word": "じっと",
+          "word": "凝と",
           "kanji": "じっと",
-          "furigana": "じっと",
+          "furigana": "凝[じっ]と",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81952,9 +81952,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_30",
-          "word": "たっぷり",
+          "word": "堪り",
           "kanji": "たっぷり",
-          "furigana": "たっぷり",
+          "furigana": "堪[たっぷ]り",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -81992,9 +81992,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_32",
-          "word": "ちらっと",
+          "word": "散らっと",
           "kanji": "ちらっと",
-          "furigana": "ちらっと",
+          "furigana": "散[ち]らっと",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -82052,9 +82052,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_35",
-          "word": "てっきり",
+          "word": "的確り",
           "kanji": "てっきり",
-          "furigana": "てっきり",
+          "furigana": "的確[てっき]り",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -82072,9 +82072,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_36",
-          "word": "どうにか",
+          "word": "如何にか",
           "kanji": "どうにか",
-          "furigana": "どうにか",
+          "furigana": "如何[どう]にか",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -82092,9 +82092,9 @@
         },
         {
           "id": "adv_bulk2_1782204460650_37",
-          "word": "どうやら",
+          "word": "如何やら",
           "kanji": "どうやら",
-          "furigana": "どうやら",
+          "furigana": "如何[どう]やら",
           "kana": "",
           "romaji": "",
           "type": "adverb",
@@ -113915,7 +113915,7 @@
         },
         {
           "id": "m_1782207884069_8",
-          "word": "ぐっすり",
+          "word": "熟睡り",
           "type": "mimetic",
           "pos": "擬態語",
           "category": "mim_action",
@@ -113925,7 +113925,8 @@
               "ja": "昨日は疲れていたので、ぐっすり眠れた。",
               "zh": "昨天太累了，所以睡得很熟。"
             }
-          ]
+          ],
+          "furigana": "熟睡[ぐっす]り"
         },
         {
           "id": "m_1782207884069_9",
