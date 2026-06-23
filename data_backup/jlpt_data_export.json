@@ -3542,6 +3542,216 @@
         "kana": "よりかかる",
         "pos": "Verb (Compound)",
         "meaning": "倚靠、依賴"
+      },
+      {
+        "jp": "頭が下がる",
+        "romaji": "atamagasagaru",
+        "kana": "あたまがさがる",
+        "pos": "Idiom",
+        "meaning": "令人欽佩、甘拜下風"
+      },
+      {
+        "jp": "頭が痛い",
+        "romaji": "atamagaitai",
+        "kana": "あたまがいたい",
+        "pos": "Idiom",
+        "meaning": "傷腦筋、頭痛"
+      },
+      {
+        "jp": "頭に来る",
+        "romaji": "atamanikuru",
+        "kana": "あたまにくる",
+        "pos": "Idiom",
+        "meaning": "生氣、發火"
+      },
+      {
+        "jp": "顔が広い",
+        "romaji": "kaogahiroi",
+        "kana": "かおがひろい",
+        "pos": "Idiom",
+        "meaning": "交遊廣闊、人面廣"
+      },
+      {
+        "jp": "顔から火が出る",
+        "romaji": "kaokarahigaderu",
+        "kana": "かおからひがでる",
+        "pos": "Idiom",
+        "meaning": "羞紅了臉、羞愧萬分"
+      },
+      {
+        "jp": "顔を出す",
+        "romaji": "kaowodasu",
+        "kana": "かおをだす",
+        "pos": "Idiom",
+        "meaning": "露面、出席"
+      },
+      {
+        "jp": "目が無い",
+        "romaji": "meganai",
+        "kana": "めがない",
+        "pos": "Idiom",
+        "meaning": "非常喜歡、著迷"
+      },
+      {
+        "jp": "目が回る",
+        "romaji": "megamawaru",
+        "kana": "めがまわる",
+        "pos": "Idiom",
+        "meaning": "非常忙碌、頭暈目眩"
+      },
+      {
+        "jp": "目に浮かぶ",
+        "romaji": "meniukabu",
+        "kana": "めにうかぶ",
+        "pos": "Idiom",
+        "meaning": "浮現在眼前"
+      },
+      {
+        "jp": "耳が痛い",
+        "romaji": "mimigaitai",
+        "kana": "みみがいたい",
+        "pos": "Idiom",
+        "meaning": "刺耳、被說中痛處"
+      },
+      {
+        "jp": "耳にたこができる",
+        "romaji": "miminitakogadekiru",
+        "kana": "みみにたこができる",
+        "pos": "Idiom",
+        "meaning": "耳朵長繭（聽得不耐煩）"
+      },
+      {
+        "jp": "耳を疑う",
+        "romaji": "mimiwoutagau",
+        "kana": "みみをうたがう",
+        "pos": "Idiom",
+        "meaning": "不敢相信自己的耳朵"
+      },
+      {
+        "jp": "口が堅い",
+        "romaji": "kuchigakatai",
+        "kana": "くちがかたい",
+        "pos": "Idiom",
+        "meaning": "口風緊、保守秘密"
+      },
+      {
+        "jp": "口が軽い",
+        "romaji": "kuchigakarui",
+        "kana": "くちがかるい",
+        "pos": "Idiom",
+        "meaning": "口風不緊、大嘴巴"
+      },
+      {
+        "jp": "口を出す",
+        "romaji": "kuchiwodasu",
+        "kana": "くちをだす",
+        "pos": "Idiom",
+        "meaning": "插嘴、干涉"
+      },
+      {
+        "jp": "鼻が高い",
+        "romaji": "hanagatakai",
+        "kana": "はながたかい",
+        "pos": "Idiom",
+        "meaning": "得意、自豪"
+      },
+      {
+        "jp": "肩を落とす",
+        "romaji": "katawootosu",
+        "kana": "かたをおとす",
+        "pos": "Idiom",
+        "meaning": "垂頭喪氣"
+      },
+      {
+        "jp": "肩を持つ",
+        "romaji": "katawomotsu",
+        "kana": "かたをもつ",
+        "pos": "Idiom",
+        "meaning": "偏袒、支持"
+      },
+      {
+        "jp": "胸が痛む",
+        "romaji": "munegaitamu",
+        "kana": "むねがいたむ",
+        "pos": "Idiom",
+        "meaning": "心痛、痛心"
+      },
+      {
+        "jp": "胸を打つ",
+        "romaji": "munewoutsu",
+        "kana": "むねをうつ",
+        "pos": "Idiom",
+        "meaning": "深受感動、打動人心"
+      },
+      {
+        "jp": "腹が立つ",
+        "romaji": "haragatatsu",
+        "kana": "はらがたつ",
+        "pos": "Idiom",
+        "meaning": "生氣、發怒"
+      },
+      {
+        "jp": "腹を割る",
+        "romaji": "harawowaru",
+        "kana": "はらをわる",
+        "pos": "Idiom",
+        "meaning": "推心置腹、坦誠相見"
+      },
+      {
+        "jp": "腰が重い",
+        "romaji": "koshigaomoi",
+        "kana": "こしがおもい",
+        "pos": "Idiom",
+        "meaning": "懶得動、行動遲緩"
+      },
+      {
+        "jp": "手が空く",
+        "romaji": "tegaaku",
+        "kana": "てがあく",
+        "pos": "Idiom",
+        "meaning": "有空、閒下來"
+      },
+      {
+        "jp": "手がかかる",
+        "romaji": "tegakakaru",
+        "kana": "てがかかる",
+        "pos": "Idiom",
+        "meaning": "費事、麻煩"
+      },
+      {
+        "jp": "手を抜く",
+        "romaji": "tewonuku",
+        "kana": "てをぬく",
+        "pos": "Idiom",
+        "meaning": "偷工減料、敷衍了事"
+      },
+      {
+        "jp": "足が棒になる",
+        "romaji": "ashigabouninaru",
+        "kana": "あしがぼうになる",
+        "pos": "Idiom",
+        "meaning": "腿酸得像木棍（非常疲累）"
+      },
+      {
+        "jp": "足を引っ張る",
+        "romaji": "ashiwohipparu",
+        "kana": "あしをひっぱる",
+        "pos": "Idiom",
+        "meaning": "扯後腿"
+      },
+      {
+        "jp": "首を長くする",
+        "romaji": "kubiwonagakusuru",
+        "kana": "くびをながくする",
+        "pos": "Idiom",
+        "meaning": "引頸期盼、迫切期待"
+      },
+      {
+        "jp": "息が合う",
+        "romaji": "ikigaau",
+        "kana": "いきがあう",
+        "pos": "Idiom",
+        "meaning": "默契十足"
       }
     ],
     "grammar": [
