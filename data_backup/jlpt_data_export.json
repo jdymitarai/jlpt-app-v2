@@ -2912,6 +2912,216 @@
         "kana": "にくらしい",
         "pos": "I-adjective",
         "meaning": "可憎的、討厭的"
+      },
+      {
+        "jp": "あっさり",
+        "romaji": "assari",
+        "kana": "あっさり",
+        "pos": "Adverb",
+        "meaning": "清淡、乾脆地"
+      },
+      {
+        "jp": "いらいら",
+        "romaji": "iraira",
+        "kana": "いらいら",
+        "pos": "Adverb",
+        "meaning": "焦躁、煩躁"
+      },
+      {
+        "jp": "うっかり",
+        "romaji": "ukkari",
+        "kana": "うっかり",
+        "pos": "Adverb",
+        "meaning": "不小心、不留神"
+      },
+      {
+        "jp": "うろうろ",
+        "romaji": "urouro",
+        "kana": "うろうろ",
+        "pos": "Adverb",
+        "meaning": "徘徊、轉來轉去"
+      },
+      {
+        "jp": "がっかり",
+        "romaji": "gakkari",
+        "kana": "がっかり",
+        "pos": "Adverb",
+        "meaning": "失望、頹喪"
+      },
+      {
+        "jp": "からから",
+        "romaji": "karakara",
+        "kana": "からから",
+        "pos": "Adverb",
+        "meaning": "乾巴巴、空空的"
+      },
+      {
+        "jp": "ぎっしり",
+        "romaji": "gisshiri",
+        "kana": "ぎっしり",
+        "pos": "Adverb",
+        "meaning": "擠得滿滿地"
+      },
+      {
+        "jp": "きらきら",
+        "romaji": "kirakira",
+        "kana": "きらきら",
+        "pos": "Adverb",
+        "meaning": "閃閃發光"
+      },
+      {
+        "jp": "ぐっすり",
+        "romaji": "gussuri",
+        "kana": "ぐっすり",
+        "pos": "Adverb",
+        "meaning": "熟睡、睡得香甜"
+      },
+      {
+        "jp": "こっそり",
+        "romaji": "kossori",
+        "kana": "こっそり",
+        "pos": "Adverb",
+        "meaning": "偷偷地、悄悄地"
+      },
+      {
+        "jp": "ごちゃごちゃ",
+        "romaji": "gochagocha",
+        "kana": "ごちゃごちゃ",
+        "pos": "Adverb",
+        "meaning": "雜亂無章、凌亂"
+      },
+      {
+        "jp": "ころころ",
+        "romaji": "korokoro",
+        "kana": "ころころ",
+        "pos": "Adverb",
+        "meaning": "滾動的樣子、善變"
+      },
+      {
+        "jp": "さっぱり",
+        "romaji": "sappari",
+        "kana": "さっぱり",
+        "pos": "Adverb",
+        "meaning": "清爽、完全（接否定）"
+      },
+      {
+        "jp": "さらさら",
+        "romaji": "sarasara",
+        "kana": "さらさら",
+        "pos": "Adverb",
+        "meaning": "滑順、沙沙作響"
+      },
+      {
+        "jp": "しっかり",
+        "romaji": "shikkari",
+        "kana": "しっかり",
+        "pos": "Adverb",
+        "meaning": "牢固、可靠、振作"
+      },
+      {
+        "jp": "じっくり",
+        "romaji": "jikkuri",
+        "kana": "じっくり",
+        "pos": "Adverb",
+        "meaning": "仔細地、慢慢地"
+      },
+      {
+        "jp": "すっきり",
+        "romaji": "sukkiri",
+        "kana": "すっきり",
+        "pos": "Adverb",
+        "meaning": "舒暢、俐落"
+      },
+      {
+        "jp": "そっくり",
+        "romaji": "sokkuri",
+        "kana": "そっくり",
+        "pos": "Adverb",
+        "meaning": "一模一樣、全部"
+      },
+      {
+        "jp": "たっぷり",
+        "romaji": "tappuri",
+        "kana": "たっぷり",
+        "pos": "Adverb",
+        "meaning": "充分、足夠"
+      },
+      {
+        "jp": "どきどき",
+        "romaji": "dokidoki",
+        "kana": "どきどき",
+        "pos": "Adverb",
+        "meaning": "心跳加速、撲通撲通"
+      },
+      {
+        "jp": "にこにこ",
+        "romaji": "nikoniko",
+        "kana": "にこにこ",
+        "pos": "Adverb",
+        "meaning": "笑瞇瞇"
+      },
+      {
+        "jp": "のろのろ",
+        "romaji": "noronoro",
+        "kana": "のろのろ",
+        "pos": "Adverb",
+        "meaning": "遲緩、慢吞吞"
+      },
+      {
+        "jp": "はきはき",
+        "romaji": "hakihaki",
+        "kana": "はきはき",
+        "pos": "Adverb",
+        "meaning": "乾脆、爽快"
+      },
+      {
+        "jp": "ばっちり",
+        "romaji": "bacchiri",
+        "kana": "ばっちり",
+        "pos": "Adverb",
+        "meaning": "完美、順利"
+      },
+      {
+        "jp": "ばらばら",
+        "romaji": "barabara",
+        "kana": "ばらばら",
+        "pos": "Adverb",
+        "meaning": "散亂、分散"
+      },
+      {
+        "jp": "ぴったり",
+        "romaji": "pittari",
+        "kana": "ぴったり",
+        "pos": "Adverb",
+        "meaning": "恰好、緊密"
+      },
+      {
+        "jp": "ふらふら",
+        "romaji": "furafura",
+        "kana": "ふらふら",
+        "pos": "Adverb",
+        "meaning": "搖晃、暈眩"
+      },
+      {
+        "jp": "ぶつぶつ",
+        "romaji": "butsubutsu",
+        "kana": "ぶつぶつ",
+        "pos": "Adverb",
+        "meaning": "抱怨、牢騷"
+      },
+      {
+        "jp": "ふわふわ",
+        "romaji": "fuwafuwa",
+        "kana": "ふわふわ",
+        "pos": "Adverb",
+        "meaning": "輕飄飄、柔軟"
+      },
+      {
+        "jp": "ぼんやり",
+        "romaji": "bonyari",
+        "kana": "ぼんやり",
+        "pos": "Adverb",
+        "meaning": "發呆、模糊不清"
       }
     ],
     "grammar": [
