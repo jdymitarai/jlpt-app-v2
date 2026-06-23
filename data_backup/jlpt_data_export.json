@@ -5432,6 +5432,216 @@
         "kana": "にとをおうものはいつとをもえず",
         "pos": "Proverb",
         "meaning": "貪多嚼不爛（追兩隻兔子的人，連一隻都抓不到）"
+      },
+      {
+        "jp": "相変わらず",
+        "romaji": "aikawarazu",
+        "kana": "あいかわらず",
+        "pos": "Idiom",
+        "meaning": "依然如故、照舊"
+      },
+      {
+        "jp": "頭が下がる",
+        "romaji": "atamagasagaru",
+        "kana": "あたまがさがる",
+        "pos": "Idiom",
+        "meaning": "令人欽佩、甘拜下風"
+      },
+      {
+        "jp": "息を殺す",
+        "romaji": "ikiwokorosu",
+        "kana": "いきをころす",
+        "pos": "Idiom",
+        "meaning": "屏息以待、連呼吸都不敢出聲"
+      },
+      {
+        "jp": "腕を磨く",
+        "romaji": "udewomigaku",
+        "kana": "うでをみがく",
+        "pos": "Idiom",
+        "meaning": "磨練本事、提升技術"
+      },
+      {
+        "jp": "顔が潰れる",
+        "romaji": "kaogatsubureru",
+        "kana": "かおがつぶれる",
+        "pos": "Idiom",
+        "meaning": "丟臉、顏面盡失"
+      },
+      {
+        "jp": "首を突っ込む",
+        "romaji": "kubiwotsukkomu",
+        "kana": "くびをつっこむ",
+        "pos": "Idiom",
+        "meaning": "插手、多管閒事"
+      },
+      {
+        "jp": "言葉を濁す",
+        "romaji": "kotobawonigosu",
+        "kana": "ことばをにごす",
+        "pos": "Idiom",
+        "meaning": "含糊其辭、說話支支吾吾"
+      },
+      {
+        "jp": "匙を投げる",
+        "romaji": "sajiwonageru",
+        "kana": "さじをなげる",
+        "pos": "Idiom",
+        "meaning": "無藥可救、無計可施而放棄"
+      },
+      {
+        "jp": "舌を巻く",
+        "romaji": "shitawomaku",
+        "kana": "したをまく",
+        "pos": "Idiom",
+        "meaning": "讚嘆不已、驚嘆"
+      },
+      {
+        "jp": "すねをかじる",
+        "romaji": "sunewokajiru",
+        "kana": "すねをかじる",
+        "pos": "Idiom",
+        "meaning": "啃老、依賴父母生活"
+      },
+      {
+        "jp": "図に乗る",
+        "romaji": "zuninoru",
+        "kana": "ずにのる",
+        "pos": "Idiom",
+        "meaning": "得意忘形"
+      },
+      {
+        "jp": "手を抜く",
+        "romaji": "tewonuku",
+        "kana": "てをぬく",
+        "pos": "Idiom",
+        "meaning": "偷工減料、敷衍了事"
+      },
+      {
+        "jp": "途方に暮れる",
+        "romaji": "tohounikureru",
+        "kana": "とほうにくれる",
+        "pos": "Idiom",
+        "meaning": "走投無路、不知所措"
+      },
+      {
+        "jp": "歯が立たない",
+        "romaji": "hagatatanai",
+        "kana": "はがたたない",
+        "pos": "Idiom",
+        "meaning": "敵不過、束手無策"
+      },
+      {
+        "jp": "腹を割る",
+        "romaji": "harawowaru",
+        "kana": "はらをわる",
+        "pos": "Idiom",
+        "meaning": "推心置腹、坦誠相見"
+      },
+      {
+        "jp": "耳にたこができる",
+        "romaji": "miminitakogadekiru",
+        "kana": "みみにたこができる",
+        "pos": "Idiom",
+        "meaning": "聽到耳朵長繭"
+      },
+      {
+        "jp": "胸をなでおろす",
+        "romaji": "munewonadeorosu",
+        "kana": "むねをなでおろす",
+        "pos": "Idiom",
+        "meaning": "鬆了一口氣、放下心頭大石"
+      },
+      {
+        "jp": "目を盗む",
+        "romaji": "mewonusumu",
+        "kana": "めをぬすむ",
+        "pos": "Idiom",
+        "meaning": "掩人耳目、偷偷摸摸地做"
+      },
+      {
+        "jp": "八つ当たりする",
+        "romaji": "yatsua tarisuru",
+        "kana": "やつあたりする",
+        "pos": "Idiom",
+        "meaning": "遷怒於人、拿人出氣"
+      },
+      {
+        "jp": "横槍を入れる",
+        "romaji": "yokoyariwoireru",
+        "kana": "よこやりをいれる",
+        "pos": "Idiom",
+        "meaning": "從旁插嘴、干涉"
+      },
+      {
+        "jp": "足元を見る",
+        "romaji": "ashimotowomiru",
+        "kana": "あしもとをみる",
+        "pos": "Idiom",
+        "meaning": "乘人之危、看人臉色"
+      },
+      {
+        "jp": "痛いところを突く",
+        "romaji": "itaitokorowotsuku",
+        "kana": "いたいところをつく",
+        "pos": "Idiom",
+        "meaning": "戳中痛處、擊中要害"
+      },
+      {
+        "jp": "上の空",
+        "romaji": "uwanosora",
+        "kana": "うわのそら",
+        "pos": "Idiom",
+        "meaning": "心不在焉"
+      },
+      {
+        "jp": "顔を立てる",
+        "romaji": "kaowotateru",
+        "kana": "かおをたてる",
+        "pos": "Idiom",
+        "meaning": "給面子、保全對方的顏面"
+      },
+      {
+        "jp": "口を酸っぱくする",
+        "romaji": "kuchiwosuppakusuru",
+        "kana": "くちをすっぱくする",
+        "pos": "Idiom",
+        "meaning": "苦口婆心地說、反覆叮嚀"
+      },
+      {
+        "jp": "気が置けない",
+        "romaji": "kigaokenai",
+        "kana": "きがおけない",
+        "pos": "Idiom",
+        "meaning": "不需拘束、可以推心置腹（指關係親密）"
+      },
+      {
+        "jp": "首が回らない",
+        "romaji": "kubigamawaranai",
+        "kana": "くびがまわらない",
+        "pos": "Idiom",
+        "meaning": "債台高築、資金周轉不靈"
+      },
+      {
+        "jp": "匙加減",
+        "romaji": "sajikagen",
+        "kana": "さじかげん",
+        "pos": "Idiom",
+        "meaning": "斟酌處理、拿捏分寸"
+      },
+      {
+        "jp": "手を焼く",
+        "romaji": "tewoyaku",
+        "kana": "てをやく",
+        "pos": "Idiom",
+        "meaning": "感到棘手、無可奈何"
+      },
+      {
+        "jp": "根も葉もない",
+        "romaji": "nemohamonai",
+        "kana": "ねもはもない",
+        "pos": "Idiom",
+        "meaning": "毫無根據、空穴來風"
       }
     ],
     "grammar": [
