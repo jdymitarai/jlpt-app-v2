@@ -4172,6 +4172,216 @@
         "kana": "ごりかいのほど",
         "pos": "Phrase",
         "meaning": "敬請理解"
+      },
+      {
+        "jp": "猿も木から落ちる",
+        "romaji": "sarumokikaraochiru",
+        "kana": "さるもきからおちる",
+        "pos": "Proverb",
+        "meaning": "智者千慮，必有一失（猴子也會從樹上掉下來）"
+      },
+      {
+        "jp": "急がば回れ",
+        "romaji": "isogabamaware",
+        "kana": "いそがばまわれ",
+        "pos": "Proverb",
+        "meaning": "欲速則不達（急的時候反而要繞遠路）"
+      },
+      {
+        "jp": "石の上にも三年",
+        "romaji": "ishinouenimosannen",
+        "kana": "いしのうえにもさんねん",
+        "pos": "Proverb",
+        "meaning": "有志者事竟成、鐵杵磨成繡花針（在石頭上坐三年也會變暖）"
+      },
+      {
+        "jp": "七転び八起き",
+        "romaji": "nanakorobiyaoki",
+        "kana": "ななころびやおき",
+        "pos": "Proverb",
+        "meaning": "百折不撓、七跌八起"
+      },
+      {
+        "jp": "馬の耳に念仏",
+        "romaji": "umanomimininenbutsu",
+        "kana": "うまのみみにねんぶつ",
+        "pos": "Proverb",
+        "meaning": "對牛彈琴（對著馬耳唸佛）"
+      },
+      {
+        "jp": "豚に真珠",
+        "romaji": "butanishinju",
+        "kana": "ぶたにしんじゅ",
+        "pos": "Proverb",
+        "meaning": "暴殄天物、對牛彈琴（給豬戴珍珠）"
+      },
+      {
+        "jp": "猫に小判",
+        "romaji": "nekonikoban",
+        "kana": "ねこにこばん",
+        "pos": "Proverb",
+        "meaning": "暴殄天物、對牛彈琴（給貓金幣）"
+      },
+      {
+        "jp": "一期一会",
+        "romaji": "ichigoichie",
+        "kana": "いちごいちえ",
+        "pos": "Proverb",
+        "meaning": "一期一會（一生僅有一次的相會）"
+      },
+      {
+        "jp": "自業自得",
+        "romaji": "jigoujitoku",
+        "kana": "じごうじとく",
+        "pos": "Proverb",
+        "meaning": "自作自受"
+      },
+      {
+        "jp": "塵も積もれば山となる",
+        "romaji": "chirimotsumorebayamatonaru",
+        "kana": "ちりもつもればやまとなる",
+        "pos": "Proverb",
+        "meaning": "積少成多、聚沙成塔（灰塵堆積起來也能成山）"
+      },
+      {
+        "jp": "失敗は成功のもと",
+        "romaji": "shippaihaseikounomoto",
+        "kana": "しっぱいかせいこうのもと",
+        "pos": "Proverb",
+        "meaning": "失敗為成功之母"
+      },
+      {
+        "jp": "郷に入っては郷に従え",
+        "romaji": "gounihaittehagounishitagae",
+        "kana": "ごうにはいってはごうにしたがえ",
+        "pos": "Proverb",
+        "meaning": "入境隨俗"
+      },
+      {
+        "jp": "百聞は一見に如かず",
+        "romaji": "hyakubunhaikkennishikazu",
+        "kana": "ひゃくぶんはいっけんにしかず",
+        "pos": "Proverb",
+        "meaning": "百聞不如一見"
+      },
+      {
+        "jp": "類は友を呼ぶ",
+        "romaji": "ruihatomowoyobu",
+        "kana": "るいはともをよぶ",
+        "pos": "Proverb",
+        "meaning": "物以類聚"
+      },
+      {
+        "jp": "二兎を追う者は一兎をも得ず",
+        "romaji": "nitowooumonohaittoowomoezu",
+        "kana": "にとをおうものはいっとをもえず",
+        "pos": "Proverb",
+        "meaning": "貪多必失（追兩隻兔子的人，連一隻都抓不到）"
+      },
+      {
+        "jp": "覆水盆に返らず",
+        "romaji": "fukusuibonnikaerazu",
+        "kana": "ふくすいぼんにかえらず",
+        "pos": "Proverb",
+        "meaning": "覆水難收"
+      },
+      {
+        "jp": "良薬は口に苦し",
+        "romaji": "ryouyakuwakuchininigashi",
+        "kana": "りょうやくはくちににがし",
+        "pos": "Proverb",
+        "meaning": "良藥苦口"
+      },
+      {
+        "jp": "井の中の蛙大海を知らず",
+        "romaji": "inonakanokawazutaikaiwoshirazu",
+        "kana": "いのなかのかわずたいかいをしらず",
+        "pos": "Proverb",
+        "meaning": "井底之蛙不知大海"
+      },
+      {
+        "jp": "思い立ったが吉日",
+        "romaji": "omoitattagakichijitsu",
+        "kana": "おもいたったがきちじつ",
+        "pos": "Proverb",
+        "meaning": "擇日不如撞日（想到的那天就是好日子）"
+      },
+      {
+        "jp": "壁に耳あり障子に目あり",
+        "romaji": "kabenimimiari shoujinimeari",
+        "kana": "かべにみみありしょうじにめあり",
+        "pos": "Proverb",
+        "meaning": "隔牆有耳（牆上有耳，拉門上有眼）"
+      },
+      {
+        "jp": "可愛い子には旅をさせよ",
+        "romaji": "kawaiikonihatabiwosaseyo",
+        "kana": "かわいいこにはたびをさせよ",
+        "pos": "Proverb",
+        "meaning": "愛子當讓他經風雨、見世面（疼愛孩子就該讓他去旅行磨練）"
+      },
+      {
+        "jp": "聞くは一時の恥、聞かぬは一生の恥",
+        "romaji": "kikuhaittokinohaji、kikanuhaisshounohaji",
+        "kana": "きくはいっときのはじ、きかぬはいっしょうのはじ",
+        "pos": "Proverb",
+        "meaning": "不恥下問（發問只是一時的羞恥，不問是一輩子的羞恥）"
+      },
+      {
+        "jp": "口は災いのもと",
+        "romaji": "kuchihawazawainomoto",
+        "kana": "くちはわざわいのもと",
+        "pos": "Proverb",
+        "meaning": "禍從口出"
+      },
+      {
+        "jp": "三度目の正直",
+        "romaji": "sandomenoshoujiki",
+        "kana": "さんどめのしょうじき",
+        "pos": "Proverb",
+        "meaning": "事不過三（第三次總會如願以償）"
+      },
+      {
+        "jp": "親しき仲にも礼儀あり",
+        "romaji": "shitashikinakanimoreigiari",
+        "kana": "したしきなかにもれいぎあり",
+        "pos": "Proverb",
+        "meaning": "親兄弟明算帳、再熟也要有禮貌"
+      },
+      {
+        "jp": "住めば都",
+        "romaji": "sumebamiyako",
+        "kana": "すめばみやこ",
+        "pos": "Proverb",
+        "meaning": "久居則安（住習慣了就是好地方）"
+      },
+      {
+        "jp": "善は急げ",
+        "romaji": "zenhaisoge",
+        "kana": "ぜんはいそげ",
+        "pos": "Proverb",
+        "meaning": "打鐵趁熱、好事不宜遲"
+      },
+      {
+        "jp": "時は金なり",
+        "romaji": "tokihakanenari",
+        "kana": "ときはかねなり",
+        "pos": "Proverb",
+        "meaning": "時間就是金錢"
+      },
+      {
+        "jp": "出る杭は打たれる",
+        "romaji": "derukuihautareru",
+        "kana": "でるくいはうたれる",
+        "pos": "Proverb",
+        "meaning": "槍打出頭鳥、樹大招風（凸出來的釘子會被敲打）"
+      },
+      {
+        "jp": "泣きっ面に蜂",
+        "romaji": "nakittsuranihachi",
+        "kana": "なきっつらにはち",
+        "pos": "Proverb",
+        "meaning": "雪上加霜、禍不單行（哭泣的臉上又被蜜蜂螫）"
       }
     ],
     "grammar": [
