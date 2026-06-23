@@ -3332,6 +3332,216 @@
         "kana": "もうしわけございません",
         "pos": "Phrase (Keigo)",
         "meaning": "非常抱歉（ごめんなさい的鄭重語）"
+      },
+      {
+        "jp": "受け持つ",
+        "romaji": "ukemotsu",
+        "kana": "うけもつ",
+        "pos": "Verb (Compound)",
+        "meaning": "擔任、負責"
+      },
+      {
+        "jp": "打ち消す",
+        "romaji": "uchikesu",
+        "kana": "うちけす",
+        "pos": "Verb (Compound)",
+        "meaning": "否定、消除"
+      },
+      {
+        "jp": "追い込む",
+        "romaji": "oikomu",
+        "kana": "おいこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "逼迫、趕進"
+      },
+      {
+        "jp": "思い込む",
+        "romaji": "omoikomu",
+        "kana": "おもいこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "深信不疑、固執己見"
+      },
+      {
+        "jp": "振り返る",
+        "romaji": "furikaeru",
+        "kana": "ふりかえる",
+        "pos": "Verb (Compound)",
+        "meaning": "回頭看、回顧"
+      },
+      {
+        "jp": "引き受ける",
+        "romaji": "hikiukeru",
+        "kana": "ひきうける",
+        "pos": "Verb (Compound)",
+        "meaning": "承接、答應、承擔"
+      },
+      {
+        "jp": "引き返す",
+        "romaji": "hikikaesu",
+        "kana": "ひきかえす",
+        "pos": "Verb (Compound)",
+        "meaning": "折返、返回"
+      },
+      {
+        "jp": "引き止める",
+        "romaji": "hikitomeru",
+        "kana": "ひきとめる",
+        "pos": "Verb (Compound)",
+        "meaning": "挽留、阻止"
+      },
+      {
+        "jp": "見直す",
+        "romaji": "minaosu",
+        "kana": "みなおす",
+        "pos": "Verb (Compound)",
+        "meaning": "重新評估、刮目相看"
+      },
+      {
+        "jp": "見逃す",
+        "romaji": "minogasu",
+        "kana": "みのがす",
+        "pos": "Verb (Compound)",
+        "meaning": "漏看、放過"
+      },
+      {
+        "jp": "申し込む",
+        "romaji": "moushikomu",
+        "kana": "もうしこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "申請、報名"
+      },
+      {
+        "jp": "呼びかける",
+        "romaji": "yobikakeru",
+        "kana": "よびかける",
+        "pos": "Verb (Compound)",
+        "meaning": "呼籲、打招呼"
+      },
+      {
+        "jp": "立て替える",
+        "romaji": "tatekaeru",
+        "kana": "たてかえる",
+        "pos": "Verb (Compound)",
+        "meaning": "代墊（金錢）"
+      },
+      {
+        "jp": "乗り越える",
+        "romaji": "norikoeru",
+        "kana": "のりこえる",
+        "pos": "Verb (Compound)",
+        "meaning": "越過、克服"
+      },
+      {
+        "jp": "払い戻す",
+        "romaji": "haraimodosu",
+        "kana": "はらいもどす",
+        "pos": "Verb (Compound)",
+        "meaning": "退還、退款"
+      },
+      {
+        "jp": "立ち上がる",
+        "romaji": "tachiagaru",
+        "kana": "たちあがる",
+        "pos": "Verb (Compound)",
+        "meaning": "站起來、重新振作"
+      },
+      {
+        "jp": "差し引く",
+        "romaji": "sashihiku",
+        "kana": "さしひく",
+        "pos": "Verb (Compound)",
+        "meaning": "扣除、減去"
+      },
+      {
+        "jp": "割り込む",
+        "romaji": "warikomu",
+        "kana": "わりこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "插隊、插嘴"
+      },
+      {
+        "jp": "飛び込む",
+        "romaji": "tobikomu",
+        "kana": "とびこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "跳進、突然進入"
+      },
+      {
+        "jp": "取り消す",
+        "romaji": "torikesu",
+        "kana": "とりけす",
+        "pos": "Verb (Compound)",
+        "meaning": "取消、撤銷"
+      },
+      {
+        "jp": "話し合う",
+        "romaji": "hanashiau",
+        "kana": "はなしあう",
+        "pos": "Verb (Compound)",
+        "meaning": "討論、商量"
+      },
+      {
+        "jp": "持ち込む",
+        "romaji": "mochikomu",
+        "kana": "もちこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "帶入、提出"
+      },
+      {
+        "jp": "行き違う",
+        "romaji": "ikichigau",
+        "kana": "いきちがう",
+        "pos": "Verb (Compound)",
+        "meaning": "錯過、產生分歧"
+      },
+      {
+        "jp": "落ち込む",
+        "romaji": "ochikomu",
+        "kana": "おちこむ",
+        "pos": "Verb (Compound)",
+        "meaning": "情緒低落、凹陷"
+      },
+      {
+        "jp": "組み立てる",
+        "romaji": "kumitateru",
+        "kana": "くみたてる",
+        "pos": "Verb (Compound)",
+        "meaning": "組裝、構築"
+      },
+      {
+        "jp": "仕上げる",
+        "romaji": "shiageru",
+        "kana": "しあげる",
+        "pos": "Verb (Compound)",
+        "meaning": "完成、做完"
+      },
+      {
+        "jp": "通り過ぎる",
+        "romaji": "toorisugiru",
+        "kana": "とおりすぎる",
+        "pos": "Verb (Compound)",
+        "meaning": "走過、路過"
+      },
+      {
+        "jp": "張り切る",
+        "romaji": "harikiru",
+        "kana": "はりきる",
+        "pos": "Verb (Compound)",
+        "meaning": "幹勁十足、緊繃"
+      },
+      {
+        "jp": "見失う",
+        "romaji": "miushinau",
+        "kana": "みうしなう",
+        "pos": "Verb (Compound)",
+        "meaning": "迷失、看不見"
+      },
+      {
+        "jp": "寄りかかる",
+        "romaji": "yorikakaru",
+        "kana": "よりかかる",
+        "pos": "Verb (Compound)",
+        "meaning": "倚靠、依賴"
       }
     ],
     "grammar": [
