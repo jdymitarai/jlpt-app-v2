@@ -28,8 +28,7 @@ const FuriganaText = ({ text }) => {
 
 const nounCategoryGroups = [
   { id: "all", label: "✨ 全部類別" },
-  { id: "human_existence", label: "👥 人類自身" },
-  { id: "clinical_medical", label: "🏥 護理專業" },
+  { id: "human_self", label: "👥 人類自身" },
   { id: "material_life", label: "🏠 物質生活" },
   { id: "nature_universe", label: "🌌 自然與宇宙" },
   { id: "society_civilization", label: "🏢 社會與文明" },
@@ -37,28 +36,35 @@ const nounCategoryGroups = [
 ];
 
 const nounSubCategories = [
-  { id: "body_physiology", label: "身體部位與生理", group: "human_existence" },
-  { id: "health_medical", label: "常見疾病與常規醫療", group: "human_existence" },
-  { id: "psychology_character", label: "心理情感與性格", group: "human_existence" },
-  { id: "med_basic", label: "基礎醫學", group: "clinical_medical" },
-  { id: "med_nursing", label: "基本護理學及護理行政", group: "clinical_medical" },
-  { id: "med_medsurg", label: "內外科護理學", group: "clinical_medical" },
-  { id: "med_pedsmats", label: "產兒科護理學", group: "clinical_medical" },
-  { id: "med_psychcomm", label: "精神科與社區衛生護理學", group: "clinical_medical" },
-  { id: "food_culture", label: "飲食文化", group: "material_life" },
-  { id: "fashion_beauty", label: "服飾與美容", group: "material_life" },
-  { id: "housing_space", label: "居住與家電", group: "material_life" },
-  { id: "transport_mobility", label: "交通與移動", group: "material_life" },
-  { id: "leisure_sports", label: "休閒育樂與購物", group: "material_life" },
-  { id: "astronomy_meteorology", label: "天文與氣象", group: "nature_universe" },
-  { id: "geography_ecology", label: "地理與生態", group: "nature_universe" },
-  { id: "biological_world", label: "生物世界", group: "nature_universe" },
-  { id: "relations_human", label: "人際與關係", group: "society_civilization" },
-  { id: "society_politics_law", label: "社會政治法律", group: "society_civilization" },
-  { id: "economy_business", label: "經濟商業金融", group: "society_civilization" },
-  { id: "culture_thought", label: "文明與傳承", group: "society_civilization" },
-  { id: "math_quantity", label: "數量與數理", group: "abstract_concepts" },
-  { id: "properties_relations", label: "性質狀態關係", group: "abstract_concepts" }
+  { id: "human_body_physiology", label: "身體構造與生理現象", group: "human_self" },
+  { id: "human_action_posture", label: "日常肢體動作與姿態", group: "human_self" },
+  { id: "human_senses_perception", label: "五官感知與覺察", group: "human_self" },
+  { id: "human_psychology_emotion", label: "心理、情感與情緒", group: "human_self" },
+  { id: "human_health_medical", label: "疾病、醫療與日常健康", group: "human_self" },
+
+  { id: "material_food_cooking", label: "飲食、烹飪與餐飲文化", group: "material_life" },
+  { id: "material_clothing_beauty", label: "服飾、美容與穿脫打扮", group: "material_life" },
+  { id: "material_housing_appliances", label: "房屋格局、家居與家電", group: "material_life" },
+  { id: "material_transport_mobility", label: "交通工具、道路與空間移動", group: "material_life" },
+  { id: "material_leisure_sports", label: "休閒娛樂、體育運動與假期", group: "material_life" },
+
+  { id: "nature_weather_season", label: "天氣、氣候與季節變化", group: "nature_universe" },
+  { id: "nature_geography_space", label: "天文地理與空間地貌", group: "nature_universe" },
+  { id: "nature_animals", label: "動物世界與生命特徵", group: "nature_universe" },
+  { id: "nature_plants", label: "植物世界與自然生態", group: "nature_universe" },
+  { id: "nature_physics_phenomena", label: "物理現象、動態與狀態改變", group: "nature_universe" },
+
+  { id: "society_family_relations", label: "家族結構與人際關係", group: "society_civilization" },
+  { id: "society_communication_language", label: "溝通表達、語言與互動態度", group: "society_civilization" },
+  { id: "society_work_economy", label: "工作職業、辦公用品與經濟買賣", group: "society_civilization" },
+  { id: "society_education_learning", label: "教育學習、研究與考察", group: "society_civilization" },
+  { id: "society_law_politics", label: "社會體制、法律與公共秩序", group: "society_civilization" },
+
+  { id: "abstract_time_calendar", label: "時間流逝、曆法與發生頻率", group: "abstract_concepts" },
+  { id: "abstract_space_direction", label: "空間坐標、方位與相對位置", group: "abstract_concepts" },
+  { id: "abstract_numbers_units", label: "數字、度量衡與單位量詞", group: "abstract_concepts" },
+  { id: "abstract_logic_method", label: "邏輯因果、方法與運作機制", group: "abstract_concepts" },
+  { id: "abstract_state_value", label: "狀態性質、真假與價值判斷", group: "abstract_concepts" }
 ];
 
 const verbCategoryGroups = [
