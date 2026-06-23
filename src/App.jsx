@@ -58,7 +58,6 @@ function App() {
         {/* 側邊導覽列 */}
         <aside className="sidebar">
           <div className="logo-section">
-            <div className="logo-icon">{currentLevel}</div>
             <div className="logo-text">日檢教科書</div>
           </div>
           
