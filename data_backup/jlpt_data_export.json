@@ -1022,6 +1022,216 @@
         "kana": "せめて",
         "pos": "Adverb",
         "meaning": "至少、哪怕是"
+      },
+      {
+        "jp": "いらっしゃる",
+        "romaji": "irassharu",
+        "kana": "いらっしゃる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "在、去、來 (いる、行く、来る的尊敬語)"
+      },
+      {
+        "jp": "おっしゃる",
+        "romaji": "ossharu",
+        "kana": "おっしゃる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "說 (言う的尊敬語)"
+      },
+      {
+        "jp": "なさる",
+        "romaji": "nasaru",
+        "kana": "なさる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "做 (する的尊敬語)"
+      },
+      {
+        "jp": "召し上がる",
+        "romaji": "meshiagaru",
+        "kana": "めしあがる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "吃、喝 (食べる、飲む的尊敬語)"
+      },
+      {
+        "jp": "お休みになる",
+        "romaji": "oyasumininaru",
+        "kana": "おやすみになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "休息、睡覺 (寝る、休む的尊敬語)"
+      },
+      {
+        "jp": "ご覧になる",
+        "romaji": "goranninaru",
+        "kana": "ごらんになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "看 (見る的尊敬語)"
+      },
+      {
+        "jp": "ご存知だ",
+        "romaji": "gozonjida",
+        "kana": "ごぞんじだ",
+        "pos": "Expression (Sonkeigo)",
+        "meaning": "知道、了解 (知っている的尊敬語)"
+      },
+      {
+        "jp": "おいでになる",
+        "romaji": "oideninaru",
+        "kana": "おいでになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "來、去、在 (来る、行く、いる的尊敬語)"
+      },
+      {
+        "jp": "お召しになる",
+        "romaji": "omeshininaru",
+        "kana": "おめしになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "穿 (着る的尊敬語)"
+      },
+      {
+        "jp": "くださる",
+        "romaji": "kudasaru",
+        "kana": "くださる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "給（我） (くれる的尊敬語)"
+      },
+      {
+        "jp": "おる",
+        "romaji": "oru",
+        "kana": "おる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "在 (いる的謙讓語)"
+      },
+      {
+        "jp": "参る",
+        "romaji": "mairu",
+        "kana": "まいる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "去、來 (行く、来る的謙讓語)"
+      },
+      {
+        "jp": "申す",
+        "romaji": "mousu",
+        "kana": "もうす",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "說、叫做 (言う的謙讓語)"
+      },
+      {
+        "jp": "申し上げる",
+        "romaji": "moushiageru",
+        "kana": "もうしあげる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "說、告訴 (言う的謙讓語，對象明確時使用)"
+      },
+      {
+        "jp": "致す",
+        "romaji": "itasu",
+        "kana": "いたす",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "做 (する的謙讓語)"
+      },
+      {
+        "jp": "いただく",
+        "romaji": "itadaku",
+        "kana": "いただく",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "吃、喝、得到 (食べる、飲む、もらう的謙讓語)"
+      },
+      {
+        "jp": "拝見する",
+        "romaji": "haikensuru",
+        "kana": "はいけんする",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "看、拜讀 (見る的謙讓語)"
+      },
+      {
+        "jp": "存じる",
+        "romaji": "zonjiru",
+        "kana": "ぞんじる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "知道、想 (知る、思う的謙讓語)"
+      },
+      {
+        "jp": "伺う",
+        "romaji": "ukagau",
+        "kana": "うかがう",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "拜訪、請教、聽聞 (聞く、尋ねる、訪問する的謙讓語)"
+      },
+      {
+        "jp": "お目にかかる",
+        "romaji": "omenikakaru",
+        "kana": "おめにかかる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "見面、拜會 (会う的謙讓語)"
+      },
+      {
+        "jp": "承る",
+        "romaji": "uketamawaru",
+        "kana": "うけたまわる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "聽從、接受、知道 (聞く、受ける的謙讓語)"
+      },
+      {
+        "jp": "お見えになる",
+        "romaji": "omieninaru",
+        "kana": "おみえになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "來、光臨 (来る的尊敬語)"
+      },
+      {
+        "jp": "お越しになる",
+        "romaji": "okoshininaru",
+        "kana": "おこしになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "來、光臨 (来る的尊敬語)"
+      },
+      {
+        "jp": "お亡くなりになる",
+        "romaji": "onakunarinaru",
+        "kana": "おなくなりになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "去世 (死ぬ的尊敬語)"
+      },
+      {
+        "jp": "存じ上げる",
+        "romaji": "zonjiageru",
+        "kana": "ぞんじあげる",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "認識、知道（對人使用）(知っている的謙讓語)"
+      },
+      {
+        "jp": "拝借する",
+        "romaji": "haishakusuru",
+        "kana": "はいしゃくする",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "借用 (借りる的謙讓語)"
+      },
+      {
+        "jp": "お邪魔する",
+        "romaji": "ojamasuru",
+        "kana": "おじゃまする",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "拜訪、打擾 (訪問する的謙讓語)"
+      },
+      {
+        "jp": "ご案内する",
+        "romaji": "goannaisuru",
+        "kana": "ごあんないする",
+        "pos": "Verb (Kenjougo)",
+        "meaning": "帶路、引導 (案内する的謙讓語)"
+      },
+      {
+        "jp": "ござる",
+        "romaji": "gozaru",
+        "kana": "ござる",
+        "pos": "Verb (Teineigo)",
+        "meaning": "在、有 (ある的鄭重語)"
+      },
+      {
+        "jp": "でござる",
+        "romaji": "degozaru",
+        "kana": "でござる",
+        "pos": "Expression (Teineigo)",
+        "meaning": "是 (である、です的鄭重語)"
       }
     ],
     "grammar": [
