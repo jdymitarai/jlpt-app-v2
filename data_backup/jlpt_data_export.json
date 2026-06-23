@@ -4592,6 +4592,216 @@
         "kana": "にっしんげっぽ",
         "pos": "Noun",
         "meaning": "日新月異"
+      },
+      {
+        "jp": "あっさり",
+        "romaji": "assari",
+        "kana": "あっさり",
+        "pos": "Adverb",
+        "meaning": "清淡地、輕易地、不執著地"
+      },
+      {
+        "jp": "いらいら",
+        "romaji": "iraira",
+        "kana": "いらいら",
+        "pos": "Adverb",
+        "meaning": "焦躁、煩躁"
+      },
+      {
+        "jp": "うっかり",
+        "romaji": "ukkari",
+        "kana": "うっかり",
+        "pos": "Adverb",
+        "meaning": "不留神、不小心"
+      },
+      {
+        "jp": "うっすら",
+        "romaji": "ussura",
+        "kana": "うっすら",
+        "pos": "Adverb",
+        "meaning": "隱隱約約、微微地（光線、化妝、記憶等）"
+      },
+      {
+        "jp": "うとうと",
+        "romaji": "utouto",
+        "kana": "うとうと",
+        "pos": "Adverb",
+        "meaning": "迷迷糊糊、打瞌睡"
+      },
+      {
+        "jp": "がっかり",
+        "romaji": "gakkari",
+        "kana": "がっかり",
+        "pos": "Adverb",
+        "meaning": "失望、頹喪"
+      },
+      {
+        "jp": "がっちり",
+        "romaji": "gatchiri",
+        "kana": "がっちり",
+        "pos": "Adverb",
+        "meaning": "結實地、牢固地（體格、結構等）"
+      },
+      {
+        "jp": "きっかり",
+        "romaji": "kikkari",
+        "kana": "きっかり",
+        "pos": "Adverb",
+        "meaning": "正好、恰好（時間、數量等）"
+      },
+      {
+        "jp": "ぎっしり",
+        "romaji": "gisshiri",
+        "kana": "ぎっしり",
+        "pos": "Adverb",
+        "meaning": "擠得滿滿地"
+      },
+      {
+        "jp": "きっぱり",
+        "romaji": "kippari",
+        "kana": "きっぱり",
+        "pos": "Adverb",
+        "meaning": "斷然地、果斷地（拒絕等）"
+      },
+      {
+        "jp": "くすくす",
+        "romaji": "kusukusu",
+        "kana": "くすくす",
+        "pos": "Adverb",
+        "meaning": "竊笑、吃吃地笑"
+      },
+      {
+        "jp": "ぐっすり",
+        "romaji": "gussuri",
+        "kana": "ぐっすり",
+        "pos": "Adverb",
+        "meaning": "酣睡、睡得很熟"
+      },
+      {
+        "jp": "こっそり",
+        "romaji": "kossori",
+        "kana": "こっそり",
+        "pos": "Adverb",
+        "meaning": "悄悄地、偷偷地"
+      },
+      {
+        "jp": "さっぱり",
+        "romaji": "sappari",
+        "kana": "さっぱり",
+        "pos": "Adverb",
+        "meaning": "清爽、清淡；（接否定）完全不..."
+      },
+      {
+        "jp": "しっかり",
+        "romaji": "shikkari",
+        "kana": "しっかり",
+        "pos": "Adverb",
+        "meaning": "牢固地、可靠地、振作起來"
+      },
+      {
+        "jp": "じっくり",
+        "romaji": "jikkuri",
+        "kana": "じっくり",
+        "pos": "Adverb",
+        "meaning": "慢慢地、仔細地"
+      },
+      {
+        "jp": "すっきり",
+        "romaji": "sukkiri",
+        "kana": "すっきり",
+        "pos": "Adverb",
+        "meaning": "舒暢、爽快、簡潔"
+      },
+      {
+        "jp": "そっくり",
+        "romaji": "sokkuri",
+        "kana": "そっくり",
+        "pos": "Adverb",
+        "meaning": "一模一樣、全部"
+      },
+      {
+        "jp": "たっぷり",
+        "romaji": "tappuri",
+        "kana": "たっぷり",
+        "pos": "Adverb",
+        "meaning": "充分地、足夠地"
+      },
+      {
+        "jp": "にっこり",
+        "romaji": "nikkori",
+        "kana": "にっこり",
+        "pos": "Adverb",
+        "meaning": "微微一笑、嫣然一笑"
+      },
+      {
+        "jp": "のんびり",
+        "romaji": "nonbiri",
+        "kana": "のんびり",
+        "pos": "Adverb",
+        "meaning": "悠閒地、自在地"
+      },
+      {
+        "jp": "ばっちり",
+        "romaji": "batchiri",
+        "kana": "ばっちり",
+        "pos": "Adverb",
+        "meaning": "完美地、順利地"
+      },
+      {
+        "jp": "はっきり",
+        "romaji": "hakkiri",
+        "kana": "はっきり",
+        "pos": "Adverb",
+        "meaning": "清楚地、明確地"
+      },
+      {
+        "jp": "ばったり",
+        "romaji": "battari",
+        "kana": "ばったり",
+        "pos": "Adverb",
+        "meaning": "突然相遇、突然倒下或停止"
+      },
+      {
+        "jp": "びっくり",
+        "romaji": "bikkuri",
+        "kana": "びっくり",
+        "pos": "Adverb",
+        "meaning": "嚇一跳、吃驚"
+      },
+      {
+        "jp": "ぴったり",
+        "romaji": "pittari",
+        "kana": "ぴったり",
+        "pos": "Adverb",
+        "meaning": "正合適、緊緊貼著、突然停止"
+      },
+      {
+        "jp": "ふんわり",
+        "romaji": "funwari",
+        "kana": "ふんわり",
+        "pos": "Adverb",
+        "meaning": "鬆軟地、輕柔地"
+      },
+      {
+        "jp": "ぼんやり",
+        "romaji": "bonyari",
+        "kana": "ぼんやり",
+        "pos": "Adverb",
+        "meaning": "發呆、模糊不清"
+      },
+      {
+        "jp": "めっきり",
+        "romaji": "mekkiri",
+        "kana": "めっきり",
+        "pos": "Adverb",
+        "meaning": "顯著地、明顯地（氣候等變化）"
+      },
+      {
+        "jp": "ゆっくり",
+        "romaji": "yukkuri",
+        "kana": "ゆっくり",
+        "pos": "Adverb",
+        "meaning": "慢慢地、充裕地"
       }
     ],
     "grammar": [
