@@ -2702,6 +2702,216 @@
         "kana": "つぐない",
         "pos": "Noun",
         "meaning": "補償、賠償"
+      },
+      {
+        "jp": "厚かましい",
+        "romaji": "atsukamashii",
+        "kana": "あつかましい",
+        "pos": "I-adjective",
+        "meaning": "厚顏無恥的、厚臉皮的"
+      },
+      {
+        "jp": "怪しい",
+        "romaji": "ayashii",
+        "kana": "あやしい",
+        "pos": "I-adjective",
+        "meaning": "可疑的、奇怪的"
+      },
+      {
+        "jp": "羨ましい",
+        "romaji": "urayamashii",
+        "kana": "うらやましい",
+        "pos": "I-adjective",
+        "meaning": "令人羨慕的"
+      },
+      {
+        "jp": "おとなしい",
+        "romaji": "otonashii",
+        "kana": "おとなしい",
+        "pos": "I-adjective",
+        "meaning": "溫順的、文靜的"
+      },
+      {
+        "jp": "悲しい",
+        "romaji": "kanashii",
+        "kana": "かなしい",
+        "pos": "I-adjective",
+        "meaning": "悲傷的"
+      },
+      {
+        "jp": "厳しい",
+        "romaji": "kibishii",
+        "kana": "きびしい",
+        "pos": "I-adjective",
+        "meaning": "嚴格的、嚴厲的"
+      },
+      {
+        "jp": "悔しい",
+        "romaji": "kuyashii",
+        "kana": "くやしい",
+        "pos": "I-adjective",
+        "meaning": "令人懊悔的、不甘心的"
+      },
+      {
+        "jp": "詳しい",
+        "romaji": "kuwashii",
+        "kana": "くわしい",
+        "pos": "I-adjective",
+        "meaning": "詳細的、精通的"
+      },
+      {
+        "jp": "険しい",
+        "romaji": "kewashii",
+        "kana": "けわしい",
+        "pos": "I-adjective",
+        "meaning": "險峻的、嚴厲的"
+      },
+      {
+        "jp": "恋しい",
+        "romaji": "koishii",
+        "kana": "こいしい",
+        "pos": "I-adjective",
+        "meaning": "令人懷念的、思慕的"
+      },
+      {
+        "jp": "寂しい",
+        "romaji": "sabishii",
+        "kana": "さびしい",
+        "pos": "I-adjective",
+        "meaning": "寂寞的、孤單的"
+      },
+      {
+        "jp": "親しい",
+        "romaji": "shitashii",
+        "kana": "したしい",
+        "pos": "I-adjective",
+        "meaning": "親近的、親密的"
+      },
+      {
+        "jp": "素晴らしい",
+        "romaji": "subarashii",
+        "kana": "すばらしい",
+        "pos": "I-adjective",
+        "meaning": "極好的、出色的"
+      },
+      {
+        "jp": "鋭い",
+        "romaji": "surudoi",
+        "kana": "するどい",
+        "pos": "I-adjective",
+        "meaning": "尖銳的、敏銳的"
+      },
+      {
+        "jp": "だらしない",
+        "romaji": "darashinai",
+        "kana": "だらしない",
+        "pos": "I-adjective",
+        "meaning": "散漫的、邋遢的"
+      },
+      {
+        "jp": "乏しい",
+        "romaji": "toboshii",
+        "kana": "とぼしい",
+        "pos": "I-adjective",
+        "meaning": "貧乏的、缺乏的"
+      },
+      {
+        "jp": "懐かしい",
+        "romaji": "natsukashii",
+        "kana": "なつかしい",
+        "pos": "I-adjective",
+        "meaning": "令人懷念的"
+      },
+      {
+        "jp": "鈍い",
+        "romaji": "nibui",
+        "kana": "にぶい",
+        "pos": "I-adjective",
+        "meaning": "遲鈍的、鈍的"
+      },
+      {
+        "jp": "激しい",
+        "romaji": "hageshii",
+        "kana": "はげしい",
+        "pos": "I-adjective",
+        "meaning": "激烈的、劇烈的"
+      },
+      {
+        "jp": "等しい",
+        "romaji": "hitoshii",
+        "kana": "ひとしい",
+        "pos": "I-adjective",
+        "meaning": "相等的、同等的"
+      },
+      {
+        "jp": "貧しい",
+        "romaji": "mazushii",
+        "kana": "まずしい",
+        "pos": "I-adjective",
+        "meaning": "貧窮的"
+      },
+      {
+        "jp": "眩しい",
+        "romaji": "mabushii",
+        "kana": "まぶしい",
+        "pos": "I-adjective",
+        "meaning": "刺眼的、耀眼的"
+      },
+      {
+        "jp": "珍しい",
+        "romaji": "mezurashii",
+        "kana": "めずらしい",
+        "pos": "I-adjective",
+        "meaning": "罕見的、珍奇的"
+      },
+      {
+        "jp": "もったいない",
+        "romaji": "mottainai",
+        "kana": "もったいない",
+        "pos": "I-adjective",
+        "meaning": "浪費的、可惜的"
+      },
+      {
+        "jp": "喧しい",
+        "romaji": "yakamashii",
+        "kana": "やかましい",
+        "pos": "I-adjective",
+        "meaning": "吵鬧的、繁瑣的"
+      },
+      {
+        "jp": "易しい",
+        "romaji": "yasashii",
+        "kana": "やさしい",
+        "pos": "I-adjective",
+        "meaning": "簡單的、容易的"
+      },
+      {
+        "jp": "優しい",
+        "romaji": "yasashii",
+        "kana": "やさしい",
+        "pos": "I-adjective",
+        "meaning": "溫柔的、親切的"
+      },
+      {
+        "jp": "緩い",
+        "romaji": "yurui",
+        "kana": "ゆるい",
+        "pos": "I-adjective",
+        "meaning": "鬆的、緩慢的"
+      },
+      {
+        "jp": "若々しい",
+        "romaji": "wakawakashii",
+        "kana": "わかわかしい",
+        "pos": "I-adjective",
+        "meaning": "年輕的、朝氣蓬勃的"
+      },
+      {
+        "jp": "憎らしい",
+        "romaji": "nikurashii",
+        "kana": "にくらしい",
+        "pos": "I-adjective",
+        "meaning": "可憎的、討厭的"
       }
     ],
     "grammar": [
