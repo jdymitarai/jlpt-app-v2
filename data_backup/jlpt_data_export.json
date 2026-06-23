@@ -4802,6 +4802,216 @@
         "kana": "ゆっくり",
         "pos": "Adverb",
         "meaning": "慢慢地、充裕地"
+      },
+      {
+        "jp": "お引き受けいたします",
+        "romaji": "ohikiukeitashimasu",
+        "kana": "おひきうけいたします",
+        "pos": "Expression",
+        "meaning": "我接受這份委託（「引き受ける」的謙讓語）"
+      },
+      {
+        "jp": "ご査収ください",
+        "romaji": "gosashuukudasai",
+        "kana": "ごさしゅうください",
+        "pos": "Expression",
+        "meaning": "請查收（附件、文件等）"
+      },
+      {
+        "jp": "ご教示ください",
+        "romaji": "gokyoujikudasai",
+        "kana": "ごきょうじください",
+        "pos": "Expression",
+        "meaning": "請賜教、請指點（尋求建議或指導）"
+      },
+      {
+        "jp": "ご足労をおかけします",
+        "romaji": "gosokurouookakeshimasu",
+        "kana": "ごそくろうをおかけします",
+        "pos": "Expression",
+        "meaning": "勞駕您跑一趟、讓您受累了（對來訪者說）"
+      },
+      {
+        "jp": "お力添え",
+        "romaji": "ochikarazoe",
+        "kana": "おちからぞえ",
+        "pos": "Noun",
+        "meaning": "協助、幫忙（請求對方協助時用「お力添えをお願いいたします」）"
+      },
+      {
+        "jp": "不調法者",
+        "romaji": "buchouhoumono",
+        "kana": "ぶちょうほうもの",
+        "pos": "Noun",
+        "meaning": "粗心大意的人、才疏學淺的人（自謙用語）"
+      },
+      {
+        "jp": "存じております",
+        "romaji": "zonjiteorimasu",
+        "kana": "ぞんじております",
+        "pos": "Expression",
+        "meaning": "我知道、我認識（「知っている」的謙讓語）"
+      },
+      {
+        "jp": "ご高察",
+        "romaji": "gokousatsu",
+        "kana": "ごこうさつ",
+        "pos": "Noun",
+        "meaning": "您的明察、您的體諒"
+      },
+      {
+        "jp": "ご健勝",
+        "romaji": "gokenshou",
+        "kana": "ごけんしょう",
+        "pos": "Noun",
+        "meaning": "您的健康（用於信件開頭的問候語）"
+      },
+      {
+        "jp": "ご多幸",
+        "romaji": "gotakou",
+        "kana": "ごたこう",
+        "pos": "Noun",
+        "meaning": "您的幸福（常用於祝賀或結尾）"
+      },
+      {
+        "jp": "承知いたしました",
+        "romaji": "shouchiitashimashita",
+        "kana": "しょうちいたしました",
+        "pos": "Expression",
+        "meaning": "我知道了、我明白了（「わかる」「引き受ける」的謙讓語）"
+      },
+      {
+        "jp": "かしこまりました",
+        "romaji": "kashikomarimashita",
+        "kana": "かしこまりました",
+        "pos": "Expression",
+        "meaning": "我知道了（更為恭敬的說法，常用於服務業）"
+      },
+      {
+        "jp": "申し訳ございません",
+        "romaji": "moushiwakegozaimasen",
+        "kana": "もうしわけございません",
+        "pos": "Expression",
+        "meaning": "非常抱歉（「ごめんなさい」的鄭重說法）"
+      },
+      {
+        "jp": "お詫び申し上げます",
+        "romaji": "owabimoushiagemasu",
+        "kana": "おわびもうしあげます",
+        "pos": "Expression",
+        "meaning": "致上歉意"
+      },
+      {
+        "jp": "恐縮ですが",
+        "romaji": "kyoushukudesuga",
+        "kana": "きょうしゅくですが",
+        "pos": "Expression",
+        "meaning": "很抱歉、不好意思（請託或婉拒前的開場白）"
+      },
+      {
+        "jp": "お手数をおかけします",
+        "romaji": "otesuuookakeshimasu",
+        "kana": "おてすうをおかけします",
+        "pos": "Expression",
+        "meaning": "給您添麻煩了"
+      },
+      {
+        "jp": "お気遣いなく",
+        "romaji": "okidukainaku",
+        "kana": "おきづかいなく",
+        "pos": "Expression",
+        "meaning": "請別費心、請別客氣"
+      },
+      {
+        "jp": "ご厚意",
+        "romaji": "gokoui",
+        "kana": "ごこうい",
+        "pos": "Noun",
+        "meaning": "您的好意、厚意"
+      },
+      {
+        "jp": "ご無沙汰しております",
+        "romaji": "gobusatashiteorimasu",
+        "kana": "ごぶさたしております",
+        "pos": "Expression",
+        "meaning": "好久不見（「お久しぶりです」的鄭重說法）"
+      },
+      {
+        "jp": "いかがいたしましょうか",
+        "romaji": "ikagaitashimashouka",
+        "kana": "いかがいたしましょうか",
+        "pos": "Expression",
+        "meaning": "該怎麼辦呢？您意下如何？（「どうしましょうか」的鄭重說法）"
+      },
+      {
+        "jp": "おっしゃる通りです",
+        "romaji": "ossharutooridesu",
+        "kana": "おっしゃるとおりです",
+        "pos": "Expression",
+        "meaning": "正如您所說（「言う」的尊敬語）"
+      },
+      {
+        "jp": "拝受いたしました",
+        "romaji": "haijuitashimashita",
+        "kana": "はいじゅいたしました",
+        "pos": "Expression",
+        "meaning": "我已經收到了（「受け取る」的謙讓語）"
+      },
+      {
+        "jp": "ご返送ください",
+        "romaji": "gohensoukudasai",
+        "kana": "ごへんそうください",
+        "pos": "Expression",
+        "meaning": "請寄回"
+      },
+      {
+        "jp": "お申し付けください",
+        "romaji": "omoushitsukekudasai",
+        "kana": "おもうしつけください",
+        "pos": "Expression",
+        "meaning": "請隨時吩咐（「命令する」「言う」的謙讓語被動型態）"
+      },
+      {
+        "jp": "ご用命",
+        "romaji": "goyoumei",
+        "kana": "ごようめい",
+        "pos": "Noun",
+        "meaning": "您的吩咐、您的訂購"
+      },
+      {
+        "jp": "手前ども",
+        "romaji": "temaedomo",
+        "kana": "てまえども",
+        "pos": "Noun",
+        "meaning": "我們、敝公司（自謙用語）"
+      },
+      {
+        "jp": "御社",
+        "romaji": "onsha",
+        "kana": "おんしゃ",
+        "pos": "Noun",
+        "meaning": "貴公司（口語對話時使用）"
+      },
+      {
+        "jp": "貴社",
+        "romaji": "kisha",
+        "kana": "きしゃ",
+        "pos": "Noun",
+        "meaning": "貴公司（書面信件時使用）"
+      },
+      {
+        "jp": "弊社",
+        "romaji": "heisha",
+        "kana": "へいしゃ",
+        "pos": "Noun",
+        "meaning": "敝公司（自謙用語）"
+      },
+      {
+        "jp": "折り返し",
+        "romaji": "orikaeshi",
+        "kana": "おりかえし",
+        "pos": "Adverb",
+        "meaning": "立刻、馬上（回電或回信）"
       }
     ],
     "grammar": [
