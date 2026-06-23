@@ -1652,6 +1652,216 @@
         "kana": "かせぐ",
         "pos": "Transitive verb",
         "meaning": "賺錢、爭取(時間等)"
+      },
+      {
+        "jp": "慌ただしい",
+        "romaji": "awatadashii",
+        "kana": "あわただしい",
+        "pos": "I-adjective",
+        "meaning": "匆忙的、慌張的"
+      },
+      {
+        "jp": "著しい",
+        "romaji": "ichijirushii",
+        "kana": "いちじるしい",
+        "pos": "I-adjective",
+        "meaning": "顯著的、明顯的"
+      },
+      {
+        "jp": "卑しい",
+        "romaji": "iyashii",
+        "kana": "いやしい",
+        "pos": "I-adjective",
+        "meaning": "卑賤的、下流的"
+      },
+      {
+        "jp": "惜しい",
+        "romaji": "oshii",
+        "kana": "おしい",
+        "pos": "I-adjective",
+        "meaning": "可惜的、遺憾的"
+      },
+      {
+        "jp": "恐ろしい",
+        "romaji": "osoroshii",
+        "kana": "おそろしい",
+        "pos": "I-adjective",
+        "meaning": "可怕的、令人畏懼的"
+      },
+      {
+        "jp": "喧しい",
+        "romaji": "yakamashii",
+        "kana": "やかましい",
+        "pos": "I-adjective",
+        "meaning": "吵鬧的、繁瑣的、嚴格的"
+      },
+      {
+        "jp": "図々しい",
+        "romaji": "zuuzuushii",
+        "kana": "ずうずうしい",
+        "pos": "I-adjective",
+        "meaning": "厚顏無恥的、厚臉皮的"
+      },
+      {
+        "jp": "騒がしい",
+        "romaji": "sawagashii",
+        "kana": "さわがしい",
+        "pos": "I-adjective",
+        "meaning": "吵鬧的、騷動的"
+      },
+      {
+        "jp": "たくましい",
+        "romaji": "takumashii",
+        "kana": "たくましい",
+        "pos": "I-adjective",
+        "meaning": "健壯的、魁梧的"
+      },
+      {
+        "jp": "頼もしい",
+        "romaji": "tanomoshii",
+        "kana": "たのもしい",
+        "pos": "I-adjective",
+        "meaning": "可靠的、大有可為的"
+      },
+      {
+        "jp": "情けない",
+        "romaji": "nasakenai",
+        "kana": "なさけない",
+        "pos": "I-adjective",
+        "meaning": "可悲的、丟臉的、無情的"
+      },
+      {
+        "jp": "悩ましい",
+        "romaji": "nayamashii",
+        "kana": "なやましい",
+        "pos": "I-adjective",
+        "meaning": "苦惱的、迷人的"
+      },
+      {
+        "jp": "望ましい",
+        "romaji": "nozomashii",
+        "kana": "のぞましい",
+        "pos": "I-adjective",
+        "meaning": "理想的、符合期望的"
+      },
+      {
+        "jp": "馬鹿らしい",
+        "romaji": "bakarashii",
+        "kana": "ばからしい",
+        "pos": "I-adjective",
+        "meaning": "愚蠢的、無聊的"
+      },
+      {
+        "jp": "ふさわしい",
+        "romaji": "fusawashii",
+        "kana": "ふさわしい",
+        "pos": "I-adjective",
+        "meaning": "適合的、相稱的"
+      },
+      {
+        "jp": "紛らわしい",
+        "romaji": "magirawashii",
+        "kana": "まぎらわしい",
+        "pos": "I-adjective",
+        "meaning": "容易混淆的、模糊不清的"
+      },
+      {
+        "jp": "見苦しい",
+        "romaji": "migurushii",
+        "kana": "みぐるしい",
+        "pos": "I-adjective",
+        "meaning": "難看的、有失體統的"
+      },
+      {
+        "jp": "むなしい",
+        "romaji": "munashii",
+        "kana": "むなしい",
+        "pos": "I-adjective",
+        "meaning": "空虛的、徒勞的"
+      },
+      {
+        "jp": "もったいない",
+        "romaji": "mottainai",
+        "kana": "もったいない",
+        "pos": "I-adjective",
+        "meaning": "太可惜了、浪費的"
+      },
+      {
+        "jp": "やむを得ない",
+        "romaji": "yamuwoenai",
+        "kana": "やむをえない",
+        "pos": "I-adjective",
+        "meaning": "迫不得已的、無可奈何的"
+      },
+      {
+        "jp": "容易だ",
+        "romaji": "youida",
+        "kana": "よういだ",
+        "pos": "Na-adjective",
+        "meaning": "容易的、簡單的"
+      },
+      {
+        "jp": "豊かな",
+        "romaji": "yutakana",
+        "kana": "ゆたかな",
+        "pos": "Na-adjective",
+        "meaning": "豐富的、富裕的"
+      },
+      {
+        "jp": "厄介な",
+        "romaji": "yakkaina",
+        "kana": "やっかいな",
+        "pos": "Na-adjective",
+        "meaning": "麻煩的、難對付的"
+      },
+      {
+        "jp": "残酷な",
+        "romaji": "zankokuna",
+        "kana": "ざんこくな",
+        "pos": "Na-adjective",
+        "meaning": "殘酷的、慘忍的"
+      },
+      {
+        "jp": "新鮮な",
+        "romaji": "shinsenna",
+        "kana": "しんせんな",
+        "pos": "Na-adjective",
+        "meaning": "新鮮的"
+      },
+      {
+        "jp": "深刻な",
+        "romaji": "shinkokuna",
+        "kana": "しんこくな",
+        "pos": "Na-adjective",
+        "meaning": "深刻的、嚴重的"
+      },
+      {
+        "jp": "慎重な",
+        "romaji": "shinchouna",
+        "kana": "しんちょうな",
+        "pos": "Na-adjective",
+        "meaning": "慎重的、謹慎的"
+      },
+      {
+        "jp": "退屈な",
+        "romaji": "taikutsuna",
+        "kana": "たいくつな",
+        "pos": "Na-adjective, Noun",
+        "meaning": "無聊的、倦怠的"
+      },
+      {
+        "jp": "でたらめな",
+        "romaji": "detaramena",
+        "kana": "でたらめな",
+        "pos": "Na-adjective, Noun",
+        "meaning": "胡說八道的、荒唐的"
+      },
+      {
+        "jp": "生意気な",
+        "romaji": "namaikina",
+        "kana": "なまいきな",
+        "pos": "Na-adjective, Noun",
+        "meaning": "傲慢的、自大的"
       }
     ],
     "grammar": [
