@@ -2492,6 +2492,216 @@
         "kana": "わざわざ",
         "pos": "Adverb",
         "meaning": "特地、專程"
+      },
+      {
+        "jp": "憧れ",
+        "romaji": "akogare",
+        "kana": "あこがれ",
+        "pos": "Noun",
+        "meaning": "憧憬、嚮往"
+      },
+      {
+        "jp": "甘え",
+        "romaji": "amae",
+        "kana": "あまえ",
+        "pos": "Noun",
+        "meaning": "撒嬌、依賴"
+      },
+      {
+        "jp": "歩み",
+        "romaji": "ayumi",
+        "kana": "あゆみ",
+        "pos": "Noun",
+        "meaning": "腳步、進展、歷史"
+      },
+      {
+        "jp": "勢い",
+        "romaji": "ikioi",
+        "kana": "いきおい",
+        "pos": "Noun",
+        "meaning": "氣勢、趨勢"
+      },
+      {
+        "jp": "偽り",
+        "romaji": "itsuwari",
+        "kana": "いつわり",
+        "pos": "Noun",
+        "meaning": "虛偽、謊言"
+      },
+      {
+        "jp": "訴え",
+        "romaji": "uttae",
+        "kana": "うったえ",
+        "pos": "Noun",
+        "meaning": "訴訟、呼籲"
+      },
+      {
+        "jp": "潤い",
+        "romaji": "uruoi",
+        "kana": "うるおい",
+        "pos": "Noun",
+        "meaning": "滋潤、情趣"
+      },
+      {
+        "jp": "老い",
+        "romaji": "oi",
+        "kana": "おい",
+        "pos": "Noun",
+        "meaning": "衰老、老年"
+      },
+      {
+        "jp": "衰え",
+        "romaji": "otoroe",
+        "kana": "おとろえ",
+        "pos": "Noun",
+        "meaning": "衰退、虛弱"
+      },
+      {
+        "jp": "思いやり",
+        "romaji": "omoiyari",
+        "kana": "おもいやり",
+        "pos": "Noun",
+        "meaning": "體貼、同情心"
+      },
+      {
+        "jp": "輝き",
+        "romaji": "kagayaki",
+        "kana": "かがやき",
+        "pos": "Noun",
+        "meaning": "光輝、閃耀"
+      },
+      {
+        "jp": "偏り",
+        "romaji": "katayori",
+        "kana": "かたより",
+        "pos": "Noun",
+        "meaning": "偏頗、不平衡"
+      },
+      {
+        "jp": "企み",
+        "romaji": "takurami",
+        "kana": "たくらみ",
+        "pos": "Noun",
+        "meaning": "企圖、陰謀"
+      },
+      {
+        "jp": "ためらい",
+        "romaji": "tamerai",
+        "kana": "ためらい",
+        "pos": "Noun",
+        "meaning": "猶豫、躊躇"
+      },
+      {
+        "jp": "契り",
+        "romaji": "chigiri",
+        "kana": "ちぎり",
+        "pos": "Noun",
+        "meaning": "誓約、良緣"
+      },
+      {
+        "jp": "償い",
+        "romaji": "tsugunai",
+        "kana": "つぐない",
+        "pos": "Noun",
+        "meaning": "補償、贖罪"
+      },
+      {
+        "jp": "戸惑い",
+        "romaji": "tomadoi",
+        "kana": "とまどい",
+        "pos": "Noun",
+        "meaning": "困惑、不知所措"
+      },
+      {
+        "jp": "嘆き",
+        "romaji": "nageki",
+        "kana": "なげき",
+        "pos": "Noun",
+        "meaning": "嘆息、悲嘆"
+      },
+      {
+        "jp": "憎しみ",
+        "romaji": "nikushimi",
+        "kana": "にくしみ",
+        "pos": "Noun",
+        "meaning": "憎恨、仇恨"
+      },
+      {
+        "jp": "願い",
+        "romaji": "negai",
+        "kana": "ねがい",
+        "pos": "Noun",
+        "meaning": "心願、請求"
+      },
+      {
+        "jp": "誇り",
+        "romaji": "hokori",
+        "kana": "ほこり",
+        "pos": "Noun",
+        "meaning": "驕傲、自豪"
+      },
+      {
+        "jp": "滅び",
+        "romaji": "horobi",
+        "kana": "ほろび",
+        "pos": "Noun",
+        "meaning": "滅亡、毀滅"
+      },
+      {
+        "jp": "惑い",
+        "romaji": "madoi",
+        "kana": "まどい",
+        "pos": "Noun",
+        "meaning": "迷惑、迷惘"
+      },
+      {
+        "jp": "恵み",
+        "romaji": "megumi",
+        "kana": "めぐみ",
+        "pos": "Noun",
+        "meaning": "恩惠、施捨"
+      },
+      {
+        "jp": "安らぎ",
+        "romaji": "yasuragi",
+        "kana": "やすらぎ",
+        "pos": "Noun",
+        "meaning": "安詳、平靜"
+      },
+      {
+        "jp": "喜び",
+        "romaji": "yorokobi",
+        "kana": "よろこび",
+        "pos": "Noun",
+        "meaning": "喜悅、高興"
+      },
+      {
+        "jp": "兆し",
+        "romaji": "kizashi",
+        "kana": "きざし",
+        "pos": "Noun",
+        "meaning": "徵兆、前兆"
+      },
+      {
+        "jp": "戒め",
+        "romaji": "imashime",
+        "kana": "いましめ",
+        "pos": "Noun",
+        "meaning": "教訓、懲戒"
+      },
+      {
+        "jp": "装い",
+        "romaji": "yosooi",
+        "kana": "よそおい",
+        "pos": "Noun",
+        "meaning": "裝扮、服飾"
+      },
+      {
+        "jp": "償い",
+        "romaji": "tsugunai",
+        "kana": "つぐない",
+        "pos": "Noun",
+        "meaning": "補償、賠償"
       }
     ],
     "grammar": [
