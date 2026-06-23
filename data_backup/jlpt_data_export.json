@@ -5642,6 +5642,216 @@
         "kana": "ねもはもない",
         "pos": "Idiom",
         "meaning": "毫無根據、空穴來風"
+      },
+      {
+        "jp": "悪戦苦闘",
+        "romaji": "akusenkutou",
+        "kana": "あくせんくとう",
+        "pos": "Noun",
+        "meaning": "陷入苦戰、奮力拚搏"
+      },
+      {
+        "jp": "異口同音",
+        "romaji": "ikudouon",
+        "kana": "いくどうおん",
+        "pos": "Noun",
+        "meaning": "異口同聲"
+      },
+      {
+        "jp": "一網打尽",
+        "romaji": "ichimoudajin",
+        "kana": "いちもうだじん",
+        "pos": "Noun",
+        "meaning": "一網打盡"
+      },
+      {
+        "jp": "一喜一憂",
+        "romaji": "ikkiichiyuu",
+        "kana": "いっきいちゆう",
+        "pos": "Noun",
+        "meaning": "時喜時憂、心情起伏不定"
+      },
+      {
+        "jp": "意味深長",
+        "romaji": "imishinchou",
+        "kana": "いみしんちょう",
+        "pos": "Noun",
+        "meaning": "意味深長"
+      },
+      {
+        "jp": "海千山千",
+        "romaji": "umisenyamasen",
+        "kana": "うみせんやません",
+        "pos": "Noun",
+        "meaning": "老奸巨猾、見多識廣"
+      },
+      {
+        "jp": "岡目八目",
+        "romaji": "okamehachimoku",
+        "kana": "おかめはちもく",
+        "pos": "Noun",
+        "meaning": "旁觀者清"
+      },
+      {
+        "jp": "音信不通",
+        "romaji": "onshinfutsuu",
+        "kana": "おんしんふつう",
+        "pos": "Noun",
+        "meaning": "音訊全無、失聯"
+      },
+      {
+        "jp": "花鳥風月",
+        "romaji": "kachoufuugetsu",
+        "kana": "かちょうふうげつ",
+        "pos": "Noun",
+        "meaning": "花鳥風月（指美麗的自然景色）"
+      },
+      {
+        "jp": "画竜点睛",
+        "romaji": "garyoutensei",
+        "kana": "がりょうてんせい",
+        "pos": "Noun",
+        "meaning": "畫龍點睛"
+      },
+      {
+        "jp": "疑心暗鬼",
+        "romaji": "gishinanki",
+        "kana": "ぎしんあんき",
+        "pos": "Noun",
+        "meaning": "疑神疑鬼"
+      },
+      {
+        "jp": "古今東西",
+        "romaji": "kokontouzai",
+        "kana": "ここんとうざい",
+        "pos": "Noun",
+        "meaning": "古今中外"
+      },
+      {
+        "jp": "言語道断",
+        "romaji": "gongodoudan",
+        "kana": "ごんごどうだん",
+        "pos": "Noun",
+        "meaning": "荒謬透頂、不可理喻"
+      },
+      {
+        "jp": "五里霧中",
+        "romaji": "gorimuchuu",
+        "kana": "ごりむちゅう",
+        "pos": "Noun",
+        "meaning": "五里霧中、毫無頭緒"
+      },
+      {
+        "jp": "自給自足",
+        "romaji": "jikyuujisoku",
+        "kana": "じきゅうじそく",
+        "pos": "Noun",
+        "meaning": "自給自足"
+      },
+      {
+        "jp": "質実剛健",
+        "romaji": "shitsujitsugouken",
+        "kana": "しつじつごうけん",
+        "pos": "Noun",
+        "meaning": "質樸剛健、樸實無華且堅強"
+      },
+      {
+        "jp": "順風満帆",
+        "romaji": "junpuumanpan",
+        "kana": "じゅんぷうまんぱん",
+        "pos": "Noun",
+        "meaning": "一帆風順"
+      },
+      {
+        "jp": "心機一転",
+        "romaji": "shinkiitten",
+        "kana": "しんきいってん",
+        "pos": "Noun",
+        "meaning": "轉換心情、重新出發"
+      },
+      {
+        "jp": "晴天の霹靂",
+        "romaji": "seitennohekireki",
+        "kana": "せいてんのへきれき",
+        "pos": "Noun",
+        "meaning": "晴天霹靂"
+      },
+      {
+        "jp": "絶体絶命",
+        "romaji": "zettaizetsumei",
+        "kana": "ぜったいぜつめい",
+        "pos": "Noun",
+        "meaning": "走投無路、窮途末路"
+      },
+      {
+        "jp": "前代未聞",
+        "romaji": "zendaimimon",
+        "kana": "ぜんだいみもん",
+        "pos": "Noun",
+        "meaning": "前所未聞"
+      },
+      {
+        "jp": "大義名分",
+        "romaji": "taigimeibun",
+        "kana": "たいぎめいぶん",
+        "pos": "Noun",
+        "meaning": "名正言順的理由、正當藉口"
+      },
+      {
+        "jp": "単刀直入",
+        "romaji": "tantouchokunyuu",
+        "kana": "たんとうちょくにゅう",
+        "pos": "Noun",
+        "meaning": "單刀直入、開門見山"
+      },
+      {
+        "jp": "猪突猛進",
+        "romaji": "chototsumoushin",
+        "kana": "ちょとつもうしん",
+        "pos": "Noun",
+        "meaning": "不顧一切地往前衝（像野豬一樣）"
+      },
+      {
+        "jp": "徹頭徹尾",
+        "romaji": "tettoutetsubi",
+        "kana": "てっとうてつび",
+        "pos": "Noun",
+        "meaning": "徹頭徹尾、自始至終"
+      },
+      {
+        "jp": "電光石火",
+        "romaji": "denkousekka",
+        "kana": "でんこうせっか",
+        "pos": "Noun",
+        "meaning": "電光石火、行動非常迅速"
+      },
+      {
+        "jp": "二束三文",
+        "romaji": "nisokusanmon",
+        "kana": "にそくさんもん",
+        "pos": "Noun",
+        "meaning": "賤價、一文不值"
+      },
+      {
+        "jp": "馬耳東風",
+        "romaji": "bajitoufuu",
+        "kana": "ばじとうふう",
+        "pos": "Noun",
+        "meaning": "馬耳東風、把別人的話當耳邊風"
+      },
+      {
+        "jp": "半信半疑",
+        "romaji": "hanshinhangi",
+        "kana": "はんしんはんぎ",
+        "pos": "Noun",
+        "meaning": "半信半疑"
+      },
+      {
+        "jp": "臨機応変",
+        "romaji": "rinkiouhen",
+        "kana": "りんきおうへん",
+        "pos": "Noun",
+        "meaning": "臨機應變"
       }
     ],
     "grammar": [
