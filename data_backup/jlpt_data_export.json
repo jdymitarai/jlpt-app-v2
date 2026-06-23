@@ -1862,6 +1862,216 @@
         "kana": "なまいきな",
         "pos": "Na-adjective, Noun",
         "meaning": "傲慢的、自大的"
+      },
+      {
+        "jp": "挨拶",
+        "romaji": "aisatsu",
+        "kana": "あいさつ",
+        "pos": "Noun, Suru verb",
+        "meaning": "打招呼、問候"
+      },
+      {
+        "jp": "間",
+        "romaji": "aida",
+        "kana": "あいだ",
+        "pos": "Noun",
+        "meaning": "之間、期間"
+      },
+      {
+        "jp": "赤ちゃん",
+        "romaji": "akachan",
+        "kana": "あかちゃん",
+        "pos": "Noun",
+        "meaning": "嬰兒"
+      },
+      {
+        "jp": "味",
+        "romaji": "aji",
+        "kana": "あじ",
+        "pos": "Noun",
+        "meaning": "味道、口味"
+      },
+      {
+        "jp": "明日",
+        "romaji": "ashita",
+        "kana": "あした",
+        "pos": "Noun",
+        "meaning": "明天"
+      },
+      {
+        "jp": "案内",
+        "romaji": "annai",
+        "kana": "あんない",
+        "pos": "Noun, Suru verb",
+        "meaning": "帶路、引導、通知"
+      },
+      {
+        "jp": "家",
+        "romaji": "ie",
+        "kana": "いえ",
+        "pos": "Noun",
+        "meaning": "家、房子"
+      },
+      {
+        "jp": "医者",
+        "romaji": "isha",
+        "kana": "いしゃ",
+        "pos": "Noun",
+        "meaning": "醫生"
+      },
+      {
+        "jp": "意味",
+        "romaji": "imi",
+        "kana": "いみ",
+        "pos": "Noun, Suru verb",
+        "meaning": "意思、意義"
+      },
+      {
+        "jp": "色",
+        "romaji": "iro",
+        "kana": "いろ",
+        "pos": "Noun",
+        "meaning": "顏色"
+      },
+      {
+        "jp": "上",
+        "romaji": "ue",
+        "kana": "うえ",
+        "pos": "Noun",
+        "meaning": "上面"
+      },
+      {
+        "jp": "後ろ",
+        "romaji": "ushiro",
+        "kana": "うしろ",
+        "pos": "Noun",
+        "meaning": "後面"
+      },
+      {
+        "jp": "嘘",
+        "romaji": "uso",
+        "kana": "うそ",
+        "pos": "Noun",
+        "meaning": "謊言"
+      },
+      {
+        "jp": "歌",
+        "romaji": "uta",
+        "kana": "うた",
+        "pos": "Noun",
+        "meaning": "歌曲"
+      },
+      {
+        "jp": "海",
+        "romaji": "umi",
+        "kana": "うみ",
+        "pos": "Noun",
+        "meaning": "海、海洋"
+      },
+      {
+        "jp": "駅",
+        "romaji": "eki",
+        "kana": "えき",
+        "pos": "Noun",
+        "meaning": "車站"
+      },
+      {
+        "jp": "お金",
+        "romaji": "okane",
+        "kana": "おかね",
+        "pos": "Noun",
+        "meaning": "錢、金錢"
+      },
+      {
+        "jp": "お客さん",
+        "romaji": "okyakusan",
+        "kana": "おきゃくさん",
+        "pos": "Noun",
+        "meaning": "客人、顧客"
+      },
+      {
+        "jp": "音",
+        "romaji": "oto",
+        "kana": "おと",
+        "pos": "Noun",
+        "meaning": "聲音"
+      },
+      {
+        "jp": "お祭り",
+        "romaji": "omatsuri",
+        "kana": "おまつり",
+        "pos": "Noun",
+        "meaning": "祭典、節日"
+      },
+      {
+        "jp": "お土産",
+        "romaji": "omiyage",
+        "kana": "おみやげ",
+        "pos": "Noun",
+        "meaning": "伴手禮、土產"
+      },
+      {
+        "jp": "思い出",
+        "romaji": "omoide",
+        "kana": "おもいで",
+        "pos": "Noun",
+        "meaning": "回憶"
+      },
+      {
+        "jp": "買い物",
+        "romaji": "kaimono",
+        "kana": "かいもの",
+        "pos": "Noun",
+        "meaning": "買東西、購物"
+      },
+      {
+        "jp": "会社",
+        "romaji": "kaisha",
+        "kana": "かいしゃ",
+        "pos": "Noun",
+        "meaning": "公司"
+      },
+      {
+        "jp": "鍵",
+        "romaji": "kagi",
+        "kana": "かぎ",
+        "pos": "Noun",
+        "meaning": "鑰匙"
+      },
+      {
+        "jp": "学生",
+        "romaji": "gakusei",
+        "kana": "がくせい",
+        "pos": "Noun",
+        "meaning": "學生"
+      },
+      {
+        "jp": "傘",
+        "romaji": "kasa",
+        "kana": "かさ",
+        "pos": "Noun",
+        "meaning": "雨傘"
+      },
+      {
+        "jp": "風",
+        "romaji": "kaze",
+        "kana": "かぜ",
+        "pos": "Noun",
+        "meaning": "風"
+      },
+      {
+        "jp": "風邪",
+        "romaji": "kaze",
+        "kana": "かぜ",
+        "pos": "Noun",
+        "meaning": "感冒"
+      },
+      {
+        "jp": "家族",
+        "romaji": "kazoku",
+        "kana": "かぞく",
+        "pos": "Noun",
+        "meaning": "家人、家族"
       }
     ],
     "grammar": [
