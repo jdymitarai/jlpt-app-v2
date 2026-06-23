@@ -2282,6 +2282,216 @@
         "kana": "くれる",
         "pos": "Intransitive verb",
         "meaning": "天黑、日暮"
+      },
+      {
+        "jp": "あえて",
+        "romaji": "aete",
+        "kana": "あえて",
+        "pos": "Adverb",
+        "meaning": "敢於、硬是"
+      },
+      {
+        "jp": "あくまで",
+        "romaji": "akumade",
+        "kana": "あくまで",
+        "pos": "Adverb",
+        "meaning": "到底、始終、徹底"
+      },
+      {
+        "jp": "あらかじめ",
+        "romaji": "arakajime",
+        "kana": "あらかじめ",
+        "pos": "Adverb",
+        "meaning": "事先、預先"
+      },
+      {
+        "jp": "案の定",
+        "romaji": "annojou",
+        "kana": "あんのじょう",
+        "pos": "Adverb",
+        "meaning": "果然、果不出所料"
+      },
+      {
+        "jp": "いかにも",
+        "romaji": "ikanimo",
+        "kana": "いかにも",
+        "pos": "Adverb",
+        "meaning": "的確、簡直、實在是"
+      },
+      {
+        "jp": "いちいち",
+        "romaji": "ichiichi",
+        "kana": "いちいち",
+        "pos": "Adverb",
+        "meaning": "逐一、一一、囉唆"
+      },
+      {
+        "jp": "一応",
+        "romaji": "ichiou",
+        "kana": "いちおう",
+        "pos": "Adverb",
+        "meaning": "姑且、暫且、大致"
+      },
+      {
+        "jp": "一向に",
+        "romaji": "ikkouni",
+        "kana": "いっこうに",
+        "pos": "Adverb",
+        "meaning": "完全不...、一點也不... (接否定)"
+      },
+      {
+        "jp": "思い切って",
+        "romaji": "omoikitte",
+        "kana": "おもいきって",
+        "pos": "Adverb",
+        "meaning": "毅然決然地、索性"
+      },
+      {
+        "jp": "およそ",
+        "romaji": "oyoso",
+        "kana": "およそ",
+        "pos": "Adverb",
+        "meaning": "大約、大概"
+      },
+      {
+        "jp": "かえって",
+        "romaji": "kaette",
+        "kana": "かえって",
+        "pos": "Adverb",
+        "meaning": "反而、反倒"
+      },
+      {
+        "jp": "必ずしも",
+        "romaji": "kanarazushimo",
+        "kana": "かならずしも",
+        "pos": "Adverb",
+        "meaning": "未必、不一定 (接否定)"
+      },
+      {
+        "jp": "かろうじて",
+        "romaji": "karoujite",
+        "kana": "かろうじて",
+        "pos": "Adverb",
+        "meaning": "好不容易才...、勉強..."
+      },
+      {
+        "jp": "極めて",
+        "romaji": "kiwamete",
+        "kana": "きわめて",
+        "pos": "Adverb",
+        "meaning": "極其、非常"
+      },
+      {
+        "jp": "強いて",
+        "romaji": "shiite",
+        "kana": "しいて",
+        "pos": "Adverb",
+        "meaning": "硬要、勉強"
+      },
+      {
+        "jp": "せめて",
+        "romaji": "semete",
+        "kana": "せめて",
+        "pos": "Adverb",
+        "meaning": "至少、哪怕是"
+      },
+      {
+        "jp": "たいして",
+        "romaji": "taishite",
+        "kana": "たいして",
+        "pos": "Adverb",
+        "meaning": "並不怎麼... (接否定)"
+      },
+      {
+        "jp": "たちまち",
+        "romaji": "tachimachi",
+        "kana": "たちまち",
+        "pos": "Adverb",
+        "meaning": "轉瞬間、立刻"
+      },
+      {
+        "jp": "とうてい",
+        "romaji": "toutei",
+        "kana": "とうてい",
+        "pos": "Adverb",
+        "meaning": "無論如何也...、怎麼也... (接否定)"
+      },
+      {
+        "jp": "どうにか",
+        "romaji": "dounika",
+        "kana": "どうにか",
+        "pos": "Adverb",
+        "meaning": "總算、設法"
+      },
+      {
+        "jp": "どうやら",
+        "romaji": "douyara",
+        "kana": "どうやら",
+        "pos": "Adverb",
+        "meaning": "彷彿、多半、總算"
+      },
+      {
+        "jp": "とっくに",
+        "romaji": "tokkuni",
+        "kana": "とっくに",
+        "pos": "Adverb",
+        "meaning": "早就、老早"
+      },
+      {
+        "jp": "とりあえず",
+        "romaji": "toriaezu",
+        "kana": "とりあえず",
+        "pos": "Adverb",
+        "meaning": "總之、暫且、首先"
+      },
+      {
+        "jp": "なかなかに",
+        "romaji": "nakanakani",
+        "kana": "なかなかに",
+        "pos": "Adverb",
+        "meaning": "相當、很"
+      },
+      {
+        "jp": "はたして",
+        "romaji": "hatashite",
+        "kana": "はたして",
+        "pos": "Adverb",
+        "meaning": "果然、到底 (常接疑問)"
+      },
+      {
+        "jp": "ばったり",
+        "romaji": "battari",
+        "kana": "ばったり",
+        "pos": "Adverb",
+        "meaning": "偶然遇見、突然中斷"
+      },
+      {
+        "jp": "めっきり",
+        "romaji": "mekkiri",
+        "kana": "めっきり",
+        "pos": "Adverb",
+        "meaning": "明顯地、顯著地"
+      },
+      {
+        "jp": "もはや",
+        "romaji": "mohaya",
+        "kana": "もはや",
+        "pos": "Adverb",
+        "meaning": "已經、事到如今"
+      },
+      {
+        "jp": "やけに",
+        "romaji": "yakeni",
+        "kana": "やけに",
+        "pos": "Adverb",
+        "meaning": "非常、異常地"
+      },
+      {
+        "jp": "わざわざ",
+        "romaji": "wazawaza",
+        "kana": "わざわざ",
+        "pos": "Adverb",
+        "meaning": "特地、專程"
       }
     ],
     "grammar": [
