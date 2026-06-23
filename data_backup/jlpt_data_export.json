@@ -2072,6 +2072,216 @@
         "kana": "かぞく",
         "pos": "Noun",
         "meaning": "家人、家族"
+      },
+      {
+        "jp": "謝る",
+        "romaji": "ayamaru",
+        "kana": "あやまる",
+        "pos": "Transitive verb",
+        "meaning": "道歉、賠罪"
+      },
+      {
+        "jp": "祝う",
+        "romaji": "iwau",
+        "kana": "いわう",
+        "pos": "Transitive verb",
+        "meaning": "慶祝、祝賀"
+      },
+      {
+        "jp": "植える",
+        "romaji": "ueru",
+        "kana": "うえる",
+        "pos": "Transitive verb",
+        "meaning": "種植、栽培"
+      },
+      {
+        "jp": "伺う",
+        "romaji": "ukagau",
+        "kana": "うかがう",
+        "pos": "Transitive verb",
+        "meaning": "拜訪、請教 (謙讓語)"
+      },
+      {
+        "jp": "動かす",
+        "romaji": "ugokasu",
+        "kana": "うごかす",
+        "pos": "Transitive verb",
+        "meaning": "移動、開動"
+      },
+      {
+        "jp": "移る",
+        "romaji": "utsuru",
+        "kana": "うつる",
+        "pos": "Intransitive verb",
+        "meaning": "移動、傳染"
+      },
+      {
+        "jp": "写す",
+        "romaji": "utsusu",
+        "kana": "うつす",
+        "pos": "Transitive verb",
+        "meaning": "抄寫、拍照"
+      },
+      {
+        "jp": "選ぶ",
+        "romaji": "erabu",
+        "kana": "えらぶ",
+        "pos": "Transitive verb",
+        "meaning": "選擇、挑選"
+      },
+      {
+        "jp": "遅れる",
+        "romaji": "okureru",
+        "kana": "おくれる",
+        "pos": "Intransitive verb",
+        "meaning": "遲到、落後"
+      },
+      {
+        "jp": "起こす",
+        "romaji": "okosu",
+        "kana": "おこす",
+        "pos": "Transitive verb",
+        "meaning": "叫醒、引起"
+      },
+      {
+        "jp": "落とす",
+        "romaji": "otosu",
+        "kana": "おとす",
+        "pos": "Transitive verb",
+        "meaning": "弄掉、遺失"
+      },
+      {
+        "jp": "踊る",
+        "romaji": "odoru",
+        "kana": "おどる",
+        "pos": "Intransitive verb",
+        "meaning": "跳舞"
+      },
+      {
+        "jp": "驚く",
+        "romaji": "odoroku",
+        "kana": "おどろく",
+        "pos": "Intransitive verb",
+        "meaning": "驚訝、嚇一跳"
+      },
+      {
+        "jp": "思い出す",
+        "romaji": "omoidasu",
+        "kana": "おもいだす",
+        "pos": "Transitive verb",
+        "meaning": "想起、回憶起"
+      },
+      {
+        "jp": "折る",
+        "romaji": "oru",
+        "kana": "おる",
+        "pos": "Transitive verb",
+        "meaning": "折斷、摺疊"
+      },
+      {
+        "jp": "飼う",
+        "romaji": "kau",
+        "kana": "かう",
+        "pos": "Transitive verb",
+        "meaning": "飼養"
+      },
+      {
+        "jp": "返す",
+        "romaji": "kaesu",
+        "kana": "かえす",
+        "pos": "Transitive verb",
+        "meaning": "歸還、退還"
+      },
+      {
+        "jp": "代える",
+        "romaji": "kaeru",
+        "kana": "かえる",
+        "pos": "Transitive verb",
+        "meaning": "代替、替換"
+      },
+      {
+        "jp": "片付ける",
+        "romaji": "katazukeru",
+        "kana": "かたづける",
+        "pos": "Transitive verb",
+        "meaning": "整理、收拾"
+      },
+      {
+        "jp": "勝つ",
+        "romaji": "katsu",
+        "kana": "かつ",
+        "pos": "Intransitive verb",
+        "meaning": "獲勝、贏"
+      },
+      {
+        "jp": "悲しむ",
+        "romaji": "kanashimu",
+        "kana": "かなしむ",
+        "pos": "Transitive verb",
+        "meaning": "悲傷、哀嘆"
+      },
+      {
+        "jp": "通う",
+        "romaji": "kayou",
+        "kana": "かよう",
+        "pos": "Intransitive verb",
+        "meaning": "來往、通勤、通學"
+      },
+      {
+        "jp": "乾く",
+        "romaji": "kawaku",
+        "kana": "かわく",
+        "pos": "Intransitive verb",
+        "meaning": "乾、乾燥"
+      },
+      {
+        "jp": "変わる",
+        "romaji": "kawaru",
+        "kana": "かわる",
+        "pos": "Intransitive verb",
+        "meaning": "改變、變化"
+      },
+      {
+        "jp": "頑張る",
+        "romaji": "ganbaru",
+        "kana": "がんばる",
+        "pos": "Intransitive verb",
+        "meaning": "加油、努力"
+      },
+      {
+        "jp": "聞こえる",
+        "romaji": "kikoeru",
+        "kana": "きこえる",
+        "pos": "Intransitive verb",
+        "meaning": "聽得見"
+      },
+      {
+        "jp": "決める",
+        "romaji": "kimeru",
+        "kana": "きめる",
+        "pos": "Transitive verb",
+        "meaning": "決定"
+      },
+      {
+        "jp": "比べる",
+        "romaji": "kuraberu",
+        "kana": "くらべる",
+        "pos": "Transitive verb",
+        "meaning": "比較"
+      },
+      {
+        "jp": "くれる",
+        "romaji": "kureru",
+        "kana": "くれる",
+        "pos": "Transitive verb",
+        "meaning": "給（我或我方）"
+      },
+      {
+        "jp": "暮れる",
+        "romaji": "kureru",
+        "kana": "くれる",
+        "pos": "Intransitive verb",
+        "meaning": "天黑、日暮"
       }
     ],
     "grammar": [
