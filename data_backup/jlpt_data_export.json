@@ -5222,216 +5222,6 @@
         "kana": "ほんまつてんとう",
         "pos": "Noun",
         "meaning": "本末倒置"
-      },
-      {
-        "jp": "相槌を打つ",
-        "romaji": "aiduchioutsu",
-        "kana": "あいづちをうつ",
-        "pos": "Idiom",
-        "meaning": "隨聲附和、點頭稱是"
-      },
-      {
-        "jp": "足が出る",
-        "romaji": "ashigaderu",
-        "kana": "あしがでる",
-        "pos": "Idiom",
-        "meaning": "超出預算、虧空"
-      },
-      {
-        "jp": "足を洗う",
-        "romaji": "ashiwoarau",
-        "kana": "あしをあらう",
-        "pos": "Idiom",
-        "meaning": "洗手不幹、改邪歸正"
-      },
-      {
-        "jp": "足を引っ張る",
-        "romaji": "ashiwohipparu",
-        "kana": "あしをひっぱる",
-        "pos": "Idiom",
-        "meaning": "扯後腿、妨礙"
-      },
-      {
-        "jp": "息が合う",
-        "romaji": "ikigaau",
-        "kana": "いきがあう",
-        "pos": "Idiom",
-        "meaning": "默契十足、步調一致"
-      },
-      {
-        "jp": "息を呑む",
-        "romaji": "ikiwonomu",
-        "kana": "いきをのむ",
-        "pos": "Idiom",
-        "meaning": "倒抽一口氣（因驚訝或恐懼）"
-      },
-      {
-        "jp": "板につく",
-        "romaji": "itanitsuku",
-        "kana": "いたにつく",
-        "pos": "Idiom",
-        "meaning": "得心應手、習以為常"
-      },
-      {
-        "jp": "一目置く",
-        "romaji": "ichimokuoku",
-        "kana": "いちもくおく",
-        "pos": "Idiom",
-        "meaning": "自嘆不如、甘拜下風"
-      },
-      {
-        "jp": "糸を引く",
-        "romaji": "itowohiku",
-        "kana": "いとをひく",
-        "pos": "Idiom",
-        "meaning": "幕後操縱；藕斷絲連"
-      },
-      {
-        "jp": "裏目に出る",
-        "romaji": "uramunideru",
-        "kana": "うらめにでる",
-        "pos": "Idiom",
-        "meaning": "適得其反"
-      },
-      {
-        "jp": "顔が広い",
-        "romaji": "kaogahiroi",
-        "kana": "かおがひろい",
-        "pos": "Idiom",
-        "meaning": "交遊廣闊、人脈廣"
-      },
-      {
-        "jp": "顔に泥を塗る",
-        "romaji": "kaonidorowonuru",
-        "kana": "かおにどろをぬる",
-        "pos": "Idiom",
-        "meaning": "往臉上抹黑、使人丟臉"
-      },
-      {
-        "jp": "肩を持つ",
-        "romaji": "katawomotsu",
-        "kana": "かたをもつ",
-        "pos": "Idiom",
-        "meaning": "偏袒、袒護"
-      },
-      {
-        "jp": "肩を落とす",
-        "romaji": "katawootosu",
-        "kana": "かたをおとす",
-        "pos": "Idiom",
-        "meaning": "垂頭喪氣、失望"
-      },
-      {
-        "jp": "釘を刺す",
-        "romaji": "kugiwosasu",
-        "kana": "くぎをさす",
-        "pos": "Idiom",
-        "meaning": "事先警告、叮嚀"
-      },
-      {
-        "jp": "口が堅い",
-        "romaji": "kuchigakatai",
-        "kana": "くちがかたい",
-        "pos": "Idiom",
-        "meaning": "口風緊、守口如瓶"
-      },
-      {
-        "jp": "口が軽い",
-        "romaji": "kuchigakarui",
-        "kana": "くちがかるい",
-        "pos": "Idiom",
-        "meaning": "嘴巴不嚴、愛走漏風聲"
-      },
-      {
-        "jp": "口を出す",
-        "romaji": "kuchiwodasu",
-        "kana": "くちをだす",
-        "pos": "Idiom",
-        "meaning": "插嘴、多管閒事"
-      },
-      {
-        "jp": "首を長くする",
-        "romaji": "kubiwonagakusuru",
-        "kana": "くびをながくする",
-        "pos": "Idiom",
-        "meaning": "引頸期盼、翹首以待"
-      },
-      {
-        "jp": "心が痛む",
-        "romaji": "kokorogaitamu",
-        "kana": "こころがいたむ",
-        "pos": "Idiom",
-        "meaning": "心痛、難過"
-      },
-      {
-        "jp": "さじを投げる",
-        "romaji": "sajiwonageru",
-        "kana": "さじをなげる",
-        "pos": "Idiom",
-        "meaning": "無藥可救、放棄（醫生放棄治療）"
-      },
-      {
-        "jp": "尻尾を出す",
-        "romaji": "shippowodasu",
-        "kana": "しっぽをだす",
-        "pos": "Idiom",
-        "meaning": "露出馬腳"
-      },
-      {
-        "jp": "隅に置けない",
-        "romaji": "suminiokenai",
-        "kana": "すみにおけない",
-        "pos": "Idiom",
-        "meaning": "不可小覷、不容忽視"
-      },
-      {
-        "jp": "太鼓判を押す",
-        "romaji": "taikobanwoosu",
-        "kana": "たいこばんをおす",
-        "pos": "Idiom",
-        "meaning": "打包票、極力保證"
-      },
-      {
-        "jp": "手が空く",
-        "romaji": "tegaaku",
-        "kana": "てがあく",
-        "pos": "Idiom",
-        "meaning": "空出手來、有空閒"
-      },
-      {
-        "jp": "手を焼く",
-        "romaji": "tewoyaku",
-        "kana": "てをやく",
-        "pos": "Idiom",
-        "meaning": "感到棘手、無可奈何"
-      },
-      {
-        "jp": "途方に暮れる",
-        "romaji": "tohounikureru",
-        "kana": "とほうにくれる",
-        "pos": "Idiom",
-        "meaning": "走投無路、不知所措"
-      },
-      {
-        "jp": "根も葉もない",
-        "romaji": "nemohamonai",
-        "kana": "ねもはもない",
-        "pos": "Idiom",
-        "meaning": "毫無根據、空穴來風"
-      },
-      {
-        "jp": "腹が立つ",
-        "romaji": "haragatatsu",
-        "kana": "はらがたつ",
-        "pos": "Idiom",
-        "meaning": "生氣、發怒"
-      },
-      {
-        "jp": "骨を折る",
-        "romaji": "honewooru",
-        "kana": "ほねをおる",
-        "pos": "Idiom",
-        "meaning": "煞費苦心、費盡心力"
       }
     ],
     "grammar": [
@@ -16195,6 +15985,576 @@
           }
         ],
         "level": "N2"
+      },
+      {
+        "id": "g_1782230514334_361",
+        "title": "〜としたら / 〜とすれば / 〜とすると (如果...的話)",
+        "structure": "普通形 + としたら",
+        "explanation": "表示假設一種可能發生、或實際上並未發生的情況。「如果是那樣的話，會怎麼樣/該怎麼辦」。",
+        "examples": [
+          {
+            "ja": "もし1億円当たったとしたら、何をしますか。",
+            "furigana": "もしいちおくえんあたったとしたら、なにをしますか。",
+            "en": "如果中了一億圓，你要做什麼？"
+          },
+          {
+            "ja": "彼の話が本当だとすれば、大変なことになる。",
+            "furigana": "かれのはなしがほんとうだとすれば、たいへんなことになる。",
+            "en": "如果他的話是真的，那事情就嚴重了。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514334_362",
+        "title": "〜にしたら / 〜にすれば / 〜にしても (對...而言 / 站在...的立場來看)",
+        "structure": "名詞 + にしたら",
+        "explanation": "表示站在對方或第三者的立場去想像其心情或想法。「在別人看來也是...」。",
+        "examples": [
+          {
+            "ja": "犬にしたら、飼い主は親のような存在だ。",
+            "furigana": "いぬにしたら、かいぬしはおやのようなそんざいだ。",
+            "en": "對狗而言，飼主就像是父母一樣的存在。"
+          },
+          {
+            "ja": "彼にしても、わざと遅刻したわけではないだろう。",
+            "furigana": "かれにしても、わざとちこくしたわけではないだろう。",
+            "en": "就算是他，應該也不是故意遲到的吧。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514334_363",
+        "title": "〜ものなら (如果能...的話)",
+        "structure": "動詞可能形 + ものなら",
+        "explanation": "表示假設一種「實際上很難實現，但如果真的能實現的話，我很想...」的情況。",
+        "examples": [
+          {
+            "ja": "やり直せるものなら、もう一度学生時代に戻りたい。",
+            "furigana": "やりなおせるものなら、もういちどがくせいじだいにもどりたい。",
+            "en": "如果能重新來過的話，我想再回到學生時代。"
+          },
+          {
+            "ja": "やれるものならやってみろ。",
+            "furigana": "やれるものならやってみろ。",
+            "en": "有本事的話你做做看啊。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514334_364",
+        "title": "〜(よ)うものなら (萬一...的話，可就糟了)",
+        "structure": "動詞意向形 + ものなら",
+        "explanation": "表示假設萬一發生了前項的事，後項將會產生非常嚴重、可怕的後果。",
+        "examples": [
+          {
+            "ja": "父の車を傷つけようものなら、ひどく怒られるだろう。",
+            "furigana": "ちちのくるまをきずつけようものなら、ひどくおこられるだろう。",
+            "en": "萬一把父親的車刮傷了，肯定會被罵得很慘吧。"
+          },
+          {
+            "ja": "そんなことを言おうものなら、彼との関係は終わりだ。",
+            "furigana": "そんなことをいおうものなら、かれとのかんけいはおわりだ。",
+            "en": "要是說出那種話，和他的關係就全完了。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514334_365",
+        "title": "〜ないことには (如果不先...就無法...)",
+        "structure": "動詞ない形 / い形容詞くなく / な形容詞でなく / 名詞でなく + ないことには",
+        "explanation": "表示如果不具備前項的條件，後面的事情就無法成立。後句多伴隨否定。",
+        "examples": [
+          {
+            "ja": "実物を見ないことには、買うかどうか決められない。",
+            "furigana": "じつぶつをみないことには、かうかどうかけめられない。",
+            "en": "如果不先看到實物，就無法決定要不要買。"
+          },
+          {
+            "ja": "彼が来ないことには、会議を始められない。",
+            "furigana": "かれがこないことには、かいぎをはじめられない。",
+            "en": "如果他不來，會議就無法開始。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514334_366",
+        "title": "〜を抜きにしては (如果沒有...的話)",
+        "structure": "名詞 + を抜きにして(は) / を抜きにして(は)〜ない",
+        "explanation": "表示「把某人或某物排除在外的話，事情就無法成立或完成」。後接否定表達。",
+        "examples": [
+          {
+            "ja": "彼の協力を抜きにしては、この計画は成功しないだろう。",
+            "furigana": "かれのきょうりょくをぬきにしては、このけいかくはせいこうしないだろう。",
+            "en": "如果沒有他的協助，這個計畫是無法成功的吧。"
+          },
+          {
+            "ja": "冗談を抜きにして、真面目に話し合いましょう。",
+            "furigana": "じょうだんをぬきにして、まじめにはなしあいましょう。",
+            "en": "撇開玩笑不談，我們認真地討論吧。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_367",
+        "title": "〜なくして(は) (如果沒有...就無法...)",
+        "structure": "名詞 + なくして(は)",
+        "explanation": "（生硬書面語）表示「如果不具備前項的絕對條件，後面的事情就不可能發生」。後接否定。",
+        "examples": [
+          {
+            "ja": "皆様の支援なくしては、今の私はありません。",
+            "furigana": "みなさまのしえんなくしては、いまのわたしはありません。",
+            "en": "如果沒有各位的支援，就沒有現在的我。"
+          },
+          {
+            "ja": "努力なくして、成功はあり得ない。",
+            "furigana": "どりょくなくして、せいこうはありえない。",
+            "en": "沒有努力就不可能會有成功。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_368",
+        "title": "〜以上(は) / 〜上は (既然...就必須...)",
+        "structure": "普通形 / 動詞辞書形・た形 + 以上",
+        "explanation": "表示既然已經成為了事實，或是做出了決定，就有相應的責任、義務或決心去執行。",
+        "examples": [
+          {
+            "ja": "約束した以上は、絶対に守らなければならない。",
+            "furigana": "やくそくしたいじょうは、ぜったいまもらなければならない。",
+            "en": "既然約定了，就絕對必須遵守。"
+          },
+          {
+            "ja": "プロである上は、常に最高のパフォーマンスを見せるべきだ。",
+            "furigana": "プロであるうえは、つねにさいこうのパフォーマンスをみせるべきだ。",
+            "en": "既然是職業選手，就應該隨時展現出最好的表現。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_369",
+        "title": "〜からには (既然...就...)",
+        "structure": "普通形 / 動詞辞書形・た形 + からには",
+        "explanation": "意思與「以上は」幾乎相同。表示既然前項已是既定事實，後項就是理所當然的義務或決心。",
+        "examples": [
+          {
+            "ja": "やるからには、最後まで諦めずに頑張りたい。",
+            "furigana": "やるからには、さいごまであきらめずのがんばりたい。",
+            "en": "既然要做，就想堅持到最後不放棄。"
+          },
+          {
+            "ja": "高いお金を払うからには、それなりのサービスを期待する。",
+            "furigana": "たかいおかねをはらうからには、それなりのサービスをきたいする。",
+            "en": "既然花了那麼多錢，自然會期待有相應的服務。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_370",
+        "title": "〜からして (單從...來看就已經...)",
+        "structure": "名詞 + からして",
+        "explanation": "舉出一個最具代表性或最基本的例子，表示「單從這一點來看就已經如此了，更何況其他」。多用於負面評價。",
+        "examples": [
+          {
+            "ja": "あのレストランは、店員の態度からして悪かった。",
+            "furigana": "あのレストランは、てんいんのたいどからしてわるかった。",
+            "en": "那間餐廳，單從店員的態度來看就很差了。"
+          },
+          {
+            "ja": "タイトルの付け方からして、この映画は面白くなさそうだ。",
+            "furigana": "タイトルのつけかたからして、このえいがはおもしろくなさそうだ。",
+            "en": "單從取名的方式來看，這部電影感覺就很難看。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_371",
+        "title": "〜からすると / 〜からすれば / 〜からして (從...來判斷 / 以...的立場來看)",
+        "structure": "名詞 + からすると",
+        "explanation": "1. 表示判斷的根據（從這點來看...）。 2. 表示立足點（從那個人的立場來看...）。",
+        "examples": [
+          {
+            "ja": "彼の表情からすると、面接はうまくいかなかったようだ。",
+            "furigana": "かれのひょうじょうからすると、めんせつはうまくいかなかったようだ。",
+            "en": "從他的表情來看，面試似乎不太順利。"
+          },
+          {
+            "ja": "親からすれば、子供はいつまでたっても子供だ。",
+            "furigana": "おやからすれば、こどもはいつまでたってもこどもだ。",
+            "en": "從父母的立場來看，孩子不管長到多大永遠都是孩子。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_372",
+        "title": "〜から見ると / 〜から見れば / 〜から見て (從...的角度來看)",
+        "structure": "名詞 + から見ると",
+        "explanation": "表示從某個人事物、或某個角度作為判斷的基準。",
+        "examples": [
+          {
+            "ja": "客の立場から見ると、この店のサービスはまだ不十分だ。",
+            "furigana": "きゃくのたちばからみると、このみせのサービスはまだふじゅうぶんだ。",
+            "en": "從客人的立場來看，這家店的服務還不夠周到。"
+          },
+          {
+            "ja": "現状から見て、目標の達成はかなり難しいだろう。",
+            "furigana": "げんじょうからみて、もくひょうのたっせいはかなりむずかしいだろう。",
+            "en": "從現狀來看，要達成目標應該相當困難。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_373",
+        "title": "〜から言って (從...來考量的話 / 從...來說)",
+        "structure": "名詞 + から言って",
+        "explanation": "表示以某件事為依據或考量點來進行判斷。※注意：不能接在人物名詞後面（不能說「私から言って」）。",
+        "examples": [
+          {
+            "ja": "私の経験から言って、この計画には無理がある。",
+            "furigana": "わたしのけいけんからいって、このけいかくにはむりがある。",
+            "en": "從我的經驗來說，這個計畫有點勉強。"
+          },
+          {
+            "ja": "彼の性格から言って、途中で投げ出すことはないだろう。",
+            "furigana": "かれのせいかくからいって、とちゅうでなげだすことはないだろう。",
+            "en": "從他的個性來看，應該不會半途而廢吧。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_374",
+        "title": "〜ては / 〜(の)では (如果...的話，會產生不良結果)",
+        "structure": "動詞て形 / 普通形＋のでは / 名詞・な形容詞＋では",
+        "explanation": "表示假設前項的事實或狀態成立的話，就會引發後項負面或不理想的結果。",
+        "examples": [
+          {
+            "ja": "こんなに雪が降っては、外に出られない。",
+            "furigana": "こんなにゆきがふっては、そとにでられない。",
+            "en": "雪下得這麼大，根本沒法出門。"
+          },
+          {
+            "ja": "彼に全て任せるのでは、少し不安だ。",
+            "furigana": "かれにすべてまかせるのでは、すこしふあんだ。",
+            "en": "如果全都交給他的話，有點不放心。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_375",
+        "title": "〜さえ〜ば (只要...就...)",
+        "structure": "名詞 + さえ + 動詞ば形 / い形容詞ければ / な形容詞・名詞なら",
+        "explanation": "表示只要滿足了這一個最低條件，其他都不成問題，後面的事情就能成立。",
+        "examples": [
+          {
+            "ja": "薬を飲みさえすれば、すぐに治りますよ。",
+            "furigana": "くすりをのみさえすれば、すぐになおりますよ。",
+            "en": "只要吃了藥，馬上就會好的。"
+          },
+          {
+            "ja": "スマホさえあれば、どこでも仕事ができる。",
+            "furigana": "スマホさえあれば、どこでもしごとができる。",
+            "en": "只要有智慧型手機，在哪裡都能工作。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_376",
+        "title": "〜ようがない / 〜ようもない (無從... / 無法...)",
+        "structure": "動詞ます形去ます + ようがない",
+        "explanation": "表示即使有心想做，也完全沒有方法、手段或可能性去完成。",
+        "examples": [
+          {
+            "ja": "彼がどこにいるのか分からないので、連絡のしようがない。",
+            "furigana": "かれがどこにいるのかわからないので、れんらくのしようがない。",
+            "en": "不知道他在哪裡，所以根本無從聯絡起。"
+          },
+          {
+            "ja": "これほど壊れていては、もう直ししようがない。",
+            "furigana": "これほどこわれていては、もうなおしようがない。",
+            "en": "壞成這樣，已經沒辦法修了。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_377",
+        "title": "〜得る / 〜得ない (有可能... / 不可能...)",
+        "structure": "動詞ます形去ます + 得る（える/うる） / 得ない（えない）",
+        "explanation": "表示客觀上具有那樣的可能性（得る）或完全沒有那種可能性（得ない）。不表示個人的能力。",
+        "examples": [
+          {
+            "ja": "事故はいつでも起こり得るものだ。",
+            "furigana": "じこはいつでもおこりうるものだ。",
+            "en": "事故是隨時都有可能發生的。"
+          },
+          {
+            "ja": "あの真面目な彼が罪を犯すなんて、あり得ない。",
+            "furigana": "あのまじめなかれがつみをおかすなんて、ありえない。",
+            "en": "那麼認真的他竟然會犯罪，根本不可能。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_378",
+        "title": "〜かねる (難以... / 無法...)",
+        "structure": "動詞ます形去ます + かねる",
+        "explanation": "（委婉拒絕的書面用語）表示因為個人的心理抗拒或客觀情況的限制，而「難以做到某事」。",
+        "examples": [
+          {
+            "ja": "ご要望にはお応えしかねます。",
+            "furigana": "ごようぼうにはおおえしかねます。",
+            "en": "我們難以滿足您的要求。"
+          },
+          {
+            "ja": "彼の考えには賛同しかねる。",
+            "furigana": "かれのかんがえにはさんどうしかねる。",
+            "en": "我難以贊同他的想法。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_379",
+        "title": "〜かねない (很有可能... / 說不定會...)",
+        "structure": "動詞ます形去ます + かねない",
+        "explanation": "表示「很有可能會發生某種不好的結果」。帶有擔憂的語氣。",
+        "examples": [
+          {
+            "ja": "あんなにスピードを出したら、事故を起こしかねない。",
+            "furigana": "あんなにスピードをだしたら、じこをおこしかねない。",
+            "en": "開那麼快，說不定會引發車禍。"
+          },
+          {
+            "ja": "このまま休まずに働いたら、病気になりかねない。",
+            "furigana": "このままやすまずにはたらいたら、びょうきになりかねない。",
+            "en": "照這樣不休息地工作下去，很有可能會生病。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_380",
+        "title": "〜まい (絕不... / 應該不會...吧)",
+        "structure": "動詞辞書形 (※五段) / 動詞ない形去ない (※一段) + まい",
+        "explanation": "1. 表示強烈的否定意志「絕對不再做...」。 2. 表示否定的推測「應該不會...吧」。",
+        "examples": [
+          {
+            "ja": "あんなまずい店、二度と行くまい。",
+            "furigana": "あんなまずいみせ、にどといくまい。",
+            "en": "那麼難吃的店，我絕對不會再去第二次。"
+          },
+          {
+            "ja": "彼は私のことなど、もう覚えていまい。",
+            "furigana": "かれはわたしのことなど、もうおぼえていまい。",
+            "en": "他大概已經不記得我了吧。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_381",
+        "title": "〜ようか〜まいか (要...還是不要...)",
+        "structure": "動詞意向形 + か + 動詞辞書形 + まいか",
+        "explanation": "表示心裡在兩個相反的選項之間猶豫不決。「要做呢？還是不要做呢？」。",
+        "examples": [
+          {
+            "ja": "傘を持っていこうかいくまいか、迷っている。",
+            "furigana": "かさをもっていこうかいくまいか、まよっている。",
+            "en": "我在猶豫到底要不要帶傘出門。"
+          },
+          {
+            "ja": "本当のことを言おうか言うまいか、一日中悩んだ。",
+            "furigana": "ほんとうのことをいおうかいうまいか、いちにちじゅうなやんだ。",
+            "en": "一整天都在煩惱到底要不要說出真相。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_382",
+        "title": "〜に違いない (一定是... / 絕對是...)",
+        "structure": "普通形 (な形容詞 / 名詞去だ) + に違いない",
+        "explanation": "表示說話者非常有自信的推測或斷定。語氣強烈。",
+        "examples": [
+          {
+            "ja": "犯人は彼に違いない。",
+            "furigana": "はんにんはかれにちがいない。",
+            "en": "犯人一定是他。"
+          },
+          {
+            "ja": "こんなに人が並んでいるのだから、美味しいに違いない。",
+            "furigana": "こんなにひとがならんでいるのだから、おいしいにちがいない。",
+            "en": "排了這麼多人，一定很好吃。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_383",
+        "title": "〜に相違ない (確實是... / 想必是...)",
+        "structure": "普通形 (な形容詞 / 名詞去だ) + に相違ない",
+        "explanation": "「〜に違いない」的生硬書面語，多用於正式文書、新聞報導或法庭用語中，表示確信無疑。",
+        "examples": [
+          {
+            "ja": "これは彼が書いたサインに相違ない。",
+            "furigana": "これはかれがかいたサインにそういない。",
+            "en": "這確實是他簽的字。"
+          },
+          {
+            "ja": "両国の関係は、今後さらに発展するに相違ない。",
+            "furigana": "りょうこくのかんけいは、こんごさらにはってんするにそういない。",
+            "en": "兩國的關係今後想必會進一步發展。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_384",
+        "title": "〜わけがない / 〜はずがない (不可能... / 絕對不會...)",
+        "structure": "普通形 (な形容詞な / 名詞の) + わけがない / はずがない",
+        "explanation": "表示根據客觀事實或常理推斷，強烈否定某種可能性。",
+        "examples": [
+          {
+            "ja": "こんな難しい問題、子供に解けるわけがない。",
+            "furigana": "こんなむずかしいもんだい、こどもにとけるわけがない。",
+            "en": "這麼難的問題，小孩怎麼可能解得出來。"
+          },
+          {
+            "ja": "彼がそんなひどいことを言うはずがない。",
+            "furigana": "かれがそんなひどいことをいうはずがない。",
+            "en": "他絕對不可能說出那麼過分的話。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_385",
+        "title": "〜とは限らない (不一定... / 未必...)",
+        "structure": "普通形 + とは限らない",
+        "explanation": "表示不能一概而論，總會有例外的情況。常與「必ずしも」「みんな」「いつも」等詞連用。",
+        "examples": [
+          {
+            "ja": "値段が高いものが、必ずしも品質が良いとは限らない。",
+            "furigana": "ねだんがたかいものが、かならずしもひんしつがよいとはかぎらない。",
+            "en": "價格貴的東西，品質未必一定就好。"
+          },
+          {
+            "ja": "日本人がみんな刺身が好きだとは限らない。",
+            "furigana": "にほんじんがみんなさしみがすきだとはかぎらない。",
+            "en": "日本人不見得每一個人都喜歡吃生魚片。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_386",
+        "title": "〜ないことはない / 〜ないこともない (也不是不... / 多少有點...)",
+        "structure": "動詞ない形 / い形容詞くなく / な形容詞でなく + ないことはない",
+        "explanation": "用雙重否定來進行消極的肯定。表示「雖然不能說是完全肯定，但也並非完全否定」。",
+        "examples": [
+          {
+            "ja": "納豆は食べられないことはないが、あまり好きではない。",
+            "furigana": "なっとうはたべられないことはないが、あまりすきではない。",
+            "en": "納豆我也不是不能吃，但就是不太喜歡。"
+          },
+          {
+            "ja": "歩いて行けないこともないですが、30分以上かかりますよ。",
+            "furigana": "あるいていけないこともないですが、さんじゅっぷんいじょうかかりますよ。",
+            "en": "也不是不能走路去，但要花30分鐘以上喔。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_387",
+        "title": "〜ことは〜が (雖然...但是...)",
+        "structure": "動詞辞書形＋ことは＋動詞ます形＋が / い形容詞い＋ことは＋い形容詞い＋が",
+        "explanation": "先退一步承認前項的事實，但後項提出與之相反或打折扣的評價。",
+        "examples": [
+          {
+            "ja": "ピアノは弾けることは弾けるが、あまり上手ではない。",
+            "furigana": "ピアノはひけることはひけるが、あまりじょうずではない。",
+            "en": "鋼琴我會彈是會彈，但彈得不太好。"
+          },
+          {
+            "ja": "このバッグ、高いことは高いが、デザインが素晴らしい。",
+            "furigana": "このバッグ、たかいことはたかいが、デザインがすばらしい。",
+            "en": "這包包貴是貴，但設計真的很棒。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_388",
+        "title": "〜てみせる (做給你看 / 一定要...)",
+        "structure": "動詞て形 + みせる",
+        "explanation": "1. 實際做某個動作給對方看。 2. 表達強烈的決心，表示「我一定會做到給你看」。",
+        "examples": [
+          {
+            "ja": "お手本として、私が一度やってみせましょう。",
+            "furigana": "おてほんとして、わたしがいちどやってみせましょう。",
+            "en": "作為示範，我先做一次給你看吧。"
+          },
+          {
+            "ja": "今度こそ絶対に合格してみせる。",
+            "furigana": "こんどこそぜったいにごうかくしてみせる。",
+            "en": "這次我絕對要考上給你看。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_389",
+        "title": "〜を契機に(して) / 〜を契機として (以...為契機)",
+        "structure": "名詞 + を契機に",
+        "explanation": "「きっかけ」的較正式書面用語。表示某個歷史事件或客觀事實成為了引發後續變化的動機。",
+        "examples": [
+          {
+            "ja": "オリンピック開催を契機に、街の開発が進んだ。",
+            "furigana": "オリンピックかいさいをけいきに、まちのかいはつがすすんだ。",
+            "en": "以舉辦奧運為契機，帶動了城市的開發。"
+          },
+          {
+            "ja": "今回の事故を契機として、安全対策が強化された。",
+            "furigana": "こんかいのじこをけいきとして、あんぜんたいさくがきょうかされた。",
+            "en": "以這次事故為契機，強化了安全措施。"
+          }
+        ],
+        "level": "N2"
+      },
+      {
+        "id": "g_1782230514335_390",
+        "title": "〜を問わず (不論... / 不限...)",
+        "structure": "名詞 + を問わず",
+        "explanation": "表示後項的情況不受前項條件的影響或限制。常接年齡、性別、國籍、經驗等詞彙。",
+        "examples": [
+          {
+            "ja": "このアルバイトは、年齢や性別を問わず募集しています。",
+            "furigana": "このアルバイトは、ねんれいやせいべつをとわずぼしゅうしています。",
+            "en": "這份打工不限年齡和性別招募中。"
+          },
+          {
+            "ja": "昼夜を問わず、工事の音が響いている。",
+            "furigana": "ちゅうやをとわず、こうじのおとがひびいている。",
+            "en": "不論日夜，施工的噪音一直響著。"
+          }
+        ],
+        "level": "N2"
       }
     ],
     "verbConjugations": {},
@@ -17004,7 +17364,7 @@
           "meaning": "肌肉",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "human_body_physiology",
           "level": "N5",
           "sentences": [
             {
@@ -22566,7 +22926,7 @@
           "meaning": "刷牙",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "human_action_posture",
           "level": "N5",
           "sentences": [
             {
@@ -23977,7 +24337,7 @@
           "meaning": "候診室、等候室",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -25597,7 +25957,7 @@
           "meaning": "疲勞、疲倦",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_health_medical",
           "level": "N5",
           "sentences": [
             {
@@ -25630,7 +25990,7 @@
           "meaning": "謊言、假的",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -25663,7 +26023,7 @@
           "meaning": "約定、承諾",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -26192,7 +26552,7 @@
           "meaning": "營養",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_health_medical",
           "level": "N5",
           "sentences": [
             {
@@ -27241,7 +27601,7 @@
           "meaning": "食堂、餐廳",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -27626,7 +27986,7 @@
           "meaning": "內衣",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -27935,7 +28295,7 @@
           "meaning": "日式鋪床、被子",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -27984,7 +28344,7 @@
           "meaning": "書架",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -28178,7 +28538,7 @@
           "meaning": "興趣、嗜好",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "human_psychology_emotion",
           "level": "N5",
           "sentences": [
             {
@@ -28275,7 +28635,7 @@
           "meaning": "伴手禮、土產",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -28820,7 +29180,7 @@
           "meaning": "肥皂",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -28837,7 +29197,7 @@
           "meaning": "牙刷",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -37401,7 +37761,7 @@
           "meaning": "動物園",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -37789,7 +38149,7 @@
           "meaning": "掛號處、櫃台",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -37806,7 +38166,7 @@
           "meaning": "運動",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -37823,7 +38183,7 @@
           "meaning": "洗手",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_action_posture",
           "level": "N5",
           "sentences": [
             {
@@ -37840,7 +38200,7 @@
           "meaning": "手帕",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -37857,7 +38217,7 @@
           "meaning": "打掃",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "human_action_posture",
           "level": "N5",
           "sentences": [
             {
@@ -37891,7 +38251,7 @@
           "meaning": "真的、事實",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_state_value",
           "level": "N5",
           "sentences": [
             {
@@ -37908,7 +38268,7 @@
           "meaning": "人氣、受歡迎",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "abstract_state_value",
           "level": "N5",
           "sentences": [
             {
@@ -37976,7 +38336,7 @@
           "meaning": "上衣、外套",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -38044,7 +38404,7 @@
           "meaning": "花瓶",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -38078,7 +38438,7 @@
           "meaning": "駕駛、開車",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "human_action_posture",
           "level": "N5",
           "sentences": [
             {
@@ -38197,7 +38557,7 @@
           "meaning": "傍晚",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_weather_season",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -38214,7 +38574,7 @@
           "meaning": "晚上、晚間",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -38231,7 +38591,7 @@
           "meaning": "半夜",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -38282,7 +38642,7 @@
           "meaning": "外國",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "nature_geography_space",
           "level": "N5",
           "sentences": [
             {
@@ -38299,7 +38659,7 @@
           "meaning": "地圖",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -38316,7 +38676,7 @@
           "meaning": "地方、場所",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -38605,7 +38965,7 @@
           "meaning": "樹枝",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N5",
           "sentences": [
             {
@@ -38758,7 +39118,7 @@
           "meaning": "商店、店鋪",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -38792,7 +39152,7 @@
           "meaning": "超級市場",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -38809,7 +39169,7 @@
           "meaning": "班級",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -38826,7 +39186,7 @@
           "meaning": "日圓",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -38843,7 +39203,7 @@
           "meaning": "東西、物品",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_state_value",
           "level": "N5",
           "sentences": [
             {
@@ -38860,7 +39220,7 @@
           "meaning": "鋼筆",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -38877,7 +39237,7 @@
           "meaning": "明信片",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -38894,7 +39254,7 @@
           "meaning": "火柴",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -38911,7 +39271,7 @@
           "meaning": "底片、膠捲",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -38945,7 +39305,7 @@
           "meaning": "全部",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "abstract_numbers_units",
           "level": "N5",
           "sentences": [
             {
@@ -38962,7 +39322,7 @@
           "meaning": "號碼",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "abstract_numbers_units",
           "level": "N5",
           "sentences": [
             {
@@ -38979,7 +39339,7 @@
           "meaning": "日本",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "nature_geography_space",
           "level": "N5",
           "sentences": [
             {
@@ -38996,7 +39356,7 @@
           "meaning": "外語",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -39013,7 +39373,7 @@
           "meaning": "意思",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "abstract_logic_method",
           "level": "N5",
           "sentences": [
             {
@@ -39064,7 +39424,7 @@
           "meaning": "平假名",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -39081,7 +39441,7 @@
           "meaning": "片假名",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -39098,7 +39458,7 @@
           "meaning": "學習",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -39115,7 +39475,7 @@
           "meaning": "練習",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -39132,7 +39492,7 @@
           "meaning": "課、上課",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -39149,7 +39509,7 @@
           "meaning": "黑板",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -39166,7 +39526,7 @@
           "meaning": "作文、寫作",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -39183,7 +39543,7 @@
           "meaning": "畫",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -39370,7 +39730,7 @@
           "meaning": "很多",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "abstract_numbers_units",
           "level": "N5",
           "sentences": [
             {
@@ -39523,7 +39883,7 @@
           "meaning": "之間",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -39540,7 +39900,7 @@
           "meaning": "下一次、下一個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -45590,7 +45950,7 @@
           "meaning": "音樂",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -45608,7 +45968,7 @@
           "meaning": "購物、買東西",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -45626,7 +45986,7 @@
           "meaning": "照片",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -45662,7 +46022,7 @@
           "meaning": "月亮",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "nature_geography_space",
           "level": "N5",
           "sentences": [
             {
@@ -45914,7 +46274,7 @@
           "meaning": "教室",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -45932,7 +46292,7 @@
           "meaning": "信",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -45968,7 +46328,7 @@
           "meaning": "雜誌",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -45986,7 +46346,7 @@
           "meaning": "筆記本",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -46004,7 +46364,7 @@
           "meaning": "原子筆",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -46112,7 +46472,7 @@
           "meaning": "手機",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -46148,7 +46508,7 @@
           "meaning": "日文",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -46166,7 +46526,7 @@
           "meaning": "名字",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -46184,7 +46544,7 @@
           "meaning": "地址",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -46238,7 +46598,7 @@
           "meaning": "國家",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "nature_geography_space",
           "level": "N5",
           "sentences": [
             {
@@ -46256,7 +46616,7 @@
           "meaning": "言語、語言、詞彙",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -46382,7 +46742,7 @@
           "meaning": "早上",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -46400,7 +46760,7 @@
           "meaning": "中午、白天",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -46418,7 +46778,7 @@
           "meaning": "夜晚",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -46598,7 +46958,7 @@
           "meaning": "休息、假日",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -46652,7 +47012,7 @@
           "meaning": "身體",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "human_body_physiology",
           "level": "N5",
           "sentences": [
             {
@@ -46670,7 +47030,7 @@
           "meaning": "肚子",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "human_body_physiology",
           "level": "N5",
           "sentences": [
             {
@@ -46850,7 +47210,7 @@
           "meaning": "附近",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -46868,7 +47228,7 @@
           "meaning": "遠處",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -46886,7 +47246,7 @@
           "meaning": "顏色",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "human_senses_perception",
           "level": "N5",
           "sentences": [
             {
@@ -46904,7 +47264,7 @@
           "meaning": "紅色",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "human_senses_perception",
           "level": "N5",
           "sentences": [
             {
@@ -46922,7 +47282,7 @@
           "meaning": "藍色",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "human_senses_perception",
           "level": "N5",
           "sentences": [
             {
@@ -46940,7 +47300,7 @@
           "meaning": "白色",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "human_senses_perception",
           "level": "N5",
           "sentences": [
             {
@@ -46958,7 +47318,7 @@
           "meaning": "黑色",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "human_senses_perception",
           "level": "N5",
           "sentences": [
             {
@@ -47048,7 +47408,7 @@
           "meaning": "眼鏡",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -47138,7 +47498,7 @@
           "meaning": "問題",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N5",
           "sentences": [
             {
@@ -47156,7 +47516,7 @@
           "meaning": "郵票",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -47174,7 +47534,7 @@
           "meaning": "信封",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -47210,7 +47570,7 @@
           "meaning": "行李、包裹",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "material_transport_mobility",
           "level": "N5",
           "sentences": [
             {
@@ -47264,7 +47624,7 @@
           "meaning": "錢包",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -47462,7 +47822,7 @@
           "meaning": "電梯",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "material_transport_mobility",
           "level": "N5",
           "sentences": [
             {
@@ -47588,7 +47948,7 @@
           "meaning": "誰",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -47624,7 +47984,7 @@
           "meaning": "哪裡",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -47642,7 +48002,7 @@
           "meaning": "什麼時候",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_communication_language",
           "level": "N5",
           "sentences": [
             {
@@ -47660,7 +48020,7 @@
           "meaning": "橡皮擦",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -47822,7 +48182,7 @@
           "meaning": "地下鐵",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_transport_mobility",
           "level": "N5",
           "sentences": [
             {
@@ -47894,7 +48254,7 @@
           "meaning": "十字路口",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -47912,7 +48272,7 @@
           "meaning": "轉角",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_space_direction",
           "level": "N5",
           "sentences": [
             {
@@ -48020,7 +48380,7 @@
           "meaning": "洗手間、廁所",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_housing_appliances",
           "level": "N5",
           "sentences": [
             {
@@ -48146,7 +48506,7 @@
           "meaning": "森林",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -53172,7 +53532,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "物質生活 ＞ 飲食文化",
-          "category": "nature_animals",
+          "category": "material_food_cooking",
           "level": "N5",
           "sentences": [
             {
@@ -54771,7 +55131,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "物質生活 ＞ 交通與移動",
-          "category": "human_body_physiology",
+          "category": "material_transport_mobility",
           "level": "N5",
           "sentences": [
             {
@@ -54987,7 +55347,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 學習與教育",
-          "category": "abstract_numbers_units",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -55041,7 +55401,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "物質生活 ＞ 日常用品",
-          "category": "human_body_physiology",
+          "category": "abstract_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -55059,7 +55419,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "物質生活 ＞ 日常用品",
-          "category": "material_housing_appliances",
+          "category": "material_clothing_beauty",
           "level": "N5",
           "sentences": [
             {
@@ -56588,7 +56948,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 城市與設施",
-          "category": "material_housing_appliances",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -56624,7 +56984,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 城市與設施",
-          "category": "material_housing_appliances",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -56642,7 +57002,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 城市與設施",
-          "category": "material_housing_appliances",
+          "category": "society_education_learning",
           "level": "N5",
           "sentences": [
             {
@@ -56660,7 +57020,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 城市與設施",
-          "category": "material_housing_appliances",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -56714,7 +57074,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 城市與設施",
-          "category": "material_housing_appliances",
+          "category": "society_work_economy",
           "level": "N5",
           "sentences": [
             {
@@ -56750,7 +57110,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "社會與文明 ＞ 城市與設施",
-          "category": "material_housing_appliances",
+          "category": "material_leisure_sports",
           "level": "N5",
           "sentences": [
             {
@@ -67450,7 +67810,7 @@
           "furigana": "よしゅう",
           "romaji": "yoshuu",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "society_education_learning",
           "level": "N4",
           "meaning": "預習",
           "sentences": [
@@ -67467,7 +67827,7 @@
           "furigana": "ふくしゅう",
           "romaji": "fukushuu",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "society_education_learning",
           "level": "N4",
           "meaning": "複習",
           "sentences": [
@@ -67484,7 +67844,7 @@
           "furigana": "にわ",
           "romaji": "niwa",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "material_housing_appliances",
           "level": "N4",
           "meaning": "院子 / 庭院",
           "sentences": [
@@ -67501,7 +67861,7 @@
           "furigana": "もん",
           "romaji": "mon",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "material_housing_appliances",
           "level": "N4",
           "meaning": "大門",
           "sentences": [
@@ -67518,7 +67878,7 @@
           "furigana": "げんかん",
           "romaji": "genkan",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "material_housing_appliances",
           "level": "N4",
           "meaning": "玄關 / 入口",
           "sentences": [
@@ -67554,7 +67914,7 @@
           "meaning": "風景",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -67622,7 +67982,7 @@
           "meaning": "森林",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -67671,7 +68031,7 @@
           "furigana": "かいぎしつ",
           "romaji": "kaigishitsu",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "society_work_economy",
           "level": "N4",
           "meaning": "會議室",
           "sentences": [
@@ -67688,7 +68048,7 @@
           "furigana": "としょしつ",
           "romaji": "toshoshitsu",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "society_education_learning",
           "level": "N4",
           "meaning": "圖書室",
           "sentences": [
@@ -67739,7 +68099,7 @@
           "furigana": "たいいくかん",
           "romaji": "taiikukan",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "material_leisure_sports",
           "level": "N4",
           "meaning": "體育館",
           "sentences": [
@@ -67809,7 +68169,7 @@
           "meaning": "日式旅館",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -67841,7 +68201,7 @@
           "furigana": "かいじょう",
           "romaji": "kaijou",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "abstract_space_direction",
           "level": "N4",
           "meaning": "會場",
           "sentences": [
@@ -67860,7 +68220,7 @@
           "meaning": "自然",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_weather_season",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -67877,7 +68237,7 @@
           "meaning": "空氣",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "nature_physics_phenomena",
           "level": "N4",
           "sentences": [
             {
@@ -67909,7 +68269,7 @@
           "furigana": "せんもん",
           "romaji": "senmon",
           "type": "noun",
-          "category": "society_education_learning",
+          "category": "abstract_logic_method",
           "level": "N4",
           "meaning": "專門 / 專業",
           "sentences": [
@@ -67926,7 +68286,7 @@
           "furigana": "じっけん",
           "romaji": "jikken",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N4",
           "meaning": "實驗",
           "sentences": [
@@ -67945,7 +68305,7 @@
           "meaning": "成功",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "abstract_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -67994,7 +68354,7 @@
           "furigana": "じゅぎょう",
           "romaji": "jugyou",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "society_education_learning",
           "level": "N4",
           "meaning": "上課 / 課堂",
           "sentences": [
@@ -68011,7 +68371,7 @@
           "furigana": "こしょう",
           "romaji": "koshou",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_state_value",
           "level": "N4",
           "meaning": "故障",
           "sentences": [
@@ -68062,7 +68422,7 @@
           "furigana": "えんりょ",
           "romaji": "enryo",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "meaning": "客氣 / 顧慮",
           "sentences": [
@@ -68079,7 +68439,7 @@
           "furigana": "さんせい",
           "romaji": "sansei",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "society_communication_language",
           "level": "N4",
           "meaning": "贊成",
           "sentences": [
@@ -68098,7 +68458,7 @@
           "meaning": "反對、相反",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_communication_language",
           "level": "N4",
           "sentences": [
             {
@@ -68113,7 +68473,7 @@
           "furigana": "けっか",
           "romaji": "kekka",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abstract_state_value",
           "level": "N4",
           "meaning": "結果",
           "sentences": [
@@ -68132,7 +68492,7 @@
           "meaning": "運動",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -68183,7 +68543,7 @@
           "meaning": "興趣、興致",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "sentences": [
             {
@@ -68232,7 +68592,7 @@
           "furigana": "としょかん",
           "romaji": "toshokan",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "society_education_learning",
           "level": "N4",
           "meaning": "圖書館",
           "sentences": [
@@ -68251,7 +68611,7 @@
           "meaning": "歷史",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "society_education_learning",
           "level": "N4",
           "sentences": [
             {
@@ -68300,7 +68660,7 @@
           "furigana": "けいかく",
           "romaji": "keikaku",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N4",
           "meaning": "計畫",
           "sentences": [
@@ -68319,7 +68679,7 @@
           "meaning": "興趣、嗜好",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "sentences": [
             {
@@ -68353,7 +68713,7 @@
           "meaning": "總經理、社長",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -68370,7 +68730,7 @@
           "meaning": "貿易",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -68625,7 +68985,7 @@
           "meaning": "身姿、外貌",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -68659,7 +69019,7 @@
           "meaning": "肌肉",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "human_body_physiology",
           "level": "N4",
           "sentences": [
             {
@@ -68778,7 +69138,7 @@
           "meaning": "牙刷",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -68795,7 +69155,7 @@
           "meaning": "肥皂",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -68812,7 +69172,7 @@
           "meaning": "毛巾",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -68829,7 +69189,7 @@
           "meaning": "淋浴、蓮蓬頭",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -68846,7 +69206,7 @@
           "meaning": "洗澡、浴缸",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -68863,7 +69223,7 @@
           "meaning": "洗手、洗手間",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_action_posture",
           "level": "N4",
           "sentences": [
             {
@@ -68880,7 +69240,7 @@
           "meaning": "垃圾",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -68897,7 +69257,7 @@
           "meaning": "口罩",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -68914,7 +69274,7 @@
           "meaning": "眼藥水",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_health_medical",
           "level": "N4",
           "sentences": [
             {
@@ -68931,7 +69291,7 @@
           "meaning": "身體",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "human_body_physiology",
           "level": "N4",
           "sentences": [
             {
@@ -68948,7 +69308,7 @@
           "meaning": "散步",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "human_action_posture",
           "level": "N4",
           "sentences": [
             {
@@ -68965,7 +69325,7 @@
           "meaning": "洗手間、洗手台",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -68982,7 +69342,7 @@
           "meaning": "鏡子",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -68999,7 +69359,7 @@
           "meaning": "漱口",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "human_action_posture",
           "level": "N4",
           "sentences": [
             {
@@ -69016,7 +69376,7 @@
           "meaning": "體操",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_health_medical",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -69033,7 +69393,7 @@
           "meaning": "性格、個性",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "sentences": [
             {
@@ -69050,7 +69410,7 @@
           "meaning": "笑聲、笑容",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "human_action_posture",
           "level": "N4",
           "sentences": [
             {
@@ -69067,7 +69427,7 @@
           "meaning": "謊言",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_communication_language",
           "level": "N4",
           "sentences": [
             {
@@ -69084,7 +69444,7 @@
           "meaning": "玩笑",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "society_communication_language",
           "level": "N4",
           "sentences": [
             {
@@ -69169,7 +69529,7 @@
           "meaning": "努力",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "human_action_posture",
           "level": "N4",
           "sentences": [
             {
@@ -69254,7 +69614,7 @@
           "meaning": "認真、老實",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "sentences": [
             {
@@ -69271,7 +69631,7 @@
           "meaning": "不可思議、奇妙",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "abstract_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -69288,7 +69648,7 @@
           "meaning": "熱衷、入迷",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "sentences": [
             {
@@ -69458,7 +69818,7 @@
           "meaning": "味噌湯",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_food_cooking",
           "level": "N4",
           "sentences": [
             {
@@ -69560,7 +69920,7 @@
           "meaning": "葡萄",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "nature_plants",
           "level": "N4",
           "sentences": [
             {
@@ -69577,7 +69937,7 @@
           "meaning": "桃子",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "nature_plants",
           "level": "N4",
           "sentences": [
             {
@@ -69594,7 +69954,7 @@
           "meaning": "文化",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -69611,7 +69971,7 @@
           "meaning": "祭典、節慶",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -69628,7 +69988,7 @@
           "meaning": "內衣",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -69645,7 +70005,7 @@
           "meaning": "外套、上衣",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -69662,7 +70022,7 @@
           "meaning": "手套",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -69696,7 +70056,7 @@
           "meaning": "手錶",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -69832,7 +70192,7 @@
           "meaning": "棉、棉花",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -69900,7 +70260,7 @@
           "meaning": "花紋、圖案",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N4",
           "sentences": [
             {
@@ -69917,7 +70277,7 @@
           "meaning": "尺寸",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_clothing_beauty",
+          "category": "abstract_numbers_units",
           "level": "N4",
           "sentences": [
             {
@@ -69985,7 +70345,7 @@
           "meaning": "地址",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -70036,7 +70396,7 @@
           "meaning": "屋頂、頂樓",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -70070,7 +70430,7 @@
           "meaning": "天花板",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -70104,7 +70464,7 @@
           "meaning": "日式壁櫥",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "material_housing_appliances",
           "level": "N4",
           "sentences": [
             {
@@ -70376,7 +70736,7 @@
           "meaning": "十字路口、交叉點",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -70410,7 +70770,7 @@
           "meaning": "馬路、街道",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -70427,7 +70787,7 @@
           "meaning": "坡道",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -70512,7 +70872,7 @@
           "meaning": "司機、駕駛員",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_transport_mobility",
           "level": "N4",
           "sentences": [
             {
@@ -70529,7 +70889,7 @@
           "meaning": "競爭、賽跑",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "abstract_logic_method",
           "level": "N4",
           "sentences": [
             {
@@ -70580,7 +70940,7 @@
           "meaning": "柔道",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -70665,7 +71025,7 @@
           "meaning": "動物園",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -70716,7 +71076,7 @@
           "meaning": "廣播、播出",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "society_communication_language",
           "level": "N4",
           "sentences": [
             {
@@ -70733,7 +71093,7 @@
           "meaning": "釣魚",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -70835,7 +71195,7 @@
           "meaning": "地球",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_weather_season",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -70903,7 +71263,7 @@
           "meaning": "溫度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "nature_physics_phenomena",
           "level": "N4",
           "sentences": [
             {
@@ -70954,7 +71314,7 @@
           "meaning": "宇宙",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_weather_season",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -71005,7 +71365,7 @@
           "meaning": "陰涼處、背陰處",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "nature_physics_phenomena",
           "level": "N4",
           "sentences": [
             {
@@ -71039,7 +71399,7 @@
           "meaning": "滿月",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -71141,7 +71501,7 @@
           "meaning": "樹枝",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "nature_plants",
           "level": "N4",
           "sentences": [
             {
@@ -71209,7 +71569,7 @@
           "meaning": "郊外",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -71226,7 +71586,7 @@
           "meaning": "鄉下、故鄉",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "nature_geography_space",
           "level": "N4",
           "sentences": [
             {
@@ -71311,7 +71671,7 @@
           "meaning": "賞花",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -71600,7 +71960,7 @@
           "meaning": "松樹",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N4",
           "sentences": [
             {
@@ -71634,7 +71994,7 @@
           "meaning": "人類",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -71804,7 +72164,7 @@
           "meaning": "少年",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -71855,7 +72215,7 @@
           "meaning": "部長、經理",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -71872,7 +72232,7 @@
           "meaning": "課長",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -71889,7 +72249,7 @@
           "meaning": "同事",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -71906,7 +72266,7 @@
           "meaning": "前輩、學長姐",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -71923,7 +72283,7 @@
           "meaning": "後輩、學弟妹",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -71940,7 +72300,7 @@
           "meaning": "對象、對方",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -71957,7 +72317,7 @@
           "meaning": "客人、顧客",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -72008,7 +72368,7 @@
           "meaning": "和平",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_law_politics",
           "level": "N4",
           "sentences": [
             {
@@ -72059,7 +72419,7 @@
           "meaning": "出口、輸出",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -72076,7 +72436,7 @@
           "meaning": "進口、輸入",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -72093,7 +72453,7 @@
           "meaning": "工業",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -72110,7 +72470,7 @@
           "meaning": "產業",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -72127,7 +72487,7 @@
           "meaning": "農業",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N4",
           "sentences": [
             {
@@ -72144,7 +72504,7 @@
           "meaning": "教育",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_education_learning",
           "level": "N4",
           "sentences": [
             {
@@ -72246,7 +72606,7 @@
           "meaning": "事情、要事",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "abstract_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -72348,7 +72708,7 @@
           "meaning": "計算",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "abstract_numbers_units",
           "level": "N4",
           "sentences": [
             {
@@ -72467,7 +72827,7 @@
           "meaning": "藝術",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "material_leisure_sports",
           "level": "N4",
           "sentences": [
             {
@@ -72484,7 +72844,7 @@
           "meaning": "科學",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N4",
           "sentences": [
             {
@@ -72501,7 +72861,7 @@
           "meaning": "文學",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N4",
           "sentences": [
             {
@@ -72518,7 +72878,7 @@
           "meaning": "想法、思考",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N4",
           "sentences": [
             {
@@ -72535,7 +72895,7 @@
           "meaning": "目的",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "abstract_logic_method",
           "level": "N4",
           "sentences": [
             {
@@ -72552,7 +72912,7 @@
           "meaning": "回憶",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "human_psychology_emotion",
           "level": "N4",
           "sentences": [
             {
@@ -72569,7 +72929,7 @@
           "meaning": "傳統",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -72586,7 +72946,7 @@
           "meaning": "神社",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -72603,7 +72963,7 @@
           "meaning": "寺廟",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -72620,7 +72980,7 @@
           "meaning": "教堂、教會",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -72637,7 +72997,7 @@
           "meaning": "禮物、贈品",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N4",
           "sentences": [
             {
@@ -72688,7 +73048,7 @@
           "meaning": "算術",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_education_learning",
           "level": "N4",
           "sentences": [
             {
@@ -72705,7 +73065,7 @@
           "meaning": "數學",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_education_learning",
           "level": "N4",
           "sentences": [
             {
@@ -72756,7 +73116,7 @@
           "meaning": "以上",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_numbers_units",
           "level": "N4",
           "sentences": [
             {
@@ -72773,7 +73133,7 @@
           "meaning": "以下",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_numbers_units",
           "level": "N4",
           "sentences": [
             {
@@ -72790,7 +73150,7 @@
           "meaning": "以內",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_numbers_units",
           "level": "N4",
           "sentences": [
             {
@@ -72807,7 +73167,7 @@
           "meaning": "以外",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abstract_numbers_units",
           "level": "N4",
           "sentences": [
             {
@@ -72824,7 +73184,7 @@
           "meaning": "線、線條",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -72841,7 +73201,7 @@
           "meaning": "點、分數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -72858,7 +73218,7 @@
           "meaning": "形狀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -72875,7 +73235,7 @@
           "meaning": "四角形、方形",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -72892,7 +73252,7 @@
           "meaning": "三角形",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_space_direction",
           "level": "N4",
           "sentences": [
             {
@@ -72994,7 +73354,7 @@
           "meaning": "種類",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N4",
           "sentences": [
             {
@@ -73011,7 +73371,7 @@
           "meaning": "不同、差異",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N4",
           "sentences": [
             {
@@ -73045,7 +73405,7 @@
           "meaning": "關係",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N4",
           "sentences": [
             {
@@ -75710,7 +76070,7 @@
           "furigana": "そんがい",
           "romaji": "songai",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N3",
           "meaning": "損害",
           "sentences": [
@@ -75729,7 +76089,7 @@
           "meaning": "競爭、比賽",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -75744,7 +76104,7 @@
           "furigana": "はったつ",
           "romaji": "hattatsu",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_state_value",
           "level": "N3",
           "meaning": "發達 / 發展",
           "sentences": [
@@ -75761,7 +76121,7 @@
           "furigana": "はってん",
           "romaji": "hatten",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_state_value",
           "level": "N3",
           "meaning": "發展",
           "sentences": [
@@ -75780,7 +76140,7 @@
           "meaning": "流行",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_clothing_beauty",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -75795,7 +76155,7 @@
           "furigana": "どりょく",
           "romaji": "doryoku",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "human_action_posture",
           "level": "N3",
           "meaning": "努力",
           "sentences": [
@@ -75812,7 +76172,7 @@
           "furigana": "せいこう",
           "romaji": "seikou",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_state_value",
           "level": "N3",
           "meaning": "成功",
           "sentences": [
@@ -75829,7 +76189,7 @@
           "furigana": "しっぱい",
           "romaji": "shippai",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_state_value",
           "level": "N3",
           "meaning": "失敗",
           "sentences": [
@@ -75846,7 +76206,7 @@
           "furigana": "よそく",
           "romaji": "yosoku",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "預測",
           "sentences": [
@@ -75865,7 +76225,7 @@
           "meaning": "理想",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -75882,7 +76242,7 @@
           "meaning": "現實",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -75899,7 +76259,7 @@
           "meaning": "結果",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -75914,7 +76274,7 @@
           "furigana": "けつろん",
           "romaji": "ketsuron",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "結論",
           "sentences": [
@@ -75933,7 +76293,7 @@
           "meaning": "目標",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -75948,7 +76308,7 @@
           "furigana": "しゅるい",
           "romaji": "shurui",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "種類",
           "sentences": [
@@ -76033,7 +76393,7 @@
           "furigana": "ぎょうじ",
           "romaji": "gyouji",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "society_family_relations",
           "level": "N3",
           "meaning": "活動 / 儀式",
           "sentences": [
@@ -76052,7 +76412,7 @@
           "meaning": "基礎",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -76069,7 +76429,7 @@
           "meaning": "規則、規定",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -76084,7 +76444,7 @@
           "furigana": "よそう",
           "romaji": "yosou",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "預期 / 預測",
           "sentences": [
@@ -76171,7 +76531,7 @@
           "meaning": "加油、聲援",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "human_action_posture",
           "level": "N3",
           "sentences": [
             {
@@ -76186,7 +76546,7 @@
           "furigana": "かいぜん",
           "romaji": "kaizen",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "改善",
           "sentences": [
@@ -76203,7 +76563,7 @@
           "furigana": "かいけつ",
           "romaji": "kaiketsu",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "解決",
           "sentences": [
@@ -76220,7 +76580,7 @@
           "furigana": "りかい",
           "romaji": "rikai",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "human_psychology_emotion",
           "level": "N3",
           "meaning": "理解",
           "sentences": [
@@ -76237,7 +76597,7 @@
           "furigana": "ていあん",
           "romaji": "teian",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "society_communication_language",
           "level": "N3",
           "meaning": "提案",
           "sentences": [
@@ -76290,7 +76650,7 @@
           "meaning": "比較",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -76307,7 +76667,7 @@
           "meaning": "想像",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "human_psychology_emotion",
           "level": "N3",
           "sentences": [
             {
@@ -76322,7 +76682,7 @@
           "furigana": "かんさつ",
           "romaji": "kansatsu",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "human_senses_perception",
           "level": "N3",
           "meaning": "觀察",
           "sentences": [
@@ -76339,7 +76699,7 @@
           "furigana": "きかい",
           "romaji": "kikai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "material_housing_appliances",
           "level": "N3",
           "meaning": "機械 / 機器",
           "sentences": [
@@ -76356,7 +76716,7 @@
           "furigana": "ぎじゅつ",
           "romaji": "gijutsu",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_work_economy",
           "level": "N3",
           "meaning": "技術",
           "sentences": [
@@ -76373,7 +76733,7 @@
           "furigana": "はつめい",
           "romaji": "hatsumei",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "society_work_economy",
           "level": "N3",
           "meaning": "發明",
           "sentences": [
@@ -76390,7 +76750,7 @@
           "furigana": "ざいさん",
           "romaji": "zaisan",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N3",
           "meaning": "財產",
           "sentences": [
@@ -76441,7 +76801,7 @@
           "furigana": "おんど",
           "romaji": "ondo",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "nature_physics_phenomena",
           "level": "N3",
           "meaning": "溫度",
           "sentences": [
@@ -76460,7 +76820,7 @@
           "meaning": "濕度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "nature_physics_phenomena",
           "level": "N3",
           "sentences": [
             {
@@ -76509,7 +76869,7 @@
           "furigana": "はっけん",
           "romaji": "hakken",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "發現",
           "sentences": [
@@ -76526,7 +76886,7 @@
           "furigana": "はっせい",
           "romaji": "hassei",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_state_value",
           "level": "N3",
           "meaning": "發生",
           "sentences": [
@@ -76596,7 +76956,7 @@
           "meaning": "感覺",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "human_senses_perception",
           "level": "N3",
           "sentences": [
             {
@@ -76645,7 +77005,7 @@
           "furigana": "たいど",
           "romaji": "taido",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "human_psychology_emotion",
           "level": "N3",
           "meaning": "態度",
           "sentences": [
@@ -76679,7 +77039,7 @@
           "furigana": "やくわり",
           "romaji": "yakuwari",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_family_relations",
           "level": "N3",
           "meaning": "職責 / 角色",
           "sentences": [
@@ -76730,7 +77090,7 @@
           "furigana": "ぶんか",
           "romaji": "bunka",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "meaning": "文化",
           "sentences": [
@@ -76749,7 +77109,7 @@
           "meaning": "條件",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -76764,7 +77124,7 @@
           "furigana": "じっけん",
           "romaji": "jikken",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N3",
           "meaning": "實驗",
           "sentences": [
@@ -76783,7 +77143,7 @@
           "meaning": "知識",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N3",
           "sentences": [
             {
@@ -76834,7 +77194,7 @@
           "meaning": "影響",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_physics_phenomena",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -76851,7 +77211,7 @@
           "meaning": "宇宙",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_weather_season",
+          "category": "nature_geography_space",
           "level": "N3",
           "sentences": [
             {
@@ -76953,7 +77313,7 @@
           "meaning": "下巴、顎",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "human_body_physiology",
           "level": "N3",
           "sentences": [
             {
@@ -77038,7 +77398,7 @@
           "meaning": "背部",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "human_body_physiology",
           "level": "N3",
           "sentences": [
             {
@@ -77242,7 +77602,7 @@
           "meaning": "滿足、滿意",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "human_psychology_emotion",
           "level": "N3",
           "sentences": [
             {
@@ -77276,7 +77636,7 @@
           "meaning": "關心、興趣",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "human_psychology_emotion",
           "level": "N3",
           "sentences": [
             {
@@ -77293,7 +77653,7 @@
           "meaning": "外食、在外用餐",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_food_cooking",
           "level": "N3",
           "sentences": [
             {
@@ -77310,7 +77670,7 @@
           "meaning": "餐桌",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -77412,7 +77772,7 @@
           "meaning": "農業",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "society_work_economy",
           "level": "N3",
           "sentences": [
             {
@@ -77429,7 +77789,7 @@
           "meaning": "調味料",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_food_cooking",
           "level": "N3",
           "sentences": [
             {
@@ -77582,7 +77942,7 @@
           "meaning": "餐具",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -77599,7 +77959,7 @@
           "meaning": "風味、味道",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_food_cooking",
           "level": "N3",
           "sentences": [
             {
@@ -77667,7 +78027,7 @@
           "meaning": "身影、姿態",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_clothing_beauty",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -77701,7 +78061,7 @@
           "meaning": "花紋、圖案",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N3",
           "sentences": [
             {
@@ -77718,7 +78078,7 @@
           "meaning": "素色、無花紋",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N3",
           "sentences": [
             {
@@ -77735,7 +78095,7 @@
           "meaning": "棉花、棉布",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N3",
           "sentences": [
             {
@@ -77922,7 +78282,7 @@
           "meaning": "皮膚、肌膚",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_clothing_beauty",
+          "category": "human_body_physiology",
           "level": "N3",
           "sentences": [
             {
@@ -77973,7 +78333,7 @@
           "meaning": "走廊",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -77990,7 +78350,7 @@
           "meaning": "天花板",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -78109,7 +78469,7 @@
           "meaning": "書架",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -78245,7 +78605,7 @@
           "meaning": "押金",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -78262,7 +78622,7 @@
           "meaning": "禮金 (租屋時給房東的酬謝金)",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "material_housing_appliances",
           "level": "N3",
           "sentences": [
             {
@@ -78381,7 +78741,7 @@
           "meaning": "通勤 (上下班)",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_transport_mobility",
           "level": "N3",
           "sentences": [
             {
@@ -78398,7 +78758,7 @@
           "meaning": "通學 (上下學)",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "material_transport_mobility",
           "level": "N3",
           "sentences": [
             {
@@ -78517,7 +78877,7 @@
           "meaning": "自由座",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "material_transport_mobility",
           "level": "N3",
           "sentences": [
             {
@@ -78602,7 +78962,7 @@
           "meaning": "違反、違規",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "society_law_politics",
           "level": "N3",
           "sentences": [
             {
@@ -78636,7 +78996,7 @@
           "meaning": "選手、運動員",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_leisure_sports",
           "level": "N3",
           "sentences": [
             {
@@ -78772,7 +79132,7 @@
           "meaning": "拍手、鼓掌",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "material_leisure_sports",
           "level": "N3",
           "sentences": [
             {
@@ -78806,7 +79166,7 @@
           "meaning": "祭典",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -78840,7 +79200,7 @@
           "meaning": "休假",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_time_calendar",
           "level": "N3",
           "sentences": [
             {
@@ -78857,7 +79217,7 @@
           "meaning": "登山",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "material_leisure_sports",
           "level": "N3",
           "sentences": [
             {
@@ -78891,7 +79251,7 @@
           "meaning": "釣魚",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "material_leisure_sports",
           "level": "N3",
           "sentences": [
             {
@@ -78908,7 +79268,7 @@
           "meaning": "地球",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_weather_season",
+          "category": "nature_geography_space",
           "level": "N3",
           "sentences": [
             {
@@ -78942,7 +79302,7 @@
           "meaning": "滿月",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "nature_geography_space",
           "level": "N3",
           "sentences": [
             {
@@ -79146,7 +79506,7 @@
           "meaning": "日光",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_physics_phenomena",
+          "category": "nature_weather_season",
           "level": "N3",
           "sentences": [
             {
@@ -79214,7 +79574,7 @@
           "meaning": "森林",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "nature_geography_space",
           "level": "N3",
           "sentences": [
             {
@@ -79282,7 +79642,7 @@
           "meaning": "面積",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "abstract_numbers_units",
           "level": "N3",
           "sentences": [
             {
@@ -79299,7 +79659,7 @@
           "meaning": "農家",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "society_work_economy",
           "level": "N3",
           "sentences": [
             {
@@ -79571,7 +79931,7 @@
           "meaning": "園藝",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79588,7 +79948,7 @@
           "meaning": "種子",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79605,7 +79965,7 @@
           "meaning": "根",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79622,7 +79982,7 @@
           "meaning": "樹枝",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79673,7 +80033,7 @@
           "meaning": "果實",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79690,7 +80050,7 @@
           "meaning": "外殼",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79826,7 +80186,7 @@
           "meaning": "竹子",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79843,7 +80203,7 @@
           "meaning": "松樹",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N3",
           "sentences": [
             {
@@ -79928,7 +80288,7 @@
           "meaning": "對手、對象、對方",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80013,7 +80373,7 @@
           "meaning": "子孫、後代",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80132,7 +80492,7 @@
           "meaning": "秘密",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_communication_language",
           "level": "N3",
           "sentences": [
             {
@@ -80149,7 +80509,7 @@
           "meaning": "照顧、幫忙",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80336,7 +80696,7 @@
           "meaning": "制度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_law_politics",
           "level": "N3",
           "sentences": [
             {
@@ -80353,7 +80713,7 @@
           "meaning": "組織",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N3",
           "sentences": [
             {
@@ -80370,7 +80730,7 @@
           "meaning": "和平",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_law_politics",
           "level": "N3",
           "sentences": [
             {
@@ -80421,7 +80781,7 @@
           "meaning": "責任",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -80727,7 +81087,7 @@
           "meaning": "傳統",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80744,7 +81104,7 @@
           "meaning": "宗教",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80761,7 +81121,7 @@
           "meaning": "信仰",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80778,7 +81138,7 @@
           "meaning": "思想",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N3",
           "sentences": [
             {
@@ -80795,7 +81155,7 @@
           "meaning": "哲學",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N3",
           "sentences": [
             {
@@ -80812,7 +81172,7 @@
           "meaning": "世紀",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_time_calendar",
           "level": "N3",
           "sentences": [
             {
@@ -80880,7 +81240,7 @@
           "meaning": "儀式",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80897,7 +81257,7 @@
           "meaning": "價值觀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80914,7 +81274,7 @@
           "meaning": "常識",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N3",
           "sentences": [
             {
@@ -80931,7 +81291,7 @@
           "meaning": "思考",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "human_psychology_emotion",
           "level": "N3",
           "sentences": [
             {
@@ -80948,7 +81308,7 @@
           "meaning": "迷信",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N3",
           "sentences": [
             {
@@ -80982,7 +81342,7 @@
           "meaning": "物理",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "nature_physics_phenomena",
           "level": "N3",
           "sentences": [
             {
@@ -80999,7 +81359,7 @@
           "meaning": "化學",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "nature_physics_phenomena",
           "level": "N3",
           "sentences": [
             {
@@ -81016,7 +81376,7 @@
           "meaning": "科學",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_education_learning",
           "level": "N3",
           "sentences": [
             {
@@ -81152,7 +81512,7 @@
           "meaning": "距離",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_space_direction",
           "level": "N3",
           "sentences": [
             {
@@ -81220,7 +81580,7 @@
           "meaning": "表格",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -81237,7 +81597,7 @@
           "meaning": "順序、輪流",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -81254,7 +81614,7 @@
           "meaning": "記號、符號",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_communication_language",
           "level": "N3",
           "sentences": [
             {
@@ -81271,7 +81631,7 @@
           "meaning": "全體、全部",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -81339,7 +81699,7 @@
           "meaning": "情況、理由、苦衷",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -81356,7 +81716,7 @@
           "meaning": "關聯",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -81373,7 +81733,7 @@
           "meaning": "目的",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -81390,7 +81750,7 @@
           "meaning": "程度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -81407,7 +81767,7 @@
           "meaning": "基準、標準",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -81441,7 +81801,7 @@
           "meaning": "分類",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -86331,7 +86691,7 @@
           "meaning": "矛盾",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N2",
           "sentences": [
             {
@@ -86346,7 +86706,7 @@
           "furigana": "てんけい",
           "romaji": "tenkei",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "典型",
           "sentences": [
@@ -86365,7 +86725,7 @@
           "meaning": "本質",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_state_value",
           "level": "N2",
           "sentences": [
             {
@@ -86380,7 +86740,7 @@
           "furigana": "ひかく",
           "romaji": "hikaku",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "比較",
           "sentences": [
@@ -86397,7 +86757,7 @@
           "furigana": "えいきょう",
           "romaji": "eikyou",
           "type": "noun",
-          "category": "nature_physics_phenomena",
+          "category": "abstract_state_value",
           "level": "N2",
           "meaning": "影響",
           "sentences": [
@@ -86533,7 +86893,7 @@
           "furigana": "けいかく",
           "romaji": "keikaku",
           "type": "noun",
-          "category": "human_action_posture",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "計畫",
           "sentences": [
@@ -86890,7 +87250,7 @@
           "furigana": "せいど",
           "romaji": "seido",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "society_law_politics",
           "level": "N2",
           "meaning": "制度",
           "sentences": [
@@ -86907,7 +87267,7 @@
           "furigana": "せきにん",
           "romaji": "sekinin",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "abstract_state_value",
           "level": "N2",
           "meaning": "責任",
           "sentences": [
@@ -86924,7 +87284,7 @@
           "furigana": "もくてき",
           "romaji": "mokuteki",
           "type": "noun",
-          "category": "human_body_physiology",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "目的",
           "sentences": [
@@ -86975,7 +87335,7 @@
           "furigana": "そしき",
           "romaji": "soshiki",
           "type": "noun",
-          "category": "society_law_politics",
+          "category": "society_work_economy",
           "level": "N2",
           "meaning": "組織",
           "sentences": [
@@ -86992,7 +87352,7 @@
           "furigana": "じょうけん",
           "romaji": "jouken",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "條件",
           "sentences": [
@@ -87045,7 +87405,7 @@
           "meaning": "基準、標準",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_logic_method",
           "level": "N2",
           "sentences": [
             {
@@ -87179,7 +87539,7 @@
           "furigana": "わりあい",
           "romaji": "wariai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_numbers_units",
           "level": "N2",
           "meaning": "比例",
           "sentences": [
@@ -87196,7 +87556,7 @@
           "furigana": "ていど",
           "romaji": "teido",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_state_value",
           "level": "N2",
           "meaning": "程度",
           "sentences": [
@@ -87315,7 +87675,7 @@
           "furigana": "よそく",
           "romaji": "yosoku",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "預測",
           "sentences": [
@@ -87417,7 +87777,7 @@
           "furigana": "けつろん",
           "romaji": "ketsuron",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "abstract_logic_method",
           "level": "N2",
           "meaning": "結論",
           "sentences": [
@@ -88279,7 +88639,7 @@
           "meaning": "理想",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "abstract_state_value",
           "level": "N2",
           "sentences": [
             {
@@ -88296,7 +88656,7 @@
           "meaning": "現實",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "abstract_state_value",
           "level": "N2",
           "sentences": [
             {
@@ -88364,7 +88724,7 @@
           "meaning": "義務",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "society_law_politics",
           "level": "N2",
           "sentences": [
             {
@@ -88381,7 +88741,7 @@
           "meaning": "權利",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "society_law_politics",
           "level": "N2",
           "sentences": [
             {
@@ -88398,7 +88758,7 @@
           "meaning": "信賴",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "human_psychology_emotion",
+          "category": "society_family_relations",
           "level": "N2",
           "sentences": [
             {
@@ -88500,7 +88860,7 @@
           "meaning": "餐桌",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "material_housing_appliances",
           "level": "N2",
           "sentences": [
             {
@@ -88585,7 +88945,7 @@
           "meaning": "風味",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_food_cooking",
           "level": "N2",
           "sentences": [
             {
@@ -88721,7 +89081,7 @@
           "meaning": "傳統",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_food_cooking",
+          "category": "society_family_relations",
           "level": "N2",
           "sentences": [
             {
@@ -88823,7 +89183,7 @@
           "meaning": "調味料",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_food_cooking",
           "level": "N2",
           "sentences": [
             {
@@ -88976,7 +89336,7 @@
           "meaning": "素色、無花紋",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N2",
           "sentences": [
             {
@@ -89061,7 +89421,7 @@
           "meaning": "棉花",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_plants",
+          "category": "material_clothing_beauty",
           "level": "N2",
           "sentences": [
             {
@@ -89248,7 +89608,7 @@
           "meaning": "面積",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_housing_appliances",
+          "category": "abstract_numbers_units",
           "level": "N2",
           "sentences": [
             {
@@ -89333,7 +89693,7 @@
           "meaning": "押金",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_work_economy",
+          "category": "material_housing_appliances",
           "level": "N2",
           "sentences": [
             {
@@ -89350,7 +89710,7 @@
           "meaning": "禮金 (租屋時給房東的錢)",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "material_housing_appliances",
           "level": "N2",
           "sentences": [
             {
@@ -89707,7 +90067,7 @@
           "meaning": "違反、違規",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "material_transport_mobility",
+          "category": "society_law_politics",
           "level": "N2",
           "sentences": [
             {
@@ -90081,7 +90441,7 @@
           "meaning": "登山、爬山",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "nature_geography_space",
+          "category": "material_leisure_sports",
           "level": "N2",
           "sentences": [
             {
@@ -90268,7 +90628,7 @@
           "meaning": "滿月",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "nature_geography_space",
           "level": "N2",
           "sentences": [
             {
@@ -90489,7 +90849,7 @@
           "meaning": "濕度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "nature_physics_phenomena",
           "level": "N2",
           "sentences": [
             {
@@ -90948,7 +91308,7 @@
           "meaning": "根",
           "pos": "名詞",
           "type": "noun",
-          "category": "nature_animals",
+          "category": "nature_plants",
           "level": "N2",
           "sentences": [
             {
@@ -91220,7 +91580,7 @@
           "meaning": "同事",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_family_relations",
+          "category": "society_work_economy",
           "level": "N2",
           "sentences": [
             {
@@ -92036,7 +92396,7 @@
           "meaning": "思想",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N2",
           "sentences": [
             {
@@ -92087,7 +92447,7 @@
           "meaning": "信仰",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N2",
           "sentences": [
             {
@@ -92104,7 +92464,7 @@
           "meaning": "迷信",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N2",
           "sentences": [
             {
@@ -92172,7 +92532,7 @@
           "meaning": "儀式",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N2",
           "sentences": [
             {
@@ -92291,7 +92651,7 @@
           "meaning": "價值觀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "society_family_relations",
           "level": "N2",
           "sentences": [
             {
@@ -92733,7 +93093,7 @@
           "meaning": "關聯",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N2",
           "sentences": [
             {
@@ -95504,7 +95864,7 @@
           "furigana": "むじゅん",
           "romaji": "mujun",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abstract_logic_method",
           "level": "N1",
           "meaning": "矛盾",
           "sentences": [
@@ -96701,7 +97061,7 @@
           "meaning": "風味、滋味",
           "pos": "名詞",
           "type": "noun",
-          "category": "human_senses_perception",
+          "category": "material_food_cooking",
           "level": "N1",
           "sentences": [
             {
@@ -98095,7 +98455,7 @@
           "meaning": "園藝",
           "pos": "名詞",
           "type": "noun",
-          "category": "material_leisure_sports",
+          "category": "nature_plants",
           "level": "N1",
           "sentences": [
             {
@@ -100271,7 +100631,7 @@
           "meaning": "思想、想法",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_education_learning",
           "level": "N1",
           "sentences": [
             {
@@ -100339,7 +100699,7 @@
           "meaning": "信仰",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N1",
           "sentences": [
             {
@@ -100458,7 +100818,7 @@
           "meaning": "儀式",
           "pos": "名詞",
           "type": "noun",
-          "category": "society_communication_language",
+          "category": "society_family_relations",
           "level": "N1",
           "sentences": [
             {
@@ -100968,7 +101328,7 @@
           "meaning": "本質",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abstract_state_value",
           "level": "N1",
           "sentences": [
             {
