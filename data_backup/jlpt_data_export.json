@@ -1442,6 +1442,216 @@
         "kana": "むがむちゅう",
         "pos": "Noun (Yojijukugo)",
         "meaning": "忘我、拼命投入"
+      },
+      {
+        "jp": "慌てる",
+        "romaji": "awateru",
+        "kana": "あわてる",
+        "pos": "Intransitive verb",
+        "meaning": "慌張、驚慌失措"
+      },
+      {
+        "jp": "焦る",
+        "romaji": "aseru",
+        "kana": "あせる",
+        "pos": "Intransitive verb",
+        "meaning": "焦急、急躁"
+      },
+      {
+        "jp": "甘やかす",
+        "romaji": "amayakasu",
+        "kana": "あまやかす",
+        "pos": "Transitive verb",
+        "meaning": "溺愛、嬌縱"
+      },
+      {
+        "jp": "疑う",
+        "romaji": "utagau",
+        "kana": "うたがう",
+        "pos": "Transitive verb",
+        "meaning": "懷疑、猜疑"
+      },
+      {
+        "jp": "敬う",
+        "romaji": "uyamau",
+        "kana": "うやまう",
+        "pos": "Transitive verb",
+        "meaning": "尊敬、崇敬"
+      },
+      {
+        "jp": "恨む",
+        "romaji": "uramu",
+        "kana": "うらむ",
+        "pos": "Transitive verb",
+        "meaning": "怨恨、埋怨"
+      },
+      {
+        "jp": "思い込む",
+        "romaji": "omoikomu",
+        "kana": "おもいこむ",
+        "pos": "Intransitive verb",
+        "meaning": "深信不疑、固執己見"
+      },
+      {
+        "jp": "思いつく",
+        "romaji": "omoitsuku",
+        "kana": "おもいつく",
+        "pos": "Transitive verb",
+        "meaning": "想出、忽然想起"
+      },
+      {
+        "jp": "抱える",
+        "romaji": "kakaeru",
+        "kana": "かかえる",
+        "pos": "Transitive verb",
+        "meaning": "抱、夾在腋下 / 承擔、背負"
+      },
+      {
+        "jp": "からかう",
+        "romaji": "karakau",
+        "kana": "からかう",
+        "pos": "Transitive verb",
+        "meaning": "嘲笑、戲弄"
+      },
+      {
+        "jp": "逆らう",
+        "romaji": "sakarau",
+        "kana": "さからう",
+        "pos": "Intransitive verb",
+        "meaning": "逆、違背、反抗"
+      },
+      {
+        "jp": "慰める",
+        "romaji": "nagusameru",
+        "kana": "なぐさめる",
+        "pos": "Transitive verb",
+        "meaning": "安慰、慰藉"
+      },
+      {
+        "jp": "怠ける",
+        "romaji": "namakeru",
+        "kana": "なまける",
+        "pos": "Transitive verb",
+        "meaning": "偷懶、怠惰"
+      },
+      {
+        "jp": "似合う",
+        "romaji": "niau",
+        "kana": "にあう",
+        "pos": "Intransitive verb",
+        "meaning": "相稱、適合"
+      },
+      {
+        "jp": "睨む",
+        "romaji": "niramu",
+        "kana": "にらむ",
+        "pos": "Transitive verb",
+        "meaning": "怒視、瞪眼"
+      },
+      {
+        "jp": "励ます",
+        "romaji": "hagemasu",
+        "kana": "はげます",
+        "pos": "Transitive verb",
+        "meaning": "鼓勵、激勵"
+      },
+      {
+        "jp": "張り切る",
+        "romaji": "harikiru",
+        "kana": "はりきる",
+        "pos": "Intransitive verb",
+        "meaning": "幹勁十足、精神百倍"
+      },
+      {
+        "jp": "ふざける",
+        "romaji": "fuzakeru",
+        "kana": "ふざける",
+        "pos": "Intransitive verb",
+        "meaning": "開玩笑、胡鬧"
+      },
+      {
+        "jp": "見直す",
+        "romaji": "minaosu",
+        "kana": "みなおす",
+        "pos": "Transitive verb",
+        "meaning": "重看、重新評估、刮目相看"
+      },
+      {
+        "jp": "恵まれる",
+        "romaji": "megumareru",
+        "kana": "めぐまれる",
+        "pos": "Intransitive verb",
+        "meaning": "富有、蒙受恩惠"
+      },
+      {
+        "jp": "もつれる",
+        "romaji": "motsureru",
+        "kana": "もつれる",
+        "pos": "Intransitive verb",
+        "meaning": "糾纏、複雜化、口齒不清"
+      },
+      {
+        "jp": "やっつける",
+        "romaji": "yattsukeru",
+        "kana": "やっつける",
+        "pos": "Transitive verb",
+        "meaning": "打敗、消滅、解決"
+      },
+      {
+        "jp": "破る",
+        "romaji": "yaburu",
+        "kana": "やぶる",
+        "pos": "Transitive verb",
+        "meaning": "撕破、打破、違反"
+      },
+      {
+        "jp": "割り込む",
+        "romaji": "warikomu",
+        "kana": "わりこむ",
+        "pos": "Intransitive verb",
+        "meaning": "插隊、插嘴"
+      },
+      {
+        "jp": "威張る",
+        "romaji": "ibaru",
+        "kana": "いばる",
+        "pos": "Intransitive verb",
+        "meaning": "逞威風、傲慢"
+      },
+      {
+        "jp": "うなずく",
+        "romaji": "unazuku",
+        "kana": "うなずく",
+        "pos": "Intransitive verb",
+        "meaning": "點頭、首肯"
+      },
+      {
+        "jp": "裏切る",
+        "romaji": "uragiru",
+        "kana": "うらぎる",
+        "pos": "Transitive verb",
+        "meaning": "背叛、辜負"
+      },
+      {
+        "jp": "落ち着く",
+        "romaji": "ochitsuku",
+        "kana": "おちつく",
+        "pos": "Intransitive verb",
+        "meaning": "平靜、穩定、安居"
+      },
+      {
+        "jp": "構う",
+        "romaji": "kamau",
+        "kana": "かまう",
+        "pos": "Transitive verb",
+        "meaning": "介意、理會、照顧"
+      },
+      {
+        "jp": "稼ぐ",
+        "romaji": "kasegu",
+        "kana": "かせぐ",
+        "pos": "Transitive verb",
+        "meaning": "賺錢、爭取(時間等)"
       }
     ],
     "grammar": [
