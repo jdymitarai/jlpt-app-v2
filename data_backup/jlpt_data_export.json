@@ -5222,6 +5222,216 @@
         "kana": "ほんまつてんとう",
         "pos": "Noun",
         "meaning": "本末倒置"
+      },
+      {
+        "jp": "相槌を打つ",
+        "romaji": "aiduchioutsu",
+        "kana": "あいづちをうつ",
+        "pos": "Idiom",
+        "meaning": "隨聲附和、點頭稱是"
+      },
+      {
+        "jp": "足が出る",
+        "romaji": "ashigaderu",
+        "kana": "あしがでる",
+        "pos": "Idiom",
+        "meaning": "超出預算、虧空"
+      },
+      {
+        "jp": "足を洗う",
+        "romaji": "ashiwoarau",
+        "kana": "あしをあらう",
+        "pos": "Idiom",
+        "meaning": "洗手不幹、改邪歸正"
+      },
+      {
+        "jp": "足を引っ張る",
+        "romaji": "ashiwohipparu",
+        "kana": "あしをひっぱる",
+        "pos": "Idiom",
+        "meaning": "扯後腿、妨礙"
+      },
+      {
+        "jp": "息が合う",
+        "romaji": "ikigaau",
+        "kana": "いきがあう",
+        "pos": "Idiom",
+        "meaning": "默契十足、步調一致"
+      },
+      {
+        "jp": "息を呑む",
+        "romaji": "ikiwonomu",
+        "kana": "いきをのむ",
+        "pos": "Idiom",
+        "meaning": "倒抽一口氣（因驚訝或恐懼）"
+      },
+      {
+        "jp": "板につく",
+        "romaji": "itanitsuku",
+        "kana": "いたにつく",
+        "pos": "Idiom",
+        "meaning": "得心應手、習以為常"
+      },
+      {
+        "jp": "一目置く",
+        "romaji": "ichimokuoku",
+        "kana": "いちもくおく",
+        "pos": "Idiom",
+        "meaning": "自嘆不如、甘拜下風"
+      },
+      {
+        "jp": "糸を引く",
+        "romaji": "itowohiku",
+        "kana": "いとをひく",
+        "pos": "Idiom",
+        "meaning": "幕後操縱；藕斷絲連"
+      },
+      {
+        "jp": "裏目に出る",
+        "romaji": "uramunideru",
+        "kana": "うらめにでる",
+        "pos": "Idiom",
+        "meaning": "適得其反"
+      },
+      {
+        "jp": "顔が広い",
+        "romaji": "kaogahiroi",
+        "kana": "かおがひろい",
+        "pos": "Idiom",
+        "meaning": "交遊廣闊、人脈廣"
+      },
+      {
+        "jp": "顔に泥を塗る",
+        "romaji": "kaonidorowonuru",
+        "kana": "かおにどろをぬる",
+        "pos": "Idiom",
+        "meaning": "往臉上抹黑、使人丟臉"
+      },
+      {
+        "jp": "肩を持つ",
+        "romaji": "katawomotsu",
+        "kana": "かたをもつ",
+        "pos": "Idiom",
+        "meaning": "偏袒、袒護"
+      },
+      {
+        "jp": "肩を落とす",
+        "romaji": "katawootosu",
+        "kana": "かたをおとす",
+        "pos": "Idiom",
+        "meaning": "垂頭喪氣、失望"
+      },
+      {
+        "jp": "釘を刺す",
+        "romaji": "kugiwosasu",
+        "kana": "くぎをさす",
+        "pos": "Idiom",
+        "meaning": "事先警告、叮嚀"
+      },
+      {
+        "jp": "口が堅い",
+        "romaji": "kuchigakatai",
+        "kana": "くちがかたい",
+        "pos": "Idiom",
+        "meaning": "口風緊、守口如瓶"
+      },
+      {
+        "jp": "口が軽い",
+        "romaji": "kuchigakarui",
+        "kana": "くちがかるい",
+        "pos": "Idiom",
+        "meaning": "嘴巴不嚴、愛走漏風聲"
+      },
+      {
+        "jp": "口を出す",
+        "romaji": "kuchiwodasu",
+        "kana": "くちをだす",
+        "pos": "Idiom",
+        "meaning": "插嘴、多管閒事"
+      },
+      {
+        "jp": "首を長くする",
+        "romaji": "kubiwonagakusuru",
+        "kana": "くびをながくする",
+        "pos": "Idiom",
+        "meaning": "引頸期盼、翹首以待"
+      },
+      {
+        "jp": "心が痛む",
+        "romaji": "kokorogaitamu",
+        "kana": "こころがいたむ",
+        "pos": "Idiom",
+        "meaning": "心痛、難過"
+      },
+      {
+        "jp": "さじを投げる",
+        "romaji": "sajiwonageru",
+        "kana": "さじをなげる",
+        "pos": "Idiom",
+        "meaning": "無藥可救、放棄（醫生放棄治療）"
+      },
+      {
+        "jp": "尻尾を出す",
+        "romaji": "shippowodasu",
+        "kana": "しっぽをだす",
+        "pos": "Idiom",
+        "meaning": "露出馬腳"
+      },
+      {
+        "jp": "隅に置けない",
+        "romaji": "suminiokenai",
+        "kana": "すみにおけない",
+        "pos": "Idiom",
+        "meaning": "不可小覷、不容忽視"
+      },
+      {
+        "jp": "太鼓判を押す",
+        "romaji": "taikobanwoosu",
+        "kana": "たいこばんをおす",
+        "pos": "Idiom",
+        "meaning": "打包票、極力保證"
+      },
+      {
+        "jp": "手が空く",
+        "romaji": "tegaaku",
+        "kana": "てがあく",
+        "pos": "Idiom",
+        "meaning": "空出手來、有空閒"
+      },
+      {
+        "jp": "手を焼く",
+        "romaji": "tewoyaku",
+        "kana": "てをやく",
+        "pos": "Idiom",
+        "meaning": "感到棘手、無可奈何"
+      },
+      {
+        "jp": "途方に暮れる",
+        "romaji": "tohounikureru",
+        "kana": "とほうにくれる",
+        "pos": "Idiom",
+        "meaning": "走投無路、不知所措"
+      },
+      {
+        "jp": "根も葉もない",
+        "romaji": "nemohamonai",
+        "kana": "ねもはもない",
+        "pos": "Idiom",
+        "meaning": "毫無根據、空穴來風"
+      },
+      {
+        "jp": "腹が立つ",
+        "romaji": "haragatatsu",
+        "kana": "はらがたつ",
+        "pos": "Idiom",
+        "meaning": "生氣、發怒"
+      },
+      {
+        "jp": "骨を折る",
+        "romaji": "honewooru",
+        "kana": "ほねをおる",
+        "pos": "Idiom",
+        "meaning": "煞費苦心、費盡心力"
       }
     ],
     "grammar": [
