@@ -4382,6 +4382,216 @@
         "kana": "なきっつらにはち",
         "pos": "Proverb",
         "meaning": "雪上加霜、禍不單行（哭泣的臉上又被蜜蜂螫）"
+      },
+      {
+        "jp": "一朝一夕",
+        "romaji": "itchouisseki",
+        "kana": "いっちょういっせき",
+        "pos": "Noun",
+        "meaning": "一朝一夕、短時間內"
+      },
+      {
+        "jp": "画竜点睛",
+        "romaji": "garyoutensei",
+        "kana": "がりょうてんせい",
+        "pos": "Noun",
+        "meaning": "畫龍點睛"
+      },
+      {
+        "jp": "完全無欠",
+        "romaji": "kanzenmuketsu",
+        "kana": "かんぜんむけつ",
+        "pos": "Noun",
+        "meaning": "完美無缺"
+      },
+      {
+        "jp": "奇想天外",
+        "romaji": "kisoutengai",
+        "kana": "きそうてんがい",
+        "pos": "Noun",
+        "meaning": "異想天開、奇思妙想"
+      },
+      {
+        "jp": "喜怒哀楽",
+        "romaji": "kidoairaku",
+        "kana": "きどあいらく",
+        "pos": "Noun",
+        "meaning": "喜怒哀樂"
+      },
+      {
+        "jp": "空前絶後",
+        "romaji": "kuuzenzetsugo",
+        "kana": "くうぜんぜつご",
+        "pos": "Noun",
+        "meaning": "空前絕後"
+      },
+      {
+        "jp": "厚顔無恥",
+        "romaji": "kouganmuchi",
+        "kana": "こうがんむち",
+        "pos": "Noun",
+        "meaning": "厚顏無恥"
+      },
+      {
+        "jp": "公明正大",
+        "romaji": "koumeiseidai",
+        "kana": "こうめいせいだい",
+        "pos": "Noun",
+        "meaning": "光明正大"
+      },
+      {
+        "jp": "呉越同舟",
+        "romaji": "goetsudoushuu",
+        "kana": "ごえつどうしゅう",
+        "pos": "Noun",
+        "meaning": "吳越同舟（仇人同處逆境而互相救助）"
+      },
+      {
+        "jp": "孤軍奮闘",
+        "romaji": "kogunfuntou",
+        "kana": "こぐんふんとう",
+        "pos": "Noun",
+        "meaning": "孤軍奮戰"
+      },
+      {
+        "jp": "古今東西",
+        "romaji": "kokontouzai",
+        "kana": "ここんとうざい",
+        "pos": "Noun",
+        "meaning": "古今中外"
+      },
+      {
+        "jp": "言語道断",
+        "romaji": "gongodoudan",
+        "kana": "ごんごどうだん",
+        "pos": "Noun",
+        "meaning": "荒謬透頂、豈有此理"
+      },
+      {
+        "jp": "山川草木",
+        "romaji": "sansensoumoku",
+        "kana": "さんせんそうもく",
+        "pos": "Noun",
+        "meaning": "山川草木（大自然的一切）"
+      },
+      {
+        "jp": "質実剛健",
+        "romaji": "shitsujitsugouken",
+        "kana": "しつじつごうけん",
+        "pos": "Noun",
+        "meaning": "樸實剛健"
+      },
+      {
+        "jp": "四面楚歌",
+        "romaji": "shimensoka",
+        "kana": "しめんそか",
+        "pos": "Noun",
+        "meaning": "四面楚歌、孤立無援"
+      },
+      {
+        "jp": "縦横無尽",
+        "romaji": "juuoumujin",
+        "kana": "じゅうおうむじん",
+        "pos": "Noun",
+        "meaning": "縱橫馳騁、自由自在"
+      },
+      {
+        "jp": "主客転倒",
+        "romaji": "shukakutentou",
+        "kana": "しゅかくてんとう",
+        "pos": "Noun",
+        "meaning": "喧賓奪主、本末倒置"
+      },
+      {
+        "jp": "順風満帆",
+        "romaji": "junpuumanpan",
+        "kana": "じゅんぷうまんぱん",
+        "pos": "Noun",
+        "meaning": "一帆風順"
+      },
+      {
+        "jp": "盛者必衰",
+        "romaji": "joushahissui",
+        "kana": "じょうしゃひっすい",
+        "pos": "Noun",
+        "meaning": "盛極必衰"
+      },
+      {
+        "jp": "心機一転",
+        "romaji": "shinkiitten",
+        "kana": "しんきいってん",
+        "pos": "Noun",
+        "meaning": "拋開過去，重新振作"
+      },
+      {
+        "jp": "神出鬼没",
+        "romaji": "shinshutsukibotsu",
+        "kana": "しんしゅつきぼつ",
+        "pos": "Noun",
+        "meaning": "神出鬼沒"
+      },
+      {
+        "jp": "針小棒大",
+        "romaji": "shinshouhoudai",
+        "kana": "しんしょうぼうだい",
+        "pos": "Noun",
+        "meaning": "小題大作"
+      },
+      {
+        "jp": "絶体絶命",
+        "romaji": "zettaizetsumei",
+        "kana": "ぜったいぜつめい",
+        "pos": "Noun",
+        "meaning": "走投無路、窮途末路"
+      },
+      {
+        "jp": "前代未聞",
+        "romaji": "zendaimimon",
+        "kana": "ぜんだいみもん",
+        "pos": "Noun",
+        "meaning": "前所未聞"
+      },
+      {
+        "jp": "千載一遇",
+        "romaji": "senzaiichiguu",
+        "kana": "せんざいいちぐう",
+        "pos": "Noun",
+        "meaning": "千載難逢"
+      },
+      {
+        "jp": "大器晩成",
+        "romaji": "taikibansei",
+        "kana": "たいきばんせい",
+        "pos": "Noun",
+        "meaning": "大器晚成"
+      },
+      {
+        "jp": "適材適所",
+        "romaji": "tekizaitekisho",
+        "kana": "てきざいてきしょ",
+        "pos": "Noun",
+        "meaning": "適才適所、用人唯才"
+      },
+      {
+        "jp": "天衣無縫",
+        "romaji": "tennimuhou",
+        "kana": "てんいむほう",
+        "pos": "Noun",
+        "meaning": "天衣無縫、自然不造作"
+      },
+      {
+        "jp": "電光石火",
+        "romaji": "denkousekka",
+        "kana": "でんこうせっか",
+        "pos": "Noun",
+        "meaning": "電光石火（動作非常迅速）"
+      },
+      {
+        "jp": "日進月歩",
+        "romaji": "nisshingeppo",
+        "kana": "にっしんげっぽ",
+        "pos": "Noun",
+        "meaning": "日新月異"
       }
     ],
     "grammar": [
