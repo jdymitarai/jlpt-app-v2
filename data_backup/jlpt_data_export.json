@@ -1232,6 +1232,216 @@
         "kana": "でござる",
         "pos": "Expression (Teineigo)",
         "meaning": "是 (である、です的鄭重語)"
+      },
+      {
+        "jp": "一期一会",
+        "romaji": "ichigoichie",
+        "kana": "いちごいちえ",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "一生一次的相遇、珍惜每一次的緣分"
+      },
+      {
+        "jp": "自業自得",
+        "romaji": "jigoujitoku",
+        "kana": "じごうじとく",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "自作自受、罪有應得"
+      },
+      {
+        "jp": "一石二鳥",
+        "romaji": "issekinichou",
+        "kana": "いっせきにちょう",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "一石二鳥、一舉兩得"
+      },
+      {
+        "jp": "以心伝心",
+        "romaji": "ishindenshin",
+        "kana": "いしんでんしん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "心領神會、心電感應"
+      },
+      {
+        "jp": "半信半疑",
+        "romaji": "hanshinhangi",
+        "kana": "はんしんはんぎ",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "半信半疑、將信將疑"
+      },
+      {
+        "jp": "臨機応変",
+        "romaji": "rinkiouhen",
+        "kana": "りんきおうへん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "臨機應變、見機行事"
+      },
+      {
+        "jp": "前代未聞",
+        "romaji": "zendaimimon",
+        "kana": "ぜんだいみもん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "前所未聞、史無前例"
+      },
+      {
+        "jp": "本末転倒",
+        "romaji": "honmatsutentou",
+        "kana": "ほんまつてんとう",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "本末倒置、主次顛倒"
+      },
+      {
+        "jp": "試行錯誤",
+        "romaji": "shikousakugo",
+        "kana": "しこうさくご",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "不斷摸索、反覆試錯"
+      },
+      {
+        "jp": "誠心誠意",
+        "romaji": "seishinseii",
+        "kana": "せいしんせいい",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "誠心誠意、全心全意"
+      },
+      {
+        "jp": "悪戦苦闘",
+        "romaji": "akusenkutou",
+        "kana": "あくせんくとう",
+        "pos": "Noun, Suru verb",
+        "meaning": "陷入苦戰、奮力拼搏"
+      },
+      {
+        "jp": "絶体絶命",
+        "romaji": "zettaizetsumei",
+        "kana": "ぜったいぜつめい",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "走投無路、絕境"
+      },
+      {
+        "jp": "自暴自棄",
+        "romaji": "jiboujiki",
+        "kana": "じぼうじき",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "自暴自棄、破罐子破摔"
+      },
+      {
+        "jp": "有言実行",
+        "romaji": "yuugenjikkou",
+        "kana": "ゆうげんじっこう",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "說到做到、言出必行"
+      },
+      {
+        "jp": "日進月歩",
+        "romaji": "nisshingeppo",
+        "kana": "にっしんげっぽ",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "日新月異、進步神速"
+      },
+      {
+        "jp": "油断大敵",
+        "romaji": "yudantaiteki",
+        "kana": "ゆだんたいてき",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "粗心大意是最大的敵人"
+      },
+      {
+        "jp": "暗中模索",
+        "romaji": "anchuumosaku",
+        "kana": "あんちゅうもさく",
+        "pos": "Noun, Suru verb",
+        "meaning": "暗中摸索、茫無頭緒地尋找"
+      },
+      {
+        "jp": "意気投合",
+        "romaji": "ikitougou",
+        "kana": "いきとうごう",
+        "pos": "Noun, Suru verb",
+        "meaning": "情投意合、一拍即合"
+      },
+      {
+        "jp": "言語道断",
+        "romaji": "gongodoudan",
+        "kana": "ごんごどうだん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "豈有此理、荒謬透頂"
+      },
+      {
+        "jp": "七転八起",
+        "romaji": "shichitenhakki",
+        "kana": "しちてんはっき",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "百折不撓、跌倒了再爬起來"
+      },
+      {
+        "jp": "十人十色",
+        "romaji": "juunintoiro",
+        "kana": "じゅうにんといろ",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "十人十色、人各有志"
+      },
+      {
+        "jp": "千載一遇",
+        "romaji": "senzaiichiguu",
+        "kana": "せんざいいちぐう",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "千載難逢、百年難得一見"
+      },
+      {
+        "jp": "適材適所",
+        "romaji": "tekizaitekisho",
+        "kana": "てきざいてきしょ",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "適才適所、量才錄用"
+      },
+      {
+        "jp": "八方美人",
+        "romaji": "happoubijin",
+        "kana": "はっぽうびじん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "八面玲瓏的人、誰都不得罪的人"
+      },
+      {
+        "jp": "四苦八苦",
+        "romaji": "shikuhakku",
+        "kana": "しくはっく",
+        "pos": "Noun, Suru verb",
+        "meaning": "千辛萬苦、費盡心機"
+      },
+      {
+        "jp": "一喜一憂",
+        "romaji": "ikkiichiyuu",
+        "kana": "いっきいちゆう",
+        "pos": "Noun, Suru verb",
+        "meaning": "忽喜忽憂、患得患失"
+      },
+      {
+        "jp": "五里霧中",
+        "romaji": "gorimuchuu",
+        "kana": "ごりむちゅう",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "五里霧中、毫無頭緒"
+      },
+      {
+        "jp": "順風満帆",
+        "romaji": "junpuumanpan",
+        "kana": "じゅんぷうまんぱん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "一帆風順、順利進行"
+      },
+      {
+        "jp": "縦横無尽",
+        "romaji": "juuoumujin",
+        "kana": "じゅうおうむじん",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "自由自在、無拘無束"
+      },
+      {
+        "jp": "無我夢中",
+        "romaji": "mugamuchuu",
+        "kana": "むがむちゅう",
+        "pos": "Noun (Yojijukugo)",
+        "meaning": "忘我、拼命投入"
       }
     ],
     "grammar": [
