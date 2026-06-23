@@ -142,39 +142,91 @@ const advCategoryGroups = [
 
 const advSubCategories = [
   // 人類自身
-  { id: "adv_body_movement", label: "肢體與生理模樣", group: "human_self" },
-  { id: "adv_emotion_state", label: "心理情緒狀態", group: "human_self" },
-  { id: "adv_senses", label: "五官感知描述", group: "human_self" },
+  { id: "adv_body_physio", label: "肢體與生理模樣", group: "human_self" },
+  { id: "adv_psych_emotion", label: "心理與情緒狀態", group: "human_self" },
+  { id: "adv_senses_perception", label: "五官與感知描述", group: "human_self" },
   
   // 物質生活
-  { id: "adv_daily_action", label: "日常行為方式", group: "material_life" },
+  { id: "adv_daily_action", label: "日常行為與速度方式", group: "material_life" },
   { id: "adv_food_cooking", label: "飲食與烹飪狀態", group: "material_life" },
-  { id: "adv_speed_efficiency", label: "速度與效率", group: "material_life" },
+  { id: "adv_item_space", label: "物品與空間狀態", group: "material_life" },
   
   // 自然與宇宙
-  { id: "adv_weather_physics", label: "天氣與物理現象", group: "nature_universe" },
-  { id: "adv_sound_mimic", label: "聲音模擬", group: "nature_universe" },
+  { id: "adv_weather_mimic", label: "天氣現象模擬", group: "nature_universe" },
+  { id: "adv_physical_change", label: "物理動態與狀態改變", group: "nature_universe" },
   
   // 社會與文明
-  { id: "adv_comm_attitude", label: "人際溝通態度", group: "society_civilization" },
-  { id: "adv_work_manner", label: "職場禮貌語氣", group: "society_civilization" },
+  { id: "adv_comm_attitude", label: "溝通表達態度", group: "society_civilization" },
+  { id: "adv_work_study", label: "職場與學習處事", group: "society_civilization" },
   
   // 抽象概念
-  { id: "adv_time_freq", label: "時間頻率", group: "abstract_concept" },
-  { id: "adv_degree_qty", label: "程度數量", group: "abstract_concept" },
-  { id: "adv_logic_mood", label: "邏輯與主觀語氣", group: "abstract_concept" }
+  { id: "adv_time_freq", label: "時間與發生頻率", group: "abstract_concept" },
+  { id: "adv_degree_qty", label: "程度與數量強弱", group: "abstract_concept" },
+  { id: "adv_subjective_grammar", label: "主觀語氣與文法呼應", group: "abstract_concept" }
 ];
+
+const proCategoryGroups = [
+  { id: "all", label: "✨ 全部代名詞" },
+  { id: "personal", label: "🧍 人稱代名詞" },
+  { id: "demonstrative", label: "👉 指示代名詞" },
+  { id: "interrogative", label: "❓ 疑問代名詞" }
+];
+
+const proSubCategories = [
+  // 人稱代名詞
+  { id: "pro_first_person", label: "第一人稱 (自稱)", group: "personal" },
+  { id: "pro_second_person", label: "第二人稱 (對稱)", group: "personal" },
+  { id: "pro_third_person", label: "第三人稱與複數", group: "personal" },
+  // 指示代名詞
+  { id: "pro_demo_thing", label: "事物指示 (これ系)", group: "demonstrative" },
+  { id: "pro_demo_place", label: "場所與方向指示", group: "demonstrative" },
+  // 疑問代名詞
+  { id: "pro_interrogative", label: "疑問詞 (誰/何/いつ)", group: "interrogative" }
+];
+
+const keiCategoryGroups = [
+  { id: "all", label: "✨ 全部敬語" },
+  { id: "sonkeigo", label: "⬆️ 尊敬語 (抬高對方)" },
+  { id: "kenjougo", label: "⬇️ 謙讓語 (降低自己)" },
+  { id: "teineigo", label: "🤝 丁寧語與美化語 (鄭重優雅)" }
+];
+
+const keiSubCategories = [
+  { id: "kei_sonkei_verb", label: "尊敬語動詞 (いらっしゃる等)", group: "sonkeigo" },
+  { id: "kei_sonkei_noun", label: "尊敬語名詞/稱呼", group: "sonkeigo" },
+  { id: "kei_kenjou_verb", label: "謙讓語動詞 (参る、拝見する等)", group: "kenjougo" },
+  { id: "kei_kenjou_noun", label: "謙讓語名詞/自稱", group: "kenjougo" },
+  { id: "kei_teinei_general", label: "丁寧語 (ございます等)", group: "teineigo" },
+  { id: "kei_bika_noun", label: "美化語 (お水、ご飯等)", group: "teineigo" }
+];
+
+const mimCategoryGroups = [
+  { id: "all", label: "✨ 全部擬聲擬態語" },
+  { id: "mim_emotion", label: "💖 情感與心理" },
+  { id: "mim_action", label: "🏃 動作與生理狀態" },
+  { id: "mim_nature", label: "🌧️ 自然與環境聲音" }
+];
+
+const mimSubCategories = [
+  { id: "mim_emotion", label: "情感與心理狀態", group: "mim_emotion" },
+  { id: "mim_action", label: "生理與動作模樣", group: "mim_action" },
+  { id: "mim_nature", label: "自然與事物聲音", group: "mim_nature" }
+];
+
 
 const catLabels = {
   ...nounSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
   ...verbSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
   ...adjSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
-  ...advSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
+  ...advSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...proSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...keiSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...mimSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
 };
 
 export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
-  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : posFilter === 'adverb' ? advCategoryGroups : nounCategoryGroups;
-  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : posFilter === 'adverb' ? advSubCategories : nounSubCategories;
+  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : posFilter === 'adverb' ? advCategoryGroups : posFilter === 'pronoun' ? proCategoryGroups : posFilter === 'keigo' ? keiCategoryGroups : posFilter === 'mimetic' ? mimCategoryGroups : nounCategoryGroups;
+  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : posFilter === 'adverb' ? advSubCategories : posFilter === 'pronoun' ? proSubCategories : posFilter === 'keigo' ? keiSubCategories : posFilter === 'mimetic' ? mimSubCategories : nounSubCategories;
   const [level, setLevel] = useState('全部等級');
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
@@ -183,12 +235,14 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
 
   // 1. Get raw vocab
   let vocabulary = [];
-  if (level === '全部等級') {
+  if (posFilter === 'mimetic' || posFilter === 'keigo') {
+    // These categories span across chunks or have their own chunks (mimetic_1), and do not use JLPT level filtering.
+    vocabulary = Object.values(chunks || {}).reduce((acc, chunk) => acc.concat(chunk.vocabulary || []), []);
+  } else if (level === '全部等級') {
     vocabulary = Object.values(chunks || {}).reduce((acc, chunk) => acc.concat(chunk.vocabulary || []), []);
   } else {
     vocabulary = chunks?.[level]?.vocabulary || [];
   }
-  
   // 2. Filter for Nouns/Verbs/Adjs & Search
   let filteredVocab = vocabulary.filter(v => {
     if (!v) return false;
@@ -209,6 +263,12 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
       if (!(t === 'adjective' || p.includes('形容詞') || p.includes('adj'))) return false;
     } else if (posFilter === 'adverb') {
       if (!(t === 'adverb' || p.includes('副詞') || p.includes('adv'))) return false;
+    } else if (posFilter === 'pronoun') {
+      if (!(t === 'pronoun' || p.includes('代名詞'))) return false;
+    } else if (posFilter === 'keigo') {
+      if (!(t === 'keigo' || p.includes('敬語') || vCat.startsWith('kei_'))) return false;
+    } else if (posFilter === 'mimetic') {
+      if (!(t === 'mimetic' || p.includes('擬聲') || p.includes('擬態'))) return false;
     }
     
     // Search
@@ -238,6 +298,90 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
         #consolidation-page {
           color: #333;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+        .keigo-teaching-banner {
+          background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+          border: 1px solid #e2e8f0;
+          border-radius: 16px;
+          padding: 24px 32px;
+          margin-bottom: 32px;
+          box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+        }
+        .keigo-teaching-header {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+          margin-bottom: 12px;
+        }
+        .keigo-teaching-icon {
+          font-size: 1.8rem;
+        }
+        .keigo-teaching-title {
+          font-size: 1.4rem;
+          font-weight: 800;
+          color: #0f172a;
+          margin: 0;
+        }
+        .keigo-teaching-desc {
+          color: #64748b;
+          font-size: 1.05rem;
+          margin: 0 0 24px 0;
+          font-weight: 500;
+        }
+        .keigo-teaching-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+          gap: 20px;
+        }
+        .keigo-teaching-card {
+          background: #ffffff;
+          border-radius: 12px;
+          padding: 20px;
+          border-left: 4px solid #cbd5e1;
+          box-shadow: 0 2px 10px rgba(0,0,0,0.02);
+          transition: transform 0.2s;
+        }
+        .keigo-teaching-card:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        .keigo-teaching-card.sonkei { border-left-color: #3b82f6; }
+        .keigo-teaching-card.kenjou { border-left-color: #f43f5e; }
+        .keigo-teaching-card.teinei { border-left-color: #10b981; }
+        .keigo-teaching-card h3 {
+          margin: 0 0 12px 0;
+          font-size: 1.15rem;
+          color: #1e293b;
+        }
+        .keigo-target {
+          margin: 0 0 4px 0;
+          color: #475569;
+          font-size: 0.95rem;
+        }
+        .keigo-target strong {
+          color: #0f172a;
+          background: #f1f5f9;
+          padding: 2px 6px;
+          border-radius: 4px;
+        }
+        .keigo-purpose {
+          margin: 0 0 16px 0;
+          color: #64748b;
+          font-size: 0.9rem;
+        }
+        .keigo-examples {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
+        }
+        .keigo-examples span {
+          display: inline-block;
+          background: #f8fafc;
+          padding: 6px 10px;
+          border-radius: 6px;
+          font-size: 0.9rem;
+          color: #334155;
+          font-family: monospace;
         }
         .vocab-main-container {
           background: #fff;
@@ -738,6 +882,114 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
             </div>
           </div>
         )}
+        
+        {posFilter === 'keigo' && (
+          <div className="keigo-teaching-banner">
+            <div className="keigo-teaching-header">
+              <span className="keigo-teaching-icon">📖</span>
+              <h2 className="keigo-teaching-title">敬語 3 大體系速成指南</h2>
+            </div>
+            <p className="keigo-teaching-desc">日文的敬語核心在於「<strong>動作者是誰</strong>」。搞懂動作者，就能選對敬語！</p>
+            <div className="keigo-teaching-grid">
+              <div className="keigo-teaching-card sonkei">
+                <h3>⬆️ 尊敬語</h3>
+                <p className="keigo-target">動作者：<strong>對方</strong> (長輩/客戶)</p>
+                <p className="keigo-purpose">目的：抬高對方的身分</p>
+                <div className="keigo-examples">
+                  <span>行く → いらっしゃる</span>
+                  <span>食べる → 召し上がる</span>
+                  <span>見る → ご覧になる</span>
+                </div>
+              </div>
+              <div className="keigo-teaching-card kenjou">
+                <h3>⬇️ 謙讓語</h3>
+                <p className="keigo-target">動作者：<strong>自己</strong> (或我方人員)</p>
+                <p className="keigo-purpose">目的：壓低自己以顯得謙卑</p>
+                <div className="keigo-examples">
+                  <span>行く → 参る / 伺う</span>
+                  <span>もらう → いただく</span>
+                  <span>見る → 拝見する</span>
+                </div>
+              </div>
+              <div className="keigo-teaching-card teinei">
+                <h3>🤝 丁寧語 / 美化語</h3>
+                <p className="keigo-target">動作者：<strong>任何人</strong> (無關上下關係)</p>
+                <p className="keigo-purpose">目的：讓談吐顯得優雅、有教養</p>
+                <div className="keigo-examples">
+                  <span>だ/ある → ございます</span>
+                  <span>茶 → お茶</span>
+                  <span>飯 → ご飯</span>
+                </div>
+              </div>
+            </div>
+            
+            <div className="keigo-ogo-box" style={{ marginTop: '24px', background: '#f8fafc', padding: '20px', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
+              <h4 style={{ margin: '0 0 12px 0', fontSize: '1.1rem', color: '#0f172a', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <span style={{ background: '#38bdf8', color: '#fff', padding: '2px 8px', borderRadius: '4px', fontSize: '0.9rem' }}>重點解析</span> 
+                「お」與「ご」的接續奧秘
+              </h4>
+              <p style={{ margin: '0 0 12px 0', fontSize: '0.95rem', color: '#475569', lineHeight: '1.6' }}>
+                我們經常在名詞前加上「お」或「ご」來構成尊敬語、謙讓語或美化語。要加哪一個，主要取決於單字的<strong>來源</strong>：
+              </p>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '16px' }}>
+                <div style={{ background: '#fff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #f472b6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+                  <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '8px' }}>🌸 お ＋ 和語（日本傳統字彙）</div>
+                  <div style={{ fontSize: '0.9rem', color: '#64748b' }}>通常是訓讀字（可以獨立念出意思的字）。</div>
+                  <div style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                    <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>水 (みず) → お水</span>
+                    <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>名前 (なまえ) → お名前</span>
+                    <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>話 (はなし) → お話し</span>
+                  </div>
+                </div>
+                <div style={{ background: '#fff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #14b8a6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+                  <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '8px' }}>⛩️ ご ＋ 漢語（來自中國的字彙）</div>
+                  <div style={{ fontSize: '0.9rem', color: '#64748b' }}>通常是音讀字（兩個漢字組合，發音硬挺）。</div>
+                  <div style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                    <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>家族 (かぞく) → ご家族</span>
+                    <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>意見 (いけん) → ご意見</span>
+                    <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>連絡 (れんらく) → ご連絡</span>
+                  </div>
+                </div>
+              </div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginTop: '12px', fontStyle: 'italic' }}>* 例外提醒：お電話 (でんわ)、お食事 (しょくじ) 等已經深深融入日本人日常生活的漢語，習慣上會使用「お」。</div>
+            </div>
+          </div>
+        )}
+
+        {posFilter === 'mimetic' && (
+          <div className="grammar-hero" style={{marginBottom: '2rem'}}>
+            <h2 className="hero-title">
+              <span className="hero-icon">✨</span>
+              擬聲擬態語 (Onomatopoeia)
+            </h2>
+            <p className="hero-subtitle">讓日語變得極度生動可愛的魔法單字！</p>
+            
+            <div className="keigo-cards-container" style={{display: 'flex', gap: '1rem', marginTop: '1.5rem', flexWrap: 'wrap'}}>
+              <div className="gram-syntax-box" style={{flex: 1, minWidth: '250px'}}>
+                <div className="gram-syntax-header" style={{background: '#ff6b6b'}}>🔊 擬音語 (Giongo)</div>
+                <div className="gram-syntax-content" style={{padding: '1rem', fontSize: '0.95rem'}}>
+                  模仿自然界或事物實際發出的「聲音」。通常用<strong>片假名</strong>表示。<br/><br/>
+                  <strong>例：</strong>ザーザー (大雨聲)、ドカン (爆炸聲)、ワンワン (狗吠)
+                </div>
+              </div>
+              <div className="gram-syntax-box" style={{flex: 1, minWidth: '250px'}}>
+                <div className="gram-syntax-header" style={{background: '#4ecdc4'}}>🎭 擬態語 (Gitaigo)</div>
+                <div className="gram-syntax-content" style={{padding: '1rem', fontSize: '0.95rem'}}>
+                  用聲音來描繪「沒有聲音」的狀態或動作。是日文表達的精華。<br/><br/>
+                  <strong>例：</strong>キラキラ (閃閃發光)、ギリギリ (勉強趕上)、ペコペコ (肚子餓)
+                </div>
+              </div>
+              <div className="gram-syntax-box" style={{flex: 1, minWidth: '250px'}}>
+                <div className="gram-syntax-header" style={{background: '#ffe66d', color: '#333'}}>💖 擬情語 (Gijougo)</div>
+                <div className="gram-syntax-content" style={{padding: '1rem', fontSize: '0.95rem'}}>
+                  屬於擬態語的一種，專門用來描述人類內心的情感波動。<br/><br/>
+                  <strong>例：</strong>ドキドキ (緊張心跳)、イライラ (焦躁)、ワクワク (期待雀躍)
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
         <div className="vocab-filter-topbar">
           <div className="vocab-search-box">
             <span style={{ opacity: 0.5 }}>🔍</span>
@@ -748,19 +1000,20 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
               onChange={e => setSearch(e.target.value)}
             />
           </div>
-          
-          <div className="level-filters">
-            <span>等級篩選：</span>
-            {['全部等級', 'N5', 'N4', 'N3', 'N2', 'N1'].map(lvl => (
-              <button 
-                key={lvl}
-                className={`level-pill-btn ${level === lvl ? 'active' : ''}`}
-                onClick={() => setLevel(lvl)}
-              >
-                {lvl}
-              </button>
-            ))}
-          </div>
+          {posFilter !== 'mimetic' && posFilter !== 'keigo' && (
+            <div className="level-filters">
+              <span>等級篩選：</span>
+              {['全部等級', 'N5', 'N4', 'N3', 'N2', 'N1'].map(lvl => (
+                <button 
+                  key={lvl}
+                  className={`level-pill-btn ${level === lvl ? 'active' : ''}`}
+                  onClick={() => setLevel(lvl)}
+                >
+                  {lvl}
+                </button>
+              ))}
+            </div>
+          )}
           
           <div className="level-filters" style={{marginLeft: 'auto'}}>
             <span>分類篩選：</span>
@@ -812,7 +1065,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
               <div key={i} className="old-vocab-card">
                 <div className="old-card-top">
                   <div>
-                    {(!item.furigana || !item.furigana.includes('[')) && <div className="old-furi">{item.reading || item.furigana || ' '}</div>}
+                    {(!item.furigana || !item.furigana.includes('[')) && /[一-龥々]/.test(item.word || '') && <div className="old-furi">{item.reading || item.furigana || ' '}</div>}
                     <div className="old-word">
                       {(item.furigana && item.furigana.includes('[')) ? <FuriganaText text={item.furigana} /> : (item.word || '-')}
                     </div>
@@ -868,7 +1121,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
             <button className="verb-modal-close" onClick={() => setSelectedVerb(null)}>×</button>
             
             <div className="verb-modal-header">
-              {(!selectedVerb.furigana || !selectedVerb.furigana.includes('[')) && <div className="verb-modal-furi">{selectedVerb.reading || selectedVerb.furigana}</div>}
+              {(!selectedVerb.furigana || !selectedVerb.furigana.includes('[')) && /[一-龥々]/.test(selectedVerb.word || '') && <div className="verb-modal-furi">{selectedVerb.reading || selectedVerb.furigana}</div>}
               <div className="verb-modal-word">
                 {(selectedVerb.furigana && selectedVerb.furigana.includes('[')) ? <FuriganaText text={selectedVerb.furigana} /> : selectedVerb.word}
               </div>
