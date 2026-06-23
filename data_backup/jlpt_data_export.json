@@ -3962,6 +3962,216 @@
         "kana": "ゆうじゅうふだん",
         "pos": "Noun",
         "meaning": "優柔寡斷"
+      },
+      {
+        "jp": "お気遣い",
+        "romaji": "okidukai",
+        "kana": "おきづかい",
+        "pos": "Noun",
+        "meaning": "費心、關心（對他人的關照表示感謝時使用）"
+      },
+      {
+        "jp": "お手数ですが",
+        "romaji": "otesuudesuga",
+        "kana": "おてすうですが",
+        "pos": "Phrase",
+        "meaning": "麻煩您了（拜託別人做事時的緩衝用語）"
+      },
+      {
+        "jp": "ご無沙汰しております",
+        "romaji": "gobusatashiteorimasu",
+        "kana": "ごぶさたしております",
+        "pos": "Phrase",
+        "meaning": "好久不見（對長輩或客戶使用）"
+      },
+      {
+        "jp": "かしこまりました",
+        "romaji": "kashikomarimashita",
+        "kana": "かしこまりました",
+        "pos": "Phrase",
+        "meaning": "明白了、遵命（接受要求時使用）"
+      },
+      {
+        "jp": "承知いたしました",
+        "romaji": "shouchiitashimashita",
+        "kana": "しょうちいたしました",
+        "pos": "Phrase",
+        "meaning": "知道了、明白了（同「かしこまりました」）"
+      },
+      {
+        "jp": "お待たせいたしました",
+        "romaji": "omataseitashimashita",
+        "kana": "おまたせいたしました",
+        "pos": "Phrase",
+        "meaning": "讓您久等了"
+      },
+      {
+        "jp": "ご足労いただき",
+        "romaji": "gosokurouitadaki",
+        "kana": "ごそくろういただき",
+        "pos": "Phrase",
+        "meaning": "勞駕您跑一趟（對遠道而來的客人說）"
+      },
+      {
+        "jp": "恐縮です",
+        "romaji": "kyoushukudesu",
+        "kana": "きょうしゅくです",
+        "pos": "Phrase",
+        "meaning": "惶恐、不敢當（表達歉意或謝意）"
+      },
+      {
+        "jp": "お世話になっております",
+        "romaji": "osewaninatteorimasu",
+        "kana": "おせわになっております",
+        "pos": "Phrase",
+        "meaning": "承蒙您的照顧（商務書信或見面時的問候語）"
+      },
+      {
+        "jp": "申し訳ございません",
+        "romaji": "moushiwakegozaimasen",
+        "kana": "もうしわけございません",
+        "pos": "Phrase",
+        "meaning": "非常抱歉"
+      },
+      {
+        "jp": "ご遠慮ください",
+        "romaji": "goenryokudasai",
+        "kana": "ごえんりょください",
+        "pos": "Phrase",
+        "meaning": "請勿...、請避免..."
+      },
+      {
+        "jp": "ご迷惑をおかけします",
+        "romaji": "gomeiwakuwookakeshimasu",
+        "kana": "ごめいわくをおかけします",
+        "pos": "Phrase",
+        "meaning": "給您添麻煩了"
+      },
+      {
+        "jp": "お差し支えなければ",
+        "romaji": "osashitsukaenakereba",
+        "kana": "おさしつかえなければ",
+        "pos": "Phrase",
+        "meaning": "如果方便的話、如果不介意的話"
+      },
+      {
+        "jp": "ご案内いたします",
+        "romaji": "goannaiitashimasu",
+        "kana": "ごあんないいたします",
+        "pos": "Phrase",
+        "meaning": "我來為您帶路/說明"
+      },
+      {
+        "jp": "お越しいただき",
+        "romaji": "okoshiitadaki",
+        "kana": "おこしいただき",
+        "pos": "Phrase",
+        "meaning": "感謝您的蒞臨"
+      },
+      {
+        "jp": "ご愁傷様です",
+        "romaji": "goshuushousamadesu",
+        "kana": "ごしゅうしょうさまです",
+        "pos": "Phrase",
+        "meaning": "請節哀順變（用於喪禮場合）"
+      },
+      {
+        "jp": "お気の毒に",
+        "romaji": "okinodokuni",
+        "kana": "おきのどくに",
+        "pos": "Phrase",
+        "meaning": "真可憐、真同情你"
+      },
+      {
+        "jp": "お見えになる",
+        "romaji": "omieninaru",
+        "kana": "おみえになる",
+        "pos": "Verb (Sonkeigo)",
+        "meaning": "來、光臨（「来る」的尊敬語）"
+      },
+      {
+        "jp": "おっしゃる通りです",
+        "romaji": "ossharutooridesu",
+        "kana": "おっしゃるとおりです",
+        "pos": "Phrase",
+        "meaning": "您說得對"
+      },
+      {
+        "jp": "いかがでしょうか",
+        "romaji": "ikagadeshouka",
+        "kana": "いかがでしょうか",
+        "pos": "Phrase",
+        "meaning": "您覺得如何呢？（「どうですか」的鄭重語）"
+      },
+      {
+        "jp": "とんでもございません",
+        "romaji": "tondemogozaimasen",
+        "kana": "とんでもございません",
+        "pos": "Phrase",
+        "meaning": "哪裡的話、不敢當（對別人的誇獎表示謙虛）"
+      },
+      {
+        "jp": "お力になれず",
+        "romaji": "ochikaraninarezu",
+        "kana": "おちからになれず",
+        "pos": "Phrase",
+        "meaning": "沒能幫上您的忙"
+      },
+      {
+        "jp": "後ほど",
+        "romaji": "nochihodo",
+        "kana": "のちほど",
+        "pos": "Adverb",
+        "meaning": "稍後（「あとで」的鄭重語）"
+      },
+      {
+        "jp": "早速ですが",
+        "romaji": "sassokudesuga",
+        "kana": "さっそくですが",
+        "pos": "Phrase",
+        "meaning": "馬上進入正題"
+      },
+      {
+        "jp": "お忙しいところ",
+        "romaji": "oisogashiitokoro",
+        "kana": "おいそがしいところ",
+        "pos": "Phrase",
+        "meaning": "百忙之中（打擾您了）"
+      },
+      {
+        "jp": "引き続きよろしくお願いいたします",
+        "romaji": "hikitsudukiyoroshikuonegaiitashimasu",
+        "kana": "ひきつづきよろしくおねがいいたします",
+        "pos": "Phrase",
+        "meaning": "今後也請多多指教"
+      },
+      {
+        "jp": "ご容赦ください",
+        "romaji": "goyoushakudasai",
+        "kana": "ごようしゃください",
+        "pos": "Phrase",
+        "meaning": "請見諒、請寬恕"
+      },
+      {
+        "jp": "幸甚に存じます",
+        "romaji": "koujinnizonjimasu",
+        "kana": "こうじんにぞんじます",
+        "pos": "Phrase",
+        "meaning": "不勝感激（書面語）"
+      },
+      {
+        "jp": "念のため",
+        "romaji": "nennotame",
+        "kana": "ねんのため",
+        "pos": "Phrase",
+        "meaning": "為了慎重起見"
+      },
+      {
+        "jp": "ご理解のほど",
+        "romaji": "gorikainohodo",
+        "kana": "ごりかいのほど",
+        "pos": "Phrase",
+        "meaning": "敬請理解"
       }
     ],
     "grammar": [
