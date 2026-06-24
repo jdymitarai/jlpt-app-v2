@@ -243,6 +243,25 @@ const mimSubCategories = [
   { id: "mim_nature", label: "自然與事物聲音", group: "mim_nature" }
 ];
 
+const conjCategoryGroups = [
+  { id: "all", label: "✨ 全部連接詞" },
+  { id: "conj_logic", label: "🔗 邏輯與條件" },
+  { id: "conj_time", label: "⏳ 時間與順序" },
+  { id: "conj_addition", label: "➕ 補充與選擇" }
+];
+
+const conjSubCategories = [
+  { id: "conj_cause_effect", label: "因果關係 (所以/因為)", group: "conj_logic" },
+  { id: "conj_contrast", label: "逆接與讓步 (但是/卻)", group: "conj_logic" },
+  { id: "conj_condition", label: "條件與假設 (如果/的話)", group: "conj_logic" },
+
+  { id: "conj_time_seq", label: "時間順序 (然後/接著)", group: "conj_time" },
+  { id: "conj_simultaneous", label: "同時與伴隨 (一邊...)", group: "conj_time" },
+
+  { id: "conj_addition", label: "遞進與補充 (而且/再者)", group: "conj_addition" },
+  { id: "conj_choice", label: "選擇與對比 (還是/或者)", group: "conj_addition" },
+  { id: "conj_change_topic", label: "轉換話題 (對了/順帶一提)", group: "conj_addition" }
+];
 
 const catLabels = {
   ...nounSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
@@ -251,17 +270,34 @@ const catLabels = {
   ...advSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
   ...proSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
   ...keiSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
-  ...mimSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
+  ...mimSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {}),
+  ...conjSubCategories.reduce((acc, cat) => ({ ...acc, [cat.id]: cat.label }), {})
 };
 
 export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
-  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : posFilter === 'adverb' ? advCategoryGroups : posFilter === 'pronoun' ? proCategoryGroups : posFilter === 'keigo' ? keiCategoryGroups : posFilter === 'mimetic' ? mimCategoryGroups : nounCategoryGroups;
-  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : posFilter === 'adverb' ? advSubCategories : posFilter === 'pronoun' ? proSubCategories : posFilter === 'keigo' ? keiSubCategories : posFilter === 'mimetic' ? mimSubCategories : nounSubCategories;
+  const categoryGroups = posFilter === 'verb' ? verbCategoryGroups : posFilter === 'adjective' ? adjCategoryGroups : posFilter === 'adverb' ? advCategoryGroups : posFilter === 'pronoun' ? proCategoryGroups : posFilter === 'keigo' ? keiCategoryGroups : posFilter === 'mimetic' ? mimCategoryGroups : posFilter === 'conjunction' ? conjCategoryGroups : nounCategoryGroups;
+  const subCategories = posFilter === 'verb' ? verbSubCategories : posFilter === 'adjective' ? adjSubCategories : posFilter === 'adverb' ? advSubCategories : posFilter === 'pronoun' ? proSubCategories : posFilter === 'keigo' ? keiSubCategories : posFilter === 'mimetic' ? mimSubCategories : posFilter === 'conjunction' ? conjSubCategories : nounSubCategories;
   const [level, setLevel] = useState('全部等級');
   const [search, setSearch] = useState('');
   const [activeGroup, setActiveGroup] = useState('all');
   const [activeSub, setActiveSub] = useState('all');
   const [selectedVerb, setSelectedVerb] = useState(null); // Used for both Verbs and Adjectives detail modals
+
+  const speak = (text) => {
+    if ("speechSynthesis" in window) {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = "ja-JP";
+      utterance.rate = 0.85;
+
+      const voices = window.speechSynthesis.getVoices();
+      const jaVoice = voices.find(v => v.lang.startsWith("ja"));
+      if (jaVoice) {
+        utterance.voice = jaVoice;
+      }
+      window.speechSynthesis.speak(utterance);
+    }
+  };
 
   // 1. Get raw vocab
   let vocabulary = [];
@@ -299,6 +335,8 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
       if (!(t === 'keigo' || p.includes('敬語') || vCat.startsWith('kei_'))) return false;
     } else if (posFilter === 'mimetic') {
       if (!(t === 'mimetic' || p.includes('擬聲') || p.includes('擬態'))) return false;
+    } else if (posFilter === 'conjunction') {
+      if (!(t === 'conjunction' || p.includes('接續詞') || p.includes('連接詞') || p.includes('conj'))) return false;
     }
     
     // Search
@@ -1116,19 +1154,19 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                 {Array.isArray(item.sentences) && item.sentences.length > 0 ? (
                   item.sentences.map((sent, idx) => (
                     <div className="old-example" key={idx}>
-                      <div className="ex-ja">{sent.ja}</div>
+                      <div className="ex-ja"><FuriganaText text={sent.ja} /></div>
                       <div className="ex-en">{sent.zh || sent.en || '-'}</div>
                     </div>
                   ))
                 ) : (item.exampleJa || item.exampleEn) ? (
                   <div className="old-example">
-                    <div className="ex-ja">{item.exampleJa || '-'}</div>
+                    <div className="ex-ja"><FuriganaText text={item.exampleJa || '-'} /></div>
                     <div className="ex-en">{item.exampleZh || item.exampleEn || '-'}</div>
                   </div>
                 ) : null}
 
                 <div className="old-actions">
-                  <button className="btn-speaker">
+                  <button className="btn-speaker" onClick={() => speak(item.word)}>
                     <svg width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
                   </button>
                   {(posFilter === 'verb' || posFilter === 'adjective' || posFilter === 'adverb') && (
@@ -1312,7 +1350,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <h3 className="vm-section-title">實用例句 (Examples)</h3>
                   {selectedVerb.sentences.map((sent, i) => (
                     <div className="vm-sentence" key={i}>
-                      <div className="vm-sent-ja">{sent.ja}</div>
+                      <div className="vm-sent-ja"><FuriganaText text={sent.ja} /></div>
                       <div className="vm-sent-zh">{sent.zh}</div>
                     </div>
                   ))}

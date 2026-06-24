@@ -3,13 +3,10 @@ import React, { useState } from 'react';
 // Furigana component from other files (re-implemented here for simplicity or we can assume it's global, but better to implement a simple parser for grammar since we didn't import it in the original either)
 const renderFurigana = (text) => {
   if (!text) return null;
-  // Parse something like 先生[せんせい]
-  const regex = /([^\[]+)\[([^\]]+)\]/g;
+  const regex = /([一-龥々]+)\[([^\]]+)\]/g;
   let result = [];
   let lastIndex = 0;
   let match;
-
-  if (!text.includes('[')) return <span>{text}</span>;
 
   while ((match = regex.exec(text)) !== null) {
     if (match.index > lastIndex) {
@@ -27,7 +24,7 @@ const renderFurigana = (text) => {
     result.push(<span key={lastIndex}>{text.substring(lastIndex)}</span>);
   }
 
-  return <>{result}</>;
+  return <>{result.length > 0 ? result : text}</>;
 };
 
 export default function GrammarList({ grammar }) {

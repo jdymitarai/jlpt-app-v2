@@ -11,6 +11,9 @@ function App() {
   const [jlptData, setJlptData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [showScrollTop, setShowScrollTop] = useState(false);
+
+  const mainContentRef = React.useRef(null);
 
   // Apply dark mode class to body based on state
   useEffect(() => {
@@ -20,6 +23,43 @@ function App() {
       document.body.classList.remove('dark-mode');
     }
   }, [isDarkMode]);
+
+  // Reset scroll to top when activeTab or currentLevel changes
+  useEffect(() => {
+    if (mainContentRef.current) {
+      mainContentRef.current.scrollTop = 0;
+      setShowScrollTop(false);
+    }
+  }, [activeTab, currentLevel]);
+
+  // Listen to scroll events on main-content container
+  useEffect(() => {
+    const handleScroll = () => {
+      if (mainContentRef.current) {
+        setShowScrollTop(mainContentRef.current.scrollTop > 300);
+      }
+    };
+
+    const mainContentEl = mainContentRef.current;
+    if (mainContentEl) {
+      mainContentEl.addEventListener('scroll', handleScroll);
+      handleScroll();
+    }
+    return () => {
+      if (mainContentEl) {
+        mainContentEl.removeEventListener('scroll', handleScroll);
+      }
+    };
+  }, []);
+
+  const scrollToTop = () => {
+    if (mainContentRef.current) {
+      mainContentRef.current.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    }
+  };
 
   useEffect(() => {
     async function fetchData() {
@@ -109,6 +149,12 @@ function App() {
                 <span>代名詞大全</span>
               </a>
             </li>
+            <li className={`nav-item ${activeTab === 'conjunctions' ? 'active' : ''}`} onClick={() => setActiveTab('conjunctions')}>
+              <a>
+                <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" /></svg>
+                <span>連接詞大全</span>
+              </a>
+            </li>
             <li className={`nav-item ${activeTab === 'keigo' ? 'active' : ''}`} onClick={() => setActiveTab('keigo')}>
               <a>
                 <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M12 4v16m8-8H4" /><path d="M12 11l5-5-5-5" transform="rotate(45 12 12)"/></svg>
@@ -138,7 +184,7 @@ function App() {
         </aside>
 
         {/* 主要內容顯示區域 */}
-        <main className="main-content">
+        <main className="main-content" ref={mainContentRef}>
           <div className="bg-circle bg-circle-1"></div>
           <div className="bg-circle bg-circle-2"></div>
           
@@ -176,6 +222,10 @@ function App() {
                   <ConsolidationView chunks={jlptData.JLPT_DATA_CHUNKS} posFilter="pronoun" />
                 )}
 
+                {activeTab === 'conjunctions' && (
+                  <ConsolidationView chunks={jlptData.JLPT_DATA_CHUNKS} posFilter="conjunction" />
+                )}
+
                 {activeTab === 'keigo' && (
                   <ConsolidationView chunks={jlptData.JLPT_DATA_CHUNKS} posFilter="keigo" />
                 )}
@@ -195,6 +245,18 @@ function App() {
               </>
             )}
           </div>
+
+          {/* 回到頂部按鈕 */}
+          <button 
+            className={`scroll-to-top-btn ${showScrollTop ? 'visible' : ''}`}
+            onClick={scrollToTop}
+            title="回到頂部"
+            aria-label="回到頂部"
+          >
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+              <polyline points="18 15 12 9 6 15"></polyline>
+            </svg>
+          </button>
         </main>
       </div>
     </>
