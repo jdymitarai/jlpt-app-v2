@@ -60,11 +60,35 @@ const nounSubCategories = [
   { id: "society_education_learning", label: "教育學習、研究與考察", group: "society_civilization" },
   { id: "society_law_politics", label: "社會體制、法律與公共秩序", group: "society_civilization" },
 
-  { id: "abstract_time_calendar", label: "時間流逝、曆法與發生頻率", group: "abstract_concepts" },
-  { id: "abstract_space_direction", label: "空間坐標、方位與相對位置", group: "abstract_concepts" },
-  { id: "abstract_numbers_units", label: "數字、度量衡與單位量詞", group: "abstract_concepts" },
-  { id: "abstract_logic_method", label: "邏輯因果、方法與運作機制", group: "abstract_concepts" },
-  { id: "abstract_state_value", label: "狀態性質、真假與價值判斷", group: "abstract_concepts" }
+  // 1. 時間流逝與曆法
+  { id: "abs_time_calendar", label: "絕對曆法與週期", group: "abstract_concepts" },
+  { id: "abs_time_relative", label: "相對時間點", group: "abstract_concepts" },
+  { id: "abs_time_period", label: "日常時段切分", group: "abstract_concepts" },
+  { id: "abs_time_duration", label: "時長與時間區間", group: "abstract_concepts" },
+
+  // 2. 空間坐標與相對位置
+  { id: "abs_space_absolute", label: "絕對地理方位", group: "abstract_concepts" },
+  { id: "abs_space_relative", label: "自身與單一物體視角", group: "abstract_concepts" },
+  { id: "abs_space_relation", label: "兩物體以上的相對關係", group: "abstract_concepts" },
+  { id: "abs_space_limit", label: "抽象空間與極限邊界", group: "abstract_concepts" },
+
+  // 3. 數字、度量衡與單位量詞
+  { id: "abs_num_math", label: "基礎數字與數學概念", group: "abstract_concepts" },
+  { id: "abs_num_measure", label: "物理測量單位", group: "abstract_concepts" },
+  { id: "abs_num_shape_counter", label: "物理特徵與形狀量詞", group: "abstract_concepts" },
+  { id: "abs_num_life_counter", label: "生命體與無形量詞", group: "abstract_concepts" },
+
+  // 4. 邏輯因果、方法與運作機制
+  { id: "abs_logic_cause", label: "因果關係與目的", group: "abstract_concepts" },
+  { id: "abs_logic_method", label: "方法、手段與過程", group: "abstract_concepts" },
+  { id: "abs_logic_rule", label: "規則、制度與社會連結", group: "abstract_concepts" },
+  { id: "abs_logic_thought", label: "思考、概念與意義", group: "abstract_concepts" },
+
+  // 5. 狀態性質、真假與價值判斷
+  { id: "abs_state_truth", label: "真偽事實與對錯判斷", group: "abstract_concepts" },
+  { id: "abs_state_condition", label: "處境狀態與生存環境", group: "abstract_concepts" },
+  { id: "abs_state_nature", label: "事物本質與比較差異", group: "abstract_concepts" },
+  { id: "abs_state_value", label: "價值觀與評分標準", group: "abstract_concepts" }
 ];
 
 const verbCategoryGroups = [
