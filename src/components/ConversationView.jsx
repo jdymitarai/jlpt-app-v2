@@ -29,6 +29,7 @@ const FuriganaText = ({ text }) => {
 const ConversationView = ({ conversations }) => {
   const [activeStage, setActiveStage] = useState(null);
   const [activeConv, setActiveConv] = useState(null);
+  const [searchTerm, setSearchTerm] = useState('');
 
   if (!conversations || conversations.length === 0) {
     return <div className="page-section"><h1 className="page-title">實用情境會話</h1><p className="page-subtitle">尚無會話資料</p></div>;
@@ -56,6 +57,7 @@ const ConversationView = ({ conversations }) => {
               className="conv-stage-card"
               onClick={() => {
                 setActiveStage(stageName);
+                setSearchTerm('');
                 setActiveConv(convs[0].id); // Select first conv by default
               }}
             >
@@ -69,10 +71,33 @@ const ConversationView = ({ conversations }) => {
   }
 
   const stageConvs = groupedConvs[activeStage] || [];
-  const selectedConv = stageConvs.find(c => c.id === activeConv) || stageConvs[0];
+  
+  // Filter conversations based on search term
+  const filteredConvs = stageConvs.filter(conv => {
+    if (!searchTerm) return true;
+    const term = searchTerm.toLowerCase();
+    
+    // Check title, description
+    if (conv.title && conv.title.toLowerCase().includes(term)) return true;
+    if (conv.description && conv.description.toLowerCase().includes(term)) return true;
+    
+    // Check tags inside dialogues
+    const hasMatchingTag = conv.dialogues && conv.dialogues.some(d => 
+      d.tags && d.tags.some(tag => tag.toLowerCase().includes(term))
+    );
+    if (hasMatchingTag) return true;
+    
+    return false;
+  });
+
+  // Set selected conv based on filtered results
+  let selectedConv = filteredConvs.find(c => c.id === activeConv);
+  if (!selectedConv && filteredConvs.length > 0) {
+    selectedConv = filteredConvs[0];
+  }
 
   const categoryGroups = {};
-  stageConvs.forEach(conv => {
+  filteredConvs.forEach(conv => {
     const cat = conv.category || '未分類';
     if (!categoryGroups[cat]) categoryGroups[cat] = [];
     categoryGroups[cat].push(conv);
@@ -81,31 +106,49 @@ const ConversationView = ({ conversations }) => {
   return (
     <div className="conversation-container">
       <div className="conv-sidebar">
-        <button className="conv-back-btn" onClick={() => setActiveStage(null)}>
+        <button className="conv-back-btn" onClick={() => { setActiveStage(null); setSearchTerm(''); }}>
           ← 返回大分類
         </button>
         <h2 className="conv-sidebar-title">{activeStage}</h2>
+        
+        <div className="conv-search">
+          <input 
+            type="text" 
+            placeholder="搜尋情境或標籤 (例如: #N3)..." 
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            className="conv-search-input"
+          />
+          {searchTerm && (
+            <button className="conv-search-clear" onClick={() => setSearchTerm('')}>×</button>
+          )}
+        </div>
+
         <div className="conv-list-container">
-          {Object.entries(categoryGroups).map(([catName, convs]) => (
-            <div key={catName} className="conv-category-group">
-              <h3 className="conv-category-title">{catName}</h3>
-              <ul className="conv-list">
-                {convs.map(conv => (
-                  <li 
-                    key={conv.id} 
-                    className={`conv-item ${activeConv === conv.id ? 'active' : ''}`}
-                    onClick={() => setActiveConv(conv.id)}
-                  >
-                    <span className="conv-icon">{conv.icon}</span>
-                    <div className="conv-info">
-                      <div className="conv-title">{conv.title}</div>
-                      <div className="conv-desc">{conv.description}</div>
-                    </div>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
+          {filteredConvs.length === 0 ? (
+            <div className="conv-no-results">找不到符合「{searchTerm}」的對話。</div>
+          ) : (
+            Object.entries(categoryGroups).map(([catName, convs]) => (
+              <div key={catName} className="conv-category-group">
+                <h3 className="conv-category-title">{catName}</h3>
+                <ul className="conv-list">
+                  {convs.map(conv => (
+                    <li 
+                      key={conv.id} 
+                      className={`conv-item ${selectedConv && selectedConv.id === conv.id ? 'active' : ''}`}
+                      onClick={() => setActiveConv(conv.id)}
+                    >
+                      <span className="conv-icon">{conv.icon}</span>
+                      <div className="conv-info">
+                        <div className="conv-title">{conv.title}</div>
+                        <div className="conv-desc">{conv.description}</div>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))
+          )}
         </div>
       </div>
 
@@ -128,7 +171,12 @@ const ConversationView = ({ conversations }) => {
                   {dialogue.tags && dialogue.tags.length > 0 && (
                     <div className="chat-tags">
                       {dialogue.tags.map(tag => (
-                        <span key={tag} className="chat-tag">#{tag}</span>
+                        <span 
+                          key={tag} 
+                          className="chat-tag" 
+                          style={{ cursor: 'pointer' }}
+                          onClick={() => setSearchTerm(tag)}
+                        >#{tag}</span>
                       ))}
                     </div>
                   )}

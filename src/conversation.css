@@ -46,3 +46,11 @@
 .chat-tag { font-size: 0.75rem; padding: 2px 8px; border-radius: 12px; background: var(--bg-main); color: var(--text-secondary); border: 1px solid var(--border-color); }
 .dark-mode .chat-tag { background: rgba(0,0,0,0.2); color: var(--text-light); }
 @media (max-width: 900px) { .conversation-container { flex-direction: column; } .conv-sidebar { width: 100%; max-height: 300px; } .chat-bubble-wrapper { max-width: 95%; } }
+
+/* Search Bar Styles */
+.conv-search { position: relative; margin-bottom: 20px; }
+.conv-search-input { width: 100%; padding: 10px 35px 10px 15px; border-radius: 12px; border: 1px solid var(--border-color); background: var(--bg-main); color: var(--text-primary); outline: none; transition: border-color 0.2s; }
+.conv-search-input:focus { border-color: var(--primary-color); }
+.conv-search-clear { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 1.2rem; color: var(--text-secondary); cursor: pointer; }
+.conv-no-results { color: var(--text-secondary); padding: 20px; text-align: center; }
+.chat-tag:hover { border-color: var(--primary-color); color: var(--primary-color); }
