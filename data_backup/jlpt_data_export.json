@@ -6482,6 +6482,216 @@
         "kana": "むりなんだい",
         "pos": "Noun",
         "meaning": "強人所難、不合理的要求"
+      },
+      {
+        "jp": "あっさり",
+        "romaji": "assari",
+        "kana": "あっさり",
+        "pos": "Adverb",
+        "meaning": "清淡、輕易地、不拖泥帶水"
+      },
+      {
+        "jp": "いじいじ",
+        "romaji": "ijiiji",
+        "kana": "いじいじ",
+        "pos": "Adverb",
+        "meaning": "畏縮、扭捏、悶悶不樂"
+      },
+      {
+        "jp": "うきうき",
+        "romaji": "ukiuki",
+        "kana": "うきうき",
+        "pos": "Adverb",
+        "meaning": "興高采烈、雀躍"
+      },
+      {
+        "jp": "うじうじ",
+        "romaji": "ujiuji",
+        "kana": "うじうじ",
+        "pos": "Adverb",
+        "meaning": "遲疑不決、婆婆媽媽"
+      },
+      {
+        "jp": "うっとり",
+        "romaji": "uttori",
+        "kana": "うっとり",
+        "pos": "Adverb",
+        "meaning": "陶醉、入迷"
+      },
+      {
+        "jp": "うとうと",
+        "romaji": "utouto",
+        "kana": "うとうと",
+        "pos": "Adverb",
+        "meaning": "打瞌睡、迷迷糊糊地睡著"
+      },
+      {
+        "jp": "おどおど",
+        "romaji": "odoodo",
+        "kana": "おどおど",
+        "pos": "Adverb",
+        "meaning": "提心吊膽、戰戰兢兢"
+      },
+      {
+        "jp": "がたがた",
+        "romaji": "gatagata",
+        "kana": "がたがた",
+        "pos": "Adverb",
+        "meaning": "喀噠喀噠作響、發抖"
+      },
+      {
+        "jp": "がっしり",
+        "romaji": "gasshiri",
+        "kana": "がっしり",
+        "pos": "Adverb",
+        "meaning": "粗壯、結實"
+      },
+      {
+        "jp": "がっちり",
+        "romaji": "gatchiri",
+        "kana": "がっちり",
+        "pos": "Adverb",
+        "meaning": "精打細算、堅固"
+      },
+      {
+        "jp": "きっぱり",
+        "romaji": "kippari",
+        "kana": "きっぱり",
+        "pos": "Adverb",
+        "meaning": "果斷地、斬釘截鐵地"
+      },
+      {
+        "jp": "ぎっしり",
+        "romaji": "gisshiri",
+        "kana": "ぎっしり",
+        "pos": "Adverb",
+        "meaning": "擠得滿滿地、密密麻麻"
+      },
+      {
+        "jp": "くっきり",
+        "romaji": "kukkiri",
+        "kana": "くっきり",
+        "pos": "Adverb",
+        "meaning": "清晰、鮮明"
+      },
+      {
+        "jp": "ぐっすり",
+        "romaji": "gussuri",
+        "kana": "ぐっすり",
+        "pos": "Adverb",
+        "meaning": "熟睡"
+      },
+      {
+        "jp": "ぐったり",
+        "romaji": "guttari",
+        "kana": "ぐったり",
+        "pos": "Adverb",
+        "meaning": "筋疲力盡、癱軟"
+      },
+      {
+        "jp": "こってり",
+        "romaji": "kotteri",
+        "kana": "こってり",
+        "pos": "Adverb",
+        "meaning": "油膩、味道濃厚"
+      },
+      {
+        "jp": "さっぱり",
+        "romaji": "sappari",
+        "kana": "さっぱり",
+        "pos": "Adverb",
+        "meaning": "清爽、完全（不）"
+      },
+      {
+        "jp": "ざっと",
+        "romaji": "zatto",
+        "kana": "ざっと",
+        "pos": "Adverb",
+        "meaning": "粗略地、大約"
+      },
+      {
+        "jp": "じっくり",
+        "romaji": "jikkuri",
+        "kana": "じっくり",
+        "pos": "Adverb",
+        "meaning": "仔細地、慢慢地"
+      },
+      {
+        "jp": "しっとり",
+        "romaji": "shittori",
+        "kana": "しっとり",
+        "pos": "Adverb",
+        "meaning": "濕潤、文靜"
+      },
+      {
+        "jp": "すっきり",
+        "romaji": "sukkiri",
+        "kana": "すっきり",
+        "pos": "Adverb",
+        "meaning": "舒暢、整潔"
+      },
+      {
+        "jp": "そわそわ",
+        "romaji": "sowasowa",
+        "kana": "そわそわ",
+        "pos": "Adverb",
+        "meaning": "坐立不安、心神不定"
+      },
+      {
+        "jp": "たっぷり",
+        "romaji": "tappuri",
+        "kana": "たっぷり",
+        "pos": "Adverb",
+        "meaning": "充分、足夠"
+      },
+      {
+        "jp": "ちやほや",
+        "romaji": "chiyahoya",
+        "kana": "ちやほや",
+        "pos": "Adverb",
+        "meaning": "奉承、溺愛"
+      },
+      {
+        "jp": "どっきり",
+        "romaji": "dokkiri",
+        "kana": "どっきり",
+        "pos": "Adverb",
+        "meaning": "嚇一跳、心裡一驚"
+      },
+      {
+        "jp": "にやにや",
+        "romaji": "niyaniya",
+        "kana": "にやにや",
+        "pos": "Adverb",
+        "meaning": "冷笑、嗤笑"
+      },
+      {
+        "jp": "のろのろ",
+        "romaji": "noronoro",
+        "kana": "のろのろ",
+        "pos": "Adverb",
+        "meaning": "慢吞吞地"
+      },
+      {
+        "jp": "はきはき",
+        "romaji": "hakihaki",
+        "kana": "はきはき",
+        "pos": "Adverb",
+        "meaning": "乾脆、敏捷（說話或態度）"
+      },
+      {
+        "jp": "ばっちり",
+        "romaji": "batchiri",
+        "kana": "ばっちり",
+        "pos": "Adverb",
+        "meaning": "完美、順利"
+      },
+      {
+        "jp": "ひっそり",
+        "romaji": "hissori",
+        "kana": "ひっそり",
+        "pos": "Adverb",
+        "meaning": "寂靜、悄悄地"
       }
     ],
     "grammar": [
@@ -24793,7 +25003,7 @@
           "word": "嚥下障害",
           "furigana": "えんげしょうがい",
           "romaji": "engeshougai",
-          "meaning": "吞嚥困難 (嚥下障礙)",
+          "meaning": "吞嚥困難",
           "level": "N5",
           "category": "med_clinical",
           "sentences": [
