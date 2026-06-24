@@ -6,7 +6,7 @@
 .conv-item { display: flex; align-items: center; gap: 16px; padding: 16px; border-radius: 16px; cursor: pointer; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); border: 1px solid transparent; background: rgba(0,0,0,0.02); }
 .dark-mode .conv-item { background: rgba(255,255,255,0.02); }
 .conv-item:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: var(--border-color); }
-.conv-item.active { background: var(--primary-color); color: white; transform: translateY(-2px); box-shadow: 0 8px 20px -8px var(--primary-color); }
+.conv-item.active { background: var(--primary); color: white; transform: translateY(-2px); box-shadow: 0 8px 20px -8px var(--primary); }
 .conv-item.active .conv-desc { color: rgba(255,255,255,0.8); }
 .conv-icon { font-size: 1.5rem; display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: rgba(255,255,255,0.2); border-radius: 12px; flex-shrink: 0; }
 .dark-mode .conv-item:not(.active) .conv-icon { background: rgba(255,255,255,0.05); }
@@ -30,7 +30,7 @@
 .chat-bubble-wrapper.right .chat-speaker { text-align: right; }
 .chat-text { padding: 16px 20px; border-radius: 20px; font-size: 1.25rem; line-height: 1.6; box-shadow: 0 4px 15px rgba(0,0,0,0.05); position: relative; word-break: break-all; }
 .chat-bubble-wrapper.left .chat-text { background: var(--bg-card); border: 1px solid var(--border-color); border-top-left-radius: 4px; color: var(--text-primary); }
-.chat-bubble-wrapper.right .chat-text { background: var(--primary-color); color: white; border-top-right-radius: 4px; }
+.chat-bubble-wrapper.right .chat-text { background: var(--primary); color: white; border-top-right-radius: 4px; }
 .chat-bubble-wrapper.right .chat-text ruby { color: white; }
 .chat-translation { font-size: 0.9rem; color: var(--text-secondary); padding: 0 4px; margin-top: 2px; }
 .chat-bubble-wrapper.right .chat-translation { text-align: right; }
