@@ -284,9 +284,11 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
   const [selectedVerb, setSelectedVerb] = useState(null); // Used for both Verbs and Adjectives detail modals
 
   const speak = (text) => {
+    if (!text) return;
+    const cleanText = text.replace(/\[.*?\]/g, ''); // 移除 漢字[かんじ] 標記中的注音讀音，只播放純漢字/假名日文
     if ("speechSynthesis" in window) {
       window.speechSynthesis.cancel();
-      const utterance = new SpeechSynthesisUtterance(text);
+      const utterance = new SpeechSynthesisUtterance(cleanText);
       utterance.lang = "ja-JP";
       utterance.rate = 0.85;
 
@@ -661,6 +663,22 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
         .ex-en {
           font-size: 0.85rem;
           color: #64748b;
+        }
+        .btn-example-speaker {
+          background: none;
+          border: none;
+          cursor: pointer;
+          color: #64748b;
+          padding: 4px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: all 0.2s;
+        }
+        .btn-example-speaker:hover {
+          color: #f43f5e;
+          background: #ffe4e6;
         }
         .old-actions {
           margin-top: auto;
@@ -1154,13 +1172,31 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                 {Array.isArray(item.sentences) && item.sentences.length > 0 ? (
                   item.sentences.map((sent, idx) => (
                     <div className="old-example" key={idx}>
-                      <div className="ex-ja"><FuriganaText text={sent.ja} /></div>
+                      <div className="ex-ja" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '8px' }}>
+                        <span><FuriganaText text={sent.ja} /></span>
+                        <button 
+                          className="btn-example-speaker" 
+                          onClick={() => speak(sent.ja)}
+                          title="播放例句"
+                        >
+                          <svg width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
+                        </button>
+                      </div>
                       <div className="ex-en">{sent.zh || sent.en || '-'}</div>
                     </div>
                   ))
                 ) : (item.exampleJa || item.exampleEn) ? (
                   <div className="old-example">
-                    <div className="ex-ja"><FuriganaText text={item.exampleJa || '-'} /></div>
+                    <div className="ex-ja" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '8px' }}>
+                      <span><FuriganaText text={item.exampleJa || '-'} /></span>
+                      <button 
+                        className="btn-example-speaker" 
+                        onClick={() => speak(item.exampleJa)}
+                        title="播放例句"
+                      >
+                        <svg width="14" height="14" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/></svg>
+                      </button>
+                    </div>
                     <div className="ex-en">{item.exampleZh || item.exampleEn || '-'}</div>
                   </div>
                 ) : null}
