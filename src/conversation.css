@@ -1,5 +1,5 @@
 /* Conversation View Styles */
-.conversation-container { display: flex; gap: 24px; height: 100%; margin-top: 20px; align-items: stretch; }
+.conversation-container { display: flex; gap: 24px; height: calc(100vh - 140px); min-height: 500px; margin-top: 20px; align-items: stretch; overflow: hidden; }
 .conv-stage-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 30px; }
 .conv-stage-card { background: var(--bg-card); border-radius: 16px; padding: 30px; cursor: pointer; transition: all 0.3s ease; border: 1px solid var(--border-color); display: flex; flex-direction: column; align-items: center; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
 .conv-stage-card:hover { transform: translateY(-5px); border-color: var(--primary-color); box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
