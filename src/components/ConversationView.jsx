@@ -35,25 +35,40 @@ const ConversationView = ({ conversations }) => {
 
   const selectedConv = conversations.find(c => c.id === activeConv) || conversations[0];
 
+  // Group conversations by stage
+  const groupedConvs = {};
+  conversations.forEach(conv => {
+    const stage = conv.stage || '🛒 日常生存必備';
+    if (!groupedConvs[stage]) groupedConvs[stage] = [];
+    groupedConvs[stage].push(conv);
+  });
+
   return (
     <div className="conversation-container">
       <div className="conv-sidebar">
         <h2 className="conv-sidebar-title">🗣️ 情境選擇</h2>
-        <ul className="conv-list">
-          {conversations.map(conv => (
-            <li 
-              key={conv.id} 
-              className={`conv-item ${activeConv === conv.id ? 'active' : ''}`}
-              onClick={() => setActiveConv(conv.id)}
-            >
-              <span className="conv-icon">{conv.icon}</span>
-              <div className="conv-info">
-                <div className="conv-title">{conv.title}</div>
-                <div className="conv-desc">{conv.description}</div>
-              </div>
-            </li>
+        <div className="conv-list-container">
+          {Object.entries(groupedConvs).map(([stageName, convs]) => (
+            <div key={stageName} className="conv-stage-group">
+              <h3 className="conv-stage-title">{stageName}</h3>
+              <ul className="conv-list">
+                {convs.map(conv => (
+                  <li 
+                    key={conv.id} 
+                    className={`conv-item ${activeConv === conv.id ? 'active' : ''}`}
+                    onClick={() => setActiveConv(conv.id)}
+                  >
+                    <span className="conv-icon">{conv.icon}</span>
+                    <div className="conv-info">
+                      <div className="conv-title">{conv.title}</div>
+                      <div className="conv-desc">{conv.description}</div>
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            </div>
           ))}
-        </ul>
+        </div>
       </div>
 
       <div className="conv-main">
