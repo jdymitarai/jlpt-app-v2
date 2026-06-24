@@ -62,6 +62,13 @@ const ConversationView = ({ conversations }) => {
                     <div className="conv-info">
                       <div className="conv-title">{conv.title}</div>
                       <div className="conv-desc">{conv.description}</div>
+                      {conv.tags && conv.tags.length > 0 && (
+                        <div className="conv-tags">
+                          {conv.tags.map(tag => (
+                            <span key={tag} className="conv-tag">#{tag}</span>
+                          ))}
+                        </div>
+                      )}
                     </div>
                   </li>
                 ))}
@@ -75,6 +82,13 @@ const ConversationView = ({ conversations }) => {
         <div className="conv-header">
           <h2>{selectedConv.icon} {selectedConv.title}</h2>
           <p>{selectedConv.description}</p>
+          {selectedConv.tags && selectedConv.tags.length > 0 && (
+            <div className="conv-header-tags">
+              {selectedConv.tags.map(tag => (
+                <span key={tag} className="conv-tag">#{tag}</span>
+              ))}
+            </div>
+          )}
         </div>
         
         <div className="chat-window">
