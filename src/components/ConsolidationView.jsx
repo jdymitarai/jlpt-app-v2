@@ -501,10 +501,14 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
           display: flex;
           align-items: center;
           gap: 16px;
-          margin-bottom: 16px;
+          padding-bottom: 24px;
+          margin-bottom: 24px;
+          border-bottom: 1px solid #cbd5e1;
         }
         .subcat-row:last-child {
+          padding-bottom: 0;
           margin-bottom: 0;
+          border-bottom: none;
         }
         .subcat-label {
           background: #fff;
