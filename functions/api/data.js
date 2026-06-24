@@ -13,6 +13,7 @@ export async function onRequest(context) {
     headers.set('etag', object.httpEtag);
     // Allow CORS if needed, though pages functions are same-origin
     headers.set('Access-Control-Allow-Origin', '*');
+    headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
 
     return new Response(object.body, {
       headers
