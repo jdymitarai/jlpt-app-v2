@@ -30,7 +30,7 @@ const ConversationView = ({ conversations }) => {
   const [activeConv, setActiveConv] = useState(conversations && conversations.length > 0 ? conversations[0].id : null);
 
   if (!conversations || conversations.length === 0) {
-    return <div className="page-section"><h1 className="page-title">實戰情境會話</h1><p className="page-subtitle">尚無會話資料</p></div>;
+    return <div className="page-section"><h1 className="page-title">實用情境會話</h1><p className="page-subtitle">尚無會話資料</p></div>;
   }
 
   const selectedConv = conversations.find(c => c.id === activeConv) || conversations[0];
