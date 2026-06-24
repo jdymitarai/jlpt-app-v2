@@ -1,0 +1,1314 @@
+[
+  {
+    "word": "年",
+    "meaning": "年齡、年紀"
+  },
+  {
+    "word": "本当",
+    "meaning": "真的、事實"
+  },
+  {
+    "word": "人気",
+    "meaning": "人氣、受歡迎"
+  },
+  {
+    "word": "カレンダー",
+    "meaning": "日曆、月曆"
+  },
+  {
+    "word": "夕方",
+    "meaning": "傍晚"
+  },
+  {
+    "word": "晩",
+    "meaning": "晚上、晚間"
+  },
+  {
+    "word": "夜中",
+    "meaning": "半夜"
+  },
+  {
+    "word": "今朝",
+    "meaning": "今天早上"
+  },
+  {
+    "word": "今晩",
+    "meaning": "今天晚上"
+  },
+  {
+    "word": "地図",
+    "meaning": "地圖"
+  },
+  {
+    "word": "所",
+    "meaning": "地方、場所"
+  },
+  {
+    "word": "物",
+    "meaning": "東西、物品"
+  },
+  {
+    "word": "半分",
+    "meaning": "一半"
+  },
+  {
+    "word": "全部",
+    "meaning": "全部"
+  },
+  {
+    "word": "番号",
+    "meaning": "號碼"
+  },
+  {
+    "word": "意味",
+    "meaning": "意思"
+  },
+  {
+    "word": "一つ",
+    "meaning": "一個"
+  },
+  {
+    "word": "二つ",
+    "meaning": "兩個"
+  },
+  {
+    "word": "三つ",
+    "meaning": "三個"
+  },
+  {
+    "word": "四つ",
+    "meaning": "四個"
+  },
+  {
+    "word": "五つ",
+    "meaning": "五個"
+  },
+  {
+    "word": "六つ",
+    "meaning": "六個"
+  },
+  {
+    "word": "七つ",
+    "meaning": "七個"
+  },
+  {
+    "word": "八つ",
+    "meaning": "八個"
+  },
+  {
+    "word": "九つ",
+    "meaning": "九個"
+  },
+  {
+    "word": "十",
+    "meaning": "十個"
+  },
+  {
+    "word": "沢山",
+    "meaning": "很多"
+  },
+  {
+    "word": "大勢",
+    "meaning": "許多人"
+  },
+  {
+    "word": "キロ",
+    "meaning": "公斤、公里"
+  },
+  {
+    "word": "グラム",
+    "meaning": "公克"
+  },
+  {
+    "word": "メートル",
+    "meaning": "公尺"
+  },
+  {
+    "word": "ページ",
+    "meaning": "頁"
+  },
+  {
+    "word": "ゼロ",
+    "meaning": "零"
+  },
+  {
+    "word": "番",
+    "meaning": "號、號碼"
+  },
+  {
+    "word": "横",
+    "meaning": "旁邊、橫向"
+  },
+  {
+    "word": "間",
+    "meaning": "之間"
+  },
+  {
+    "word": "次",
+    "meaning": "下一次、下一個"
+  },
+  {
+    "word": "他",
+    "meaning": "其他"
+  },
+  {
+    "word": "同じ",
+    "meaning": "一樣、相同"
+  },
+  {
+    "word": "住所",
+    "meaning": "地址"
+  },
+  {
+    "word": "誕生日",
+    "meaning": "生日"
+  },
+  {
+    "word": "時間",
+    "meaning": "時間"
+  },
+  {
+    "word": "朝",
+    "meaning": "早上"
+  },
+  {
+    "word": "昼",
+    "meaning": "中午、白天"
+  },
+  {
+    "word": "夜",
+    "meaning": "夜晚"
+  },
+  {
+    "word": "今日",
+    "meaning": "今天"
+  },
+  {
+    "word": "明日",
+    "meaning": "明天"
+  },
+  {
+    "word": "昨日",
+    "meaning": "昨天"
+  },
+  {
+    "word": "今週",
+    "meaning": "這星期"
+  },
+  {
+    "word": "来週",
+    "meaning": "下星期"
+  },
+  {
+    "word": "先週",
+    "meaning": "上星期"
+  },
+  {
+    "word": "今年",
+    "meaning": "今年"
+  },
+  {
+    "word": "来年",
+    "meaning": "明年"
+  },
+  {
+    "word": "去年",
+    "meaning": "去年"
+  },
+  {
+    "word": "右",
+    "meaning": "右邊"
+  },
+  {
+    "word": "左",
+    "meaning": "左邊"
+  },
+  {
+    "word": "前",
+    "meaning": "前面、之前"
+  },
+  {
+    "word": "後ろ",
+    "meaning": "後面"
+  },
+  {
+    "word": "上",
+    "meaning": "上面"
+  },
+  {
+    "word": "下",
+    "meaning": "下面"
+  },
+  {
+    "word": "中",
+    "meaning": "裡面"
+  },
+  {
+    "word": "外",
+    "meaning": "外面"
+  },
+  {
+    "word": "隣",
+    "meaning": "旁邊、隔壁"
+  },
+  {
+    "word": "近く",
+    "meaning": "附近"
+  },
+  {
+    "word": "遠く",
+    "meaning": "遠處"
+  },
+  {
+    "word": "問題",
+    "meaning": "問題"
+  },
+  {
+    "word": "交差点",
+    "meaning": "十字路口"
+  },
+  {
+    "word": "角",
+    "meaning": "轉角"
+  },
+  {
+    "word": "東",
+    "meaning": "東方"
+  },
+  {
+    "word": "西",
+    "meaning": "西方"
+  },
+  {
+    "word": "南",
+    "meaning": "南方"
+  },
+  {
+    "word": "北",
+    "meaning": "北方"
+  },
+  {
+    "word": "時計",
+    "meaning": "時鐘、手錶"
+  },
+  {
+    "word": "会場",
+    "meaning": "會場"
+  },
+  {
+    "word": "専門",
+    "meaning": "專門 / 專業"
+  },
+  {
+    "word": "実験",
+    "meaning": "實驗"
+  },
+  {
+    "word": "成功",
+    "meaning": "成功"
+  },
+  {
+    "word": "故障",
+    "meaning": "故障"
+  },
+  {
+    "word": "結果",
+    "meaning": "結果"
+  },
+  {
+    "word": "計画",
+    "meaning": "計畫"
+  },
+  {
+    "word": "自由",
+    "meaning": "自由"
+  },
+  {
+    "word": "不思議",
+    "meaning": "不可思議、奇妙"
+  },
+  {
+    "word": "サイズ",
+    "meaning": "尺寸"
+  },
+  {
+    "word": "住所",
+    "meaning": "地址"
+  },
+  {
+    "word": "交差点",
+    "meaning": "十字路口、交叉點"
+  },
+  {
+    "word": "通り",
+    "meaning": "馬路、街道"
+  },
+  {
+    "word": "競争",
+    "meaning": "競爭、賽跑"
+  },
+  {
+    "word": "休日",
+    "meaning": "假日、休息日"
+  },
+  {
+    "word": "用事",
+    "meaning": "事情、要事"
+  },
+  {
+    "word": "計算",
+    "meaning": "計算"
+  },
+  {
+    "word": "考え",
+    "meaning": "想法、思考"
+  },
+  {
+    "word": "目的",
+    "meaning": "目的"
+  },
+  {
+    "word": "数",
+    "meaning": "數、數量"
+  },
+  {
+    "word": "数字",
+    "meaning": "數字"
+  },
+  {
+    "word": "割合",
+    "meaning": "比例"
+  },
+  {
+    "word": "倍",
+    "meaning": "倍"
+  },
+  {
+    "word": "以上",
+    "meaning": "以上"
+  },
+  {
+    "word": "以下",
+    "meaning": "以下"
+  },
+  {
+    "word": "以内",
+    "meaning": "以內"
+  },
+  {
+    "word": "以外",
+    "meaning": "以外"
+  },
+  {
+    "word": "線",
+    "meaning": "線、線條"
+  },
+  {
+    "word": "点",
+    "meaning": "點、分數"
+  },
+  {
+    "word": "形",
+    "meaning": "形狀"
+  },
+  {
+    "word": "四角",
+    "meaning": "四角形、方形"
+  },
+  {
+    "word": "三角",
+    "meaning": "三角形"
+  },
+  {
+    "word": "長さ",
+    "meaning": "長度"
+  },
+  {
+    "word": "重さ",
+    "meaning": "重量"
+  },
+  {
+    "word": "高さ",
+    "meaning": "高度"
+  },
+  {
+    "word": "広さ",
+    "meaning": "寬度、面積大小"
+  },
+  {
+    "word": "厚さ",
+    "meaning": "厚度"
+  },
+  {
+    "word": "種類",
+    "meaning": "種類"
+  },
+  {
+    "word": "違い",
+    "meaning": "不同、差異"
+  },
+  {
+    "word": "間違い",
+    "meaning": "錯誤、過失"
+  },
+  {
+    "word": "関係",
+    "meaning": "關係"
+  },
+  {
+    "word": "調子",
+    "meaning": "狀況、步調"
+  },
+  {
+    "word": "特別",
+    "meaning": "特別"
+  },
+  {
+    "word": "普通",
+    "meaning": "普通、平常"
+  },
+  {
+    "word": "必要",
+    "meaning": "必要、需要"
+  },
+  {
+    "word": "十分",
+    "meaning": "充分、足夠"
+  },
+  {
+    "word": "無料",
+    "meaning": "免費"
+  },
+  {
+    "word": "有料",
+    "meaning": "收費"
+  },
+  {
+    "word": "無理",
+    "meaning": "勉強、不可能"
+  },
+  {
+    "word": "大事",
+    "meaning": "重要"
+  },
+  {
+    "word": "不便",
+    "meaning": "不方便"
+  },
+  {
+    "word": "複雑",
+    "meaning": "複雜"
+  },
+  {
+    "word": "発達",
+    "meaning": "發達 / 發展"
+  },
+  {
+    "word": "発展",
+    "meaning": "發展"
+  },
+  {
+    "word": "流行",
+    "meaning": "流行"
+  },
+  {
+    "word": "成功",
+    "meaning": "成功"
+  },
+  {
+    "word": "失敗",
+    "meaning": "失敗"
+  },
+  {
+    "word": "予測",
+    "meaning": "預測"
+  },
+  {
+    "word": "現実",
+    "meaning": "現實"
+  },
+  {
+    "word": "結果",
+    "meaning": "結果"
+  },
+  {
+    "word": "結論",
+    "meaning": "結論"
+  },
+  {
+    "word": "目標",
+    "meaning": "目標"
+  },
+  {
+    "word": "種類",
+    "meaning": "種類"
+  },
+  {
+    "word": "方法",
+    "meaning": "方法"
+  },
+  {
+    "word": "原因",
+    "meaning": "原因"
+  },
+  {
+    "word": "基礎",
+    "meaning": "基礎"
+  },
+  {
+    "word": "規則",
+    "meaning": "規則、規定"
+  },
+  {
+    "word": "予想",
+    "meaning": "預期 / 預測"
+  },
+  {
+    "word": "成果",
+    "meaning": "成果"
+  },
+  {
+    "word": "改善",
+    "meaning": "改善"
+  },
+  {
+    "word": "解決",
+    "meaning": "解決"
+  },
+  {
+    "word": "比較",
+    "meaning": "比較"
+  },
+  {
+    "word": "差",
+    "meaning": "差異、差距"
+  },
+  {
+    "word": "発見",
+    "meaning": "發現"
+  },
+  {
+    "word": "発生",
+    "meaning": "發生"
+  },
+  {
+    "word": "価値",
+    "meaning": "價值"
+  },
+  {
+    "word": "条件",
+    "meaning": "條件"
+  },
+  {
+    "word": "影響",
+    "meaning": "影響"
+  },
+  {
+    "word": "休暇",
+    "meaning": "休假"
+  },
+  {
+    "word": "面積",
+    "meaning": "面積"
+  },
+  {
+    "word": "世紀",
+    "meaning": "世紀"
+  },
+  {
+    "word": "価値観",
+    "meaning": "價值觀"
+  },
+  {
+    "word": "偶数",
+    "meaning": "偶數"
+  },
+  {
+    "word": "奇数",
+    "meaning": "奇數"
+  },
+  {
+    "word": "合計",
+    "meaning": "合計、總計"
+  },
+  {
+    "word": "単位",
+    "meaning": "單位"
+  },
+  {
+    "word": "割合",
+    "meaning": "比例、比率"
+  },
+  {
+    "word": "平均",
+    "meaning": "平均"
+  },
+  {
+    "word": "距離",
+    "meaning": "距離"
+  },
+  {
+    "word": "体積",
+    "meaning": "體積"
+  },
+  {
+    "word": "角度",
+    "meaning": "角度"
+  },
+  {
+    "word": "速度",
+    "meaning": "速度"
+  },
+  {
+    "word": "表",
+    "meaning": "表格"
+  },
+  {
+    "word": "順番",
+    "meaning": "順序、輪流"
+  },
+  {
+    "word": "全体",
+    "meaning": "全體、全部"
+  },
+  {
+    "word": "性質",
+    "meaning": "性質"
+  },
+  {
+    "word": "特徴",
+    "meaning": "特徵"
+  },
+  {
+    "word": "状況",
+    "meaning": "狀況、情況"
+  },
+  {
+    "word": "事情",
+    "meaning": "情況、理由、苦衷"
+  },
+  {
+    "word": "関連",
+    "meaning": "關聯"
+  },
+  {
+    "word": "程度",
+    "meaning": "程度"
+  },
+  {
+    "word": "基準",
+    "meaning": "基準、標準"
+  },
+  {
+    "word": "共通",
+    "meaning": "共通、共同"
+  },
+  {
+    "word": "分類",
+    "meaning": "分類"
+  },
+  {
+    "word": "矛盾",
+    "meaning": "矛盾"
+  },
+  {
+    "word": "典型",
+    "meaning": "典型"
+  },
+  {
+    "word": "本質",
+    "meaning": "本質"
+  },
+  {
+    "word": "比較",
+    "meaning": "比較"
+  },
+  {
+    "word": "影響",
+    "meaning": "影響"
+  },
+  {
+    "word": "効果",
+    "meaning": "效果"
+  },
+  {
+    "word": "欠点",
+    "meaning": "缺點"
+  },
+  {
+    "word": "弱点",
+    "meaning": "弱點"
+  },
+  {
+    "word": "特色",
+    "meaning": "特色"
+  },
+  {
+    "word": "長所",
+    "meaning": "長處 / 優點"
+  },
+  {
+    "word": "短所",
+    "meaning": "短處 / 缺點"
+  },
+  {
+    "word": "検討",
+    "meaning": "檢討 / 研究"
+  },
+  {
+    "word": "対策",
+    "meaning": "對策"
+  },
+  {
+    "word": "判断",
+    "meaning": "判斷"
+  },
+  {
+    "word": "決断",
+    "meaning": "決斷 / 決定"
+  },
+  {
+    "word": "段階",
+    "meaning": "階段"
+  },
+  {
+    "word": "形態",
+    "meaning": "形態 / 形式"
+  },
+  {
+    "word": "形式",
+    "meaning": "形式"
+  },
+  {
+    "word": "濃度",
+    "meaning": "濃度"
+  },
+  {
+    "word": "密度",
+    "meaning": "密度"
+  },
+  {
+    "word": "頻度",
+    "meaning": "頻率"
+  },
+  {
+    "word": "目的",
+    "meaning": "目的"
+  },
+  {
+    "word": "構成",
+    "meaning": "構成"
+  },
+  {
+    "word": "構造",
+    "meaning": "構造"
+  },
+  {
+    "word": "条件",
+    "meaning": "條件"
+  },
+  {
+    "word": "範囲",
+    "meaning": "範圍"
+  },
+  {
+    "word": "順序",
+    "meaning": "順序"
+  },
+  {
+    "word": "状態",
+    "meaning": "狀態"
+  },
+  {
+    "word": "状況",
+    "meaning": "狀況 / 情況"
+  },
+  {
+    "word": "応用",
+    "meaning": "應用"
+  },
+  {
+    "word": "仮定",
+    "meaning": "假設"
+  },
+  {
+    "word": "前提",
+    "meaning": "前提"
+  },
+  {
+    "word": "根拠",
+    "meaning": "根據 / 依據"
+  },
+  {
+    "word": "割合",
+    "meaning": "比例"
+  },
+  {
+    "word": "程度",
+    "meaning": "程度"
+  },
+  {
+    "word": "要素",
+    "meaning": "要素"
+  },
+  {
+    "word": "統計",
+    "meaning": "統計"
+  },
+  {
+    "word": "確率",
+    "meaning": "機率"
+  },
+  {
+    "word": "限界",
+    "meaning": "極限"
+  },
+  {
+    "word": "分析",
+    "meaning": "分析"
+  },
+  {
+    "word": "規模",
+    "meaning": "規模"
+  },
+  {
+    "word": "特徴",
+    "meaning": "特徵"
+  },
+  {
+    "word": "過程",
+    "meaning": "過程"
+  },
+  {
+    "word": "概念",
+    "meaning": "概念"
+  },
+  {
+    "word": "抽象",
+    "meaning": "抽象"
+  },
+  {
+    "word": "具体",
+    "meaning": "具體"
+  },
+  {
+    "word": "論理",
+    "meaning": "邏輯"
+  },
+  {
+    "word": "傾向",
+    "meaning": "傾向、趨勢"
+  },
+  {
+    "word": "測定",
+    "meaning": "測量、測定"
+  },
+  {
+    "word": "祭日",
+    "meaning": "節日"
+  },
+  {
+    "word": "流行り",
+    "meaning": "流行"
+  },
+  {
+    "word": "空間",
+    "meaning": "空間"
+  },
+  {
+    "word": "周辺",
+    "meaning": "周邊、附近"
+  },
+  {
+    "word": "倫理",
+    "meaning": "倫理、道德"
+  },
+  {
+    "word": "道徳",
+    "meaning": "道德"
+  },
+  {
+    "word": "観念",
+    "meaning": "觀念"
+  },
+  {
+    "word": "推理",
+    "meaning": "推理"
+  },
+  {
+    "word": "数式",
+    "meaning": "數學公式"
+  },
+  {
+    "word": "暗算",
+    "meaning": "心算"
+  },
+  {
+    "word": "比率",
+    "meaning": "比率、比例"
+  },
+  {
+    "word": "半径",
+    "meaning": "半徑"
+  },
+  {
+    "word": "直径",
+    "meaning": "直徑"
+  },
+  {
+    "word": "直角",
+    "meaning": "直角"
+  },
+  {
+    "word": "容積",
+    "meaning": "容積、容量"
+  },
+  {
+    "word": "複数",
+    "meaning": "複數、多個"
+  },
+  {
+    "word": "莫大",
+    "meaning": "莫大的、龐大的"
+  },
+  {
+    "word": "膨大",
+    "meaning": "龐大、巨大"
+  },
+  {
+    "word": "特質",
+    "meaning": "特質"
+  },
+  {
+    "word": "特殊",
+    "meaning": "特殊的"
+  },
+  {
+    "word": "独特",
+    "meaning": "獨特的"
+  },
+  {
+    "word": "一致",
+    "meaning": "一致、符合"
+  },
+  {
+    "word": "類似",
+    "meaning": "類似"
+  },
+  {
+    "word": "相違",
+    "meaning": "不同、差異"
+  },
+  {
+    "word": "対象",
+    "meaning": "對象"
+  },
+  {
+    "word": "対照",
+    "meaning": "對照、對比"
+  },
+  {
+    "word": "対称",
+    "meaning": "對稱"
+  },
+  {
+    "word": "無関係",
+    "meaning": "無關"
+  },
+  {
+    "word": "波及",
+    "meaning": "波及、擴及"
+  },
+  {
+    "word": "相互",
+    "meaning": "相互、互相"
+  },
+  {
+    "word": "交互",
+    "meaning": "交互、輪流"
+  },
+  {
+    "word": "必然",
+    "meaning": "必然"
+  },
+  {
+    "word": "相対",
+    "meaning": "相對"
+  },
+  {
+    "word": "変遷",
+    "meaning": "變遷"
+  },
+  {
+    "word": "推移",
+    "meaning": "推移 / 演變"
+  },
+  {
+    "word": "軌跡",
+    "meaning": "軌跡 / 歷程"
+  },
+  {
+    "word": "該当",
+    "meaning": "符合 / 相當於"
+  },
+  {
+    "word": "折衷",
+    "meaning": "折衷 / 妥協"
+  },
+  {
+    "word": "寄与",
+    "meaning": "貢獻"
+  },
+  {
+    "word": "排除",
+    "meaning": "排除"
+  },
+  {
+    "word": "束縛",
+    "meaning": "束縛 / 限制"
+  },
+  {
+    "word": "従属",
+    "meaning": "從屬 / 附屬"
+  },
+  {
+    "word": "克服",
+    "meaning": "克服"
+  },
+  {
+    "word": "還元",
+    "meaning": "還原 / 回饋"
+  },
+  {
+    "word": "偏重",
+    "meaning": "偏重"
+  },
+  {
+    "word": "錯綜",
+    "meaning": "錯綜 / 複雜"
+  },
+  {
+    "word": "飛躍",
+    "meaning": "飛躍 / 躍進"
+  },
+  {
+    "word": "抑制",
+    "meaning": "抑制"
+  },
+  {
+    "word": "考慮",
+    "meaning": "考慮"
+  },
+  {
+    "word": "匹敵",
+    "meaning": "匹敵 / 相當於"
+  },
+  {
+    "word": "妥協",
+    "meaning": "妥協"
+  },
+  {
+    "word": "貢献",
+    "meaning": "貢獻"
+  },
+  {
+    "word": "犠牲",
+    "meaning": "犧牲"
+  },
+  {
+    "word": "享受",
+    "meaning": "享受 / 享有"
+  },
+  {
+    "word": "究明",
+    "meaning": "查明 / 探究"
+  },
+  {
+    "word": "圧倒",
+    "meaning": "壓倒 / 壓制"
+  },
+  {
+    "word": "余地",
+    "meaning": "餘地"
+  },
+  {
+    "word": "兆候",
+    "meaning": "徵兆、前兆"
+  },
+  {
+    "word": "趣旨",
+    "meaning": "主旨 / 本意"
+  },
+  {
+    "word": "普遍",
+    "meaning": "普遍"
+  },
+  {
+    "word": "究極",
+    "meaning": "終極 / 究極"
+  },
+  {
+    "word": "矛盾",
+    "meaning": "矛盾"
+  },
+  {
+    "word": "便宜",
+    "meaning": "便利 / 權宜"
+  },
+  {
+    "word": "指標",
+    "meaning": "指標"
+  },
+  {
+    "word": "必然",
+    "meaning": "必然"
+  },
+  {
+    "word": "見解",
+    "meaning": "見解 / 看法"
+  },
+  {
+    "word": "解釈",
+    "meaning": "解釋 / 理解"
+  },
+  {
+    "word": "認識",
+    "meaning": "認識 / 認知"
+  },
+  {
+    "word": "軌道",
+    "meaning": "軌道"
+  },
+  {
+    "word": "模索",
+    "meaning": "摸索 / 探索"
+  },
+  {
+    "word": "促進",
+    "meaning": "促進"
+  },
+  {
+    "word": "把握",
+    "meaning": "掌握 / 理解"
+  },
+  {
+    "word": "教義",
+    "meaning": "教義"
+  },
+  {
+    "word": "頻度",
+    "meaning": "頻率"
+  },
+  {
+    "word": "数値",
+    "meaning": "數值"
+  },
+  {
+    "word": "寸法",
+    "meaning": "尺寸、大小"
+  },
+  {
+    "word": "質量",
+    "meaning": "質量"
+  },
+  {
+    "word": "密度",
+    "meaning": "密度"
+  },
+  {
+    "word": "倍率",
+    "meaning": "倍率、錄取率"
+  },
+  {
+    "word": "小数",
+    "meaning": "小數"
+  },
+  {
+    "word": "分数",
+    "meaning": "分數（數學）"
+  },
+  {
+    "word": "円周",
+    "meaning": "圓周"
+  },
+  {
+    "word": "規格",
+    "meaning": "規格、標準"
+  },
+  {
+    "word": "微量",
+    "meaning": "微量"
+  },
+  {
+    "word": "概算",
+    "meaning": "概算、粗估"
+  },
+  {
+    "word": "桁",
+    "meaning": "位數"
+  },
+  {
+    "word": "過半数",
+    "meaning": "過半數"
+  },
+  {
+    "word": "特性",
+    "meaning": "特性"
+  },
+  {
+    "word": "属性",
+    "meaning": "屬性"
+  },
+  {
+    "word": "仕組み",
+    "meaning": "結構、機制"
+  },
+  {
+    "word": "情勢",
+    "meaning": "情勢、局勢"
+  },
+  {
+    "word": "事態",
+    "meaning": "事態"
+  },
+  {
+    "word": "風潮",
+    "meaning": "風潮、趨勢"
+  },
+  {
+    "word": "起源",
+    "meaning": "起源"
+  },
+  {
+    "word": "根源",
+    "meaning": "根源"
+  },
+  {
+    "word": "由来",
+    "meaning": "由來、來源"
+  },
+  {
+    "word": "余波",
+    "meaning": "餘波、影響"
+  },
+  {
+    "word": "痕跡",
+    "meaning": "痕跡"
+  },
+  {
+    "word": "名残",
+    "meaning": "殘留、痕跡"
+  },
+  {
+    "word": "限界",
+    "meaning": "極限、界限"
+  },
+  {
+    "word": "範疇",
+    "meaning": "範疇"
+  },
+  {
+    "word": "領域",
+    "meaning": "領域"
+  }
+]

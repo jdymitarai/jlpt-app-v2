@@ -6272,6 +6272,216 @@
         "kana": "やけいしにみず",
         "pos": "Idiom",
         "meaning": "杯水車薪、無濟於事"
+      },
+      {
+        "jp": "暗中模索",
+        "romaji": "anchuumosaku",
+        "kana": "あんちゅうもさく",
+        "pos": "Noun",
+        "meaning": "暗中摸索、在未知中尋找線索"
+      },
+      {
+        "jp": "意気投合",
+        "romaji": "ikitougou",
+        "kana": "いきとうごう",
+        "pos": "Noun",
+        "meaning": "情投意合、非常投機"
+      },
+      {
+        "jp": "一期一会",
+        "romaji": "ichigoichie",
+        "kana": "いちごいちえ",
+        "pos": "Noun",
+        "meaning": "一期一會、一生一次的珍貴相遇"
+      },
+      {
+        "jp": "一石二鳥",
+        "romaji": "issekinichou",
+        "kana": "いっせきにちょう",
+        "pos": "Noun",
+        "meaning": "一石二鳥、一舉兩得"
+      },
+      {
+        "jp": "一朝一夕",
+        "romaji": "itchouisseki",
+        "kana": "いっちょういっせき",
+        "pos": "Noun",
+        "meaning": "一朝一夕、極短的時間"
+      },
+      {
+        "jp": "右往左往",
+        "romaji": "uousaou",
+        "kana": "うおうさおう",
+        "pos": "Noun",
+        "meaning": "東奔西跑、不知所措"
+      },
+      {
+        "jp": "栄枯盛衰",
+        "romaji": "eikoseisui",
+        "kana": "えいこせいすい",
+        "pos": "Noun",
+        "meaning": "榮枯盛衰、世事無常"
+      },
+      {
+        "jp": "傍目八目",
+        "romaji": "okamehachimoku",
+        "kana": "おかめはちもく",
+        "pos": "Noun",
+        "meaning": "旁觀者清"
+      },
+      {
+        "jp": "温故知新",
+        "romaji": "onkochishin",
+        "kana": "おんこちしん",
+        "pos": "Noun",
+        "meaning": "溫故知新"
+      },
+      {
+        "jp": "我田引水",
+        "romaji": "gadeninsui",
+        "kana": "がでんいんすい",
+        "pos": "Noun",
+        "meaning": "自私自利、只顧自己方便"
+      },
+      {
+        "jp": "勧善懲悪",
+        "romaji": "kanzenchouaku",
+        "kana": "かんぜんちょうあく",
+        "pos": "Noun",
+        "meaning": "勸善懲惡、懲惡揚善"
+      },
+      {
+        "jp": "起死回生",
+        "romaji": "kishikaisei",
+        "kana": "きしかいせい",
+        "pos": "Noun",
+        "meaning": "起死回生、扭轉劣勢"
+      },
+      {
+        "jp": "奇想天外",
+        "romaji": "kisoutengai",
+        "kana": "きそうてんがい",
+        "pos": "Noun",
+        "meaning": "異想天開、出人意表"
+      },
+      {
+        "jp": "喜怒哀楽",
+        "romaji": "kidoairaku",
+        "kana": "きどあいらく",
+        "pos": "Noun",
+        "meaning": "喜怒哀樂"
+      },
+      {
+        "jp": "空前絶後",
+        "romaji": "kuuzenzetsugo",
+        "kana": "くうぜんぜつご",
+        "pos": "Noun",
+        "meaning": "空前絕後"
+      },
+      {
+        "jp": "公明正大",
+        "romaji": "koumeiseidai",
+        "kana": "こうめいせいだい",
+        "pos": "Noun",
+        "meaning": "光明正大"
+      },
+      {
+        "jp": "呉越同舟",
+        "romaji": "goetsudoushuu",
+        "kana": "ごえつどうしゅう",
+        "pos": "Noun",
+        "meaning": "吳越同舟、仇人相聚"
+      },
+      {
+        "jp": "孤軍奮闘",
+        "romaji": "kogunfuntou",
+        "kana": "こぐんふんとう",
+        "pos": "Noun",
+        "meaning": "孤軍奮戰"
+      },
+      {
+        "jp": "試行錯誤",
+        "romaji": "shikousakugo",
+        "kana": "しこうさくご",
+        "pos": "Noun",
+        "meaning": "反覆試驗、從失敗中學習（Trial and error）"
+      },
+      {
+        "jp": "自業自得",
+        "romaji": "jigoujitoku",
+        "kana": "じごうじとく",
+        "pos": "Noun",
+        "meaning": "自作自受、咎由自取"
+      },
+      {
+        "jp": "自由奔放",
+        "romaji": "jiyuu honpou",
+        "kana": "じゆうほんぽう",
+        "pos": "Noun",
+        "meaning": "自由奔放、無拘無束"
+      },
+      {
+        "jp": "主客転倒",
+        "romaji": "shukakutentou",
+        "kana": "しゅかくてんとう",
+        "pos": "Noun",
+        "meaning": "喧賓奪主、本末倒置"
+      },
+      {
+        "jp": "初志貫徹",
+        "romaji": "shoshikantetsu",
+        "kana": "しょしかんてつ",
+        "pos": "Noun",
+        "meaning": "貫徹初衷、堅持到底"
+      },
+      {
+        "jp": "支離滅裂",
+        "romaji": "shirimetsuretsu",
+        "kana": "しりめつれつ",
+        "pos": "Noun",
+        "meaning": "支離破碎、語無倫次"
+      },
+      {
+        "jp": "千載一遇",
+        "romaji": "senzaiichiguu",
+        "kana": "せんざいいちぐう",
+        "pos": "Noun",
+        "meaning": "千載難逢"
+      },
+      {
+        "jp": "多事多難",
+        "romaji": "tajitanan",
+        "kana": "たじたなん",
+        "pos": "Noun",
+        "meaning": "多災多難、麻煩不斷"
+      },
+      {
+        "jp": "適材適所",
+        "romaji": "tekizaitekisho",
+        "kana": "てきざいてきしょ",
+        "pos": "Noun",
+        "meaning": "適材適所、人盡其才"
+      },
+      {
+        "jp": "天衣無縫",
+        "romaji": "tenimuhou",
+        "kana": "てんいむほう",
+        "pos": "Noun",
+        "meaning": "天衣無縫、純真自然（指性格或文章）"
+      },
+      {
+        "jp": "不言実行",
+        "romaji": "fugenjikkou",
+        "kana": "ふげんじっこう",
+        "pos": "Noun",
+        "meaning": "默默去做、以行動證明"
+      },
+      {
+        "jp": "無理難題",
+        "romaji": "murinandai",
+        "kana": "むりなんだい",
+        "pos": "Noun",
+        "meaning": "強人所難、不合理的要求"
       }
     ],
     "grammar": [
@@ -40305,7 +40515,7 @@
           "meaning": "年齡、年紀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -40441,7 +40651,7 @@
           "meaning": "真的、事實",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_truth",
           "level": "N5",
           "sentences": [
             {
@@ -40458,7 +40668,7 @@
           "meaning": "人氣、受歡迎",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N5",
           "sentences": [
             {
@@ -40577,7 +40787,7 @@
           "meaning": "日曆、月曆",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -40747,7 +40957,7 @@
           "meaning": "傍晚",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N5",
           "sentences": [
             {
@@ -40764,7 +40974,7 @@
           "meaning": "晚上、晚間",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N5",
           "sentences": [
             {
@@ -40781,7 +40991,7 @@
           "meaning": "半夜",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N5",
           "sentences": [
             {
@@ -40798,7 +41008,7 @@
           "meaning": "今天早上",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -40815,7 +41025,7 @@
           "meaning": "今天晚上",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -40849,7 +41059,7 @@
           "meaning": "地圖",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relation",
           "level": "N5",
           "sentences": [
             {
@@ -40866,7 +41076,7 @@
           "meaning": "地方、場所",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -41393,7 +41603,7 @@
           "meaning": "東西、物品",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N5",
           "sentences": [
             {
@@ -41478,7 +41688,7 @@
           "meaning": "一半",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N5",
           "sentences": [
             {
@@ -41495,7 +41705,7 @@
           "meaning": "全部",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_life_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41512,7 +41722,7 @@
           "meaning": "號碼",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N5",
           "sentences": [
             {
@@ -41563,7 +41773,7 @@
           "meaning": "意思",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N5",
           "sentences": [
             {
@@ -41750,7 +41960,7 @@
           "meaning": "一個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41767,7 +41977,7 @@
           "meaning": "兩個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41784,7 +41994,7 @@
           "meaning": "三個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41801,7 +42011,7 @@
           "meaning": "四個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41818,7 +42028,7 @@
           "meaning": "五個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41835,7 +42045,7 @@
           "meaning": "六個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41852,7 +42062,7 @@
           "meaning": "七個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41869,7 +42079,7 @@
           "meaning": "八個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41886,7 +42096,7 @@
           "meaning": "九個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41903,7 +42113,7 @@
           "meaning": "十個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41920,7 +42130,7 @@
           "meaning": "很多",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_life_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41937,7 +42147,7 @@
           "meaning": "許多人",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_life_counter",
           "level": "N5",
           "sentences": [
             {
@@ -41954,7 +42164,7 @@
           "meaning": "公斤、公里",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N5",
           "sentences": [
             {
@@ -41971,7 +42181,7 @@
           "meaning": "公克",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N5",
           "sentences": [
             {
@@ -41988,7 +42198,7 @@
           "meaning": "公尺",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N5",
           "sentences": [
             {
@@ -42005,7 +42215,7 @@
           "meaning": "頁",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -42022,7 +42232,7 @@
           "meaning": "零",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N5",
           "sentences": [
             {
@@ -42039,7 +42249,7 @@
           "meaning": "號、號碼",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N5",
           "sentences": [
             {
@@ -42056,7 +42266,7 @@
           "meaning": "旁邊、橫向",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -42073,7 +42283,7 @@
           "meaning": "之間",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relation",
           "level": "N5",
           "sentences": [
             {
@@ -42090,7 +42300,7 @@
           "meaning": "下一次、下一個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_relative",
           "level": "N5",
           "sentences": [
             {
@@ -42107,7 +42317,7 @@
           "meaning": "其他",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -42124,7 +42334,7 @@
           "meaning": "一樣、相同",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N5",
           "sentences": [
             {
@@ -48734,7 +48944,7 @@
           "meaning": "地址",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N5",
           "sentences": [
             {
@@ -48752,7 +48962,7 @@
           "meaning": "生日",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -48770,7 +48980,7 @@
           "meaning": "時間",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_duration",
           "level": "N5",
           "sentences": [
             {
@@ -48932,7 +49142,7 @@
           "meaning": "早上",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N5",
           "sentences": [
             {
@@ -48950,7 +49160,7 @@
           "meaning": "中午、白天",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N5",
           "sentences": [
             {
@@ -48968,7 +49178,7 @@
           "meaning": "夜晚",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N5",
           "sentences": [
             {
@@ -48986,7 +49196,7 @@
           "meaning": "今天",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49004,7 +49214,7 @@
           "meaning": "明天",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49022,7 +49232,7 @@
           "meaning": "昨天",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49040,7 +49250,7 @@
           "meaning": "這星期",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49058,7 +49268,7 @@
           "meaning": "下星期",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49076,7 +49286,7 @@
           "meaning": "上星期",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49094,7 +49304,7 @@
           "meaning": "今年",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49112,7 +49322,7 @@
           "meaning": "明年",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49130,7 +49340,7 @@
           "meaning": "去年",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N5",
           "sentences": [
             {
@@ -49238,7 +49448,7 @@
           "meaning": "右邊",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49256,7 +49466,7 @@
           "meaning": "左邊",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49274,7 +49484,7 @@
           "meaning": "前面、之前",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49292,7 +49502,7 @@
           "meaning": "後面",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49310,7 +49520,7 @@
           "meaning": "上面",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49328,7 +49538,7 @@
           "meaning": "下面",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49346,7 +49556,7 @@
           "meaning": "裡面",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49364,7 +49574,7 @@
           "meaning": "外面",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49382,7 +49592,7 @@
           "meaning": "旁邊、隔壁",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49400,7 +49610,7 @@
           "meaning": "附近",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49418,7 +49628,7 @@
           "meaning": "遠處",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -49688,7 +49898,7 @@
           "meaning": "問題",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N5",
           "sentences": [
             {
@@ -50444,7 +50654,7 @@
           "meaning": "十字路口",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -50462,7 +50672,7 @@
           "meaning": "轉角",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N5",
           "sentences": [
             {
@@ -50498,7 +50708,7 @@
           "meaning": "東方",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N5",
           "sentences": [
             {
@@ -50516,7 +50726,7 @@
           "meaning": "西方",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N5",
           "sentences": [
             {
@@ -50534,7 +50744,7 @@
           "meaning": "南方",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N5",
           "sentences": [
             {
@@ -50552,7 +50762,7 @@
           "meaning": "北方",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N5",
           "sentences": [
             {
@@ -57153,7 +57363,7 @@
           "pos": "名詞",
           "type": "noun",
           "encyclopedia_category": "物質生活 ＞ 日常用品",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_duration",
           "level": "N5",
           "sentences": [
             {
@@ -68801,7 +69011,7 @@
           "furigana": "かいじょう",
           "romaji": "kaijou",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N4",
           "meaning": "會場",
           "sentences": [
@@ -68835,7 +69045,7 @@
           "furigana": "せんもん",
           "romaji": "senmon",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N4",
           "meaning": "專門 / 專業",
           "sentences": [
@@ -68852,7 +69062,7 @@
           "furigana": "じっけん",
           "romaji": "jikken",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N4",
           "meaning": "實驗",
           "sentences": [
@@ -68871,7 +69081,7 @@
           "meaning": "成功",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -68937,7 +69147,7 @@
           "furigana": "こしょう",
           "romaji": "koshou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N4",
           "meaning": "故障",
           "sentences": [
@@ -69039,7 +69249,7 @@
           "furigana": "けっか",
           "romaji": "kekka",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_cause",
           "level": "N4",
           "meaning": "結果",
           "sentences": [
@@ -69192,7 +69402,7 @@
           "furigana": "けいかく",
           "romaji": "keikaku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N4",
           "meaning": "計畫",
           "sentences": [
@@ -69721,7 +69931,7 @@
           "meaning": "自由",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -69772,7 +69982,7 @@
           "meaning": "不可思議、奇妙",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N4",
           "sentences": [
             {
@@ -70333,7 +70543,7 @@
           "meaning": "尺寸",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N4",
           "sentences": [
             {
@@ -70401,7 +70611,7 @@
           "meaning": "地址",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_absolute",
           "level": "N4",
           "sentences": [
             {
@@ -70741,7 +70951,7 @@
           "meaning": "十字路口、交叉點",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N4",
           "sentences": [
             {
@@ -70775,7 +70985,7 @@
           "meaning": "馬路、街道",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N4",
           "sentences": [
             {
@@ -70894,7 +71104,7 @@
           "meaning": "競爭、賽跑",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -71149,7 +71359,7 @@
           "meaning": "假日、休息日",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N4",
           "sentences": [
             {
@@ -72322,7 +72532,7 @@
           "meaning": "事情、要事",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N4",
           "sentences": [
             {
@@ -72424,7 +72634,7 @@
           "meaning": "計算",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N4",
           "sentences": [
             {
@@ -72594,7 +72804,7 @@
           "meaning": "想法、思考",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N4",
           "sentences": [
             {
@@ -72611,7 +72821,7 @@
           "meaning": "目的",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N4",
           "sentences": [
             {
@@ -72730,7 +72940,7 @@
           "meaning": "數、數量",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N4",
           "sentences": [
             {
@@ -72747,7 +72957,7 @@
           "meaning": "數字",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N4",
           "sentences": [
             {
@@ -72798,7 +73008,7 @@
           "meaning": "比例",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N4",
           "sentences": [
             {
@@ -72815,7 +73025,7 @@
           "meaning": "倍",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N4",
           "sentences": [
             {
@@ -72832,7 +73042,7 @@
           "meaning": "以上",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_space_limit",
           "level": "N4",
           "sentences": [
             {
@@ -72849,7 +73059,7 @@
           "meaning": "以下",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_space_limit",
           "level": "N4",
           "sentences": [
             {
@@ -72866,7 +73076,7 @@
           "meaning": "以內",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_space_limit",
           "level": "N4",
           "sentences": [
             {
@@ -72883,7 +73093,7 @@
           "meaning": "以外",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_space_limit",
           "level": "N4",
           "sentences": [
             {
@@ -72900,7 +73110,7 @@
           "meaning": "線、線條",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_num_shape_counter",
           "level": "N4",
           "sentences": [
             {
@@ -72917,7 +73127,7 @@
           "meaning": "點、分數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_num_shape_counter",
           "level": "N4",
           "sentences": [
             {
@@ -72934,7 +73144,7 @@
           "meaning": "形狀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_num_shape_counter",
           "level": "N4",
           "sentences": [
             {
@@ -72951,7 +73161,7 @@
           "meaning": "四角形、方形",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_num_shape_counter",
           "level": "N4",
           "sentences": [
             {
@@ -72968,7 +73178,7 @@
           "meaning": "三角形",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_num_shape_counter",
           "level": "N4",
           "sentences": [
             {
@@ -72985,7 +73195,7 @@
           "meaning": "長度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N4",
           "sentences": [
             {
@@ -73002,7 +73212,7 @@
           "meaning": "重量",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N4",
           "sentences": [
             {
@@ -73019,7 +73229,7 @@
           "meaning": "高度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N4",
           "sentences": [
             {
@@ -73036,7 +73246,7 @@
           "meaning": "寬度、面積大小",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N4",
           "sentences": [
             {
@@ -73053,7 +73263,7 @@
           "meaning": "厚度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N4",
           "sentences": [
             {
@@ -73070,7 +73280,7 @@
           "meaning": "種類",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N4",
           "sentences": [
             {
@@ -73087,7 +73297,7 @@
           "meaning": "不同、差異",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N4",
           "sentences": [
             {
@@ -73104,7 +73314,7 @@
           "meaning": "錯誤、過失",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N4",
           "sentences": [
             {
@@ -73121,7 +73331,7 @@
           "meaning": "關係",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N4",
           "sentences": [
             {
@@ -73138,7 +73348,7 @@
           "meaning": "狀況、步調",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N4",
           "sentences": [
             {
@@ -73155,7 +73365,7 @@
           "meaning": "特別",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73172,7 +73382,7 @@
           "meaning": "普通、平常",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73189,7 +73399,7 @@
           "meaning": "必要、需要",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73206,7 +73416,7 @@
           "meaning": "充分、足夠",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73223,7 +73433,7 @@
           "meaning": "免費",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73240,7 +73450,7 @@
           "meaning": "收費",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73257,7 +73467,7 @@
           "meaning": "勉強、不可能",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73274,7 +73484,7 @@
           "meaning": "重要",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73291,7 +73501,7 @@
           "meaning": "不方便",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N4",
           "sentences": [
             {
@@ -73308,7 +73518,7 @@
           "meaning": "複雜",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N4",
           "sentences": [
             {
@@ -75763,7 +75973,7 @@
           "furigana": "はったつ",
           "romaji": "hattatsu",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "發達 / 發展",
           "sentences": [
@@ -75780,7 +75990,7 @@
           "furigana": "はってん",
           "romaji": "hatten",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "發展",
           "sentences": [
@@ -75799,7 +76009,7 @@
           "meaning": "流行",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -75831,7 +76041,7 @@
           "furigana": "せいこう",
           "romaji": "seikou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "成功",
           "sentences": [
@@ -75848,7 +76058,7 @@
           "furigana": "しっぱい",
           "romaji": "shippai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "失敗",
           "sentences": [
@@ -75865,7 +76075,7 @@
           "furigana": "よそく",
           "romaji": "yosoku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N3",
           "meaning": "預測",
           "sentences": [
@@ -75901,7 +76111,7 @@
           "meaning": "現實",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_truth",
           "level": "N3",
           "sentences": [
             {
@@ -75918,7 +76128,7 @@
           "meaning": "結果",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_cause",
           "level": "N3",
           "sentences": [
             {
@@ -75933,7 +76143,7 @@
           "furigana": "けつろん",
           "romaji": "ketsuron",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N3",
           "meaning": "結論",
           "sentences": [
@@ -75952,7 +76162,7 @@
           "meaning": "目標",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_thought",
           "level": "N3",
           "sentences": [
             {
@@ -75967,7 +76177,7 @@
           "furigana": "しゅるい",
           "romaji": "shurui",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N3",
           "meaning": "種類",
           "sentences": [
@@ -75984,7 +76194,7 @@
           "furigana": "ほうほう",
           "romaji": "houhou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N3",
           "meaning": "方法",
           "sentences": [
@@ -76003,7 +76213,7 @@
           "meaning": "原因",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_cause",
           "level": "N3",
           "sentences": [
             {
@@ -76071,7 +76281,7 @@
           "meaning": "基礎",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_condition",
           "level": "N3",
           "sentences": [
             {
@@ -76088,7 +76298,7 @@
           "meaning": "規則、規定",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_rule",
           "level": "N3",
           "sentences": [
             {
@@ -76103,7 +76313,7 @@
           "furigana": "よそう",
           "romaji": "yosou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N3",
           "meaning": "預期 / 預測",
           "sentences": [
@@ -76120,7 +76330,7 @@
           "furigana": "せいか",
           "romaji": "seika",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "成果",
           "sentences": [
@@ -76205,7 +76415,7 @@
           "furigana": "かいぜん",
           "romaji": "kaizen",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "改善",
           "sentences": [
@@ -76222,7 +76432,7 @@
           "furigana": "かいけつ",
           "romaji": "kaiketsu",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "解決",
           "sentences": [
@@ -76309,7 +76519,7 @@
           "meaning": "比較",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N3",
           "sentences": [
             {
@@ -76479,7 +76689,7 @@
           "meaning": "差異、差距",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -76494,7 +76704,7 @@
           "furigana": "はっけん",
           "romaji": "hakken",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "發現",
           "sentences": [
@@ -76511,7 +76721,7 @@
           "furigana": "はっせい",
           "romaji": "hassei",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N3",
           "meaning": "發生",
           "sentences": [
@@ -76647,7 +76857,7 @@
           "furigana": "かち",
           "romaji": "kachi",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "meaning": "價值",
           "sentences": [
@@ -76700,7 +76910,7 @@
           "meaning": "條件",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_condition",
           "level": "N3",
           "sentences": [
             {
@@ -76768,7 +76978,7 @@
           "meaning": "影響",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -78145,7 +78355,7 @@
           "meaning": "休假",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N3",
           "sentences": [
             {
@@ -78451,7 +78661,7 @@
           "meaning": "面積",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -79641,7 +79851,7 @@
           "meaning": "世紀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N3",
           "sentences": [
             {
@@ -79726,7 +79936,7 @@
           "meaning": "價值觀",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N3",
           "sentences": [
             {
@@ -79828,7 +80038,7 @@
           "meaning": "偶數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N3",
           "sentences": [
             {
@@ -79845,7 +80055,7 @@
           "meaning": "奇數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N3",
           "sentences": [
             {
@@ -79862,7 +80072,7 @@
           "meaning": "合計、總計",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N3",
           "sentences": [
             {
@@ -79879,7 +80089,7 @@
           "meaning": "單位",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -79896,7 +80106,7 @@
           "meaning": "比例、比率",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N3",
           "sentences": [
             {
@@ -79913,7 +80123,7 @@
           "meaning": "平均",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N3",
           "sentences": [
             {
@@ -79930,7 +80140,7 @@
           "meaning": "距離",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -79947,7 +80157,7 @@
           "meaning": "體積",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -79964,7 +80174,7 @@
           "meaning": "角度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -79981,7 +80191,7 @@
           "meaning": "速度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -79998,7 +80208,7 @@
           "meaning": "表格",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N3",
           "sentences": [
             {
@@ -80015,7 +80225,7 @@
           "meaning": "順序、輪流",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_time_relative",
           "level": "N3",
           "sentences": [
             {
@@ -80049,7 +80259,7 @@
           "meaning": "全體、全部",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_num_life_counter",
           "level": "N3",
           "sentences": [
             {
@@ -80066,7 +80276,7 @@
           "meaning": "性質",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N3",
           "sentences": [
             {
@@ -80083,7 +80293,7 @@
           "meaning": "特徵",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N3",
           "sentences": [
             {
@@ -80100,7 +80310,7 @@
           "meaning": "狀況、情況",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N3",
           "sentences": [
             {
@@ -80117,7 +80327,7 @@
           "meaning": "情況、理由、苦衷",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N3",
           "sentences": [
             {
@@ -80134,7 +80344,7 @@
           "meaning": "關聯",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N3",
           "sentences": [
             {
@@ -80151,7 +80361,7 @@
           "meaning": "程度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N3",
           "sentences": [
             {
@@ -80168,7 +80378,7 @@
           "meaning": "基準、標準",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_rule",
           "level": "N3",
           "sentences": [
             {
@@ -80185,7 +80395,7 @@
           "meaning": "共通、共同",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N3",
           "sentences": [
             {
@@ -80202,7 +80412,7 @@
           "meaning": "分類",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N3",
           "sentences": [
             {
@@ -85052,7 +85262,7 @@
           "meaning": "矛盾",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_truth",
           "level": "N2",
           "sentences": [
             {
@@ -85067,7 +85277,7 @@
           "furigana": "てんけい",
           "romaji": "tenkei",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "典型",
           "sentences": [
@@ -85086,7 +85296,7 @@
           "meaning": "本質",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_truth",
           "level": "N2",
           "sentences": [
             {
@@ -85101,7 +85311,7 @@
           "furigana": "ひかく",
           "romaji": "hikaku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "比較",
           "sentences": [
@@ -85118,7 +85328,7 @@
           "furigana": "えいきょう",
           "romaji": "eikyou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "meaning": "影響",
           "sentences": [
@@ -85135,7 +85345,7 @@
           "furigana": "こうか",
           "romaji": "kouka",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "meaning": "效果",
           "sentences": [
@@ -85152,7 +85362,7 @@
           "furigana": "けってん",
           "romaji": "ketten",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "meaning": "缺點",
           "sentences": [
@@ -85169,7 +85379,7 @@
           "furigana": "じゃくてん",
           "romaji": "jakuten",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "meaning": "弱點",
           "sentences": [
@@ -85203,7 +85413,7 @@
           "furigana": "とくしょく",
           "romaji": "tokushoku",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "特色",
           "sentences": [
@@ -85220,7 +85430,7 @@
           "furigana": "ちょうしょ",
           "romaji": "chousho",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "meaning": "長處 / 優點",
           "sentences": [
@@ -85237,7 +85447,7 @@
           "furigana": "たんしょ",
           "romaji": "tansho",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "meaning": "短處 / 缺點",
           "sentences": [
@@ -85288,7 +85498,7 @@
           "furigana": "けんとう",
           "romaji": "kentou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "檢討 / 研究",
           "sentences": [
@@ -85322,7 +85532,7 @@
           "furigana": "たいさく",
           "romaji": "taisaku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N2",
           "meaning": "對策",
           "sentences": [
@@ -85339,7 +85549,7 @@
           "furigana": "はんだん",
           "romaji": "handan",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "判斷",
           "sentences": [
@@ -85356,7 +85566,7 @@
           "furigana": "けつだん",
           "romaji": "ketsudan",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "決斷 / 決定",
           "sentences": [
@@ -85424,7 +85634,7 @@
           "furigana": "だんかい",
           "romaji": "dankai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_time_relative",
           "level": "N2",
           "meaning": "階段",
           "sentences": [
@@ -85441,7 +85651,7 @@
           "furigana": "けいたい",
           "romaji": "keitai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "形態 / 形式",
           "sentences": [
@@ -85458,7 +85668,7 @@
           "furigana": "けいしき",
           "romaji": "keishiki",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "形式",
           "sentences": [
@@ -85475,7 +85685,7 @@
           "furigana": "のうど",
           "romaji": "noudo",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N2",
           "meaning": "濃度",
           "sentences": [
@@ -85492,7 +85702,7 @@
           "furigana": "みつど",
           "romaji": "mitsudo",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N2",
           "meaning": "密度",
           "sentences": [
@@ -85509,7 +85719,7 @@
           "furigana": "ひんど",
           "romaji": "hindo",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N2",
           "meaning": "頻率",
           "sentences": [
@@ -85611,7 +85821,7 @@
           "furigana": "もくてき",
           "romaji": "mokuteki",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "目的",
           "sentences": [
@@ -85628,7 +85838,7 @@
           "furigana": "こうせい",
           "romaji": "kousei",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "構成",
           "sentences": [
@@ -85647,7 +85857,7 @@
           "meaning": "構造",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -85679,7 +85889,7 @@
           "furigana": "じょうけん",
           "romaji": "jouken",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_condition",
           "level": "N2",
           "meaning": "條件",
           "sentences": [
@@ -85696,7 +85906,7 @@
           "furigana": "はんい",
           "romaji": "hani",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_limit",
           "level": "N2",
           "meaning": "範圍",
           "sentences": [
@@ -85713,7 +85923,7 @@
           "furigana": "じゅんじょ",
           "romaji": "junjo",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_time_relative",
           "level": "N2",
           "meaning": "順序",
           "sentences": [
@@ -85730,7 +85940,7 @@
           "furigana": "じょうたい",
           "romaji": "joutai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N2",
           "meaning": "狀態",
           "sentences": [
@@ -85747,7 +85957,7 @@
           "furigana": "じょうきょう",
           "romaji": "joukyou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N2",
           "meaning": "狀況 / 情況",
           "sentences": [
@@ -85764,7 +85974,7 @@
           "furigana": "おうよう",
           "romaji": "ouyou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N2",
           "meaning": "應用",
           "sentences": [
@@ -85781,7 +85991,7 @@
           "furigana": "かてい",
           "romaji": "katei",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "假設",
           "sentences": [
@@ -85798,7 +86008,7 @@
           "furigana": "ぜんてい",
           "romaji": "zentei",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_cause",
           "level": "N2",
           "meaning": "前提",
           "sentences": [
@@ -85815,7 +86025,7 @@
           "furigana": "こんきょ",
           "romaji": "konkyo",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_cause",
           "level": "N2",
           "meaning": "根據 / 依據",
           "sentences": [
@@ -85832,7 +86042,7 @@
           "furigana": "わりあい",
           "romaji": "wariai",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N2",
           "meaning": "比例",
           "sentences": [
@@ -85849,7 +86059,7 @@
           "furigana": "ていど",
           "romaji": "teido",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N2",
           "meaning": "程度",
           "sentences": [
@@ -85866,7 +86076,7 @@
           "furigana": "ようそ",
           "romaji": "youso",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "要素",
           "sentences": [
@@ -85900,7 +86110,7 @@
           "furigana": "とうけい",
           "romaji": "toukei",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N2",
           "meaning": "統計",
           "sentences": [
@@ -85919,7 +86129,7 @@
           "meaning": "機率",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N2",
           "sentences": [
             {
@@ -85934,7 +86144,7 @@
           "furigana": "げんかい",
           "romaji": "genkai",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_space_limit",
           "level": "N2",
           "meaning": "極限",
           "sentences": [
@@ -85968,7 +86178,7 @@
           "furigana": "ぶんせき",
           "romaji": "bunseki",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "分析",
           "sentences": [
@@ -85987,7 +86197,7 @@
           "meaning": "規模",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_num_measure",
           "level": "N2",
           "sentences": [
             {
@@ -86036,7 +86246,7 @@
           "furigana": "とくちょう",
           "romaji": "tokuchou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "meaning": "特徵",
           "sentences": [
@@ -86070,7 +86280,7 @@
           "furigana": "かてい",
           "romaji": "katei",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_period",
           "level": "N2",
           "meaning": "過程",
           "sentences": [
@@ -86089,7 +86299,7 @@
           "meaning": "概念",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "sentences": [
             {
@@ -86104,7 +86314,7 @@
           "furigana": "ちゅうしょう",
           "romaji": "chuushou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "抽象",
           "sentences": [
@@ -86121,7 +86331,7 @@
           "furigana": "ぐたい",
           "romaji": "gutai",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "具體",
           "sentences": [
@@ -86138,7 +86348,7 @@
           "furigana": "ろんり",
           "romaji": "ronri",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "meaning": "邏輯",
           "sentences": [
@@ -86208,7 +86418,7 @@
           "meaning": "傾向、趨勢",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -86490,7 +86700,7 @@
           "meaning": "測量、測定",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N2",
           "sentences": [
             {
@@ -87000,7 +87210,7 @@
           "meaning": "節日",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_calendar",
           "level": "N2",
           "sentences": [
             {
@@ -87085,7 +87295,7 @@
           "meaning": "流行",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N2",
           "sentences": [
             {
@@ -87374,7 +87584,7 @@
           "meaning": "空間",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N2",
           "sentences": [
             {
@@ -87527,7 +87737,7 @@
           "meaning": "周邊、附近",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relative",
           "level": "N2",
           "sentences": [
             {
@@ -89516,7 +89726,7 @@
           "meaning": "倫理、道德",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_rule",
           "level": "N2",
           "sentences": [
             {
@@ -89533,7 +89743,7 @@
           "meaning": "道德",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_rule",
           "level": "N2",
           "sentences": [
             {
@@ -89601,7 +89811,7 @@
           "meaning": "觀念",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "sentences": [
             {
@@ -89669,7 +89879,7 @@
           "meaning": "推理",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N2",
           "sentences": [
             {
@@ -89686,7 +89896,7 @@
           "meaning": "數學公式",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N2",
           "sentences": [
             {
@@ -89703,7 +89913,7 @@
           "meaning": "心算",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N2",
           "sentences": [
             {
@@ -89720,7 +89930,7 @@
           "meaning": "比率、比例",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N2",
           "sentences": [
             {
@@ -89737,7 +89947,7 @@
           "meaning": "半徑",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N2",
           "sentences": [
             {
@@ -89754,7 +89964,7 @@
           "meaning": "直徑",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N2",
           "sentences": [
             {
@@ -89771,7 +89981,7 @@
           "meaning": "直角",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N2",
           "sentences": [
             {
@@ -89788,7 +89998,7 @@
           "meaning": "容積、容量",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N2",
           "sentences": [
             {
@@ -89805,7 +90015,7 @@
           "meaning": "複數、多個",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_life_counter",
           "level": "N2",
           "sentences": [
             {
@@ -89822,7 +90032,7 @@
           "meaning": "莫大的、龐大的",
           "pos": "な形容詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_num_measure",
           "level": "N2",
           "sentences": [
             {
@@ -89839,7 +90049,7 @@
           "meaning": "龐大、巨大",
           "pos": "な形容詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_num_measure",
           "level": "N2",
           "sentences": [
             {
@@ -89856,7 +90066,7 @@
           "meaning": "特質",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -89873,7 +90083,7 @@
           "meaning": "特殊的",
           "pos": "な形容詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -89890,7 +90100,7 @@
           "meaning": "獨特的",
           "pos": "な形容詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -89907,7 +90117,7 @@
           "meaning": "一致、符合",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -89924,7 +90134,7 @@
           "meaning": "類似",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -89941,7 +90151,7 @@
           "meaning": "不同、差異",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N2",
           "sentences": [
             {
@@ -89958,7 +90168,7 @@
           "meaning": "對象",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -89975,7 +90185,7 @@
           "meaning": "對照、對比",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -89992,7 +90202,7 @@
           "meaning": "對稱",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -90009,7 +90219,7 @@
           "meaning": "無關",
           "pos": "な形容詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -90026,7 +90236,7 @@
           "meaning": "波及、擴及",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N2",
           "sentences": [
             {
@@ -90043,7 +90253,7 @@
           "meaning": "相互、互相",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -90060,7 +90270,7 @@
           "meaning": "交互、輪流",
           "pos": "名詞、副詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -90079,7 +90289,7 @@
           "meaning": "必然",
           "pos": "名詞、な形容詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_truth",
           "level": "N2",
           "sentences": [
             {
@@ -90096,7 +90306,7 @@
           "meaning": "相對",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N2",
           "sentences": [
             {
@@ -91796,7 +92006,7 @@
           "meaning": "變遷",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_relative",
           "level": "N1",
           "sentences": [
             {
@@ -91811,7 +92021,7 @@
           "furigana": "すいい",
           "romaji": "suii",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_time_relative",
           "level": "N1",
           "meaning": "推移 / 演變",
           "sentences": [
@@ -91828,7 +92038,7 @@
           "furigana": "きせき",
           "romaji": "kiseki",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relation",
           "level": "N1",
           "meaning": "軌跡 / 歷程",
           "sentences": [
@@ -91845,7 +92055,7 @@
           "furigana": "がいとう",
           "romaji": "gaitou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_condition",
           "level": "N1",
           "meaning": "符合 / 相當於",
           "sentences": [
@@ -91862,7 +92072,7 @@
           "furigana": "せっちゅう",
           "romaji": "secchuu",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "折衷 / 妥協",
           "sentences": [
@@ -91879,7 +92089,7 @@
           "furigana": "きよ",
           "romaji": "kiyo",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "貢獻",
           "sentences": [
@@ -92134,7 +92344,7 @@
           "furigana": "はいじょ",
           "romaji": "haijo",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N1",
           "meaning": "排除",
           "sentences": [
@@ -92151,7 +92361,7 @@
           "furigana": "そくばく",
           "romaji": "sokubaku",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "meaning": "束縛 / 限制",
           "sentences": [
@@ -92168,7 +92378,7 @@
           "furigana": "じゅうぞく",
           "romaji": "juuzoku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_relation",
           "level": "N1",
           "meaning": "從屬 / 附屬",
           "sentences": [
@@ -92185,7 +92395,7 @@
           "furigana": "こくふく",
           "romaji": "kokufuku",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "克服",
           "sentences": [
@@ -92202,7 +92412,7 @@
           "furigana": "かんげん",
           "romaji": "kangen",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_method",
           "level": "N1",
           "meaning": "還原 / 回饋",
           "sentences": [
@@ -92219,7 +92429,7 @@
           "furigana": "へんちょう",
           "romaji": "henchou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "偏重",
           "sentences": [
@@ -92236,7 +92446,7 @@
           "furigana": "さくそう",
           "romaji": "sakusou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "meaning": "錯綜 / 複雜",
           "sentences": [
@@ -92338,7 +92548,7 @@
           "furigana": "ひやく",
           "romaji": "hiyaku",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "飛躍 / 躍進",
           "sentences": [
@@ -92355,7 +92565,7 @@
           "furigana": "よくせい",
           "romaji": "yokusei",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_method",
           "level": "N1",
           "meaning": "抑制",
           "sentences": [
@@ -92406,7 +92616,7 @@
           "furigana": "こうりょ",
           "romaji": "kouryo",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "考慮",
           "sentences": [
@@ -92423,7 +92633,7 @@
           "furigana": "ひってき",
           "romaji": "hitteki",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "匹敵 / 相當於",
           "sentences": [
@@ -92440,7 +92650,7 @@
           "furigana": "だきょう",
           "romaji": "dakyou",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "妥協",
           "sentences": [
@@ -92457,7 +92667,7 @@
           "furigana": "こうけん",
           "romaji": "kouken",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "貢獻",
           "sentences": [
@@ -92474,7 +92684,7 @@
           "furigana": "ぎせい",
           "romaji": "gisei",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "犧牲",
           "sentences": [
@@ -92491,7 +92701,7 @@
           "furigana": "きょうじゅ",
           "romaji": "kyouju",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "享受 / 享有",
           "sentences": [
@@ -92559,7 +92769,7 @@
           "furigana": "きゅうめい",
           "romaji": "kyuumei",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "查明 / 探究",
           "sentences": [
@@ -92576,7 +92786,7 @@
           "furigana": "あっとう",
           "romaji": "attou",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "壓倒 / 壓制",
           "sentences": [
@@ -92593,7 +92803,7 @@
           "furigana": "よち",
           "romaji": "yochi",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_limit",
           "level": "N1",
           "meaning": "餘地",
           "sentences": [
@@ -92612,7 +92822,7 @@
           "meaning": "徵兆、前兆",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -92627,7 +92837,7 @@
           "furigana": "しゅし",
           "romaji": "shushi",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_cause",
           "level": "N1",
           "meaning": "主旨 / 本意",
           "sentences": [
@@ -92644,7 +92854,7 @@
           "furigana": "ふへん",
           "romaji": "fuhen",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_truth",
           "level": "N1",
           "meaning": "普遍",
           "sentences": [
@@ -92661,7 +92871,7 @@
           "furigana": "きゅうきょく",
           "romaji": "kyuukyoku",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_truth",
           "level": "N1",
           "meaning": "終極 / 究極",
           "sentences": [
@@ -92746,7 +92956,7 @@
           "furigana": "むじゅん",
           "romaji": "mujun",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_truth",
           "level": "N1",
           "meaning": "矛盾",
           "sentences": [
@@ -92797,7 +93007,7 @@
           "furigana": "べんぎ",
           "romaji": "bengi",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "便利 / 權宜",
           "sentences": [
@@ -92831,7 +93041,7 @@
           "furigana": "しひょう",
           "romaji": "shihyou",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_logic_rule",
           "level": "N1",
           "meaning": "指標",
           "sentences": [
@@ -92865,7 +93075,7 @@
           "furigana": "ひつぜん",
           "romaji": "hitsuzen",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_truth",
           "level": "N1",
           "meaning": "必然",
           "sentences": [
@@ -92899,7 +93109,7 @@
           "furigana": "けんかい",
           "romaji": "kenkai",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "見解 / 看法",
           "sentences": [
@@ -92916,7 +93126,7 @@
           "furigana": "かいしゃく",
           "romaji": "kaishaku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "解釋 / 理解",
           "sentences": [
@@ -92933,7 +93143,7 @@
           "furigana": "にんしき",
           "romaji": "ninshiki",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "認識 / 認知",
           "sentences": [
@@ -92988,7 +93198,7 @@
           "meaning": "軌道",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_relation",
           "level": "N1",
           "sentences": [
             {
@@ -93003,7 +93213,7 @@
           "furigana": "もさく",
           "romaji": "mosaku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "摸索 / 探索",
           "sentences": [
@@ -93071,7 +93281,7 @@
           "furigana": "そくしん",
           "romaji": "sokushin",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_value",
           "level": "N1",
           "meaning": "促進",
           "sentences": [
@@ -93088,7 +93298,7 @@
           "furigana": "はあく",
           "romaji": "haaku",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_thought",
           "level": "N1",
           "meaning": "掌握 / 理解",
           "sentences": [
@@ -96313,7 +96523,7 @@
           "meaning": "教義",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_rule",
           "level": "N1",
           "sentences": [
             {
@@ -96432,7 +96642,7 @@
           "meaning": "頻率",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96449,7 +96659,7 @@
           "meaning": "數值",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N1",
           "sentences": [
             {
@@ -96466,7 +96676,7 @@
           "meaning": "尺寸、大小",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96483,7 +96693,7 @@
           "meaning": "質量",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96500,7 +96710,7 @@
           "meaning": "密度",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96517,7 +96727,7 @@
           "meaning": "倍率、錄取率",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96534,7 +96744,7 @@
           "meaning": "小數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N1",
           "sentences": [
             {
@@ -96551,7 +96761,7 @@
           "meaning": "分數（數學）",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N1",
           "sentences": [
             {
@@ -96568,7 +96778,7 @@
           "meaning": "圓周",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_shape_counter",
           "level": "N1",
           "sentences": [
             {
@@ -96585,7 +96795,7 @@
           "meaning": "規格、標準",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_logic_rule",
           "level": "N1",
           "sentences": [
             {
@@ -96602,7 +96812,7 @@
           "meaning": "微量",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96619,7 +96829,7 @@
           "meaning": "概算、粗估",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_measure",
           "level": "N1",
           "sentences": [
             {
@@ -96636,7 +96846,7 @@
           "meaning": "位數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N1",
           "sentences": [
             {
@@ -96653,7 +96863,7 @@
           "meaning": "過半數",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_numbers_units",
+          "category": "abs_num_math",
           "level": "N1",
           "sentences": [
             {
@@ -96670,7 +96880,7 @@
           "meaning": "特性",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N1",
           "sentences": [
             {
@@ -96687,7 +96897,7 @@
           "meaning": "屬性",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_nature",
           "level": "N1",
           "sentences": [
             {
@@ -96704,7 +96914,7 @@
           "meaning": "結構、機制",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_state_nature",
           "level": "N1",
           "sentences": [
             {
@@ -96721,7 +96931,7 @@
           "meaning": "情勢、局勢",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -96738,7 +96948,7 @@
           "meaning": "事態",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -96755,7 +96965,7 @@
           "meaning": "風潮、趨勢",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -96772,7 +96982,7 @@
           "meaning": "起源",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_time_calendar",
+          "category": "abs_logic_cause",
           "level": "N1",
           "sentences": [
             {
@@ -96789,7 +96999,7 @@
           "meaning": "根源",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_cause",
           "level": "N1",
           "sentences": [
             {
@@ -96806,7 +97016,7 @@
           "meaning": "由來、來源",
           "pos": "名詞、動詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_logic_cause",
           "level": "N1",
           "sentences": [
             {
@@ -96823,7 +97033,7 @@
           "meaning": "餘波、影響",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -96840,7 +97050,7 @@
           "meaning": "痕跡",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -96857,7 +97067,7 @@
           "meaning": "殘留、痕跡",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_state_condition",
           "level": "N1",
           "sentences": [
             {
@@ -96874,7 +97084,7 @@
           "meaning": "極限、界限",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_state_value",
+          "category": "abs_space_limit",
           "level": "N1",
           "sentences": [
             {
@@ -96891,7 +97101,7 @@
           "meaning": "範疇",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_logic_method",
+          "category": "abs_space_limit",
           "level": "N1",
           "sentences": [
             {
@@ -96908,7 +97118,7 @@
           "meaning": "領域",
           "pos": "名詞",
           "type": "noun",
-          "category": "abstract_space_direction",
+          "category": "abs_space_limit",
           "level": "N1",
           "sentences": [
             {
