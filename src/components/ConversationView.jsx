@@ -71,6 +71,13 @@ const ConversationView = ({ conversations }) => {
   const stageConvs = groupedConvs[activeStage] || [];
   const selectedConv = stageConvs.find(c => c.id === activeConv) || stageConvs[0];
 
+  const categoryGroups = {};
+  stageConvs.forEach(conv => {
+    const cat = conv.category || '未分類';
+    if (!categoryGroups[cat]) categoryGroups[cat] = [];
+    categoryGroups[cat].push(conv);
+  });
+
   return (
     <div className="conversation-container">
       <div className="conv-sidebar">
@@ -79,21 +86,26 @@ const ConversationView = ({ conversations }) => {
         </button>
         <h2 className="conv-sidebar-title">{activeStage}</h2>
         <div className="conv-list-container">
-          <ul className="conv-list">
-            {stageConvs.map(conv => (
-              <li 
-                key={conv.id} 
-                className={`conv-item ${activeConv === conv.id ? 'active' : ''}`}
-                onClick={() => setActiveConv(conv.id)}
-              >
-                <span className="conv-icon">{conv.icon}</span>
-                <div className="conv-info">
-                  <div className="conv-title">{conv.title}</div>
-                  <div className="conv-desc">{conv.description}</div>
-                </div>
-              </li>
-            ))}
-          </ul>
+          {Object.entries(categoryGroups).map(([catName, convs]) => (
+            <div key={catName} className="conv-category-group">
+              <h3 className="conv-category-title">{catName}</h3>
+              <ul className="conv-list">
+                {convs.map(conv => (
+                  <li 
+                    key={conv.id} 
+                    className={`conv-item ${activeConv === conv.id ? 'active' : ''}`}
+                    onClick={() => setActiveConv(conv.id)}
+                  >
+                    <span className="conv-icon">{conv.icon}</span>
+                    <div className="conv-info">
+                      <div className="conv-title">{conv.title}</div>
+                      <div className="conv-desc">{conv.description}</div>
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
         </div>
       </div>
 
