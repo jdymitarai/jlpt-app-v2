@@ -732,6 +732,30 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
           color: #334155;
           margin-bottom: 0;
         }
+        .adj-intro-banner {
+          background: linear-gradient(135deg, #fff1f2 0%, #ffe4e6 100%);
+          border-left: 6px solid #f43f5e;
+          padding: 24px 32px;
+          border-radius: 16px;
+          margin-bottom: 32px;
+          color: #0f172a;
+        }
+        .adj-intro-title {
+          font-size: 1.4rem;
+          font-weight: 800;
+          color: #be123c;
+          margin-bottom: 12px;
+          display: flex;
+          align-items: center;
+          gap: 12px;
+        }
+        .adj-intro-desc {
+          font-size: 1.05rem;
+          line-height: 1.7;
+          color: #334155;
+          margin-bottom: 0;
+        }
+
         
         /* Modal Styles */
         .verb-modal-overlay {
@@ -935,7 +959,52 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
 
       <div className="vocab-main-container">
         
+        {posFilter === 'adjective' && (
+          <div className="adj-intro-banner">
+            <div className="adj-intro-title">
+              <span>📖</span> 日文形容詞的兩大分類與否定形式
+            </div>
+            <p className="adj-intro-desc" style={{ marginBottom: '16px' }}>
+              日文的形容詞主要分為<strong>「い形容詞」</strong>與<strong>「な形容詞」</strong>兩大類，它們在修飾名詞以及做「否定形式」時有不同的接續變化規律：
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #fecdd3' }}>
+                <div style={{ fontWeight: '800', color: '#e11d48', marginBottom: '12px', fontSize: '1.15rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  🔴 い形容詞（以「い」結尾）
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  <strong>修飾名詞</strong>：直接接名詞<br/>
+                  <span style={{ color: '#64748b' }}>例：美味しい＋ご飯 → <strong style={{ color: '#0f172a' }}>美味しいご飯</strong> (美味的飯)</span><br/><br/>
+                  <strong>否定形式變化</strong>：去尾部的<strong>「い」＋「くない」</strong>（非正式口語）或 <strong>「くありません」</strong>（正式敬體）<br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #e11d48' }}>
+                    例：暑い (熱) → <strong style={{ color: '#e11d48' }}>暑くない</strong> / <strong style={{ color: '#e11d48' }}>暑くありません</strong><br/>
+                    例：遠い (遠) → <strong style={{ color: '#e11d48' }}>遠くない</strong> / <strong style={{ color: '#e11d48' }}>遠くありません</strong>
+                  </div>
+                  <span style={{ color: '#be123c', fontSize: '0.85rem', display: 'block', marginTop: '8px' }}>※例外注意：良い (いい) 的否定是固定變成 <strong style={{ color: '#e11d48' }}>よくない</strong> / <strong style={{ color: '#e11d48' }}>よくありません</strong>。</span>
+                </div>
+              </div>
+              
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #fecdd3' }}>
+                <div style={{ fontWeight: '800', color: '#e11d48', marginBottom: '12px', fontSize: '1.15rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  🟢 な形容詞（語幹不以「い」結尾）
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  <strong>修飾名詞</strong>：詞尾加上<strong>「な」</strong>再接名詞<br/>
+                  <span style={{ color: '#64748b' }}>例：綺麗＋部屋 → <strong style={{ color: '#0f172a' }}>綺麗な部屋</strong> (乾淨漂亮的房間)</span><br/><br/>
+                  <strong>否定形式變化</strong>：詞尾去掉「な」，加上 <strong>「ではない」/「じゃない」</strong>（口語）或 <strong>「ではありません」/「じゃありません」</strong>（敬體）<br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #16a34a' }}>
+                    例：暇 (空閒) → <strong style={{ color: '#16a34a' }}>暇ではない</strong> / <strong style={{ color: '#16a34a' }}>暇ではありません</strong><br/>
+                    例：親切 (親切) → <strong style={{ color: '#16a34a' }}>親切じゃない</strong> / <strong style={{ color: '#16a34a' }}>親切ではありません</strong>
+                  </div>
+                  <span style={{ color: '#15803d', fontSize: '0.85rem', display: 'block', marginTop: '8px' }}>※語音提示：大部分「な形容詞」的字典形態是不帶「な」的（如：靜か、賑やか、綺麗），修飾名詞才加「な」。</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
         {posFilter === 'verb' && (
+
           <div className="verb-intro-banner">
             <div className="verb-intro-title">
               <span>📖</span> 日文動詞的三大分類（三段動詞）
