@@ -71603,14 +71603,19 @@
           "category": "abstract_value",
           "sentences": [
             {
-              "ja": "だらしない服装[ふくそう]で出[で]かけてはいけません。",
-              "furigana": "だらしないふくそうででかけてはいけません。",
-              "zh": "不可以穿著邋遢的服裝出門。"
+              "ja": "だらしない生活を改めてください。",
+              "zh": "請改掉邋遢的生活習慣。"
             }
           ],
           "type": "i-adjective",
           "pos": "い形容詞",
-          "kanjiChecked": true
+          "kanjiChecked": true,
+          "examples": [
+            {
+              "ja": "だらしない生活を改めてください。",
+              "zh": "請改掉邋遢的生活習慣。"
+            }
+          ]
         },
         {
           "id": "v_zurui",
@@ -106982,7 +106987,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2128",
-          "romaji": "tanomoshii"
+          "romaji": "tanomoshii",
+          "examples": [
+            {
+              "ja": "彼は頼もしい存在です。",
+              "zh": "他是個可靠的存在。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は頼もしい存在です。",
+              "zh": "他是個可靠的存在。"
+            }
+          ]
         },
         {
           "word": "凄まじい",
@@ -107030,7 +107047,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2132",
-          "romaji": "sawagashii"
+          "romaji": "sawagashii",
+          "examples": [
+            {
+              "ja": "外が騒がしいので、窓を閉めました。",
+              "zh": "外面很吵鬧，所以我把窗戶關上了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "外が騒がしいので、窓を閉めました。",
+              "zh": "外面很吵鬧，所以我把窗戶關上了。"
+            }
+          ]
         },
         {
           "word": "喧しい",
@@ -107042,7 +107071,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2133",
-          "romaji": "yakamashii"
+          "romaji": "yakamashii",
+          "examples": [
+            {
+              "ja": "テレビの音がやかましい。",
+              "zh": "電視的聲音太吵了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "テレビの音がやかましい。",
+              "zh": "電視的聲音太吵了。"
+            }
+          ]
         },
         {
           "word": "空しい",
@@ -107066,7 +107107,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2135",
-          "romaji": "kewashii"
+          "romaji": "kewashii",
+          "examples": [
+            {
+              "ja": "険しい山道を登っていきます。",
+              "zh": "沿著險峻的山路爬上去。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "険しい山道を登っていきます。",
+              "zh": "沿著險峻的山路爬上去。"
+            }
+          ]
         },
         {
           "word": "乏しい",
@@ -107078,7 +107131,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2136",
-          "romaji": "toboshii"
+          "romaji": "toboshii",
+          "examples": [
+            {
+              "ja": "彼は経験が乏しい。",
+              "zh": "他經驗不足。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は経験が乏しい。",
+              "zh": "他經驗不足。"
+            }
+          ]
         },
         {
           "word": "荒々しい",
@@ -107102,7 +107167,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2138",
-          "romaji": "isamashii"
+          "romaji": "isamashii",
+          "examples": [
+            {
+              "ja": "兵士たちは勇ましく戦いました。",
+              "zh": "戰士們勇敢地戰鬥了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "兵士たちは勇ましく戦いました。",
+              "zh": "戰士們勇敢地戰鬥了。"
+            }
+          ]
         },
         {
           "word": "輝かしい",
@@ -107176,7 +107253,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "romaji": "tayasui",
-          "id": "v_n5_auto_2144"
+          "id": "v_n5_auto_2144",
+          "examples": [
+            {
+              "ja": "容易い仕事ではありません。",
+              "zh": "這不是一份輕鬆的工作。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "容易い仕事ではありません。",
+              "zh": "這不是一份輕鬆的工作。"
+            }
+          ]
         },
         {
           "word": "曖昧",
@@ -107464,7 +107553,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2168",
-          "romaji": "konomashii"
+          "romaji": "konomashii",
+          "examples": [
+            {
+              "ja": "好ましい返事をもらいました。",
+              "zh": "得到了滿意的答覆。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "好ましい返事をもらいました。",
+              "zh": "得到了滿意的答覆。"
+            }
+          ]
         },
         {
           "word": "渋い",
@@ -107524,7 +107625,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2173",
-          "romaji": "fusawashii"
+          "romaji": "fusawashii",
+          "examples": [
+            {
+              "ja": "彼はこの仕事にふさわしい人物です。",
+              "zh": "他是適合這份工作的人選。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼はこの仕事にふさわしい人物です。",
+              "zh": "他是適合這份工作的人選。"
+            }
+          ]
         },
         {
           "word": "紛らわしい",
@@ -107548,7 +107661,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2175",
-          "romaji": "mezamashii"
+          "romaji": "mezamashii",
+          "examples": [
+            {
+              "ja": "この国の経済は目覚ましく発展しています。",
+              "zh": "這個國家的經濟正在顯著發展。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この国の経済は目覚ましく発展しています。",
+              "zh": "這個國家的經濟正在顯著發展。"
+            }
+          ]
         },
         {
           "word": "荒い",
@@ -107861,7 +107986,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2201",
-          "romaji": "zuuzuushii"
+          "romaji": "zuuzuushii",
+          "examples": [
+            {
+              "ja": "何て図々しい人でしょう。",
+              "zh": "多麼厚臉皮的人啊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "何て図々しい人でしょう。",
+              "zh": "多麼厚臉皮的人啊。"
+            }
+          ]
         },
         {
           "word": "切ない",
@@ -111484,7 +111621,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2502",
-          "romaji": "atsukamashii"
+          "romaji": "atsukamashii",
+          "examples": [
+            {
+              "ja": "厚かましいお願いで申し訳ありません。",
+              "zh": "很抱歉提出如此厚臉皮的要求。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "厚かましいお願いで申し訳ありません。",
+              "zh": "很抱歉提出如此厚臉皮的要求。"
+            }
+          ]
         },
         {
           "word": "危うい",
@@ -111631,7 +111780,19 @@
           "pos": "い形容詞",
           "category": "looks_state",
           "id": "v_n5_auto_2514",
-          "romaji": "misuborashii"
+          "romaji": "misuborashii",
+          "examples": [
+            {
+              "ja": "見窄らしい格好で出かけないでください。",
+              "zh": "請不要穿戴寒酸地出門。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "見窄らしい格好で出かけないでください。",
+              "zh": "請不要穿戴寒酸地出門。"
+            }
+          ]
         },
         {
           "word": "むさ苦しい",
