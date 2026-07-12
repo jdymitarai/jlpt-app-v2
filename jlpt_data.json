@@ -126506,6 +126506,1041 @@
               "zh": "末梢血中的網織紅血球數目是評估骨髓造血功能的重要指標。"
             }
           ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931219_875",
+          "word": "赤血球沈降速度",
+          "furigana": "赤血球沈降速度[せっけっきゅうちんこうそくど]",
+          "romaji": "sekkyekkyū chinkō sokudo",
+          "meaning": "紅血球沉降率",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "赤血球沈降速度の亢進は、体内に炎症が存在することを示唆します。",
+              "zh": "紅血球沉降率增加提示體內存在發炎。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "赤血球沈降速度の亢進は、体内に炎症が存在することを示唆します。",
+              "zh": "紅血球沉降率增加提示體內存在發炎。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931220_29",
+          "word": "赤血球恒数",
+          "furigana": "赤血球恒数[せっけっきゅうこうすう]",
+          "romaji": "sekkyekkyū kōsū",
+          "meaning": "紅血球指數",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "赤血球恒数は貧血の分類（小球性、正球性、大球性）に用いられます。",
+              "zh": "紅血球指數用於貧血的分類（小細胞性、正細胞性、大細胞性）。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "赤血球恒数は貧血の分類（小球性、正球性、大球性）に用いられます。",
+              "zh": "紅血球指數用於貧血的分類（小細胞性、正細胞性、大細胞性）。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931220_349",
+          "word": "平均赤血球容積",
+          "furigana": "平均赤血球容積[へいきんせっけっきゅうようせき]",
+          "romaji": "heikin sekkyekkyū yōseki",
+          "meaning": "平均紅血球體積",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "平均赤血球容積（MCV）が低下している場合、鉄欠乏性貧血が疑われます。",
+              "zh": "平均紅血球體積（MCV）下降時，懷疑是缺鐵性貧血。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "平均赤血球容積（MCV）が低下している場合、鉄欠乏性貧血が疑われます。",
+              "zh": "平均紅血球體積（MCV）下降時，懷疑是缺鐵性貧血。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931220_509",
+          "word": "平均赤血球ヘモグロビン量",
+          "furigana": "平均赤血球ヘモグロビン量[へいきんせっけっきゅうへもぐろびんりょう]",
+          "romaji": "heikin sekkyekkyū hemoglobin ryō",
+          "meaning": "平均紅血球血紅素量",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "平均赤血球ヘモグロビン量は、赤血球1個あたりに含まれるヘモグロビンの平均重量です。",
+              "zh": "平均紅血球血紅素量是指每個紅血球中所含血紅素的平均重量。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "平均赤血球ヘモグロビン量は、赤血球1個あたりに含まれるヘモグロビンの平均重量です。",
+              "zh": "平均紅血球血紅素量是指每個紅血球中所含血紅素的平均重量。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931221_31",
+          "word": "平均赤血球ヘモグロビン濃度",
+          "furigana": "平均赤血球ヘモグロビン濃度[へいきんせっけっきゅうへもぐろびんのうど]",
+          "romaji": "heikin sekkyekkyū hemoglobin nōdo",
+          "meaning": "平均紅血球血紅素濃度",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "平均赤血球ヘモグロビン濃度（MCHC）は、赤血球の容積に対するヘモグロビンの割合です。",
+              "zh": "平均紅血球血紅素濃度（MCHC）是指血紅素相對於紅血球體積的比例。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "平均赤血球ヘモグロビン濃度（MCHC）は、赤血球の容積に対するヘモグロビンの割合です。",
+              "zh": "平均紅血球血紅素濃度（MCHC）是指血紅素相對於紅血球體積的比例。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931221_86",
+          "word": "凝固因子",
+          "furigana": "凝固因子[ぎょうこいんし]",
+          "romaji": "gyōko inshi",
+          "meaning": "凝血因子",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "血友病は、特定の凝固因子が先天的に欠乏する疾患です。",
+              "zh": "血友病是因先天性缺乏特定凝血因子所致的疾病。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "血友病は、特定の凝固因子が先天的に欠乏する疾患です。",
+              "zh": "血友病是因先天性缺乏特定凝血因子所致的疾病。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931221_895",
+          "word": "内因系",
+          "furigana": "内因系[ないいんけい]",
+          "romaji": "naiinkei",
+          "meaning": "內源性凝血途徑",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "内因系の凝固機序は、血液が異物面に接触することによって開始されます。",
+              "zh": "內源性凝血機制是藉由血液與異物表面接觸而啟動的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "内因系の凝固機序は、血液が異物面に接触することによって開始されます。",
+              "zh": "內源性凝血機制是藉由血液與異物表面接觸而啟動的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931222_908",
+          "word": "外因系",
+          "furigana": "外因系[がいいんけい]",
+          "romaji": "gaiinkei",
+          "meaning": "外源性凝血途徑",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "外因系の凝固経路は、組織損傷によって組織因子が血液中に流入することで始まります。",
+              "zh": "外源性凝血途徑是由組織受損導致組織因子流入血液中而開始的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "外因系の凝固経路は、組織損傷によって組織因子が血液中に流入することで始まります。",
+              "zh": "外源性凝血途徑是由組織受損導致組織因子流入血液中而開始的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931222_434",
+          "word": "共通系",
+          "furigana": "共通系[きょうつうけい]",
+          "romaji": "kyōtsūkei",
+          "meaning": "共同凝血途徑",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "内因系と外因系は、第X因子の活性化を介して共通系へと合流します。",
+              "zh": "內源性與外源性凝血途徑藉由活化第X因子匯合至共同途徑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "内因系と外因系は、第X因子の活性化を介して共通系へと合流します。",
+              "zh": "內源性與外源性凝血途徑藉由活化第X因子匯合至共同途徑。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931222_963",
+          "word": "血餅",
+          "furigana": "血餅[けっぺい]",
+          "romaji": "keppei",
+          "meaning": "血餅",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "フィブリンの網の中に血球が閉じ込められ、赤黒い血餅が形成されます。",
+              "zh": "血細胞被包裹在纖維蛋白網中，形成紅黑色的血餅。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "フィブリンの網の中に血球が閉じ込められ、赤黒い血餅が形成されます。",
+              "zh": "血細胞被包裹在纖維蛋白網中，形成紅黑色的血餅。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931222_257",
+          "word": "血餅収縮",
+          "furigana": "血餅収縮[けっぺいしゅうしゅく]",
+          "romaji": "keppei shūshuku",
+          "meaning": "血塊收縮",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "血小板の作用により血餅収縮が起こり、血栓が凝集して強固になります。",
+              "zh": "由於血小板的作用發生血塊收縮，使血栓凝聚並變得強固。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "血小板の作用により血餅収縮が起こり、血栓が凝集して強固になります。",
+              "zh": "由於血小板的作用發生血塊收縮，使血栓凝聚並變得強固。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931222_310",
+          "word": "線維素溶解",
+          "furigana": "線維素溶解[せんいそようかい]",
+          "romaji": "sen'iso yōkai",
+          "meaning": "纖維蛋白溶解",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "血管が修復された後、不要になった血栓は線維素溶解によって分解されます。",
+              "zh": "血管修復後，不再需要的血栓會藉由纖維蛋白溶解而被分解。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "血管が修復された後、不要になった血栓は線維素溶解によって分解されます。",
+              "zh": "血管修復後，不再需要的血栓會藉由纖維蛋白溶解而被分解。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_669",
+          "word": "プラスミン",
+          "furigana": "プラスミン[ぷらすみん]",
+          "romaji": "purasumin",
+          "meaning": "纖維蛋白溶酶",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "プラスミンはフィブリンを分解し、血栓を溶解する活性を持つ酵素です。",
+              "zh": "纖維蛋白溶酶是一種分解纖維蛋白並溶解血栓的活性酶。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "プラスミンはフィブリンを分解し、血栓を溶解する活性を持つ酵素です。",
+              "zh": "纖維蛋白溶酶是一種分解纖維蛋白並溶解血栓的活性酶。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_348",
+          "word": "プラスミノゲン",
+          "furigana": "プラスミノゲン[ぷらすみのげん]",
+          "romaji": "purasuminogen",
+          "meaning": "纖維蛋白溶酶原",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "活性化因子によってプラスミノゲンがプラスミンに変換されます。",
+              "zh": "纖維蛋白溶酶原藉由活化因子轉化為纖維蛋白溶酶。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "活性化因子によってプラスミノゲンがプラスミンに変換されます。",
+              "zh": "纖維蛋白溶酶原藉由活化因子轉化為纖維蛋白溶酶。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_755",
+          "word": "組織プラスミノゲン活性化因子",
+          "furigana": "組織プラスミノゲン活性化因子[そしきぷらすみのげんかっせいかいんし]",
+          "romaji": "soshiki purasuminogen kassei inshi",
+          "meaning": "組織型纖溶酶原活化劑",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "組織プラスミノゲン活性化因子（t-PA）は、超急性期の脳梗塞治療に用いられます。",
+              "zh": "組織型纖溶酶原活化劑（t-PA）用於超急性期腦梗塞的治療。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "組織プラスミノゲン活性化因子（t-PA）は、超急性期の脳梗塞治療に用いられます。",
+              "zh": "組織型纖溶酶原活化劑（t-PA）用於超急性期腦梗塞的治療。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_935",
+          "word": "血管壁",
+          "furigana": "血管壁[けっかんへき]",
+          "romaji": "kekkanheki",
+          "meaning": "血管壁",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "血管壁は内膜、中膜、外膜の3層構造から成り立っている。",
+              "zh": "血管壁是由內膜、中膜與外膜這三層結構所構成。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "血管壁は内膜、中膜、外膜の3層構造から成り立っている。",
+              "zh": "血管壁是由內膜、中膜與外膜這三層結構所構成。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_371",
+          "word": "内膜",
+          "furigana": "内膜[ないまく]",
+          "romaji": "naimaku",
+          "meaning": "內膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "動脈硬化の初期段階では、血管の内膜にプラークが形成される。",
+              "zh": "在動脈硬化的初期階段，血管的內膜會形成斑塊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "動脈硬化の初期段階では、血管の内膜にプラークが形成される。",
+              "zh": "在動脈硬化的初期階段，血管的內膜會形成斑塊。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_986",
+          "word": "中膜",
+          "furigana": "中膜[ちゅうまく]",
+          "romaji": "chūmaku",
+          "meaning": "中膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "動脈の中膜は平滑筋と弾性線維が豊富であり、血圧の維持に寄与している。",
+              "zh": "動脈的中膜富含平滑肌與彈性纖維，有助於維持血壓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "動脈の中膜は平滑筋と弾性線維が豊富であり、血圧の維持に寄与している。",
+              "zh": "動脈的中膜富含平滑肌與彈性纖維，有助於維持血壓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_620",
+          "word": "外膜",
+          "furigana": "外膜[がいまく]",
+          "romaji": "gaimaku",
+          "meaning": "外膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "血管の外膜には、その血管自体に栄養を供給する栄養血管が存在する。",
+              "zh": "血管的外膜存在著供應該血管本身營養的營養血管。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "血管の外膜には、その血管自体に栄養を供給する栄養血管が存在する。",
+              "zh": "血管的外膜存在著供應該血管本身營養的營養血管。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_773",
+          "word": "内弾性板",
+          "furigana": "内弾性板[ないだんせいばん]",
+          "romaji": "naidanseiban",
+          "meaning": "內彈性板",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "内弾性板は内膜と中膜の境界に位置し、筋型動脈で特によく発達している。",
+              "zh": "內彈性板位於內膜與中膜的交界處，在肌型動脈中特別發達。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "内弾性板は内膜と中膜の境界に位置し、筋型動脈で特によく発達している。",
+              "zh": "內彈性板位於內膜與中膜的交界處，在肌型動脈中特別發達。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_435",
+          "word": "外弾性板",
+          "furigana": "外弾性板[がいだんせいばん]",
+          "romaji": "gaidanseiban",
+          "meaning": "外彈性板",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "外弾性板は中膜と外膜の境界を形成するが、静脈では不明瞭である。",
+              "zh": "外彈性板形成了中膜與外膜的交界，但在靜脈中並不明顯。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "外弾性板は中膜と外膜の境界を形成するが、静脈では不明瞭である。",
+              "zh": "外彈性板形成了中膜與外膜的交界，但在靜脈中並不明顯。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_776",
+          "word": "細動脈",
+          "furigana": "細動脈[さいどうみゃく]",
+          "romaji": "saidōmyaku",
+          "meaning": "微動脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "細動脈の収縮と弛緩により、毛細血管網への血流が調節される。",
+              "zh": "藉由微動脈的收縮與舒張，可調節進入微血管網的血流。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "細動脈の収縮と弛緩により、毛細血管網への血流が調節される。",
+              "zh": "藉由微動脈的收縮與舒張，可調節進入微血管網的血流。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_902",
+          "word": "細静脈",
+          "furigana": "細静脈[さいじょうみゃく]",
+          "romaji": "saijōmyaku",
+          "meaning": "微靜脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "白血球は主に炎症部位の細静脈から血管外へ遊走する。",
+              "zh": "白血球主要從發炎部位的微靜脈游走至血管外。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "白血球は主に炎症部位の細静脈から血管外へ遊走する。",
+              "zh": "白血球主要從發炎部位的微靜脈游走至血管外。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931223_683",
+          "word": "前毛細血管括約筋",
+          "furigana": "前毛細血管括約筋[ぜんもうさいけっかんかつやくきん]",
+          "romaji": "zenmōsaikekkankatsuyakukin",
+          "meaning": "微血管前括約肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "前毛細血管括約筋が収縮すると、その毛細血管床への血流が遮断される。",
+              "zh": "當微血管前括約肌收縮時，流入該微血管床的血流就會被阻斷。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "前毛細血管括約筋が収縮すると、その毛細血管床への血流が遮断される。",
+              "zh": "當微血管前括約肌收縮時，流入該微血管床的血流就會被阻斷。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_160",
+          "word": "交通枝",
+          "furigana": "交通枝[こうつうし]",
+          "romaji": "kōtsūshi",
+          "meaning": "交通支",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "浅静脈と深静脈は、多数の交通枝によって連結されている。",
+              "zh": "淺靜脈與深靜脈藉由多條交通支相連結。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "浅静脈と深静脈は、多数の交通枝によって連結されている。",
+              "zh": "淺靜脈與深靜脈藉由多條交通支相連結。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_738",
+          "word": "吻合",
+          "furigana": "吻合[ふんごう]",
+          "romaji": "fungō",
+          "meaning": "吻合",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "胃の周囲では、右胃動脈と左胃動脈が小彎に沿って吻合している。",
+              "zh": "在胃的周圍，右胃動脈與左胃動脈沿著胃小彎相互吻合。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "胃の周囲では、右胃動脈と左胃動脈が小彎に沿って吻合している。",
+              "zh": "在胃的周圍，右胃動脈與左胃動脈沿著胃小彎相互吻合。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_38",
+          "word": "終動脈",
+          "furigana": "終動脈[しゅうどうみゃく]",
+          "romaji": "shūdōmyaku",
+          "meaning": "終動脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脳や心臓の血管には吻合を持たない終動脈が多く、閉塞すると梗塞を引き起こしやすい。",
+              "zh": "腦部與心臟的血管多為沒有吻合的終動脈，一旦阻塞便容易引發梗塞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脳や心臓の血管には吻合を持たない終動脈が多く、閉塞すると梗塞を引き起こしやすい。",
+              "zh": "腦部與心臟的血管多為沒有吻合的終動脈，一旦阻塞便容易引發梗塞。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_631",
+          "word": "側副循環",
+          "furigana": "側副循環[そくふくじゅんかん]",
+          "romaji": "sokufukujunkan",
+          "meaning": "側支循環",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "主幹動脈が徐々に狭窄した場合、血流を維持するために側副循環が発達する。",
+              "zh": "當主幹動脈逐漸狹窄時，為維持血流會發展出側支循環。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "主幹動脈が徐々に狭窄した場合、血流を維持するために側副循環が発達する。",
+              "zh": "當主幹動脈逐漸狹窄時，為維持血流會發展出側支循環。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_733",
+          "word": "静脈弁",
+          "furigana": "静脈弁[じょうみゃくべん]",
+          "romaji": "jōmyakuben",
+          "meaning": "靜脈瓣",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "下肢の静脈弁は、血液の逆流を防ぎ心臓への還流を助ける役割を持つ。",
+              "zh": "下肢的靜脈瓣具有防止血液逆流並幫助血液回流至心臟的作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "下肢の静脈弁は、血液の逆流を防ぎ心臓への還流を助ける役割を持つ。",
+              "zh": "下肢的靜脈瓣具有防止血液逆流並幫助血液回流至心臟的作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_210",
+          "word": "筋ポンプ",
+          "furigana": "筋ポンプ[きんぽんぷ]",
+          "romaji": "kinponpu",
+          "meaning": "肌肉幫浦",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "歩行時の骨格筋の収縮は、筋ポンプ作用として下肢の静脈還流を促進する。",
+              "zh": "行走時骨骼肌的收縮，會發揮肌肉幫浦的作用，促進下肢靜脈回流。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "歩行時の骨格筋の収縮は、筋ポンプ作用として下肢の静脈還流を促進する。",
+              "zh": "行走時骨骼肌的收縮，會發揮肌肉幫浦的作用，促進下肢靜脈回流。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_305",
+          "word": "呼吸ポンプ",
+          "furigana": "呼吸ポンプ[こきゅうぽんぷ]",
+          "romaji": "kokyūponpu",
+          "meaning": "呼吸幫浦",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "深呼吸により呼吸ポンプが働き、静脈還流が促進される。",
+              "zh": "藉由深呼吸使呼吸幫浦發揮作用，促進靜脈回流。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "深呼吸により呼吸ポンプが働き、静脈還流が促進される。",
+              "zh": "藉由深呼吸使呼吸幫浦發揮作用，促進靜脈回流。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_965",
+          "word": "血液分配",
+          "furigana": "血液分配[けつえきぶんぱい]",
+          "romaji": "ketsuekibunpai",
+          "meaning": "血液分配",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "運動時には骨格筋への血液分配が増加する。",
+              "zh": "運動時，分配至骨骼肌的血液會增加。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "運動時には骨格筋への血液分配が増加する。",
+              "zh": "運動時，分配至骨骼肌的血液會增加。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_899",
+          "word": "心拍出量",
+          "furigana": "心拍出量[しんぱくしゅつりょう]",
+          "romaji": "shinpaku shutsu ryō",
+          "meaning": "心輸出量",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "心拍出量は一回拍出量と心拍数の積で表される。",
+              "zh": "心輸出量以每搏輸出量與心率的乘積表示。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "心拍出量は一回拍出量と心拍数の積で表される。",
+              "zh": "心輸出量以每搏輸出量與心率的乘積表示。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_628",
+          "word": "一回拍出量",
+          "furigana": "一回拍出量[いっかいはくしゅつりょう]",
+          "romaji": "ikkai hakushutsuryō",
+          "meaning": "每搏輸出量",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "前負荷が増大すると一回拍出量が増加する。",
+              "zh": "前負荷增大時，每搏輸出量會增加。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "前負荷が増大すると一回拍出量が増加する。",
+              "zh": "前負荷增大時，每搏輸出量會增加。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_17",
+          "word": "心拍数",
+          "furigana": "心拍数[しんぱくすう]",
+          "romaji": "shinpakusū",
+          "meaning": "心率",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "安静時の心拍数は通常、毎分60から100回である。",
+              "zh": "安靜時的心率通常為每分鐘60至100次。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "安静時の心拍数は通常、毎分60から100回である。",
+              "zh": "安靜時的心率通常為每分鐘60至100次。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_689",
+          "word": "脈拍数",
+          "furigana": "脈拍数[みゃくはくすう]",
+          "romaji": "myakuhakusū",
+          "meaning": "脈搏數",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "橈骨動脈で脈拍数を測定した。",
+              "zh": "於橈動脈測定了脈搏數。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "橈骨動脈で脈拍数を測定した。",
+              "zh": "於橈動脈測定了脈搏數。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_820",
+          "word": "血圧",
+          "furigana": "血圧[けつあつ]",
+          "romaji": "ketsuatsu",
+          "meaning": "血壓",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "血圧は循環動態を評価する重要な指標である。",
+              "zh": "血壓是評估循環動態的重要指標。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "血圧は循環動態を評価する重要な指標である。",
+              "zh": "血壓是評估循環動態的重要指標。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931224_729",
+          "word": "収縮期血圧",
+          "furigana": "収縮期血圧[しゅうしゅくきけつあつ]",
+          "romaji": "shūshukuki ketsuatsu",
+          "meaning": "收縮壓",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "収縮期血圧は心臓が収縮して血液を拍出するときの血圧である。",
+              "zh": "收縮壓是心臟收縮並將血液輸出時的血壓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "収縮期血圧は心臓が収縮して血液を拍出するときの血圧である。",
+              "zh": "收縮壓是心臟收縮並將血液輸出時的血壓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_645",
+          "word": "拡張期血圧",
+          "furigana": "拡張期血圧[かくちょうきけつあつ]",
+          "romaji": "kakuchōki ketsuatsu",
+          "meaning": "舒張壓",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "拡張期血圧は心臓が拡張し充満するときの血圧を示す。",
+              "zh": "舒張壓表示心臟舒張充盈時的血壓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "拡張期血圧は心臓が拡張し充満するときの血圧を示す。",
+              "zh": "舒張壓表示心臟舒張充盈時的血壓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_538",
+          "word": "脈圧",
+          "furigana": "脈圧[みゃくあつ]",
+          "romaji": "myakuatsu",
+          "meaning": "脈壓差",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脈圧は収縮期血圧と拡張期血圧の差である。",
+              "zh": "脈壓差是收縮壓與舒張壓之差。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脈圧は収縮期血圧と拡張期血圧の差である。",
+              "zh": "脈壓差是收縮壓與舒張壓之差。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_942",
+          "word": "平均血圧",
+          "furigana": "平均血圧[へいきんけつあつ]",
+          "romaji": "heikin ketsuatsu",
+          "meaning": "平均動脈壓",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "平均血圧は臓器灌流圧の指標として用いられる。",
+              "zh": "平均動脈壓被用作臟器灌流壓的指標。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "平均血圧は臓器灌流圧の指標として用いられる。",
+              "zh": "平均動脈壓被用作臟器灌流壓的指標。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_218",
+          "word": "末梢血管抵抗",
+          "furigana": "末梢血管抵抗[まっしょうけっかんていこう]",
+          "romaji": "masshō kekkan teikō",
+          "meaning": "外周血管阻力",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "末梢血管抵抗の上昇は高血圧の一因となる。",
+              "zh": "外周血管阻力升高是高血壓的原因之一。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "末梢血管抵抗の上昇は高血圧の一因となる。",
+              "zh": "外周血管阻力升高是高血壓的原因之一。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_857",
+          "word": "血流速度",
+          "furigana": "血流速度[けつりゅうそくど]",
+          "romaji": "ketsuryū sokudo",
+          "meaning": "血流速度",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ドプラ法により血管内の血流速度を測定できる。",
+              "zh": "可利用杜卜勒法測定血管內的血流速度。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ドプラ法により血管内の血流速度を測定できる。",
+              "zh": "可利用杜卜勒法測定血管內的血流速度。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_697",
+          "word": "循環時間",
+          "furigana": "循環時間[じゅんかんじかん]",
+          "romaji": "junkan jikan",
+          "meaning": "循環時間",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "循環時間は血液が体を一巡するのに要する時間を指す。",
+              "zh": "循環時間是指血液繞行全身一圈所需的時間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "循環時間は血液が体を一巡するのに要する時間を指す。",
+              "zh": "循環時間是指血液繞行全身一圈所需的時間。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy9_1783822931225_167",
+          "word": "循環器",
+          "furigana": "循環器[じゅんかんき]",
+          "romaji": "junkanki",
+          "meaning": "循環器官",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "心臓と血管は主要な循環器である。",
+              "zh": "心臟與血管是主要的循環器官。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "心臓と血管は主要な循環器である。",
+              "zh": "心臟與血管是主要的循環器官。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
