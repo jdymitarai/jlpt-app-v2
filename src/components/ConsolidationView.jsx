@@ -1027,39 +1027,132 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
         {posFilter === 'verb' && (
 
           <div className="verb-intro-banner">
-            <div className="verb-intro-title">
-              <span>📖</span> 日文動詞的三大分類（三段動詞）
+            <div className="verb-intro-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px', borderBottom: '1px solid rgba(2, 132, 199, 0.1)', paddingBottom: '12px', marginBottom: '16px' }}>
+              <div className="verb-intro-title" style={{ margin: 0 }}>
+                <span>📖</span> 動詞學習指南
+              </div>
+              <div style={{ display: 'flex', gap: '8px', background: 'rgba(2, 132, 199, 0.05)', padding: '4px', borderRadius: '8px' }}>
+                <button 
+                  onClick={() => setVerbBannerTab('types')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: verbBannerTab === 'types' ? '#0284c7' : 'transparent',
+                    color: verbBannerTab === 'types' ? '#fff' : '#0284c7'
+                  }}
+                >
+                  三大分類 (ます形)
+                </button>
+                <button 
+                  onClick={() => setVerbBannerTab('conjugations')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: verbBannerTab === 'conjugations' ? '#0284c7' : 'transparent',
+                    color: verbBannerTab === 'conjugations' ? '#fff' : '#0284c7'
+                  }}
+                >
+                  使役型與進階變化
+                </button>
+              </div>
             </div>
-            <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
-              日文動詞依照變化的規律，主要分為三大類。掌握這三個分類，是學好動詞變化的最重要基礎：
-            </p>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
-              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
-                <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>I 類動詞（五段動詞）</div>
-                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
-                  字典形語尾必定是<strong>「う」段音</strong>。變化最多樣。<br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 語尾轉「い」段音＋ます</span><br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：書（か）く → 書（か）きます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;話（はな）す → 話（はな）します</span><br/>
-                  <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>※例外：帰（かえ）る、切（き）る、知（し）る、走（はし）る、入（はい）る等，長得像 II 類，但屬於 I 類動詞。</span>
+
+            {verbBannerTab === 'types' ? (
+              <>
+                <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
+                  日文動詞依照變化的規律，主要分為三大類。掌握這三個分類，是學好動詞變化的最重要基礎：
+                </p>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>I 類動詞（五段動詞）</div>
+                    <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                      字典形語尾必定是<strong>「う」段音</strong>。變化最多樣。<br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 語尾轉「い」段音＋ます</span><br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：書（か）く → 書（か）きます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;話（はな）す → 話（はな）します</span><br/>
+                      <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>※例外：帰（かえ）る、切（き）る、知（し）る、走（はし）る、入（はい）る等，長得像 II 類，但屬於 I 類動詞。</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>II 類動詞（上一段/下一段）</div>
+                    <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                      字典形語尾必定是<strong>「る」</strong>，且前面為「い/え」段。變化最規律。<br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 去掉「る」＋ます</span><br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：見（み）る → 見（み）ます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;食（た）べる → 食（た）べます</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>III 類動詞（不規則動詞）</div>
+                    <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                      只有兩個不規則變化的動詞，以及「名詞＋する」群。<br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 不規則變化</span><br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：する（做）→ します<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;来（く）る（來）→ 来（き）ます</span>
+                    </div>
+                  </div>
                 </div>
-              </div>
-              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
-                <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>II 類動詞（上一段/下一段）</div>
-                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
-                  字典形語尾必定是<strong>「る」</strong>，且前面為「い/え」段。變化最規律。<br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 去掉「る」＋ます</span><br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：見（み）る → 見（み）ます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;食（た）べる → 食（た）べます</span>
+              </>
+            ) : (
+              <>
+                <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
+                  日文動詞的進階變化型（如<strong>使役形</strong>、<strong>受身形</strong>等）皆依動詞類別進行規則變形。以下是常用變化公式：
+                </p>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>使役形（讓／強迫／允許）</div>
+                    <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>I 類動詞 (五段)</span>：語尾 <strong>u段 → a段 + せる</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：書（か）く → 書（か）かせる / 話（はな）す → 話（はな）させる</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>II 類動詞 (一段)</span>：<strong>去 る ＋ させる</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：食（た）べる → 食（た）べさせる / 見（み）る → 見（み）させる</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>III 類動詞 (不規則)</span>：<br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>・する → させる<br/>・来（く）る → 来（こ）させる</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>受身形（被動／敬語）</div>
+                    <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>I 類動詞 (五段)</span>：語尾 <strong>u段 → a段 + れる</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：書（か）く → 書（か）かれる / 呼（よ）ぶ → 呼（よ）ばれる</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>II 類動詞 (一段)</span>：<strong>去 る ＋ られる</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：食（た）べる → 食（た）べられる / 見（み）る → 見（み）られる</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>III 類動詞 (不規則)</span>：<br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>・する → される<br/>・来（く）る → 来（こ）られる</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>可能形（能夠／可以）</div>
+                    <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>I 類動詞 (五段)</span>：語尾 <strong>u段 → e段 + る</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：書（か）く → 書（か）ける / 泳（およ）ぐ → 泳（およ）げる</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>II 類動詞 (一段)</span>：<strong>去 る ＋ られる</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：食（た）べる → 食（た）べられる / 見（み）る → 見（み）られる</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>III 類動詞 (不規則)</span>：<br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>・する → できる<br/>・来（く）る → 来（こ）られる</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>意向形（意志／勸誘）</div>
+                    <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>I 類動詞 (五段)</span>：語尾 <strong>u段 → o段 + う</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：書（か）く → 書（か）こう / 行（い）く → 行（い）こう</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>II 類動詞 (一段)</span>：<strong>去 る ＋ よう</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：食（た）べる → 食（た）べよう / 見（み）る → 見（み）よう</span><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>III 類動詞 (不規則)</span>：<br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>・する → しよう<br/>・来（く）る → 来（こ）よう</span>
+                    </div>
+                  </div>
                 </div>
-              </div>
-              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
-                <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>III 類動詞（不規則動詞）</div>
-                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
-                  只有兩個不規則變化的動詞，以及「名詞＋する」群。<br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 不規則變化</span><br/>
-                  <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：する（做）→ します<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;来（く）る（來）→ 来（き）ます</span>
-                </div>
-              </div>
-            </div>
+              </>
+            )}
           </div>
         )}
         
