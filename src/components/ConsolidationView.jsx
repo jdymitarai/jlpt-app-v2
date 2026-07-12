@@ -641,6 +641,20 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
           font-size: 0.75rem;
           font-weight: 600;
         }
+        .badge-adj-type {
+          padding: 4px 10px;
+          border-radius: 20px;
+          font-size: 0.75rem;
+          font-weight: 700;
+        }
+        .badge-adj-type.i-adj {
+          background: #fee2e2;
+          color: #ef4444;
+        }
+        .badge-adj-type.na-adj {
+          background: #dcfce7;
+          color: #22c55e;
+        }
         .old-meaning {
           font-size: 1.1rem;
           font-weight: 600;
@@ -1240,6 +1254,18 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <div className="old-badges">
                     <span className="badge-level">{item.level || 'N5'}</span>
                     <span className="badge-cat">{catLabels[item.category] || '單字'}</span>
+                    {posFilter === 'adjective' && (() => {
+                      const isIAdj = item.pos === 'い形容詞' || item.type === 'i-adjective';
+                      const isNaAdj = item.pos === 'な形容詞' || item.type === 'na-adjective';
+                      if (isIAdj || isNaAdj) {
+                        return (
+                          <span className={`badge-adj-type ${isIAdj ? 'i-adj' : 'na-adj'}`}>
+                            {isIAdj ? 'い形容詞' : 'な形容詞'}
+                          </span>
+                        );
+                      }
+                      return null;
+                    })()}
                   </div>
                 </div>
                 
