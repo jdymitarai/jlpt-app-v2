@@ -122642,6 +122642,1018 @@
               "zh": "皮膚表皮的絕大部分是由稱為角質形成細胞的細胞所構成。"
             }
           ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206917_787",
+          "word": "大脳半球",
+          "furigana": "大脳半球[だいのうはんきゅう]",
+          "romaji": "dainōhankyū",
+          "meaning": "大腦半球",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "左右の大脳半球は脳梁によって結ばれている。",
+              "zh": "左右的大腦半球由胼胝體連接。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "左右の大脳半球は脳梁によって結ばれている。",
+              "zh": "左右的大腦半球由胼胝體連接。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206918_673",
+          "word": "脳梁",
+          "furigana": "脳梁[のうりょう]",
+          "romaji": "nōryō",
+          "meaning": "胼胝體",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脳梁は左右の大脳皮質間で情報をやり取りする重要な交連線維である。",
+              "zh": "胼胝體是在左右大腦皮質間傳遞資訊的重要連合纖維。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脳梁は左右の大脳皮質間で情報をやり取りする重要な交連線維である。",
+              "zh": "胼胝體是在左右大腦皮質間傳遞資訊的重要連合纖維。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206918_815",
+          "word": "基底核",
+          "furigana": "基底核[きていかく]",
+          "romaji": "kiteikaku",
+          "meaning": "基底核",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大脳の深部に位置する基底核は、運動の制御に関与している。",
+              "zh": "位於大腦深部的基底核參與運動的控制。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大脳の深部に位置する基底核は、運動の制御に関与している。",
+              "zh": "位於大腦深部的基底核參與運動的控制。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206918_806",
+          "word": "内包",
+          "furigana": "内包[ないほう]",
+          "romaji": "naihō",
+          "meaning": "內囊",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "内包には、大脳皮質と下位の中枢を結ぶ多数の神経線維が通っている。",
+              "zh": "內囊中有許多連接大腦皮質和下位中樞的神經纖維通過。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "内包には、大脳皮質と下位の中枢を結ぶ多数の神経線維が通っている。",
+              "zh": "內囊中有許多連接大腦皮質和下位中樞的神經纖維通過。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206918_870",
+          "word": "視交叉",
+          "furigana": "視交叉[しこうさ]",
+          "romaji": "shikōsa",
+          "meaning": "視交叉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "視交叉において、両眼からの視神経の鼻側線維が対側に交差する。",
+              "zh": "在視交叉處，來自雙眼的視神經鼻側纖維會交叉至對側。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "視交叉において、両眼からの視神経の鼻側線維が対側に交差する。",
+              "zh": "在視交叉處，來自雙眼的視神經鼻側纖維會交叉至對側。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206918_305",
+          "word": "脳下垂体",
+          "furigana": "脳下垂体[のうかすいたい]",
+          "romaji": "nōkasuitai",
+          "meaning": "腦下垂體",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脳下垂体は視床下部の支配を受け、様々なホルモンを分泌する。",
+              "zh": "腦下垂體受下視丘控制，分泌多種荷爾蒙。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脳下垂体は視床下部の支配を受け、様々なホルモンを分泌する。",
+              "zh": "腦下垂體受下視丘控制，分泌多種荷爾蒙。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206918_267",
+          "word": "乳頭体",
+          "furigana": "乳頭体[にゅうとうたい]",
+          "romaji": "nyūtōtai",
+          "meaning": "乳頭體",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "乳頭体は記憶回路であるパペッツ回路の一部を構成している。",
+              "zh": "乳頭體構成記憶迴路，即佩佩茲迴路的一部分。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "乳頭体は記憶回路であるパペッツ回路の一部を構成している。",
+              "zh": "乳頭體構成記憶迴路，即佩佩茲迴路的一部分。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_59",
+          "word": "脈絡叢",
+          "furigana": "脈絡叢[みゃくらくそう]",
+          "romaji": "myakurakusō",
+          "meaning": "脈絡叢",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脳室内に存在する脈絡叢は脳脊髄液を産生する。",
+              "zh": "存在於腦室內的脈絡叢負責產生腦脊髓液。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脳室内に存在する脈絡叢は脳脊髄液を産生する。",
+              "zh": "存在於腦室內的脈絡叢負責產生腦脊髓液。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_666",
+          "word": "クモ膜下腔",
+          "furigana": "クモ膜下腔[くもまくかくう]",
+          "romaji": "kumomakukakū",
+          "meaning": "蜘蛛膜下腔",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脳脊髄液はクモ膜下腔を満たし、外部の衝撃から脳を保護している。",
+              "zh": "腦脊髓液充滿蜘蛛膜下腔，保護腦部免受外部衝擊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脳脊髄液はクモ膜下腔を満たし、外部の衝撃から脳を保護している。",
+              "zh": "腦脊髓液充滿蜘蛛膜下腔，保護腦部免受外部衝擊。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_604",
+          "word": "星状膠細胞",
+          "furigana": "星状膠細胞[せいじょうこうさいぼう]",
+          "romaji": "seijōkōsaibō",
+          "meaning": "星狀膠細胞",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "星状膠細胞は血液脳関門の形成と維持に重要な役割を果たす。",
+              "zh": "星狀膠細胞在形成與維持血腦屏障中扮演重要角色。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "星状膠細胞は血液脳関門の形成と維持に重要な役割を果たす。",
+              "zh": "星狀膠細胞在形成與維持血腦屏障中扮演重要角色。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_178",
+          "word": "乏突起膠細胞",
+          "furigana": "乏突起膠細胞[ぼうとっきこうさいぼう]",
+          "romaji": "bōtokkikōsaibō",
+          "meaning": "寡突膠細胞",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "乏突起膠細胞は中枢神経系においてミエリン鞘を形成する。",
+              "zh": "寡突膠細胞在中樞神經系統中形成髓鞘。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "乏突起膠細胞は中枢神経系においてミエリン鞘を形成する。",
+              "zh": "寡突膠細胞在中樞神經系統中形成髓鞘。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_367",
+          "word": "微小膠細胞",
+          "furigana": "微小膠細胞[びしょうこうさいぼう]",
+          "romaji": "bishōkōsaibō",
+          "meaning": "微膠細胞",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "微小膠細胞は中枢神経系における主要な免疫担当細胞である。",
+              "zh": "微膠細胞是中樞神經系統中主要的免疫細胞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "微小膠細胞は中枢神経系における主要な免疫担当細胞である。",
+              "zh": "微膠細胞是中樞神經系統中主要的免疫細胞。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_106",
+          "word": "シュワン細胞",
+          "furigana": "シュワン細胞[しゅわんさいぼう]",
+          "romaji": "shuwansaibō",
+          "meaning": "許旺細胞",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "末梢神経系のミエリン鞘はシュワン細胞によって形成される。",
+              "zh": "周邊神經系統的髓鞘由許旺細胞形成。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "末梢神経系のミエリン鞘はシュワン細胞によって形成される。",
+              "zh": "周邊神經系統的髓鞘由許旺細胞形成。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_410",
+          "word": "有髄神経",
+          "furigana": "有髄神経[ゆうずいしんけい]",
+          "romaji": "yūzuishinkei",
+          "meaning": "有髓神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "有髄神経は跳躍伝導を行うため、神経伝達速度が速い。",
+              "zh": "有髓神經進行跳躍傳導，因此神經傳導速度較快。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "有髄神経は跳躍伝導を行うため、神経伝達速度が速い。",
+              "zh": "有髓神經進行跳躍傳導，因此神經傳導速度較快。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_884",
+          "word": "無髄神経",
+          "furigana": "無髄神経[むずいしんけい]",
+          "romaji": "muzuishinkei",
+          "meaning": "無髓神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "無髄神経はミエリン鞘を持たず、伝導速度は比較的遅い。",
+              "zh": "無髓神經沒有髓鞘，傳導速度相對較慢。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "無髄神経はミエリン鞘を持たず、伝導速度は比較的遅い。",
+              "zh": "無髓神經沒有髓鞘，傳導速度相對較慢。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_999",
+          "word": "シナプス",
+          "furigana": "シナプス[しなぷす]",
+          "romaji": "shinapusu",
+          "meaning": "突觸",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "神経細胞間の情報はシナプスを介して化学的または電気的に伝達される。",
+              "zh": "神經細胞間的資訊透過突觸以化學或電氣方式傳遞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "神経細胞間の情報はシナプスを介して化学的または電気的に伝達される。",
+              "zh": "神經細胞間的資訊透過突觸以化學或電氣方式傳遞。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_845",
+          "word": "神経伝達物質",
+          "furigana": "神経伝達物質[しんけいでんたつぶっしつ]",
+          "romaji": "shinkeidentatsubusshitsu",
+          "meaning": "神經傳導物質",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ドーパミンやセロトニンなどの神経伝達物質がシナプス間隙に放出される。",
+              "zh": "如多巴胺和血清素等神經傳導物質會釋放至突觸間隙中。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ドーパミンやセロトニンなどの神経伝達物質がシナプス間隙に放出される。",
+              "zh": "如多巴胺和血清素等神經傳導物質會釋放至突觸間隙中。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_47",
+          "word": "受容体",
+          "furigana": "受容体[じゅようたい]",
+          "romaji": "juyōtai",
+          "meaning": "受體",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "放出された神経伝達物質は、シナプス後膜の受容体に結合する。",
+              "zh": "釋放出的神經傳導物質會與突觸後膜的受體結合。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "放出された神経伝達物質は、シナプス後膜の受容体に結合する。",
+              "zh": "釋放出的神經傳導物質會與突觸後膜的受體結合。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_738",
+          "word": "反射弓",
+          "furigana": "反射弓[はんしゃきゅう]",
+          "romaji": "hanshakyū",
+          "meaning": "反射弧",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脊髄反射は、感覚器から作動器に至る反射弓によって引き起こされる。",
+              "zh": "脊髓反射是由從感覺器到動器之間的反射弧所引起的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脊髄反射は、感覚器から作動器に至る反射弓によって引き起こされる。",
+              "zh": "脊髓反射是由從感覺器到動器之間的反射弧所引起的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_543",
+          "word": "固有背筋",
+          "furigana": "固有背筋[こゆうはいきん]",
+          "romaji": "koyūhaikin",
+          "meaning": "固有背肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "固有背筋は脊柱の起立と姿勢の維持に不可欠である。",
+              "zh": "固有背肌對脊柱挺立與維持姿勢不可或缺。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "固有背筋は脊柱の起立と姿勢の維持に不可欠である。",
+              "zh": "固有背肌對脊柱挺立與維持姿勢不可或缺。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206919_946",
+          "word": "肋間筋",
+          "furigana": "肋間筋[ろっかんきん]",
+          "romaji": "rokkankin",
+          "meaning": "肋間肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "外肋間筋と内肋間筋は呼吸運動において胸郭を広げたり縮めたりする。",
+              "zh": "外肋間肌與內肋間肌在呼吸運動中負責擴張與收縮胸廓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "外肋間筋と内肋間筋は呼吸運動において胸郭を広げたり縮めたりする。",
+              "zh": "外肋間肌與內肋間肌在呼吸運動中負責擴張與收縮胸廓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_468",
+          "word": "腹斜筋",
+          "furigana": "腹斜筋[ふくしゃきん]",
+          "romaji": "fukushakin",
+          "meaning": "腹斜肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "内外の腹斜筋は体幹の回旋や側屈に作用する。",
+              "zh": "內外腹斜肌作用於軀幹的旋轉與側彎。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "内外の腹斜筋は体幹の回旋や側屈に作用する。",
+              "zh": "內外腹斜肌作用於軀幹的旋轉與側彎。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_84",
+          "word": "腹横筋",
+          "furigana": "腹横筋[ふくおうきん]",
+          "romaji": "fukuōkin",
+          "meaning": "腹橫肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腹横筋は腹部コルセットのように機能し、腹圧を高める。",
+              "zh": "腹橫肌如同腹部束腰般發揮功能，提高腹壓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腹横筋は腹部コルセットのように機能し、腹圧を高める。",
+              "zh": "腹橫肌如同腹部束腰般發揮功能，提高腹壓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_219",
+          "word": "腸腰筋",
+          "furigana": "腸腰筋[ちょうようきん]",
+          "romaji": "chōyōkin",
+          "meaning": "髂腰肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腸腰筋は股関節の強力な屈筋であり、歩行時に脚を前に振り出す。",
+              "zh": "髂腰肌是髖關節強而有力的屈肌，在步行時將腿向前擺動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腸腰筋は股関節の強力な屈筋であり、歩行時に脚を前に振り出す。",
+              "zh": "髂腰肌是髖關節強而有力的屈肌，在步行時將腿向前擺動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_443",
+          "word": "大腿二頭筋",
+          "furigana": "大腿二頭筋[だいたいにとうきん]",
+          "romaji": "daitainitōkin",
+          "meaning": "股二頭肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大腿二頭筋はハムストリングスの一部であり、膝関節の屈曲を担う。",
+              "zh": "股二頭肌是膕繩肌的一部分，負責膝關節的屈曲。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大腿二頭筋はハムストリングスの一部であり、膝関節の屈曲を担う。",
+              "zh": "股二頭肌是膕繩肌的一部分，負責膝關節的屈曲。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_530",
+          "word": "半腱様筋",
+          "furigana": "半腱様筋[はんけんようきん]",
+          "romaji": "hankenyōkin",
+          "meaning": "半腱肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "半腱様筋は半膜様筋とともに大腿後内側に位置し、膝関節の屈曲に働く。",
+              "zh": "半腱肌與半膜肌共同位於大腿後內側，作用於膝關節的屈曲。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "半腱様筋は半膜様筋とともに大腿後内側に位置し、膝関節の屈曲に働く。",
+              "zh": "半腱肌與半膜肌共同位於大腿後內側，作用於膝關節的屈曲。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_324",
+          "word": "半膜様筋",
+          "furigana": "半膜様筋[はんまくようきん]",
+          "romaji": "hanmakuyōkin",
+          "meaning": "半膜肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "半膜様筋の腱は脛骨内側顆の後部に停止している。",
+              "zh": "半膜肌的肌腱止於脛骨內側髁的後部。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "半膜様筋の腱は脛骨内側顆の後部に停止している。",
+              "zh": "半膜肌的肌腱止於脛骨內側髁的後部。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_648",
+          "word": "大腿四頭筋",
+          "furigana": "大腿四頭筋[だいたいしとうきん]",
+          "romaji": "daitaishitōkin",
+          "meaning": "股四頭肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大腿四頭筋は大腿前部に位置し、膝関節の強力な伸筋として機能する。",
+              "zh": "股四頭肌位於大腿前側，作為膝關節強而有力的伸肌發揮作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大腿四頭筋は大腿前部に位置し、膝関節の強力な伸筋として機能する。",
+              "zh": "股四頭肌位於大腿前側，作為膝關節強而有力的伸肌發揮作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_548",
+          "word": "大内転筋",
+          "furigana": "大内転筋[だいないてんきん]",
+          "romaji": "dainaitenkin",
+          "meaning": "內收大肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大内転筋は股関節の内転作用のほか、伸展にも寄与する。",
+              "zh": "內收大肌除了具有髖關節的內收作用外，也有助於伸展。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大内転筋は股関節の内転作用のほか、伸展にも寄与する。",
+              "zh": "內收大肌除了具有髖關節的內收作用外，也有助於伸展。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_829",
+          "word": "縫工筋",
+          "furigana": "縫工筋[ほうこうきん]",
+          "romaji": "hōkōkin",
+          "meaning": "縫匠肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "人体で最も長い筋肉である縫工筋は、上前腸骨棘から起始する。",
+              "zh": "縫匠肌是人體最長的肌肉，起自髂前上棘。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "人体で最も長い筋肉である縫工筋は、上前腸骨棘から起始する。",
+              "zh": "縫匠肌是人體最長的肌肉，起自髂前上棘。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_204",
+          "word": "前脛骨筋",
+          "furigana": "前脛骨筋[ぜんけいこつきん]",
+          "romaji": "zenkeikotsukin",
+          "meaning": "脛骨前肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "前脛骨筋の麻痺により、足首が下垂する下垂足が生じる。",
+              "zh": "脛骨前肌麻痺會導致腳踝下垂的垂足症狀。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "前脛骨筋の麻痺により、足首が下垂する下垂足が生じる。",
+              "zh": "脛骨前肌麻痺會導致腳踝下垂的垂足症狀。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_997",
+          "word": "ヒラメ筋",
+          "furigana": "ヒラメ筋[ひらめきん]",
+          "romaji": "hiramekin",
+          "meaning": "比目魚肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腓腹筋とヒラメ筋が合わさってアキレス腱を形成している。",
+              "zh": "腓腸肌與比目魚肌會合形成阿基里斯腱。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腓腹筋とヒラメ筋が合わさってアキレス腱を形成している。",
+              "zh": "腓腸肌與比目魚肌會合形成阿基里斯腱。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_374",
+          "word": "足底腱膜",
+          "furigana": "足底腱膜[そくていけんまく]",
+          "romaji": "sokuteikenmaku",
+          "meaning": "足底筋膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "長時間の立ち仕事は足底腱膜炎を引き起こす原因となり得る。",
+              "zh": "長時間站立工作可能會成為引發足底筋膜炎的原因。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "長時間の立ち仕事は足底腱膜炎を引き起こす原因となり得る。",
+              "zh": "長時間站立工作可能會成為引發足底筋膜炎的原因。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_646",
+          "word": "前鋸筋",
+          "furigana": "前鋸筋[ぜんきょきん]",
+          "romaji": "zenkyokin",
+          "meaning": "前鋸肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "前鋸筋の機能不全は、翼状肩甲骨という特徴的な所見を呈する。",
+              "zh": "前鋸肌功能不全會呈現翼狀肩胛骨的特徵性表徵。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "前鋸筋の機能不全は、翼状肩甲骨という特徴的な所見を呈する。",
+              "zh": "前鋸肌功能不全會呈現翼狀肩胛骨的特徵性表徵。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206920_932",
+          "word": "大円筋",
+          "furigana": "大円筋[だいえんきん]",
+          "romaji": "daienkin",
+          "meaning": "大圓肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大円筋は広背筋を補助し、肩関節の伸展と内旋に関与する。",
+              "zh": "大圓肌輔助背闊肌，參與肩關節的伸展與內旋。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大円筋は広背筋を補助し、肩関節の伸展と内旋に関与する。",
+              "zh": "大圓肌輔助背闊肌，參與肩關節的伸展與內旋。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_858",
+          "word": "棘上筋",
+          "furigana": "棘上筋[きょくじょうきん]",
+          "romaji": "kyokujōkin",
+          "meaning": "棘上肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ローテーターカフの一部である棘上筋は、肩関節の外転を開始する。",
+              "zh": "作為旋轉肌袖一部分的棘上肌，負責啟動肩關節的外展。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ローテーターカフの一部である棘上筋は、肩関節の外転を開始する。",
+              "zh": "作為旋轉肌袖一部分的棘上肌，負責啟動肩關節的外展。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_779",
+          "word": "棘下筋",
+          "furigana": "棘下筋[きょっかきん]",
+          "romaji": "kyokkakin",
+          "meaning": "棘下肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "棘下筋は肩関節の外旋に強く寄与し、関節の安定性を保つ。",
+              "zh": "棘下肌對肩關節的外旋有很大貢獻，並保持關節的穩定性。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "棘下筋は肩関節の外旋に強く寄与し、関節の安定性を保つ。",
+              "zh": "棘下肌對肩關節的外旋有很大貢獻，並保持關節的穩定性。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_74",
+          "word": "小円筋",
+          "furigana": "小円筋[しょうえんきん]",
+          "romaji": "shōenkin",
+          "meaning": "小圓肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "小円筋は棘下筋と同様に、肩関節の外旋作用を持つ。",
+              "zh": "小圓肌與棘下肌一樣，具有肩關節的外旋作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "小円筋は棘下筋と同様に、肩関節の外旋作用を持つ。",
+              "zh": "小圓肌與棘下肌一樣，具有肩關節的外旋作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_664",
+          "word": "肩甲下筋",
+          "furigana": "肩甲下筋[けんこうかきん]",
+          "romaji": "kenkōkakin",
+          "meaning": "肩胛下肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肩甲下筋はローテーターカフの中で唯一、肩関節の内旋に働く。",
+              "zh": "肩胛下肌是旋轉肌袖中唯一負責肩關節內旋的肌肉。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肩甲下筋はローテーターカフの中で唯一、肩関節の内旋に働く。",
+              "zh": "肩胛下肌是旋轉肌袖中唯一負責肩關節內旋的肌肉。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_460",
+          "word": "烏口腕筋",
+          "furigana": "烏口腕筋[うこうわんきん]",
+          "romaji": "ukōwankin",
+          "meaning": "喙肱肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "烏口腕筋は筋皮神経に貫かれた後、上腕骨の骨幹部に停止する。",
+              "zh": "喙肱肌被肌皮神經穿過後，止於肱骨幹部。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "烏口腕筋は筋皮神経に貫かれた後、上腕骨の骨幹部に停止する。",
+              "zh": "喙肱肌被肌皮神經穿過後，止於肱骨幹部。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_965",
+          "word": "上腕筋",
+          "furigana": "上腕筋[じょうわんきん]",
+          "romaji": "jōwankin",
+          "meaning": "肱肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "上腕二頭筋の深層にある上腕筋は、強力な肘関節の屈筋である。",
+              "zh": "位於肱二頭肌深層的肱肌是強而有力的肘關節屈肌。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "上腕二頭筋の深層にある上腕筋は、強力な肘関節の屈筋である。",
+              "zh": "位於肱二頭肌深層的肱肌是強而有力的肘關節屈肌。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_240",
+          "word": "腕橈骨筋",
+          "furigana": "腕橈骨筋[わんとうこつきん]",
+          "romaji": "wantōkotsukin",
+          "meaning": "肱橈肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腕橈骨筋は前腕を中間位にした状態での肘関節屈曲に強く作用する。",
+              "zh": "肱橈肌在前臂處於中立位時對肘關節屈曲起強大作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腕橈骨筋は前腕を中間位にした状態での肘関節屈曲に強く作用する。",
+              "zh": "肱橈肌在前臂處於中立位時對肘關節屈曲起強大作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_761",
+          "word": "回内筋",
+          "furigana": "回内筋[かいないきん]",
+          "romaji": "kainaikin",
+          "meaning": "旋前肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "円回内筋と方形回内筋の働きにより、前腕の回内運動が行われる。",
+              "zh": "藉由旋前圓肌與旋前方肌的作用，進行前臂的旋前運動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "円回内筋と方形回内筋の働きにより、前腕の回内運動が行われる。",
+              "zh": "藉由旋前圓肌與旋前方肌的作用，進行前臂的旋前運動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy5_1783822206921_359",
+          "word": "回外筋",
+          "furigana": "回外筋[かいがいきん]",
+          "romaji": "kaigaikin",
+          "meaning": "旋後肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "橈骨神経深枝は回外筋を貫通する際に圧迫されることがある。",
+              "zh": "橈神經深支在穿過旋後肌時有時會受到壓迫。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "橈骨神経深枝は回外筋を貫通する際に圧迫されることがある。",
+              "zh": "橈神經深支在穿過旋後肌時有時會受到壓迫。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
