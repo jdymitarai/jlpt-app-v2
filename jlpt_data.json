@@ -96979,9 +96979,9 @@
         },
         {
           "id": "n_n5_batch9_10",
-          "word": "何処",
+          "word": "どこ",
           "reading": "どこ",
-          "furigana": "何処[どこ]",
+          "furigana": "どこ",
           "romaji": "doko",
           "meaning": "哪裡",
           "pos": "代名詞",
@@ -114889,9 +114889,9 @@
         },
         {
           "id": "pro_1782205852337_12",
-          "word": "此れ",
+          "word": "これ",
           "kanji": "これ",
-          "furigana": "此[こ]れ",
+          "furigana": "これ",
           "kana": "",
           "romaji": "kore",
           "type": "pronoun",
@@ -114911,9 +114911,9 @@
         },
         {
           "id": "pro_1782205852337_13",
-          "word": "其れ",
+          "word": "それ",
           "kanji": "それ",
-          "furigana": "其[そ]れ",
+          "furigana": "それ",
           "kana": "",
           "romaji": "sore",
           "type": "pronoun",
@@ -114933,14 +114933,14 @@
         },
         {
           "id": "pro_1782205852337_14",
-          "word": "彼",
+          "word": "あれ",
           "kanji": "あれ",
-          "furigana": "彼[あれ]",
+          "furigana": "あれ",
           "kana": "",
           "romaji": "are",
           "type": "pronoun",
           "pos": "代名詞",
-          "category": "pro_third_person",
+          "category": "pro_demo_thing",
           "level": "N5",
           "meaning": "那個(離雙方都遠)",
           "sentences": [
@@ -114955,9 +114955,9 @@
         },
         {
           "id": "pro_1782205852337_15",
-          "word": "何れ",
+          "word": "どれ",
           "kanji": "どれ",
-          "furigana": "何[ど]れ",
+          "furigana": "どれ",
           "kana": "",
           "romaji": "dore",
           "type": "pronoun",
@@ -114977,9 +114977,9 @@
         },
         {
           "id": "pro_1782205852337_16",
-          "word": "此処",
+          "word": "ここ",
           "kanji": "ここ",
-          "furigana": "此処[ここ]",
+          "furigana": "ここ",
           "kana": "",
           "romaji": "koko",
           "type": "pronoun",
@@ -114999,9 +114999,9 @@
         },
         {
           "id": "pro_1782205852337_17",
-          "word": "其処",
+          "word": "そこ",
           "kanji": "そこ",
-          "furigana": "其処[そこ]",
+          "furigana": "そこ",
           "kana": "",
           "romaji": "soko",
           "type": "pronoun",
@@ -115021,9 +115021,9 @@
         },
         {
           "id": "pro_1782205852337_18",
-          "word": "彼処",
+          "word": "あそこ",
           "kanji": "あそこ",
-          "furigana": "彼処[あそこ]",
+          "furigana": "あそこ",
           "kana": "",
           "romaji": "asoko",
           "type": "pronoun",
@@ -115043,9 +115043,9 @@
         },
         {
           "id": "pro_1782205852337_19",
-          "word": "此方",
+          "word": "こちら",
           "kanji": "こちら",
-          "furigana": "此方[こちら]",
+          "furigana": "こちら",
           "kana": "",
           "romaji": "kochira",
           "type": "pronoun",
@@ -115065,9 +115065,9 @@
         },
         {
           "id": "pro_1782205852337_20",
-          "word": "其方",
+          "word": "そちら",
           "kanji": "そちら",
-          "furigana": "其方[そちら]",
+          "furigana": "そちら",
           "kana": "",
           "romaji": "sochira",
           "type": "pronoun",
@@ -115087,9 +115087,9 @@
         },
         {
           "id": "pro_1782205852337_21",
-          "word": "彼方",
+          "word": "あちら",
           "kanji": "あちら",
-          "furigana": "彼方[あちら]",
+          "furigana": "あちら",
           "kana": "",
           "romaji": "achira",
           "type": "pronoun",
@@ -115109,9 +115109,9 @@
         },
         {
           "id": "pro_1782205852337_23",
-          "word": "何方",
+          "word": "どなた",
           "kanji": "どなた",
-          "furigana": "何方[どなた]",
+          "furigana": "どなた",
           "kana": "",
           "romaji": "donata",
           "type": "pronoun",
@@ -115131,9 +115131,9 @@
         },
         {
           "id": "pro_1782205852337_25",
-          "word": "何方",
+          "word": "どちら",
           "kanji": "どちら",
-          "furigana": "何方[どちら]",
+          "furigana": "どちら",
           "kana": "",
           "romaji": "dochira",
           "type": "pronoun",
@@ -115931,6 +115931,134 @@
             }
           ],
           "id": "v_n5_ex_1783819791490_51"
+        },
+        {
+          "word": "この",
+          "furigana": "この",
+          "romaji": "kono",
+          "meaning": "這個... (連體詞，後接名詞)",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "この本はとても面白いです。",
+              "zh": "這本書非常有趣。"
+            }
+          ],
+          "id": "v_n5_ex_1783819966706_208"
+        },
+        {
+          "word": "その",
+          "furigana": "その",
+          "romaji": "sono",
+          "meaning": "那個... (連體詞，離聽者近)",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "その辞書を貸してください。",
+              "zh": "請把那本字典借我。"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_253"
+        },
+        {
+          "word": "あの",
+          "furigana": "あの",
+          "romaji": "ano",
+          "meaning": "那個... (連體詞，離雙方都遠)",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "あの人は日本語の先生です。",
+              "zh": "那個人是日語老師。"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_891"
+        },
+        {
+          "word": "どの",
+          "furigana": "どの",
+          "romaji": "dono",
+          "meaning": "哪個... (連體詞，疑問詞)",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "どの傘があなたのですか。",
+              "zh": "哪一把傘是你的？"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_826"
+        },
+        {
+          "word": "こっち",
+          "furigana": "こっち",
+          "romaji": "kocchi",
+          "meaning": "這邊 / 這面 (こちら的口語形式)",
+          "type": "pronoun",
+          "category": "pro_demo_place",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "こっちに来てください。",
+              "zh": "請往這邊來。"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_215"
+        },
+        {
+          "word": "そっち",
+          "furigana": "そっち",
+          "romaji": "socchi",
+          "meaning": "那邊 / 那面 (そちら的口語形式)",
+          "type": "pronoun",
+          "category": "pro_demo_place",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "そっちは危ないですよ。",
+              "zh": "那邊很危險喔。"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_512"
+        },
+        {
+          "word": "あっち",
+          "furigana": "あっち",
+          "romaji": "acchi",
+          "meaning": "那邊 / 那面 (あちら的口語形式)",
+          "type": "pronoun",
+          "category": "pro_demo_place",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "あっちの店に行きましょう。",
+              "zh": "我們去那邊的店吧。"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_30"
+        },
+        {
+          "word": "どっち",
+          "furigana": "どっち",
+          "romaji": "docchi",
+          "meaning": "哪邊 / 哪面 (どちら的口語形式)",
+          "type": "pronoun",
+          "category": "pro_demo_place",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "どっちの靴が欲しいですか。",
+              "zh": "你想要哪一雙鞋子？"
+            }
+          ],
+          "id": "v_n5_ex_1783819966707_990"
         }
       ],
       "verbConjugations": [
@@ -124167,9 +124295,9 @@
         },
         {
           "id": "pro_1782205852337_3",
-          "word": "私",
+          "word": "あたし",
           "kanji": "あたし",
-          "furigana": "私[あたし]",
+          "furigana": "あたし",
           "kana": "",
           "romaji": "atashi",
           "type": "pronoun",
@@ -126165,6 +126293,102 @@
             }
           ],
           "id": "v_n4_ex_1783819791491_549"
+        },
+        {
+          "word": "こう",
+          "furigana": "こう",
+          "romaji": "kou",
+          "meaning": "這樣地 / 如此",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "こうやって作ります。",
+              "zh": "像這樣製作。"
+            }
+          ],
+          "id": "v_n4_ex_1783819966707_227"
+        },
+        {
+          "word": "そう",
+          "furigana": "そう",
+          "romaji": "sou",
+          "meaning": "那樣地 / 如此",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "私もそう思います。",
+              "zh": "我也那樣想。"
+            }
+          ],
+          "id": "v_n4_ex_1783819966708_904"
+        },
+        {
+          "word": "ああ",
+          "furigana": "ああ",
+          "romaji": "aa",
+          "meaning": "那樣地 (離雙方都遠的形式)",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "ああ言えばこう言う。",
+              "zh": "吹毛求疵 / 頂嘴。"
+            }
+          ],
+          "id": "v_n4_ex_1783819966708_1"
+        },
+        {
+          "word": "どう",
+          "furigana": "どう",
+          "romaji": "dou",
+          "meaning": "怎樣地 / 如何",
+          "type": "pronoun",
+          "category": "pro_demo_thing",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "お天気はどうですか。",
+              "zh": "天氣如何呢？"
+            }
+          ],
+          "id": "v_n4_ex_1783819966708_364"
+        },
+        {
+          "word": "自分",
+          "furigana": "自分[じぶん]",
+          "romaji": "jibun",
+          "meaning": "自己 / 我",
+          "type": "pronoun",
+          "category": "pro_first_person",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "自分の部屋は自分で掃除します。",
+              "zh": "自己的房間自己打掃。"
+            }
+          ],
+          "id": "v_n4_ex_1783819966708_975"
+        },
+        {
+          "word": "彼ら",
+          "furigana": "彼[かれ]ら",
+          "romaji": "karera",
+          "meaning": "他們",
+          "type": "pronoun",
+          "category": "pro_third_person",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "彼らはサッカーをしています。",
+              "zh": "他們正在踢足球。"
+            }
+          ],
+          "id": "v_n4_ex_1783819966708_672"
         }
       ],
       "kana": {
