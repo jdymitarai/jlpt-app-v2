@@ -148678,6 +148678,1018 @@
               "zh": "為了災害時使用，也請把簡易廁所放進防災套組裡。"
             }
           ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533240_449",
+          "word": "受かる",
+          "furigana": "受[う]かる",
+          "romaji": "ukaru",
+          "meaning": "考上 / 合格",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_education_learning",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "半年間一生懸命勉強したので、ついに志望校に受かることができました。",
+              "zh": "因為半年來非常努力讀書，終於考上了理想的學校。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "半年間一生懸命勉強したので、ついに志望校に受かることができました。",
+              "zh": "因為半年來非常努力讀書，終於考上了理想的學校。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533240_960",
+          "word": "申し込む",
+          "furigana": "申[もう]し込[こ]む",
+          "romaji": "mōshikomu",
+          "meaning": "申請 / 報名",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "新しいクレジットカードの発行を、インターネットから申し込みます。",
+              "zh": "在網路上申請發行新的信用卡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "新しいクレジットカードの発行を、インターネットから申し込みます。",
+              "zh": "在網路上申請發行新的信用卡。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533241_783",
+          "word": "支払う",
+          "furigana": "支払[しはら]う",
+          "romaji": "shiharau",
+          "meaning": "支付 / 付錢",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "レジでお会計の際、現金ではなくスマホの電子マネーで支払いました。",
+              "zh": "在收銀台結帳時，不是用現金而是用手機的電子錢包付錢。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "レジでお会計の際、現金ではなくスマホの電子マネーで支払いました。",
+              "zh": "在收銀台結帳時，不是用現金而是用手機的電子錢包付錢。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533241_965",
+          "word": "受け取る",
+          "furigana": "受[う]け取[と]る",
+          "romaji": "uketoru",
+          "meaning": "收取 / 領取",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "配達員から荷物を受け取り、受領印を押しました。",
+              "zh": "從快遞員手中接過行李並蓋了簽收章。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "配達員から荷物を受け取り、受領印を押しました。",
+              "zh": "從快遞員手中接過行李並蓋了簽收章。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533242_312",
+          "word": "発送する",
+          "furigana": "発送[はっそう]する",
+          "romaji": "hassō suru",
+          "meaning": "發送 / 寄出",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "注文された商品は、通常2営業日以内に倉庫から発送されます。",
+              "zh": "訂購的商品通常會在2個工作天內從倉庫寄出。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "注文された商品は、通常2営業日以内に倉庫から発送されます。",
+              "zh": "訂購的商品通常會在2個工作天內從倉庫寄出。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533242_739",
+          "word": "配達する",
+          "furigana": "配達[はいたつ]する",
+          "romaji": "haitatsu suru",
+          "meaning": "配送 / 送達",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "郵便局員が毎日、手紙やはがきを各家庭に配達しています。",
+              "zh": "郵局員工每天將信件與明信片配送到各個家庭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "郵便局員が毎日、手紙やはがきを各家庭に配達しています。",
+              "zh": "郵局員工每天將信件與明信片配送到各個家庭。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533243_7",
+          "word": "問い合わせる",
+          "furigana": "問[と]い合[あ]わせる",
+          "romaji": "toiawaseru",
+          "meaning": "洽詢 / 詢問",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "商品の配送状況について、メールでサポートセンターに問い合わせました。",
+              "zh": "透過電子郵件向客服中心洽詢商品的配送狀況。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "商品の配送状況について、メールでサポートセンターに問い合わせました。",
+              "zh": "透過電子郵件向客服中心洽詢商品的配送狀況。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533243_459",
+          "word": "混雑する",
+          "furigana": "混雑[こんざつ]する",
+          "romaji": "konzatsu suru",
+          "meaning": "擁擠 / 混雜",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "朝の通勤時間帯は、どの路線も非常に混雑するため遅延が発生しやすいです。",
+              "zh": "早上的通勤時段每條路線都非常擁擠，因此容易發生誤點。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "朝の通勤時間帯は、どの路線も非常に混雑するため遅延が発生しやすいです。",
+              "zh": "早上的通勤時段每條路線都非常擁擠，因此容易發生誤點。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533243_554",
+          "word": "遅延する",
+          "furigana": "遅延[ちえん]する",
+          "romaji": "chien suru",
+          "meaning": "延遲 / 誤點",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大雪の影響で、新幹線が約30分遅延して運行しています。",
+              "zh": "受到大雪影響，新幹線目前延誤約30分鐘運行。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大雪の影響で、新幹線が約30分遅延して運行しています。",
+              "zh": "受到大雪影響，新幹線目前延誤約30分鐘運行。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533243_323",
+          "word": "持ち込む",
+          "furigana": "持[も]ち込[こ]む",
+          "romaji": "mochikomu",
+          "meaning": "攜入 / 帶入",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "この飲食店は飲み物の持ち込みが禁止されているため、店内で注文してください。",
+              "zh": "因為這家餐飲店禁止自備飲料帶入，請在店內點餐。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この飲食店は飲み物の持ち込みが禁止されているため、店内で注文してください。",
+              "zh": "因為這家餐飲店禁止自備飲料帶入，請在店內點餐。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533244_875",
+          "word": "サボる",
+          "furigana": "サボる",
+          "romaji": "saboru",
+          "meaning": "偷懶 / 曠課",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_education_learning",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "天気が良かったので、今日の授業をサボって映画館へ行ってしまいました。",
+              "zh": "因為天氣很好，我今天就曠課去電影院了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "天気が良かったので、今日の授業をサボって映画館へ行ってしまいました。",
+              "zh": "因為天氣很好，我今天就曠課去電影院了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533244_858",
+          "word": "持ち帰る",
+          "furigana": "持[も]ち帰[かえ]る",
+          "romaji": "mochikaeru",
+          "meaning": "外帶 / 帶回",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "食べきれなかった料理を、パックに詰めて自宅へ持ち帰りました。",
+              "zh": "把吃不完的料理裝進盒子裡帶回家。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "食べきれなかった料理を、パックに詰めて自宅へ持ち帰りました。",
+              "zh": "把吃不完的料理裝進盒子裡帶回家。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533244_742",
+          "word": "出前を取る",
+          "furigana": "出前[でまえ]を取[と]る",
+          "romaji": "demae o toru",
+          "meaning": "叫外送",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今日は料理をする時間がなかったので、近所の寿司屋から出前を取りました。",
+              "zh": "因為今天沒有時間做飯，所以叫了附近壽司店的外送。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日は料理をする時間がなかったので、近所の寿司屋から出前を取りました。",
+              "zh": "因為今天沒有時間做飯，所以叫了附近壽司店的外送。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533244_201",
+          "word": "挨拶する",
+          "furigana": "挨拶[あいさつ]する",
+          "romaji": "aisatsu suru",
+          "meaning": "打招呼 / 問候",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "新しい近所の人に引っ越しの挨拶をし、粗品を渡しました。",
+              "zh": "向新的鄰居做搬家打招呼，並送了小禮物。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "新しい近所の人に引っ越しの挨拶をし、粗品を渡しました。",
+              "zh": "向新的鄰居做搬家打招呼，並送了小禮物。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533244_98",
+          "word": "懐かしい",
+          "furigana": "懐[なつ]かしい",
+          "romaji": "natsukashii",
+          "meaning": "令人懷念的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "昔住んでいた町を訪れると、子供の頃の懐かしい思い出が蘇ります。",
+              "zh": "造訪以前住過的城鎮時，小時候懷念的回憶便油然而生。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昔住んでいた町を訪れると、子供の頃の懐かしい思い出が蘇ります。",
+              "zh": "造訪以前住過的城鎮時，小時候懷念的回憶便油然而生。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_212",
+          "word": "惜しい",
+          "furigana": "惜[お]しい",
+          "romaji": "oshii",
+          "meaning": "可惜的、遺憾的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "abs_state_value",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "あと少しで合格できたのに、本当に惜しいですね。",
+              "zh": "差一點就能及格了，真是太可惜了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "あと少しで合格できたのに、本当に惜しいですね。",
+              "zh": "差一點就能及格了，真是太可惜了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_236",
+          "word": "勿体ない",
+          "furigana": "勿体[もったい]ない",
+          "romaji": "mottainai",
+          "meaning": "浪費的、可惜的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "abs_state_value",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "まだ使えるものを捨てるのは勿体ないですよ。",
+              "zh": "把還能用的東西丟掉太浪費了喔。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "まだ使えるものを捨てるのは勿体ないですよ。",
+              "zh": "把還能用的東西丟掉太浪費了喔。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_763",
+          "word": "くだらない",
+          "furigana": "くだらない",
+          "romaji": "kudaranai",
+          "meaning": "無聊的、毫無價值的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "abs_state_value",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "くだらないことで喧嘩をするのはやめましょう。",
+              "zh": "我們別為了無聊的事情吵架了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "くだらないことで喧嘩をするのはやめましょう。",
+              "zh": "我們別為了無聊的事情吵架了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_680",
+          "word": "みっともない",
+          "furigana": "みっともない",
+          "romaji": "mittomonai",
+          "meaning": "難看的、丟臉的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "abs_state_value",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "人前で大声で怒鳴るのはみっともないですから、やめてください。",
+              "zh": "在別人面前大聲吼叫很難看，請停止這麼做。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "人前で大声で怒鳴るのはみっともないですから、やめてください。",
+              "zh": "在別人面前大聲吼叫很難看，請停止這麼做。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_25",
+          "word": "しつこい",
+          "furigana": "しつこい",
+          "romaji": "shitsukoi",
+          "meaning": "糾纏不休的、固執的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "abs_state_value",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "あの店の勧誘はしつこいので、気をつけたほうがいいですよ。",
+              "zh": "那家店的推銷糾纏不休，最好小心一點喔。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "あの店の勧誘はしつこいので、気をつけたほうがいいですよ。",
+              "zh": "那家店的推銷糾纏不休，最好小心一點喔。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_330",
+          "word": "とりあえず",
+          "furigana": "とりあえず",
+          "romaji": "toriaezu",
+          "meaning": "總之、首先、暫且",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "詳しいことは後で決めますので、とりあえず予約だけしておきます。",
+              "zh": "詳細的事情之後再決定，總之我先預約下來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "詳しいことは後で決めますので、とりあえず予約だけしておきます。",
+              "zh": "詳細的事情之後再決定，總之我先預約下來。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_207",
+          "word": "相変わらず",
+          "furigana": "相変[あいか]わらず",
+          "romaji": "aikawarazu",
+          "meaning": "依然、照舊",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "田中さんは相変わらずお忙しそうですね。",
+              "zh": "田中先生看起來還是跟平常一樣忙碌呢。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "田中さんは相変わらずお忙しそうですね。",
+              "zh": "田中先生看起來還是跟平常一樣忙碌呢。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533245_872",
+          "word": "しっかり",
+          "furigana": "しっかり",
+          "romaji": "shikkari",
+          "meaning": "確實地、可靠地、堅固地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "将来のために、今からしっかりお金を貯めておきたいです。",
+              "zh": "為了將來，我想從現在開始確實地把錢存起來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "将来のために、今からしっかりお金を貯めておきたいです。",
+              "zh": "為了將來，我想從現在開始確實地把錢存起來。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_456",
+          "word": "ちゃっかり",
+          "furigana": "ちゃっかり",
+          "romaji": "chakkari",
+          "meaning": "精明地、毫不客氣地（趁機獲得好處）",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼はちゃっかり一番いい席に座っていました。",
+              "zh": "他毫不客氣地挑了最好的位子坐下了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼はちゃっかり一番いい席に座っていました。",
+              "zh": "他毫不客氣地挑了最好的位子坐下了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_927",
+          "word": "やっぱり",
+          "furigana": "やっぱり",
+          "romaji": "yappari",
+          "meaning": "果然、還是",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "色々と考えましたが、やっぱりこのプランを解約することにしました。",
+              "zh": "我考慮了很多，果然還是決定取消這個方案。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "色々と考えましたが、やっぱりこのプランを解約することにしました。",
+              "zh": "我考慮了很多，果然還是決定取消這個方案。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_672",
+          "word": "立て替える",
+          "furigana": "立[た]て替[か]える",
+          "romaji": "tatekaeru",
+          "meaning": "代墊",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今日のランチ代は私が立て替えておきますね。",
+              "zh": "今天的午餐費我先幫你代墊喔。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日のランチ代は私が立て替えておきますね。",
+              "zh": "今天的午餐費我先幫你代墊喔。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_295",
+          "word": "預け入れる",
+          "furigana": "預[あず]け入[い]れる",
+          "romaji": "azukeireru",
+          "meaning": "存入（金錢）",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "毎月お給料の一部を定期預金に預け入れています。",
+              "zh": "我每個月都會把薪水的一部分存入定期存款。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毎月お給料の一部を定期預金に預け入れています。",
+              "zh": "我每個月都會把薪水的一部分存入定期存款。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_668",
+          "word": "振り替える",
+          "furigana": "振[ふ]り替[か]える",
+          "romaji": "furikaeru",
+          "meaning": "轉帳、撥款、調換",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "普通口座から貯蓄口座へ資金を振り替える手続きをしました。",
+              "zh": "我辦理了從活期帳戶把資金轉入儲蓄帳戶的手續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "普通口座から貯蓄口座へ資金を振り替える手続きをしました。",
+              "zh": "我辦理了從活期帳戶把資金轉入儲蓄帳戶的手續。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_573",
+          "word": "解約する",
+          "furigana": "解約[かいやく]する",
+          "romaji": "kaiyakusuru",
+          "meaning": "解約、取消（合約）",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "使っていないクレジットカードは、早めに解約したほうがいいですよ。",
+              "zh": "沒在用的信用卡最好早點取消喔。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "使っていないクレジットカードは、早めに解約したほうがいいですよ。",
+              "zh": "沒在用的信用卡最好早點取消喔。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_430",
+          "word": "登録する",
+          "furigana": "登録[とうろく]する",
+          "romaji": "tōroku suru",
+          "meaning": "註冊 / 登記",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "アプリを使う前に、メールアドレスで登録してください。",
+              "zh": "使用應用程式之前，請用電子郵件地址註冊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "アプリを使う前に、メールアドレスで登録してください。",
+              "zh": "使用應用程式之前，請用電子郵件地址註冊。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_15",
+          "word": "手渡す",
+          "furigana": "手[て]渡[わた]す",
+          "romaji": "tewatasu",
+          "meaning": "親手交給 / 遞交",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_action_posture",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "受付で名刺を手渡しました。",
+              "zh": "我在櫃檯親手遞交了名片。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "受付で名刺を手渡しました。",
+              "zh": "我在櫃檯親手遞交了名片。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_535",
+          "word": "仕分けする",
+          "furigana": "仕分[しわ]けする",
+          "romaji": "shiwake suru",
+          "meaning": "分類 / 整理",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "届いた荷物を種類ごとに仕分けします。",
+              "zh": "我會把寄到的包裹依種類分類整理。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "届いた荷物を種類ごとに仕分けします。",
+              "zh": "我會把寄到的包裹依種類分類整理。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533246_397",
+          "word": "立ち会う",
+          "furigana": "立[た]ち会[あ]う",
+          "romaji": "tachiau",
+          "meaning": "到場見證 / 陪同在場",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_law_politics",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "契約の締結には双方が立ち会う必要があります。",
+              "zh": "簽訂契約時，雙方都必須到場見證。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "契約の締結には双方が立ち会う必要があります。",
+              "zh": "簽訂契約時，雙方都必須到場見證。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_914",
+          "word": "立ち往生する",
+          "furigana": "立[た]ち往生[おうじょう]する",
+          "romaji": "tachiōjō suru",
+          "meaning": "動彈不得 / 進退兩難 (如車流塞死)",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大雪で電車が立ち往生して、駅で長時間待たされました。",
+              "zh": "因大雪電車動彈不得，我們在車站被迫等了很久。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大雪で電車が立ち往生して、駅で長時間待たされました。",
+              "zh": "因大雪電車動彈不得，我們在車站被迫等了很久。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_149",
+          "word": "見合わせる",
+          "furigana": "見合[みあ]わせる",
+          "romaji": "miawaseru",
+          "meaning": "暫緩 / 暫停 (如列車行駛)",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "悪天候のため、新幹線の運行を見合わせています。",
+              "zh": "因天候惡劣，新幹線目前暫緩行駛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "悪天候のため、新幹線の運行を見合わせています。",
+              "zh": "因天候惡劣，新幹線目前暫緩行駛。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_321",
+          "word": "運行する",
+          "furigana": "運行[うんこう]する",
+          "romaji": "unkō suru",
+          "meaning": "運行 / 行駛",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "このバスは午前6時から夜10時まで運行しています。",
+              "zh": "這班公車從早上6點運行到晚上10點。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このバスは午前6時から夜10時まで運行しています。",
+              "zh": "這班公車從早上6點運行到晚上10點。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_870",
+          "word": "運休する",
+          "furigana": "運休[うんきゅう]する",
+          "romaji": "unkyū suru",
+          "meaning": "停駛 / 暫停營運",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "台風の影響で、一部の路線が運休しています。",
+              "zh": "受颱風影響，部分路線目前停駛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "台風の影響で、一部の路線が運休しています。",
+              "zh": "受颱風影響，部分路線目前停駛。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_832",
+          "word": "払い戻す",
+          "furigana": "払[はら]い戻[もど]す",
+          "romaji": "haraimodosu",
+          "meaning": "退款 / 退票",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "キャンセルしたチケット代は来週払い戻されます。",
+              "zh": "已取消的票款將於下週退還。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "キャンセルしたチケット代は来週払い戻されます。",
+              "zh": "已取消的票款將於下週退還。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_760",
+          "word": "留守にする",
+          "furigana": "留守[るす]にする",
+          "romaji": "rusu ni suru",
+          "meaning": "不在家 / 外出留守",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "週末は実家に帰るので、家を留守にします。",
+              "zh": "週末要回老家，所以家裡會沒人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "週末は実家に帰るので、家を留守にします。",
+              "zh": "週末要回老家，所以家裡會沒人。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_31",
+          "word": "転居する",
+          "furigana": "転居[てんきょ]する",
+          "romaji": "tenkyo suru",
+          "meaning": "搬家 / 遷居",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_law_politics",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "来月、大阪から東京へ転居する予定です。",
+              "zh": "預定下個月從大阪遷居到東京。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "来月、大阪から東京へ転居する予定です。",
+              "zh": "預定下個月從大阪遷居到東京。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_738",
+          "word": "更新する",
+          "furigana": "更新[こうしん]する",
+          "romaji": "kōshin suru",
+          "meaning": "更新 / 換新",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_law_politics",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "在留カードの期限が近いので、早めに更新します。",
+              "zh": "在留卡快到期了，所以會盡早更新。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "在留カードの期限が近いので、早めに更新します。",
+              "zh": "在留卡快到期了，所以會盡早更新。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_601",
+          "word": "不在にする",
+          "furigana": "不在[ふざい]にする",
+          "romaji": "fuzai ni suru",
+          "meaning": "不在 / 缺席",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "会議中は席を不在にしないようにお願いします。",
+              "zh": "會議期間請不要離開座位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "会議中は席を不在にしないようにお願いします。",
+              "zh": "會議期間請不要離開座位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533247_960",
+          "word": "再配達する",
+          "furigana": "再配達[さいはいたつ]する",
+          "romaji": "saihaitatsu suru",
+          "meaning": "重新投遞 / 再次配送",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "不在だった荷物を、夕方に再配達してもらいました。",
+              "zh": "因當時不在而沒收到的包裹，已請對方傍晚再配送一次。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "不在だった荷物を、夕方に再配達してもらいました。",
+              "zh": "因當時不在而沒收到的包裹，已請對方傍晚再配送一次。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun_1783833533248_686",
+          "word": "受領する",
+          "furigana": "受領[じゅりょう]する",
+          "romaji": "juryō suru",
+          "meaning": "簽收 / 收領",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_law_politics",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "書類を受領したら、サインをお願いします。",
+              "zh": "收到文件後，請簽名確認。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "書類を受領したら、サインをお願いします。",
+              "zh": "收到文件後，請簽名確認。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
