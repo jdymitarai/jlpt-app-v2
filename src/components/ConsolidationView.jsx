@@ -1051,7 +1051,41 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <strong>修飾名詞</strong>：直接接名詞<br/>
                   <span style={{ color: '#64748b' }}>例：美味しい＋ご飯 → <strong style={{ color: '#0f172a' }}>美味しいご飯</strong> (美味的飯)</span><br/><br/>
                   <strong>否定形式變化</strong>：去尾部的<strong>「い」＋「くない」</strong>（非正式口語）或 <strong>「くありません」</strong>（正式敬體）<br/>
-                  <div style={{ background: '#fff', pa        {posFilter === 'verb' && (
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #e11d48' }}>
+                    例：暑い (熱) → <strong style={{ color: '#e11d48' }}>暑くない</strong> / <strong style={{ color: '#e11d48' }}>暑くありません</strong><br/>
+                    例：遠い (遠) → <strong style={{ color: '#e11d48' }}>遠くない</strong> / <strong style={{ color: '#e11d48' }}>遠くありません</strong>
+                  </div>
+                  <span style={{ color: '#be123c', fontSize: '0.85rem', display: 'block', marginTop: '8px' }}>※例外注意：良い (いい) 的否定是固定變成 <strong style={{ color: '#e11d48' }}>よくない</strong> / <strong style={{ color: '#e11d48' }}>よくありません</strong>。</span>
+                </div>
+              </div>
+              
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #fecdd3' }}>
+                <div style={{ fontWeight: '800', color: '#e11d48', marginBottom: '12px', fontSize: '1.15rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  🟢 な形容詞（語幹不以「い」結尾）
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  <strong>修飾名詞</strong>：詞尾加上<strong>「な」</strong>再接名詞<br/>
+                  <span style={{ color: '#64748b' }}>例：綺麗＋部屋 → <strong style={{ color: '#0f172a' }}>綺麗な部屋</strong> (乾淨漂亮的房間)</span><br/><br/>
+                  <strong>句尾接「です」（表示禮貌肯定陳述）</strong>：<br/>
+                  直接加上<strong>「です」</strong>（<strong>⚠️注意：必須去掉「な」直接接「です」！</strong>）<br/>
+                  <span style={{ color: '#64748b' }}>
+                    例：綺麗 ＋ です → <strong style={{ color: '#16a34a' }}>綺麗です。</strong> (很漂亮。)<br/>
+                    例：暇 ＋ です → <strong style={{ color: '#16a34a' }}>暇です。</strong> (我有空。)<br/>
+                    <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>❌ 錯誤用法：綺麗なです (×)</span>
+                  </span><br/><br/>
+                  <strong>否定形式變化</strong>：詞尾去掉「な」，加上 <strong>「表達否定」：ではない / じゃない / 疑問 / ではありません</strong><br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #16a34a' }}>
+                    例：暇 (空閒) → <strong style={{ color: '#16a34a' }}>暇ではない</strong> / <strong style={{ color: '#16a34a' }}>暇退屈ではありません</strong><br/>
+                    例：親切 (親切) → <strong style={{ color: '#16a34a' }}>親切じゃない</strong> / <strong style={{ color: '#16a34a' }}>親切ではありません</strong>
+                  </div>
+                  <span style={{ color: '#15803d', fontSize: '0.85rem', display: 'block', marginTop: '8px' }}>※語音提示：大部分「な形容詞」的字典形態是不帶「な」的（如：靜か、綺麗），修飾名詞才加「な」。</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {posFilter === 'verb' && (
 
           <div className="verb-intro-banner">
             <div className="verb-intro-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px', borderBottom: '1px solid rgba(2, 132, 199, 0.1)', paddingBottom: '12px', marginBottom: '16px' }}>
