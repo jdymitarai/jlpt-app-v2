@@ -145757,6 +145757,972 @@
               "zh": "明天我會搭首班電車去機場。"
             }
           ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126665_838",
+          "word": "仲介手数料",
+          "furigana": "仲介[ちゅうかい]手数料[てすうりょう]",
+          "romaji": "chūkai tesūryō",
+          "meaning": "仲介費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "不動産屋でアパートを契約する際、仲介手数料として家賃の1ヶ月分を支払いました。",
+              "zh": "在不動產店簽約租屋時，支付了相當於一個月租金的仲介手續費。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "不動産屋でアパートを契約する際、仲介手数料として家賃の1ヶ月分を支払いました。",
+              "zh": "在不動產店簽約租屋時，支付了相當於一個月租金的仲介手續費。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126666_608",
+          "word": "共益費",
+          "furigana": "共益費[きょうえきひ]",
+          "romaji": "kyōekiihi",
+          "meaning": "公共管理費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "毎月の家賃とは別に、マンションの共益費が5,000円かかります。",
+              "zh": "除了每個月的租金外，大樓的公共管理費需要5,000日圓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毎月の家賃とは別に、マンションの共益費が5,000円かかります。",
+              "zh": "除了每個月的租金外，大樓的公共管理費需要5,000日圓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126666_511",
+          "word": "敷金なし",
+          "furigana": "敷金[しききん]なし",
+          "romaji": "shikikin nashi",
+          "meaning": "免押金",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "初期費用を抑えるため、敷金なし・礼金なしの物件を中心に探しています。",
+              "zh": "為了降低初期費用，我主要在尋找免押金、免禮金的物件。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "初期費用を抑えるため、敷金なし・礼金なしの物件を中心に探しています。",
+              "zh": "為了降低初期費用，我主要在尋找免押金、免禮金的物件。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126666_354",
+          "word": "礼金なし",
+          "furigana": "礼金[れいきん]なし",
+          "romaji": "reikin nashi",
+          "meaning": "免禮金",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "礼金なしの部屋を選べば、大家さんへのお礼の費用を節約できます。",
+              "zh": "如果選擇免禮金的房間，就可以省下給房東謝禮的費用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "礼金なしの部屋を選べば、大家さんへのお礼の費用を節約できます。",
+              "zh": "如果選擇免禮金的房間，就可以省下給房東謝禮的費用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126667_514",
+          "word": "可燃ゴミ",
+          "furigana": "可燃[かねん]ゴミ",
+          "romaji": "kanen gomi",
+          "meaning": "可燃垃圾",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "可燃ゴミは週に2回、指定のゴミ袋に入れて朝8時までに集積所に出します。",
+              "zh": "可燃垃圾每週兩次，放進指定的垃圾袋中，在早上8點前拿到垃圾收集處。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "可燃ゴミは週に2回、指定のゴミ袋に入れて朝8時までに集積所に出します。",
+              "zh": "可燃垃圾每週兩次，放進指定的垃圾袋中，在早上8點前拿到垃圾收集處。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126667_613",
+          "word": "不燃ゴミ",
+          "furigana": "不燃[ふねん]ゴミ",
+          "romaji": "funen gomi",
+          "meaning": "不可燃垃圾",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ガラスや金属などの不燃ゴミは、月に1回だけ回収されます。",
+              "zh": "玻璃或金屬等不可燃垃圾，每個月只回收一次。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ガラスや金属などの不燃ゴミは、月に1回だけ回収されます。",
+              "zh": "玻璃或金屬等不可燃垃圾，每個月只回收一次。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126668_444",
+          "word": "ゴミ集積所",
+          "furigana": "ゴミ集積所[しゅうせきじょ]",
+          "romaji": "gomi shūsekijo",
+          "meaning": "垃圾集中處 / 垃圾收集點",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "近所のルールを守って、決められたゴミ集積所にゴミを分別して出してください。",
+              "zh": "請遵守鄰里規則，將垃圾分類好拿到規定的垃圾集中處。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "近所のルールを守って、決められたゴミ集積所にゴミを分別して出してください。",
+              "zh": "請遵守鄰里規則，將垃圾分類好拿到規定的垃圾集中處。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126668_222",
+          "word": "免許更新",
+          "furigana": "免許[めんきょ]更新[こうしん]",
+          "romaji": "menkyo kōshin",
+          "meaning": "駕照更新",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "誕生日の前後1ヶ月の間に、運転免許試験場へ行って免許更新の手続きをします。",
+              "zh": "在生日的前後半個月內，前往運轉免許試驗場辦理換發駕照的手續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "誕生日の前後1ヶ月の間に、運転免許試験場へ行って免許更新の手続きをします。",
+              "zh": "在生日的前後半個月內，前往運轉免許試驗場辦理換發駕照的手續。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126668_364",
+          "word": "ゴールド免許",
+          "furigana": "ゴールド免許[めんきょ]",
+          "romaji": "gōrudo menkyo",
+          "meaning": "黃金駕照 (優良駕駛)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "5年間無事故無違反だったので、今回の更新でゴールド免許が交付されました。",
+              "zh": "因為5年間無事故無違規，所以這次換發拿到黃金駕照。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "5年間無事故無違反だったので、今回の更新でゴールド免許が交付されました。",
+              "zh": "因為5年間無事故無違規，所以這次換發拿到黃金駕照。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_491",
+          "word": "一時停止",
+          "furigana": "一時[いちじ]停止[ていし]",
+          "romaji": "ichiji teishi",
+          "meaning": "暫時停止",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "交差点の手前にある「止まれ」の標識では、必ず車を一時停止させなければなりません。",
+              "zh": "在路口前方的「停止」標誌處，車子必須確實暫時停止。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "交差点の手前にある「止まれ」の標識では、必ず車を一時停止させなければなりません。",
+              "zh": "在路口前方的「停止」標誌處，車子必須確實暫時停止。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_4",
+          "word": "ETCカード",
+          "furigana": "ETCカード",
+          "romaji": "ī-tī-shī kādo",
+          "meaning": "ETC卡 (高速公路電子收費卡)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "高速道路の料金所をスムーズに通過するため、車載器にETCカードを挿入しておきます。",
+              "zh": "為了順暢通過高速公路收費站，先將ETC卡插入車載裝置中。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "高速道路の料金所をスムーズに通過するため、車載器にETCカードを挿入しておきます。",
+              "zh": "為了順暢通過高速公路收費站，先將ETC卡插入車載裝置中。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_868",
+          "word": "コインパーキング",
+          "furigana": "コインパーキング",
+          "romaji": "koin pākingu",
+          "meaning": "投幣式停車場",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "駅前のコインパーキングに車を停めて、電車で都心へ向かいました。",
+              "zh": "把車停在車站前的投幣式停車場後，搭火車前往市中心。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "駅前のコインパーキングに車を停めて、電車で都心へ向かいました。",
+              "zh": "把車停在車站前的投幣式停車場後，搭火車前往市中心。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_467",
+          "word": "口座開設",
+          "furigana": "口座[こうざ]開設[かいせつ]",
+          "romaji": "kōza kaisetsu",
+          "meaning": "開立帳戶",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "アルバイトの給与振込先として指定された銀行で、口座開設の手続きをしました。",
+              "zh": "作為打工薪資轉帳指定的銀行，我辦理了開立帳戶的手續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "アルバイトの給与振込先として指定された銀行で、口座開設の手続きをしました。",
+              "zh": "作為打工薪資轉帳指定的銀行，我辦理了開立帳戶的手續。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_236",
+          "word": "振込",
+          "furigana": "振[ふ]り込[こ]み",
+          "romaji": "furikomi",
+          "meaning": "銀行轉帳 / 匯款",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "家賃の支払いは、毎月25日までに大家さんの口座へ振込で行います。",
+              "zh": "房租的支付是每個月25日前，透過銀行轉帳匯到房東的帳戶。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "家賃の支払いは、毎月25日までに大家さんの口座へ振込で行います。",
+              "zh": "房租的支付是每個月25日前，透過銀行轉帳匯到房東的帳戶。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_887",
+          "word": "引き落とし",
+          "furigana": "引[ひ]き落[お]とし",
+          "romaji": "hikiotoshi",
+          "meaning": "自動扣款",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "電気代や水道代などの公共料金は、銀行口座からの自動引き落としが便利です。",
+              "zh": "電費或水費等公用事業費用，透過銀行帳戶自動扣款很方便。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "電気代や水道代などの公共料金は、銀行口座からの自動引き落としが便利です。",
+              "zh": "電費或水費等公用事業費用，透過銀行帳戶自動扣款很方便。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126669_707",
+          "word": "残高照会",
+          "furigana": "残高照会[ざんだかしょうかい]",
+          "romaji": "zandaka shōkai",
+          "meaning": "餘額查詢",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ATMで口座の残高照会をしました。",
+              "zh": "我在ATM查了帳戶餘額。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ATMで口座の残高照会をしました。",
+              "zh": "我在ATM查了帳戶餘額。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_116",
+          "word": "ガス開通",
+          "furigana": "ガス開通[かいつう]",
+          "romaji": "gasu kaitsū",
+          "meaning": "瓦斯開通",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "引っ越した日にガスの開通をお願いしました。",
+              "zh": "搬家當天我申請了瓦斯開通。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "引っ越した日にガスの開通をお願いしました。",
+              "zh": "搬家當天我申請了瓦斯開通。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_497",
+          "word": "立ち会い",
+          "furigana": "立[た]ち会[あ]い",
+          "romaji": "tachiai",
+          "meaning": "到場見證 / 陪同在場",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ガスの開通には本人の立ち会いが必要です。",
+              "zh": "瓦斯開通需要本人在場。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ガスの開通には本人の立ち会いが必要です。",
+              "zh": "瓦斯開通需要本人在場。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_118",
+          "word": "水道代",
+          "furigana": "水道代[すいどうだい]",
+          "romaji": "suidōdai",
+          "meaning": "水費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今月の水道代はいつもより少し高かったです。",
+              "zh": "這個月的水費比平時稍微貴了一點。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今月の水道代はいつもより少し高かったです。",
+              "zh": "這個月的水費比平時稍微貴了一點。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_143",
+          "word": "電気代",
+          "furigana": "電気代[でんきだい]",
+          "romaji": "denkidai",
+          "meaning": "電費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "エアコンをよく使うので、電気代が心配です。",
+              "zh": "因為經常使用冷氣，我很擔心電費。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "エアコンをよく使うので、電気代が心配です。",
+              "zh": "因為經常使用冷氣，我很擔心電費。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_773",
+          "word": "お世話になります",
+          "furigana": "お世話[せわ]になります",
+          "romaji": "osewa ni narimasu",
+          "meaning": "受您照顧了 / 承蒙照顧",
+          "type": "expression",
+          "pos": "慣用句",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "隣に引っ越してまいりました。これからお世話になります。",
+              "zh": "我剛搬到隔壁。今後請多指教（承蒙照顧）。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "隣に引っ越してまいりました。これからお世話になります。",
+              "zh": "我剛搬到隔壁。今後請多指教（承蒙照顧）。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_995",
+          "word": "お邪魔します",
+          "furigana": "お邪魔[じゃま]します",
+          "romaji": "ojama shimasu",
+          "meaning": "打擾了",
+          "type": "expression",
+          "pos": "慣用句",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "それでは、お邪魔します。素敵なご自宅ですね。",
+              "zh": "那麼我就打擾了。您家真漂亮。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "それでは、お邪魔します。素敵なご自宅ですね。",
+              "zh": "那麼我就打擾了。您家真漂亮。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126670_993",
+          "word": "お手数ですが",
+          "furigana": "お手数[てすう]ですが",
+          "romaji": "otesū desu ga",
+          "meaning": "麻煩您 / 給您添麻煩了",
+          "type": "expression",
+          "pos": "慣用句",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "お手数ですが、こちらの書類にご記入をお願いします。",
+              "zh": "麻煩您填寫這份文件。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "お手数ですが、こちらの書類にご記入をお願いします。",
+              "zh": "麻煩您填寫這份文件。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_469",
+          "word": "恐縮ですが",
+          "furigana": "恐縮[きょうしゅく]ですが",
+          "romaji": "kyōshuku desu ga",
+          "meaning": "不好意思 / 實在抱歉",
+          "type": "expression",
+          "pos": "慣用句",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大変恐縮ですが、明日までに折り返しお電話をいただけますでしょうか。",
+              "zh": "非常抱歉，能否請您在明天之前回電？"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大変恐縮ですが、明日までに折り返しお電話をいただけますでしょうか。",
+              "zh": "非常抱歉，能否請您在明天之前回電？"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_619",
+          "word": "差し支えなければ",
+          "furigana": "差[さ]し支[つか]えなければ",
+          "romaji": "sashitsukae nakereba",
+          "meaning": "如果方便的話 / 如果不介意的話",
+          "type": "expression",
+          "pos": "慣用句",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "差し支えなければ、ご連絡先を教えていただけませんか。",
+              "zh": "如果方便的話，能否告訴我您的聯絡方式？"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "差し支えなければ、ご連絡先を教えていただけませんか。",
+              "zh": "如果方便的話，能否告訴我您的聯絡方式？"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_185",
+          "word": "お見舞い",
+          "furigana": "お見舞[みま]い",
+          "romaji": "omimai",
+          "meaning": "探望 / 探病",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "入院中の友人にお見舞いの品を持って行きました。",
+              "zh": "我帶了慰問品去探望住院的朋友。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "入院中の友人にお見舞いの品を持って行きました。",
+              "zh": "我帶了慰問品去探望住院的朋友。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_552",
+          "word": "お祝い",
+          "furigana": "お祝[いわ]い",
+          "romaji": "oiwai",
+          "meaning": "祝賀 / 賀禮",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "友人の結婚式に、お祝いの品を贈りました。",
+              "zh": "我送了賀禮慶祝朋友的婚禮。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "友人の結婚式に、お祝いの品を贈りました。",
+              "zh": "我送了賀禮慶祝朋友的婚禮。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_809",
+          "word": "熨斗袋",
+          "furigana": "熨斗袋[のしぶくろ]",
+          "romaji": "noshibukuro",
+          "meaning": "禮金袋 / 紅包袋",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "お祝いのお金は、必ず新札を用意して熨斗袋に入れます。",
+              "zh": "賀禮的錢必須準備新鈔，並裝進禮金袋裡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "お祝いのお金は、必ず新札を用意して熨斗袋に入れます。",
+              "zh": "賀禮的錢必須準備新鈔，並裝進禮金袋裡。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_942",
+          "word": "お香典",
+          "furigana": "お香典[こうでん]",
+          "romaji": "okōden",
+          "meaning": "奠儀 / 白包",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "お葬式に参列する際、お香典を持参しました。",
+              "zh": "參加葬禮時，我帶了奠儀去。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "お葬式に参列する際、お香典を持参しました。",
+              "zh": "參加葬禮時，我帶了奠儀去。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_930",
+          "word": "近所付き合い",
+          "furigana": "近所付[きんじょづ]き合[あ]い",
+          "romaji": "kinjo zukiai",
+          "meaning": "鄰里關係 / 街坊交往",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "引っ越し先では、円滑な近所付き合いを大切にしたいです。",
+              "zh": "在搬去的新地方，希望能好好維繫和睦的鄰里關係。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "引っ越し先では、円滑な近所付き合いを大切にしたいです。",
+              "zh": "在搬去的新地方，希望能好好維繫和睦的鄰里關係。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_968",
+          "word": "町内会",
+          "furigana": "町内会[ちょうないかい]",
+          "romaji": "chōnaikai",
+          "meaning": "社區自治會 / 鄰里協會",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_law_politics",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "来週の町内会の集まりに、ぜひご参加ください。",
+              "zh": "下週的社區自治會聚會，請務必參加。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "来週の町内会の集まりに、ぜひご参加ください。",
+              "zh": "下週的社區自治會聚會，請務必參加。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126671_601",
+          "word": "回覧板",
+          "furigana": "回覧板[かいらんばん]",
+          "romaji": "kairanban",
+          "meaning": "社區傳閱板 / 公告板",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "回覧板が届いたら、目を通してから次の方へ回してください。",
+              "zh": "傳閱板送到後，請看過再傳給下一位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "回覧板が届いたら、目を通してから次の方へ回してください。",
+              "zh": "傳閱板送到後，請看過再傳給下一位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_529",
+          "word": "引っ越し挨拶",
+          "furigana": "引[ひ]っ越[こ]し挨拶[あいさつ]",
+          "romaji": "hikkoshi aisatsu",
+          "meaning": "搬家拜訪打招呼",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "明日、近所の方へ引っ越し挨拶に伺う予定です。",
+              "zh": "我預定明天去向附近鄰居做搬家打招呼。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "明日、近所の方へ引っ越し挨拶に伺う予定です。",
+              "zh": "我預定明天去向附近鄰居做搬家打招呼。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_713",
+          "word": "粗品",
+          "furigana": "粗品[そしな]",
+          "romaji": "soshina",
+          "meaning": "小禮物 / 粗品（見面禮禮物）",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "引っ越しの際は、粗品を持ってご挨拶するのが一般的です。",
+              "zh": "搬家時，帶著小禮物去打招呼是很常見的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "引っ越しの際は、粗品を持ってご挨拶するのが一般的です。",
+              "zh": "搬家時，帶著小禮物去打招呼是很常見的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_897",
+          "word": "手土産",
+          "furigana": "手土産[てみやげ]",
+          "romaji": "temiyage",
+          "meaning": "伴手禮 / 拜訪禮物",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大家さんを訪ねるときは、手土産を持っていくといいですよ。",
+              "zh": "去拜訪房東時，最好帶點伴手禮。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大家さんを訪ねるときは、手土産を持っていくといいですよ。",
+              "zh": "去拜訪房東時，最好帶點伴手禮。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_793",
+          "word": "燃やすゴミ",
+          "furigana": "燃[も]やすゴミ",
+          "romaji": "moyasu gomi",
+          "meaning": "可燃垃圾",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "燃やすゴミは毎週火曜日の朝に出してください。",
+              "zh": "可燃垃圾請在每週二早上拿出去。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "燃やすゴミは毎週火曜日の朝に出してください。",
+              "zh": "可燃垃圾請在每週二早上拿出去。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_280",
+          "word": "粗大ゴミシール",
+          "furigana": "粗大[そだい]ゴミシール",
+          "romaji": "sodai gomi shīru",
+          "meaning": "大型垃圾處理貼紙",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "タンスを捨てるには、市役所で粗大ゴミシールを購入する必要があります。",
+              "zh": "要丟衣櫃的話，必須到市公所購買大型垃圾處理貼紙。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "タンスを捨てるには、市役所で粗大ゴミシールを購入する必要があります。",
+              "zh": "要丟衣櫃的話，必須到市公所購買大型垃圾處理貼紙。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_33",
+          "word": "連帯保証人",
+          "furigana": "連帯保証人[れんたいほしょうにん]",
+          "romaji": "rentai hoshōnin",
+          "meaning": "連帶保證人",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_law_politics",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "賃貸契約では、連帯保証人の署名が求められることが多いです。",
+              "zh": "租賃契約中，常常會要求連帶保證人簽名。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "賃貸契約では、連帯保証人の署名が求められることが多いです。",
+              "zh": "租賃契約中，常常會要求連帶保證人簽名。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126672_967",
+          "word": "更新料",
+          "furigana": "更新料[こうしんりょう]",
+          "romaji": "kōshinryō",
+          "meaning": "租約更新費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "二年ごとの契約更新時に、更新料が発生します。",
+              "zh": "每兩年契約更新時，會產生租約更新費。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "二年ごとの契約更新時に、更新料が発生します。",
+              "zh": "每兩年契約更新時，會產生租約更新費。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126673_678",
+          "word": "解約予告",
+          "furigana": "解約予告[かいやくよこく]",
+          "romaji": "kaiyaku yokoku",
+          "meaning": "解約預告 / 退租通知",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "解約予告は、退去希望日の一か月前までに書面でお願いします。",
+              "zh": "解約預告請在希望退租日的一個月前以書面提出。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "解約予告は、退去希望日の一か月前までに書面でお願いします。",
+              "zh": "解約預告請在希望退租日的一個月前以書面提出。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126673_769",
+          "word": "退去手続き",
+          "furigana": "退去[たいきょ]手続[てつづ]き",
+          "romaji": "taikyo tetsuzuki",
+          "meaning": "退租手續 / 搬出程序",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "退去手続きは、管理会社の窓口で行えます。",
+              "zh": "退租手續可以在管理公司櫃台辦理。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "退去手続きは、管理会社の窓口で行えます。",
+              "zh": "退租手續可以在管理公司櫃台辦理。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily2_1783833126673_426",
+          "word": "鍵交換費用",
+          "furigana": "鍵[かぎ]交換[こうかん]費用[ひよう]",
+          "romaji": "kagi kōkan hiyō",
+          "meaning": "更換鑰匙費用",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "退去時に鍵交換費用が請求されることがあります。",
+              "zh": "退租時有時會被收取更換鑰匙的費用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "退去時に鍵交換費用が請求されることがあります。",
+              "zh": "退租時有時會被收取更換鑰匙的費用。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
