@@ -115595,6 +115595,262 @@
               "zh": "蔬菜也要好好吃喔。"
             }
           ]
+        },
+        {
+          "word": "親切",
+          "furigana": "親切[しんせつ]",
+          "romaji": "shinsetsu",
+          "meaning": "親切的",
+          "type": "na-adjective",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼は誰にでも親切です。",
+              "zh": "他對任何人都很親切。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_919"
+        },
+        {
+          "word": "便利",
+          "furigana": "便利[べんり]",
+          "romaji": "benri",
+          "meaning": "方便的",
+          "type": "na-adjective",
+          "category": "abstract_value",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "このスマホはとても便利です。",
+              "zh": "這部智慧型手機非常方便。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_876"
+        },
+        {
+          "word": "有名",
+          "furigana": "有名[ゆうめい]",
+          "romaji": "yuumei",
+          "meaning": "著名的",
+          "type": "na-adjective",
+          "category": "adj_social_eval",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ここは桜で有名な場所です。",
+              "zh": "這裡是因櫻花而聞名的地方。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_409"
+        },
+        {
+          "word": "賑やか",
+          "furigana": "賑[にぎ]やか",
+          "romaji": "nigiyaka",
+          "meaning": "熱鬧的",
+          "type": "na-adjective",
+          "category": "looks_space",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "夜の街はとても賑やかです。",
+              "zh": "夜晚的街道非常熱鬧。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_36"
+        },
+        {
+          "word": "安全",
+          "furigana": "安全[あんぜん]",
+          "romaji": "anzen",
+          "meaning": "安全的",
+          "type": "na-adjective",
+          "category": "abstract_difficulty",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "日本は治安が良くて安全です。",
+              "zh": "日本治安良好，非常安全。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_180"
+        },
+        {
+          "word": "簡単",
+          "furigana": "簡単[かんたん]",
+          "romaji": "kantan",
+          "meaning": "簡單的",
+          "type": "na-adjective",
+          "category": "abstract_difficulty",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "この問題は簡単です。",
+              "zh": "這個問題很簡單。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_467"
+        },
+        {
+          "word": "綺麗",
+          "furigana": "綺麗[きれい]",
+          "romaji": "kirei",
+          "meaning": "美麗的 / 乾淨的",
+          "type": "na-adjective",
+          "category": "looks_state",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼女は花のように綺麗です。",
+              "zh": "她像花一樣美麗。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_918"
+        },
+        {
+          "word": "だから",
+          "furigana": "だから",
+          "romaji": "dakara",
+          "meaning": "所以 / 因此",
+          "type": "conjunction",
+          "category": "abs_logic_cause",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "雨が降っている。だから傘を持っていく。",
+              "zh": "在下雨。所以我要帶傘去。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_256"
+        },
+        {
+          "word": "しかし",
+          "furigana": "しかし",
+          "romaji": "shikashi",
+          "meaning": "然而 / 但是",
+          "type": "conjunction",
+          "category": "abs_logic_cause",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "頑張った。しかし合格できなかった。",
+              "zh": "我努力了。但是沒有考上。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_845"
+        },
+        {
+          "word": "そして",
+          "furigana": "そして",
+          "romaji": "soshite",
+          "meaning": "而且 / 然後",
+          "type": "conjunction",
+          "category": "abs_logic_method",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼女は歌った。そして踊った。",
+              "zh": "她唱歌了。然後跳舞了。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_299"
+        },
+        {
+          "word": "それから",
+          "furigana": "それから",
+          "romaji": "sorekara",
+          "meaning": "然後 / 還有",
+          "type": "conjunction",
+          "category": "abs_logic_method",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "宿題をして、それからお風呂に入る。",
+              "zh": "做完功課，然後洗澡。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_966"
+        },
+        {
+          "word": "ワクワク",
+          "furigana": "ワクワク",
+          "romaji": "wakuwaku",
+          "meaning": "興奮地 / 滿懷期待地",
+          "type": "mimetic",
+          "category": "adv_psych_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "旅行の前日はワクワクします。",
+              "zh": "旅行的前一天令人滿懷期待。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_50"
+        },
+        {
+          "word": "ペコペコ",
+          "furigana": "ペコペコ",
+          "romaji": "pekopeko",
+          "meaning": "肚子餓 / 點頭哈腰的",
+          "type": "mimetic",
+          "category": "adv_daily_action",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "お腹がペコペコです。",
+              "zh": "我肚子好餓。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_97"
+        },
+        {
+          "word": "キラキラ",
+          "furigana": "キラキラ",
+          "romaji": "kirakira",
+          "meaning": "閃閃發光地",
+          "type": "mimetic",
+          "category": "adv_item_space",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "星が夜空でキラキラ光っています。",
+              "zh": "星星在夜空裡閃閃發光。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_200"
+        },
+        {
+          "word": "準備",
+          "furigana": "準備[じゅんび]する",
+          "romaji": "junbisuru",
+          "meaning": "準備",
+          "type": "verb",
+          "category": "verb_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "出張の準備をします。",
+              "zh": "準備出差的工作。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_657"
+        },
+        {
+          "word": "紹介",
+          "furigana": "紹介[しょうかい]する",
+          "romaji": "shoukaisuru",
+          "meaning": "介紹",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "友達に先生を紹介します。",
+              "zh": "向朋友介紹老師。"
+            }
+          ],
+          "id": "v_n5_ex_1783819511265_835"
         }
       ],
       "verbConjugations": [
@@ -125445,6 +125701,214 @@
               "zh": "準備了豐盛的餐點。"
             }
           ]
+        },
+        {
+          "word": "丁寧",
+          "furigana": "丁寧[ていねい]",
+          "romaji": "teinei",
+          "meaning": "有禮貌的 / 細心的",
+          "type": "na-adjective",
+          "category": "social_personality",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "店員さんは丁寧に対応してくれました。",
+              "zh": "店員非常禮貌地接待了我們。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_63"
+        },
+        {
+          "word": "真面目",
+          "furigana": "真面目[まじめ]",
+          "romaji": "majime",
+          "meaning": "認真的 / 誠實的",
+          "type": "na-adjective",
+          "category": "social_personality",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "彼女は真面目に勉強しています。",
+              "zh": "她正在認真地學習。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_992"
+        },
+        {
+          "word": "複雑",
+          "furigana": "複雑[ふくざつ]",
+          "romaji": "fukuzatsu",
+          "meaning": "複雜的",
+          "type": "na-adjective",
+          "category": "abstract_difficulty",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "この機械の使い方は複雑です。",
+              "zh": "這個機器的使用方法很複雜。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_125"
+        },
+        {
+          "word": "特別",
+          "furigana": "特別[とくべつ]",
+          "romaji": "tokubetsu",
+          "meaning": "特別的",
+          "type": "na-adjective",
+          "category": "abstract_value",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "今日は特別な日です。",
+              "zh": "今天是一個特別的日子。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_980"
+        },
+        {
+          "word": "それに",
+          "furigana": "それに",
+          "romaji": "soreni",
+          "meaning": "而且 / 加上",
+          "type": "conjunction",
+          "category": "abs_logic_method",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "この店は安くて、それに美味しい。",
+              "zh": "這家店很便宜，而且很好吃。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_418"
+        },
+        {
+          "word": "ギリギリ",
+          "furigana": "ギリギリ",
+          "romaji": "girigiri",
+          "meaning": "極限地 / 勉強地",
+          "type": "mimetic",
+          "category": "adv_time_freq",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "電車にギリギリで間に合いました。",
+              "zh": "勉強趕上了火車。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_44"
+        },
+        {
+          "word": "ウトウト",
+          "furigana": "ウトウト",
+          "romaji": "utouto",
+          "meaning": "打瞌睡地",
+          "type": "mimetic",
+          "category": "adv_psych_emotion",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "授業中にウトウトしてしまった。",
+              "zh": "在課堂上打瞌睡了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_620"
+        },
+        {
+          "word": "約束",
+          "furigana": "約束[やくそく]する",
+          "romaji": "yakusokusuru",
+          "meaning": "約定 / 承諾",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "明日会う約束をしました。",
+              "zh": "約好明天見面。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_788"
+        },
+        {
+          "word": "相談",
+          "furigana": "相談[そうだん]する",
+          "romaji": "soudansuru",
+          "meaning": "諮詢 / 商量",
+          "type": "verb",
+          "category": "verb_communication",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "進路について両親に相談します。",
+              "zh": "關於升學規劃與父母商量。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_157"
+        },
+        {
+          "word": "遅刻",
+          "furigana": "遅刻[ちこく]する",
+          "romaji": "chikokusuru",
+          "meaning": "遲到",
+          "type": "verb",
+          "category": "verb_time_process",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "学校に遅刻してしまいました。",
+              "zh": "上學遲到了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_859"
+        },
+        {
+          "word": "注意",
+          "furigana": "注意[ちゅうい]する",
+          "romaji": "chuuisuru",
+          "meaning": "注意 / 警告",
+          "type": "verb",
+          "category": "verb_senses",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "車に注意してください。",
+              "zh": "請注意來車。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_138"
+        },
+        {
+          "word": "合格",
+          "furigana": "合格[ごうかく]する",
+          "romaji": "goukakusuru",
+          "meaning": "及格 / 考上",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "試験に合格しました。",
+              "zh": "考試及格了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_92"
+        },
+        {
+          "word": "失敗",
+          "furigana": "失敗[しっぱい]する",
+          "romaji": "shippaisuru",
+          "meaning": "失敗",
+          "type": "verb",
+          "category": "verb_learning_education",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "実験に失敗してしまいました。",
+              "zh": "實驗失敗了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819511265_962"
         }
       ],
       "kana": {
@@ -136393,6 +136857,182 @@
               "zh": "我去補個妝。"
             }
           ]
+        },
+        {
+          "word": "適当",
+          "furigana": "適当[てきとう]",
+          "romaji": "tekitou",
+          "meaning": "合適的 / 隨便的",
+          "type": "na-adjective",
+          "category": "abstract_value",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "適当な言葉が見つかりません。",
+              "zh": "找不到合適的詞彙。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_527"
+        },
+        {
+          "word": "重要",
+          "furigana": "重要[じゅうよう]",
+          "romaji": "juuyou",
+          "meaning": "重要的",
+          "type": "na-adjective",
+          "category": "abstract_value",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "これは非常に重要な会議です。",
+              "zh": "這是非常重要的會議。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_867"
+        },
+        {
+          "word": "つまり",
+          "furigana": "つまり",
+          "romaji": "tsumari",
+          "meaning": "也就是說 / 總之",
+          "type": "conjunction",
+          "category": "abs_logic_thought",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "彼は来ない。つまり、諦めたのだ。",
+              "zh": "他不來了。也就是說，他放棄了。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_246"
+        },
+        {
+          "word": "したがって",
+          "furigana": "したがって",
+          "romaji": "shitagatte",
+          "meaning": "因此 / 從而",
+          "type": "conjunction",
+          "category": "abs_logic_cause",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "事故があった。したがって遅れました。",
+              "zh": "發生了事故。因此我遲到了。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_616"
+        },
+        {
+          "word": "すっきり",
+          "furigana": "すっきり",
+          "romaji": "sukkiri",
+          "meaning": "爽快地 / 乾淨地",
+          "type": "mimetic",
+          "category": "adv_psych_emotion",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "シャワーを浴びてすっきりした。",
+              "zh": "洗完澡後感覺舒暢多了。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_479"
+        },
+        {
+          "word": "のんびり",
+          "furigana": "のんびり",
+          "romaji": "nonbiri",
+          "meaning": "悠閒地",
+          "type": "mimetic",
+          "category": "adv_daily_action",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "週末は家でのんびり過ごします。",
+              "zh": "週末在家裡悠閒地度過。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_480"
+        },
+        {
+          "word": "がっかり",
+          "furigana": "がっかり",
+          "romaji": "gakkari",
+          "meaning": "失望地",
+          "type": "mimetic",
+          "category": "adv_psych_emotion",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "試験に落ちてがっかりした。",
+              "zh": "考試不及格感到很失望。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_715"
+        },
+        {
+          "word": "いらいら",
+          "furigana": "いらいら",
+          "romaji": "iraira",
+          "meaning": "焦躁地",
+          "type": "mimetic",
+          "category": "adv_psych_emotion",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "渋滞でいらいらする。",
+              "zh": "因為塞車而感到煩躁。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_9"
+        },
+        {
+          "word": "うっかり",
+          "furigana": "うっかり",
+          "romaji": "ukkiri",
+          "meaning": "不小心 / 恍神地",
+          "type": "mimetic",
+          "category": "adv_daily_action",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "うっかり鍵を忘れてしまいました。",
+              "zh": "我不小心把鑰匙忘記了。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_278"
+        },
+        {
+          "word": "希望",
+          "furigana": "希望[きぼう]する",
+          "romaji": "kibousuru",
+          "meaning": "希望 / 期望",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "留学を希望しています。",
+              "zh": "我期望能出國留學。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_138"
+        },
+        {
+          "word": "決定",
+          "furigana": "決定[けってい]する",
+          "romaji": "ketteisuru",
+          "meaning": "決定 / 確定",
+          "type": "verb",
+          "category": "verb_psychology",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "日程が決定しました。",
+              "zh": "日程已經確定了。"
+            }
+          ],
+          "id": "v_n3_ex_1783819511265_92"
         }
       ],
       "kana": {
