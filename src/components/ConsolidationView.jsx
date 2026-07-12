@@ -991,6 +991,13 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                 <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
                   <strong>修飾名詞</strong>：詞尾加上<strong>「な」</strong>再接名詞<br/>
                   <span style={{ color: '#64748b' }}>例：綺麗＋部屋 → <strong style={{ color: '#0f172a' }}>綺麗な部屋</strong> (乾淨漂亮的房間)</span><br/><br/>
+                  <strong>句尾接「です」（表示禮貌肯定陳述）</strong>：<br/>
+                  直接加上<strong>「です」</strong>（<strong>⚠️注意：必須去掉「な」直接接「です」！</strong>）<br/>
+                  <span style={{ color: '#64748b' }}>
+                    例：綺麗 ＋ です → <strong style={{ color: '#16a34a' }}>綺麗です。</strong> (很漂亮。)<br/>
+                    例：暇 ＋ です → <strong style={{ color: '#16a34a' }}>暇です。</strong> (我有空。)<br/>
+                    <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>❌ 錯誤用法：綺麗なです (×)</span>
+                  </span><br/><br/>
                   <strong>否定形式變化</strong>：詞尾去掉「な」，加上 <strong>「ではない」/「じゃない」</strong>（口語）或 <strong>「ではありません」/「じゃありません」</strong>（敬體）<br/>
                   <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #16a34a' }}>
                     例：暇 (空閒) → <strong style={{ color: '#16a34a' }}>暇ではない</strong> / <strong style={{ color: '#16a34a' }}>暇ではありません</strong><br/>
