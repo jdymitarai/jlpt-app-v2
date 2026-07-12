@@ -106951,7 +106951,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2125",
-          "romaji": "uttoushii"
+          "romaji": "uttoushii",
+          "examples": [
+            {
+              "ja": "今日は鬱陶しい天気で気分がすぐれない。",
+              "zh": "今天天氣悶熱烦人，心情不太好。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日は鬱陶しい天気で気分がすぐれない。",
+              "zh": "今天天氣悶熱烦人，心情不太好。"
+            }
+          ]
         },
         {
           "word": "煩わしい",
@@ -106963,7 +106975,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2126",
-          "romaji": "wazurawashii"
+          "romaji": "wazurawashii",
+          "examples": [
+            {
+              "ja": "煩わしい手続きを全部済ませた。",
+              "zh": "繁瑣的手續全部辦完了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "煩わしい手続きを全部済ませた。",
+              "zh": "繁瑣的手續全部辦完了。"
+            }
+          ]
         },
         {
           "word": "悩ましい",
@@ -106975,7 +106999,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2127",
-          "romaji": "nayamashii"
+          "romaji": "nayamashii",
+          "examples": [
+            {
+              "ja": "悩ましい選択を迫られている。",
+              "zh": "正被逼作令人煩惱的選擇。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "悩ましい選択を迫られている。",
+              "zh": "正被逼作令人煩惱的選擇。"
+            }
+          ]
         },
         {
           "word": "頼もしい",
@@ -107011,7 +107047,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2129",
-          "romaji": "susamajii"
+          "romaji": "susamajii",
+          "examples": [
+            {
+              "ja": "昨夜の嵐は凄まじい勢いで吹き荒れた。",
+              "zh": "昨夜的暴風雨以驚人的氣勢肆虐。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昨夜の嵐は凄まじい勢いで吹き荒れた。",
+              "zh": "昨夜的暴風雨以驚人的氣勢肆虐。"
+            }
+          ]
         },
         {
           "word": "著しい",
@@ -107023,7 +107071,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2130",
-          "romaji": "ichijirushii"
+          "romaji": "ichijirushii",
+          "examples": [
+            {
+              "ja": "彼の技術は著しい進歩を見せた。",
+              "zh": "他的技術展現了顯著的進步。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の技術は著しい進歩を見せた。",
+              "zh": "他的技術展現了顯著的進步。"
+            }
+          ]
         },
         {
           "word": "華々しい",
@@ -107035,7 +107095,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2131",
-          "romaji": "hanabanashii"
+          "romaji": "hanabanashii",
+          "examples": [
+            {
+              "ja": "彼女は華々しいデビューを飾った。",
+              "zh": "她完成了華麗的出道。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は華々しいデビューを飾った。",
+              "zh": "她完成了華麗的出道。"
+            }
+          ]
         },
         {
           "word": "騒がしい",
@@ -107095,7 +107167,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2134",
-          "romaji": "munashii"
+          "romaji": "munashii",
+          "examples": [
+            {
+              "ja": "努力が空しい結果に終わった。",
+              "zh": "努力落得了徒然的結果。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "努力が空しい結果に終わった。",
+              "zh": "努力落得了徒然的結果。"
+            }
+          ]
         },
         {
           "word": "険しい",
@@ -107155,7 +107239,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2137",
-          "romaji": "araarashii"
+          "romaji": "araarashii",
+          "examples": [
+            {
+              "ja": "荒々しい海が船を揺さぶる。",
+              "zh": "狂暴的大海搖晃著船隻。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "荒々しい海が船を揺さぶる。",
+              "zh": "狂暴的大海搖晃著船隻。"
+            }
+          ]
         },
         {
           "word": "勇ましい",
@@ -107191,7 +107287,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2139",
-          "romaji": "kagayakashii"
+          "romaji": "kagayakashii",
+          "examples": [
+            {
+              "ja": "輝かしい未来が待っていると信じている。",
+              "zh": "我相信燦爛的未來正等待著我們。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "輝かしい未来が待っていると信じている。",
+              "zh": "我相信燦爛的未來正等待著我們。"
+            }
+          ]
         },
         {
           "word": "重々しい",
@@ -107203,7 +107311,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2140",
-          "romaji": "omoomoshii"
+          "romaji": "omoomoshii",
+          "examples": [
+            {
+              "ja": "重々しい雰囲気の中で会議が始まった。",
+              "zh": "會議在莊重的氣氛中開始了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "重々しい雰囲気の中で会議が始まった。",
+              "zh": "會議在莊重的氣氛中開始了。"
+            }
+          ]
         },
         {
           "word": "堅苦しい",
@@ -107215,7 +107335,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2141",
-          "romaji": "katakurushii"
+          "romaji": "katakurushii",
+          "examples": [
+            {
+              "ja": "堅苦しいルールばかりで息が詰まる。",
+              "zh": "盡是死板的規定，令人窒息。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "堅苦しいルールばかりで息が詰まる。",
+              "zh": "盡是死板的規定，令人窒息。"
+            }
+          ]
         },
         {
           "word": "しぶとい",
@@ -107228,7 +107360,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2142",
-          "romaji": "shibutoi"
+          "romaji": "shibutoi",
+          "examples": [
+            {
+              "ja": "彼はしぶとい相手でなかなか諦めない。",
+              "zh": "他是個頑強的對手，怎麼也不肯放棄。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼はしぶとい相手でなかなか諦めない。",
+              "zh": "他是個頑強的對手，怎麼也不肯放棄。"
+            }
+          ]
         },
         {
           "word": "すばしっこい",
@@ -107241,7 +107385,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2143",
-          "romaji": "subashikkoi"
+          "romaji": "subashikkoi",
+          "examples": [
+            {
+              "ja": "すばしっこい猫が塀を飛び越えた。",
+              "zh": "敏捷的貓跳過了圍牆。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "すばしっこい猫が塀を飛び越えた。",
+              "zh": "敏捷的貓跳過了圍牆。"
+            }
+          ]
         },
         {
           "word": "容易い",
@@ -107517,7 +107673,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2165",
-          "romaji": "imawashii"
+          "romaji": "imawashii",
+          "examples": [
+            {
+              "ja": "忌まわしい記憶が蘇ってきた。",
+              "zh": "令人毛骨悚然的記憶又浮現了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "忌まわしい記憶が蘇ってきた。",
+              "zh": "令人毛骨悚然的記憶又浮現了。"
+            }
+          ]
         },
         {
           "word": "麗しい",
@@ -107529,7 +107697,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2166",
-          "romaji": "uruwashii"
+          "romaji": "uruwashii",
+          "examples": [
+            {
+              "ja": "麗しい景色に心を奪われた。",
+              "zh": "被美麗的景色深深吸引。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "麗しい景色に心を奪われた。",
+              "zh": "被美麗的景色深深吸引。"
+            }
+          ]
         },
         {
           "word": "夥しい",
@@ -107541,7 +107721,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2167",
-          "romaji": "obitadashii"
+          "romaji": "obitadashii",
+          "examples": [
+            {
+              "ja": "夥しい数の星が夜空に輝いている。",
+              "zh": "大量的星星在夜空中閃耀。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夥しい数の星が夜空に輝いている。",
+              "zh": "大量的星星在夜空中閃耀。"
+            }
+          ]
         },
         {
           "word": "好ましい",
@@ -107577,7 +107769,19 @@
           "pos": "い形容詞",
           "category": "adj_taste",
           "id": "v_n5_auto_2169",
-          "romaji": "shibui"
+          "romaji": "shibui",
+          "examples": [
+            {
+              "ja": "このお茶は渋い味わいが特徴だ。",
+              "zh": "這茶以苦澀的風味為特色。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このお茶は渋い味わいが特徴だ。",
+              "zh": "這茶以苦澀的風味為特色。"
+            }
+          ]
         },
         {
           "word": "尊い",
@@ -107589,7 +107793,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2170",
-          "romaji": "toutoi"
+          "romaji": "toutoi",
+          "examples": [
+            {
+              "ja": "尊い命を無駄にしてはいけない。",
+              "zh": "不可浪費寶貴尊貴的生命。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "尊い命を無駄にしてはいけない。",
+              "zh": "不可浪費寶貴尊貴的生命。"
+            }
+          ]
         },
         {
           "word": "情け深い",
@@ -107601,7 +107817,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2171",
-          "romaji": "nasakebukai"
+          "romaji": "nasakebukai",
+          "examples": [
+            {
+              "ja": "情け深い人々が被災者を支えた。",
+              "zh": "仁慈的人們支援了災民。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "情け深い人々が被災者を支えた。",
+              "zh": "仁慈的人們支援了災民。"
+            }
+          ]
         },
         {
           "word": "久しい",
@@ -107613,7 +107841,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2172",
-          "romaji": "hisashii"
+          "romaji": "hisashii",
+          "examples": [
+            {
+              "ja": "久しい年月を経て故郷に戻った。",
+              "zh": "經過長久的歲月後回到了故鄉。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "久しい年月を経て故郷に戻った。",
+              "zh": "經過長久的歲月後回到了故鄉。"
+            }
+          ]
         },
         {
           "word": "相応しい",
@@ -107649,7 +107889,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2174",
-          "romaji": "magirawashii"
+          "romaji": "magirawashii",
+          "examples": [
+            {
+              "ja": "紛らわしい表示で道に迷ってしまった。",
+              "zh": "因為容易混淆的標示而迷路了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "紛らわしい表示で道に迷ってしまった。",
+              "zh": "因為容易混淆的標示而迷路了。"
+            }
+          ]
         },
         {
           "word": "目覚ましい",
@@ -107685,7 +107937,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2176",
-          "romaji": "arai"
+          "romaji": "arai",
+          "examples": [
+            {
+              "ja": "荒い言葉で人を傷つけるな。",
+              "zh": "不要用粗暴的言語傷害別人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "荒い言葉で人を傷つけるな。",
+              "zh": "不要用粗暴的言語傷害別人。"
+            }
+          ]
         },
         {
           "word": "可愛らしい",
@@ -107697,7 +107961,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2177",
-          "romaji": "kawairashii"
+          "romaji": "kawairashii",
+          "examples": [
+            {
+              "ja": "可愛らしい赤ちゃんが眠っています。",
+              "zh": "可愛的嬰兒正在睡覺。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "可愛らしい赤ちゃんが眠っています。",
+              "zh": "可愛的嬰兒正在睡覺。"
+            }
+          ]
         },
         {
           "word": "臭い",
@@ -107709,7 +107985,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2178",
-          "romaji": "kusai"
+          "romaji": "kusai",
+          "examples": [
+            {
+              "ja": "この部屋は魚の臭いがする。",
+              "zh": "這個房間有魚腥臭味。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この部屋は魚の臭いがする。",
+              "zh": "這個房間有魚腥臭味。"
+            }
+          ]
         },
         {
           "word": "煙い",
@@ -107721,7 +108009,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2179",
-          "romaji": "kemui"
+          "romaji": "kemui",
+          "examples": [
+            {
+              "ja": "焚き火が煙くて目が痛い。",
+              "zh": "篝火嗆人，眼睛很痛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "焚き火が煙くて目が痛い。",
+              "zh": "篝火嗆人，眼睛很痛。"
+            }
+          ]
         },
         {
           "word": "恋しい",
@@ -107733,7 +108033,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2180",
-          "romaji": "koishii"
+          "romaji": "koishii",
+          "examples": [
+            {
+              "ja": "故郷の味が恋しくなった。",
+              "zh": "開始懷念故鄉的味道。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "故郷の味が恋しくなった。",
+              "zh": "開始懷念故鄉的味道。"
+            }
+          ]
         },
         {
           "word": "執拗い",
@@ -107745,7 +108057,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2181",
-          "romaji": "shitsukoi"
+          "romaji": "shitsukoi",
+          "examples": [
+            {
+              "ja": "執拗い質問にうんざりした。",
+              "zh": "對糾纏不休的提問感到厭煩。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "執拗い質問にうんざりした。",
+              "zh": "對糾纏不休的提問感到厭煩。"
+            }
+          ]
         },
         {
           "word": "とんでもない",
@@ -107758,7 +108082,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2182",
-          "romaji": "tondemonai"
+          "romaji": "tondemonai",
+          "examples": [
+            {
+              "ja": "とんでもない値段で売られていた。",
+              "zh": "以出乎意料的價格在出售。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "とんでもない値段で売られていた。",
+              "zh": "以出乎意料的價格在出售。"
+            }
+          ]
         },
         {
           "word": "憎い",
@@ -107770,7 +108106,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2183",
-          "romaji": "nikui"
+          "romaji": "nikui",
+          "examples": [
+            {
+              "ja": "裏切られた相手が憎い。",
+              "zh": "可恨那個背叛我的人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "裏切られた相手が憎い。",
+              "zh": "可恨那個背叛我的人。"
+            }
+          ]
         },
         {
           "word": "憎らしい",
@@ -107782,7 +108130,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2184",
-          "romaji": "nikurashii"
+          "romaji": "nikurashii",
+          "examples": [
+            {
+              "ja": "憎らしいほど上手に歌を歌う。",
+              "zh": "唱歌唱得可恨地好。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "憎らしいほど上手に歌を歌う。",
+              "zh": "唱歌唱得可恨地好。"
+            }
+          ]
         },
         {
           "word": "青白い",
@@ -107794,7 +108154,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2185",
-          "romaji": "aojiroi"
+          "romaji": "aojiroi",
+          "examples": [
+            {
+              "ja": "彼は青白い顔をして座っていた。",
+              "zh": "他臉色蒼白地坐著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は青白い顔をして座っていた。",
+              "zh": "他臉色蒼白地坐著。"
+            }
+          ]
         },
         {
           "word": "浅ましい",
@@ -107806,7 +108178,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2186",
-          "romaji": "asamashii"
+          "romaji": "asamashii",
+          "examples": [
+            {
+              "ja": "金のために裏切るとは浅ましい。",
+              "zh": "為了錢而背叛，真是卑鄙。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "金のために裏切るとは浅ましい。",
+              "zh": "為了錢而背叛，真是卑鄙。"
+            }
+          ]
         },
         {
           "word": "温かい",
@@ -107818,7 +108202,19 @@
           "pos": "い形容詞",
           "category": "nature_weather",
           "id": "v_n5_auto_2187",
-          "romaji": "atatakai"
+          "romaji": "atatakai",
+          "examples": [
+            {
+              "ja": "温かいスープが体に染みる。",
+              "zh": "溫暖的湯滲入身體。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "温かいスープが体に染みる。",
+              "zh": "溫暖的湯滲入身體。"
+            }
+          ]
         },
         {
           "word": "呆気ない",
@@ -107830,7 +108226,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2188",
-          "romaji": "akkenai"
+          "romaji": "akkenai",
+          "examples": [
+            {
+              "ja": "試合は呆気ない結果に終わった。",
+              "zh": "比賽以沒意思的結果結束了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "試合は呆気ない結果に終わった。",
+              "zh": "比賽以沒意思的結果結束了。"
+            }
+          ]
         },
         {
           "word": "恐っかない",
@@ -107842,7 +108250,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2189",
-          "romaji": "okkanai"
+          "romaji": "okkanai",
+          "examples": [
+            {
+              "ja": "夜の森は恐っかない雰囲気だ。",
+              "zh": "夜晚的森林有可怕的氣氛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夜の森は恐っかない雰囲気だ。",
+              "zh": "夜晚的森林有可怕的氣氛。"
+            }
+          ]
         },
         {
           "word": "重たい",
@@ -107854,7 +108274,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2190",
-          "romaji": "omotai"
+          "romaji": "omotai",
+          "examples": [
+            {
+              "ja": "この荷物は重たくて持てない。",
+              "zh": "這行李太沉重，拿不動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この荷物は重たくて持てない。",
+              "zh": "這行李太沉重，拿不動。"
+            }
+          ]
         },
         {
           "word": "黄色い",
@@ -107866,7 +108298,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2191",
-          "romaji": "kiiroi"
+          "romaji": "kiiroi",
+          "examples": [
+            {
+              "ja": "黄色い花が庭いっぱいに咲いている。",
+              "zh": "黃色的花開滿了整座庭院。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "黄色い花が庭いっぱいに咲いている。",
+              "zh": "黃色的花開滿了整座庭院。"
+            }
+          ]
         },
         {
           "word": "清い",
@@ -107878,7 +108322,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2192",
-          "romaji": "kiyoi"
+          "romaji": "kiyoi",
+          "examples": [
+            {
+              "ja": "清い水が小川を流れている。",
+              "zh": "清澈的水流過小溪。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "清い水が小川を流れている。",
+              "zh": "清澈的水流過小溪。"
+            }
+          ]
         },
         {
           "word": "擽ったい",
@@ -107890,7 +108346,19 @@
           "pos": "い形容詞",
           "category": "human_body",
           "id": "v_n5_auto_2193",
-          "romaji": "kusuguttai"
+          "romaji": "kusuguttai",
+          "examples": [
+            {
+              "ja": "足の裏を触られて擽ったい。",
+              "zh": "腳底被碰得發癢。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "足の裏を触られて擽ったい。",
+              "zh": "腳底被碰得發癢。"
+            }
+          ]
         },
         {
           "word": "下らない",
@@ -107902,7 +108370,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2194",
-          "romaji": "kudaranai"
+          "romaji": "kudaranai",
+          "examples": [
+            {
+              "ja": "下らない冗談はやめてほしい。",
+              "zh": "希望別再說無聊的玩笑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "下らない冗談はやめてほしい。",
+              "zh": "希望別再說無聊的玩笑。"
+            }
+          ]
         },
         {
           "word": "煙たい",
@@ -107914,7 +108394,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2195",
-          "romaji": "kemutai"
+          "romaji": "kemutai",
+          "examples": [
+            {
+              "ja": "目上の人がいると少し煙たい。",
+              "zh": "有長輩在場時會有點拘束。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "目上の人がいると少し煙たい。",
+              "zh": "有長輩在場時會有點拘束。"
+            }
+          ]
         },
         {
           "word": "心強い",
@@ -107926,7 +108418,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2196",
-          "romaji": "kokorozuyoi"
+          "romaji": "kokorozuyoi",
+          "examples": [
+            {
+              "ja": "君がいると心強いよ。",
+              "zh": "有你在就令人放心。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "君がいると心強いよ。",
+              "zh": "有你在就令人放心。"
+            }
+          ]
         },
         {
           "word": "心細い",
@@ -107938,7 +108442,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2197",
-          "romaji": "kokorobosoi"
+          "romaji": "kokorobosoi",
+          "examples": [
+            {
+              "ja": "一人旅は少し心細い。",
+              "zh": "一個人旅行有點心中不安。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "一人旅は少し心細い。",
+              "zh": "一個人旅行有點心中不安。"
+            }
+          ]
         },
         {
           "word": "快い",
@@ -107950,7 +108466,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2198",
-          "romaji": "kokoroyoi"
+          "romaji": "kokoroyoi",
+          "examples": [
+            {
+              "ja": "快い風が頬を撫でた。",
+              "zh": "愉快的風拂過臉頰。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "快い風が頬を撫でた。",
+              "zh": "愉快的風拂過臉頰。"
+            }
+          ]
         },
         {
           "word": "塩辛い",
@@ -107962,7 +108490,19 @@
           "pos": "い形容詞",
           "category": "adj_taste",
           "id": "v_n5_auto_2199",
-          "romaji": "shiokarai"
+          "romaji": "shiokarai",
+          "examples": [
+            {
+              "ja": "このスープは少し塩辛い。",
+              "zh": "這湯有點鹹。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このスープは少し塩辛い。",
+              "zh": "這湯有點鹹。"
+            }
+          ]
         },
         {
           "word": "仕方がない",
@@ -107974,7 +108514,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2200",
-          "romaji": "shikataganai"
+          "romaji": "shikataganai",
+          "examples": [
+            {
+              "ja": "雨が降っているので、今日は仕方がない。",
+              "zh": "因為在下雨，今天沒有辦法。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "雨が降っているので、今日は仕方がない。",
+              "zh": "因為在下雨，今天沒有辦法。"
+            }
+          ]
         },
         {
           "word": "図々しい",
@@ -108010,7 +108562,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2202",
-          "romaji": "setsunai"
+          "romaji": "setsunai",
+          "examples": [
+            {
+              "ja": "彼女の手紙を読んで、切ない気持ちになった。",
+              "zh": "讀了她的信，心裡一陣難受。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女の手紙を読んで、切ない気持ちになった。",
+              "zh": "讀了她的信，心裡一陣難受。"
+            }
+          ]
         },
         {
           "word": "格好良い",
@@ -108022,7 +108586,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2203",
-          "romaji": "kakkoii"
+          "romaji": "kakkoii",
+          "examples": [
+            {
+              "ja": "兄はスーツを着るととても格好良い。",
+              "zh": "哥哥穿上西裝非常帥氣。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "兄はスーツを着るととても格好良い。",
+              "zh": "哥哥穿上西裝非常帥氣。"
+            }
+          ]
         },
         {
           "word": "面倒くさい",
@@ -108034,7 +108610,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2204",
-          "romaji": "mendoukusai"
+          "romaji": "mendoukusai",
+          "examples": [
+            {
+              "ja": "毎日の掃除が面倒くさい。",
+              "zh": "每天的打掃很麻煩。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毎日の掃除が面倒くさい。",
+              "zh": "每天的打掃很麻煩。"
+            }
+          ]
         },
         {
           "word": "曖昧",
@@ -108058,7 +108646,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2206",
-          "romaji": "arigatai"
+          "romaji": "arigatai",
+          "examples": [
+            {
+              "ja": "皆さんの支援は本当に有り難いです。",
+              "zh": "大家的支援真的很值得感激。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "皆さんの支援は本当に有り難いです。",
+              "zh": "大家的支援真的很值得感激。"
+            }
+          ]
         },
         {
           "word": "いけ図々しい",
@@ -108070,7 +108670,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2207",
-          "romaji": "ikezuuzuushii"
+          "romaji": "ikezuuzuushii",
+          "examples": [
+            {
+              "ja": "初対面なのにいけ図々しい態度だ。",
+              "zh": "初次見面卻一副厚顏無恥的態度。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "初対面なのにいけ図々しい態度だ。",
+              "zh": "初次見面卻一副厚顏無恥的態度。"
+            }
+          ]
         },
         {
           "word": "嬉しい",
@@ -108082,7 +108694,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2208",
-          "romaji": "ureshii"
+          "romaji": "ureshii",
+          "examples": [
+            {
+              "ja": "合格の知らせを聞いてとても嬉しい。",
+              "zh": "聽到合格的消息非常高興。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "合格の知らせを聞いてとても嬉しい。",
+              "zh": "聽到合格的消息非常高興。"
+            }
+          ]
         },
         {
           "word": "けたたましい",
@@ -108095,7 +108719,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2209",
-          "romaji": "ketatamashii"
+          "romaji": "ketatamashii",
+          "examples": [
+            {
+              "ja": "けたたましい警報の音で目が覚めた。",
+              "zh": "被刺耳的警報聲吵醒了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "けたたましい警報の音で目が覚めた。",
+              "zh": "被刺耳的警報聲吵醒了。"
+            }
+          ]
         },
         {
           "word": "狡賢い",
@@ -108107,7 +108743,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2210",
-          "romaji": "zurugashikoi"
+          "romaji": "zurugashikoi",
+          "examples": [
+            {
+              "ja": "狡賢い狐のように人をだました。",
+              "zh": "像狡猾的狐狸一樣騙人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "狡賢い狐のように人をだました。",
+              "zh": "像狡猾的狐狸一樣騙人。"
+            }
+          ]
         },
         {
           "word": "そそっかしい",
@@ -108119,7 +108767,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "romaji": "sosokkashii",
-          "id": "v_n5_auto_2211"
+          "id": "v_n5_auto_2211",
+          "examples": [
+            {
+              "ja": "彼はそそっかしくてよく物をなくす。",
+              "zh": "他很粗心大意，常常弄丟東西。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼はそそっかしくてよく物をなくす。",
+              "zh": "他很粗心大意，常常弄丟東西。"
+            }
+          ]
         },
         {
           "word": "焦しい",
@@ -108131,7 +108791,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2212",
-          "romaji": "modokashii"
+          "romaji": "modokashii",
+          "examples": [
+            {
+              "ja": "結果が出るまで焦しい時間が続いた。",
+              "zh": "在結果出來之前，令人著急的時間一直持續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "結果が出るまで焦しい時間が続いた。",
+              "zh": "在結果出來之前，令人著急的時間一直持續。"
+            }
+          ]
         },
         {
           "word": "若々しい",
@@ -108143,7 +108815,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2213",
-          "romaji": "wakawakashii"
+          "romaji": "wakawakashii",
+          "examples": [
+            {
+              "ja": "七十歳とは思えないほど若々しい。",
+              "zh": "年輕得令人難以相信他已經七十歲。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "七十歳とは思えないほど若々しい。",
+              "zh": "年輕得令人難以相信他已經七十歲。"
+            }
+          ]
         },
         {
           "word": "侘しい",
@@ -108155,7 +108839,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2214",
-          "romaji": "wabishii"
+          "romaji": "wabishii",
+          "examples": [
+            {
+              "ja": "冬の侘しい景色が窓の外に広がる。",
+              "zh": "窗外展開一片淒涼的冬日景色。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "冬の侘しい景色が窓の外に広がる。",
+              "zh": "窗外展開一片淒涼的冬日景色。"
+            }
+          ]
         },
         {
           "word": "愛しい",
@@ -108167,7 +108863,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2215",
-          "romaji": "itoshii"
+          "romaji": "itoshii",
+          "examples": [
+            {
+              "ja": "娘の寝顔がとても愛しい。",
+              "zh": "女兒的睡臉令人非常憐愛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "娘の寝顔がとても愛しい。",
+              "zh": "女兒的睡臉令人非常憐愛。"
+            }
+          ]
         },
         {
           "word": "重苦しい",
@@ -108179,7 +108887,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2216",
-          "romaji": "omokurushii"
+          "romaji": "omokurushii",
+          "examples": [
+            {
+              "ja": "会議の空気が重苦しかった。",
+              "zh": "會議的氣氛很沉悶。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "会議の空気が重苦しかった。",
+              "zh": "會議的氣氛很沉悶。"
+            }
+          ]
         },
         {
           "word": "汚らわしい",
@@ -108191,7 +108911,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2217",
-          "romaji": "kegarawashii"
+          "romaji": "kegarawashii",
+          "examples": [
+            {
+              "ja": "そんな汚らわしい話は聞きたくない。",
+              "zh": "那種骯髒的話我不想聽。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そんな汚らわしい話は聞きたくない。",
+              "zh": "那種骯髒的話我不想聽。"
+            }
+          ]
         },
         {
           "word": "浅ましい",
@@ -108203,7 +108935,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2218",
-          "romaji": "samoshii"
+          "romaji": "samoshii",
+          "examples": [
+            {
+              "ja": "金のために裏切るとは浅ましい。",
+              "zh": "為了錢而背叛，真是卑鄙。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "金のために裏切るとは浅ましい。",
+              "zh": "為了錢而背叛，真是卑鄙。"
+            }
+          ]
         },
         {
           "word": "辛気臭い",
@@ -108215,7 +108959,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2219",
-          "romaji": "shinkikusai"
+          "romaji": "shinkikusai",
+          "examples": [
+            {
+              "ja": "彼の辛気臭い愚痴にはもううんざりだ。",
+              "zh": "他那令人煩悶的牢騷我已經受夠了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の辛気臭い愚痴にはもううんざりだ。",
+              "zh": "他那令人煩悶的牢騷我已經受夠了。"
+            }
+          ]
         },
         {
           "word": "早い",
@@ -108227,7 +108983,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2220",
-          "romaji": "hayai"
+          "romaji": "hayai",
+          "examples": [
+            {
+              "ja": "今朝はいつもより早く起きた。",
+              "zh": "今天早上比平常起得早。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今朝はいつもより早く起きた。",
+              "zh": "今天早上比平常起得早。"
+            }
+          ]
         },
         {
           "word": "新た",
@@ -109211,7 +109979,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2302",
-          "romaji": "mazushii"
+          "romaji": "mazushii",
+          "examples": [
+            {
+              "ja": "貧しい家庭で育ったが、幸せだった。",
+              "zh": "雖然在貧窮的家庭長大，但很幸福。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "貧しい家庭で育ったが、幸せだった。",
+              "zh": "雖然在貧窮的家庭長大，但很幸福。"
+            }
+          ]
         },
         {
           "word": "不毛",
@@ -109393,7 +110173,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2317",
-          "romaji": "youjinbukai"
+          "romaji": "youjinbukai",
+          "examples": [
+            {
+              "ja": "用心深い性格で、いつも周囲に気を配る。",
+              "zh": "生性小心，總是留意周圍。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "用心深い性格で、いつも周囲に気を配る。",
+              "zh": "生性小心，總是留意周圍。"
+            }
+          ]
         },
         {
           "word": "良質",
@@ -109681,7 +110473,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "romaji": "ijirashii",
-          "id": "v_n5_auto_2341"
+          "id": "v_n5_auto_2341",
+          "examples": [
+            {
+              "ja": "一生懸命働く姿がいじらしい。",
+              "zh": "拼命工作的樣子惹人憐愛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "一生懸命働く姿がいじらしい。",
+              "zh": "拼命工作的樣子惹人憐愛。"
+            }
+          ]
         },
         {
           "word": "えげつない",
@@ -109694,7 +110498,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2342",
-          "romaji": "egetsunai"
+          "romaji": "egetsunai",
+          "examples": [
+            {
+              "ja": "えげつない値段をつけられて驚いた。",
+              "zh": "被標上無情的價格，嚇了一跳。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "えげつない値段をつけられて驚いた。",
+              "zh": "被標上無情的價格，嚇了一跳。"
+            }
+          ]
         },
         {
           "word": "烏滸がましい",
@@ -109706,7 +110522,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2343",
-          "romaji": "okogamashii"
+          "romaji": "okogamashii",
+          "examples": [
+            {
+              "ja": "私が意見するなど烏滸がましいかもしれません。",
+              "zh": "由我來發表意見或許有些狂妄。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "私が意見するなど烏滸がましいかもしれません。",
+              "zh": "由我來發表意見或許有些狂妄。"
+            }
+          ]
         },
         {
           "word": "芳しい",
@@ -109718,7 +110546,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2344",
-          "romaji": "kaguwashii"
+          "romaji": "kaguwashii",
+          "examples": [
+            {
+              "ja": "庭から芳しい花の香りが漂ってくる。",
+              "zh": "庭院裡飄來芳香的花香。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "庭から芳しい花の香りが漂ってくる。",
+              "zh": "庭院裡飄來芳香的花香。"
+            }
+          ]
         },
         {
           "word": "姦しい",
@@ -109730,7 +110570,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2345",
-          "romaji": "kashimashii"
+          "romaji": "kashimashii",
+          "examples": [
+            {
+              "ja": "市場は人々の声で姦しい。",
+              "zh": "市場上人聲吵鬧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "市場は人々の声で姦しい。",
+              "zh": "市場上人聲吵鬧。"
+            }
+          ]
         },
         {
           "word": "かっこ悪い",
@@ -109742,7 +110594,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2346",
-          "romaji": "kakkowarui"
+          "romaji": "kakkowarui",
+          "examples": [
+            {
+              "ja": "失敗してかっこ悪い思いをした。",
+              "zh": "失敗後覺得自己很不帥、很丟臉。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "失敗してかっこ悪い思いをした。",
+              "zh": "失敗後覺得自己很不帥、很丟臉。"
+            }
+          ]
         },
         {
           "word": "がめつい",
@@ -109755,7 +110619,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2347",
-          "romaji": "gametsui"
+          "romaji": "gametsui",
+          "examples": [
+            {
+              "ja": "がめつい商売で評判が悪い。",
+              "zh": "因貪婪的生意而名聲不佳。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "がめつい商売で評判が悪い。",
+              "zh": "因貪婪的生意而名聲不佳。"
+            }
+          ]
         },
         {
           "word": "気まずい",
@@ -109767,7 +110643,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2348",
-          "romaji": "kimazui"
+          "romaji": "kimazui",
+          "examples": [
+            {
+              "ja": "昔の恋人に会って気まずい空気になった。",
+              "zh": "遇見前戀人，氣氛變得很尷尬。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昔の恋人に会って気まずい空気になった。",
+              "zh": "遇見前戀人，氣氛變得很尷尬。"
+            }
+          ]
         },
         {
           "word": "毳々しい",
@@ -109781,7 +110669,19 @@
           "kanjiChecked": true,
           "reading": "けばけばしい",
           "id": "v_n5_auto_2349",
-          "romaji": "kebakebashii"
+          "romaji": "kebakebashii",
+          "examples": [
+            {
+              "ja": "毳々しい服は職場には向かない。",
+              "zh": "花哨的衣服不適合職場。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毳々しい服は職場には向かない。",
+              "zh": "花哨的衣服不適合職場。"
+            }
+          ]
         },
         {
           "word": "心苦しい",
@@ -109793,7 +110693,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2350",
-          "romaji": "kokorogurushii"
+          "romaji": "kokorogurushii",
+          "examples": [
+            {
+              "ja": "断り続けていて心苦しいです。",
+              "zh": "一直拒絕，心裡過意不去。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "断り続けていて心苦しいです。",
+              "zh": "一直拒絕，心裡過意不去。"
+            }
+          ]
         },
         {
           "word": "忍びない",
@@ -109805,7 +110717,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2351",
-          "romaji": "shinobinai"
+          "romaji": "shinobinai",
+          "examples": [
+            {
+              "ja": "泣いている子を見るのは忍びない。",
+              "zh": "看著哭泣的孩子於心不忍。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "泣いている子を見るのは忍びない。",
+              "zh": "看著哭泣的孩子於心不忍。"
+            }
+          ]
         },
         {
           "word": "仕様もない",
@@ -109819,7 +110743,19 @@
           "kanjiChecked": true,
           "reading": "しょうもない",
           "id": "v_n5_auto_2352",
-          "romaji": "shoumonai"
+          "romaji": "shoumonai",
+          "examples": [
+            {
+              "ja": "仕様もない話ばかりして時間を無駄にした。",
+              "zh": "淨講些沒價值的話，浪費了時間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "仕様もない話ばかりして時間を無駄にした。",
+              "zh": "淨講些沒價值的話，浪費了時間。"
+            }
+          ]
         },
         {
           "word": "焦れったい",
@@ -109831,7 +110767,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2353",
-          "romaji": "jirettai"
+          "romaji": "jirettai",
+          "examples": [
+            {
+              "ja": "返事が遅くて焦れったい。",
+              "zh": "回覆太慢，令人著急。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "返事が遅くて焦れったい。",
+              "zh": "回覆太慢，令人著急。"
+            }
+          ]
         },
         {
           "word": "清々しい",
@@ -109843,7 +110791,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2354",
-          "romaji": "sugasugashii"
+          "romaji": "sugasugashii",
+          "examples": [
+            {
+              "ja": "朝の空気が清々しい。",
+              "zh": "早晨的空氣很清爽。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "朝の空気が清々しい。",
+              "zh": "早晨的空氣很清爽。"
+            }
+          ]
         },
         {
           "word": "慎ましい",
@@ -109855,7 +110815,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2355",
-          "romaji": "tsutsumashii"
+          "romaji": "tsutsumashii",
+          "examples": [
+            {
+              "ja": "慎ましい暮らしを大切にしている。",
+              "zh": "珍惜樸素的生活。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "慎ましい暮らしを大切にしている。",
+              "zh": "珍惜樸素的生活。"
+            }
+          ]
         },
         {
           "word": "途轍もない",
@@ -109867,7 +110839,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2356",
-          "romaji": "totetsumonai"
+          "romaji": "totetsumonai",
+          "examples": [
+            {
+              "ja": "途轍もない金額の請求書が届いた。",
+              "zh": "收到了一張金額荒唐的帳單。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "途轍もない金額の請求書が届いた。",
+              "zh": "收到了一張金額荒唐的帳單。"
+            }
+          ]
         },
         {
           "word": "和やか",
@@ -109891,7 +110875,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2358",
-          "romaji": "hateshinai"
+          "romaji": "hateshinai",
+          "examples": [
+            {
+              "ja": "砂漠は果てしない広がりを見せている。",
+              "zh": "沙漠展現出無盡的遼闊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "砂漠は果てしない広がりを見せている。",
+              "zh": "沙漠展現出無盡的遼闊。"
+            }
+          ]
         },
         {
           "word": "馬鹿でかい",
@@ -109903,7 +110899,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2359",
-          "romaji": "bakadekai"
+          "romaji": "bakadekai",
+          "examples": [
+            {
+              "ja": "公園に馬鹿でかい彫刻が置いてあった。",
+              "zh": "公園裡放著巨大無比的雕塑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "公園に馬鹿でかい彫刻が置いてあった。",
+              "zh": "公園裡放著巨大無比的雕塑。"
+            }
+          ]
         },
         {
           "word": "誇らしい",
@@ -109915,7 +110923,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2360",
-          "romaji": "hokorashii"
+          "romaji": "hokorashii",
+          "examples": [
+            {
+              "ja": "息子の成長が誇らしい。",
+              "zh": "對兒子的成長感到自豪。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "息子の成長が誇らしい。",
+              "zh": "對兒子的成長感到自豪。"
+            }
+          ]
         },
         {
           "word": "寂しい",
@@ -109927,7 +110947,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2361",
-          "romaji": "samishii"
+          "romaji": "samishii",
+          "examples": [
+            {
+              "ja": "一人暮らしは時々寂しい。",
+              "zh": "一個人生活有時會寂寞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "一人暮らしは時々寂しい。",
+              "zh": "一個人生活有時會寂寞。"
+            }
+          ]
         },
         {
           "word": "仕方ない",
@@ -109939,7 +110971,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2362",
-          "romaji": "shikatanai"
+          "romaji": "shikatanai",
+          "examples": [
+            {
+              "ja": "遅れてしまったのは仕方ない。",
+              "zh": "遲到了也沒辦法。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "遅れてしまったのは仕方ない。",
+              "zh": "遲到了也沒辦法。"
+            }
+          ]
         },
         {
           "word": "端ない",
@@ -109951,7 +110995,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2363",
-          "romaji": "hashitanai"
+          "romaji": "hashitanai",
+          "examples": [
+            {
+              "ja": "端ない振る舞いを注意された。",
+              "zh": "因不端莊的舉止被提醒。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "端ない振る舞いを注意された。",
+              "zh": "因不端莊的舉止被提醒。"
+            }
+          ]
         },
         {
           "word": "安っぽい",
@@ -109963,7 +111019,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2364",
-          "romaji": "yasuppoi"
+          "romaji": "yasuppoi",
+          "examples": [
+            {
+              "ja": "そのバッグは見た目が安っぽい。",
+              "zh": "那個包包看起來很廉價俗氣。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そのバッグは見た目が安っぽい。",
+              "zh": "那個包包看起來很廉價俗氣。"
+            }
+          ]
         },
         {
           "word": "否応ない",
@@ -109975,7 +111043,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2365",
-          "romaji": "iyaounai"
+          "romaji": "iyaounai",
+          "examples": [
+            {
+              "ja": "否応ない事情で引っ越すことになった。",
+              "zh": "因不由分說的情況而不得不搬家。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "否応ない事情で引っ越すことになった。",
+              "zh": "因不由分說的情況而不得不搬家。"
+            }
+          ]
         },
         {
           "word": "ぎこちない",
@@ -109988,7 +111068,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2366",
-          "romaji": "gikochinai"
+          "romaji": "gikochinai",
+          "examples": [
+            {
+              "ja": "彼のぎこちない歩き方が少し気になった。",
+              "zh": "他那笨拙的走路方式讓我有點在意。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼のぎこちない歩き方が少し気になった。",
+              "zh": "他那笨拙的走路方式讓我有點在意。"
+            }
+          ]
         },
         {
           "word": "然り気ない",
@@ -110000,7 +111092,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2367",
-          "romaji": "sarigenai"
+          "romaji": "sarigenai",
+          "examples": [
+            {
+              "ja": "彼女は然り気ない様子で部屋を出ていった。",
+              "zh": "她一副若無其事的樣子離開了房間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は然り気ない様子で部屋を出ていった。",
+              "zh": "她一副若無其事的樣子離開了房間。"
+            }
+          ]
         },
         {
           "word": "堪らない",
@@ -110012,7 +111116,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2368",
-          "romaji": "tamaranai"
+          "romaji": "tamaranai",
+          "examples": [
+            {
+              "ja": "この暑さには堪らない。",
+              "zh": "這熱度真讓人受不了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この暑さには堪らない。",
+              "zh": "這熱度真讓人受不了。"
+            }
+          ]
         },
         {
           "word": "覚束ない",
@@ -110024,7 +111140,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2369",
-          "romaji": "obotsukanai"
+          "romaji": "obotsukanai",
+          "examples": [
+            {
+              "ja": "彼の約束は覚束ないので頼りにならない。",
+              "zh": "他的約定靠不住，無法依賴。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の約束は覚束ないので頼りにならない。",
+              "zh": "他的約定靠不住，無法依賴。"
+            }
+          ]
         },
         {
           "word": "忝い",
@@ -110036,7 +111164,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2370",
-          "romaji": "katajikenai"
+          "romaji": "katajikenai",
+          "examples": [
+            {
+              "ja": "忝いお言葉をいただき、恐縮です。",
+              "zh": "承蒙您說出這番令我感激的話，實在惶恐。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "忝いお言葉をいただき、恐縮です。",
+              "zh": "承蒙您說出這番令我感激的話，實在惶恐。"
+            }
+          ]
         },
         {
           "word": "敵わない",
@@ -110048,7 +111188,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2371",
-          "romaji": "kanawanai"
+          "romaji": "kanawanai",
+          "examples": [
+            {
+              "ja": "あの人にはとても敵わない。",
+              "zh": "我實在敵不過那個人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "あの人にはとても敵わない。",
+              "zh": "我實在敵不過那個人。"
+            }
+          ]
         },
         {
           "word": "止むを得ない",
@@ -110060,7 +111212,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2372",
-          "romaji": "yamuoenai"
+          "romaji": "yamuoenai",
+          "examples": [
+            {
+              "ja": "止むを得ない事情で欠席しました。",
+              "zh": "因不得已的事情而缺席了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "止むを得ない事情で欠席しました。",
+              "zh": "因不得已的事情而缺席了。"
+            }
+          ]
         },
         {
           "word": "煩雑",
@@ -110325,7 +111489,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2394",
-          "romaji": "zonzai"
+          "romaji": "zonzai",
+          "examples": [
+            {
+              "ja": "ぞんざいな口のきき方はやめてください。",
+              "zh": "請不要用那麼粗魯草率的說話方式。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ぞんざいな口のきき方はやめてください。",
+              "zh": "請不要用那麼粗魯草率的說話方式。"
+            }
+          ]
         },
         {
           "word": "安らか",
@@ -111609,7 +112785,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2501",
-          "romaji": "akudoi"
+          "romaji": "akudoi",
+          "examples": [
+            {
+              "ja": "そのやり方は悪どいと思う。",
+              "zh": "我覺得那種做法太過火、太惡毒了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そのやり方は悪どいと思う。",
+              "zh": "我覺得那種做法太過火、太惡毒了。"
+            }
+          ]
         },
         {
           "word": "厚かましい",
@@ -111645,7 +112833,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2503",
-          "romaji": "ayaui"
+          "romaji": "ayaui",
+          "examples": [
+            {
+              "ja": "危ういところを間一髪で助かった。",
+              "zh": "在危險關頭千鈞一髮地得救了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "危ういところを間一髪で助かった。",
+              "zh": "在危險關頭千鈞一髮地得救了。"
+            }
+          ]
         },
         {
           "word": "色っぽい",
@@ -111657,7 +112857,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2504",
-          "romaji": "iroppoi"
+          "romaji": "iroppoi",
+          "examples": [
+            {
+              "ja": "彼女は色っぽい仕草で微笑んだ。",
+              "zh": "她用帶點性感魅力的舉止微微一笑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は色っぽい仕草で微笑んだ。",
+              "zh": "她用帶點性感魅力的舉止微微一笑。"
+            }
+          ]
         },
         {
           "word": "胡散臭い",
@@ -111669,7 +112881,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2505",
-          "romaji": "usankusai"
+          "romaji": "usankusai",
+          "examples": [
+            {
+              "ja": "その話はどうも胡散臭い。",
+              "zh": "那番話怎麼聽都覺得很可疑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "その話はどうも胡散臭い。",
+              "zh": "那番話怎麼聽都覺得很可疑。"
+            }
+          ]
         },
         {
           "word": "疎ましい",
@@ -111681,7 +112905,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2506",
-          "romaji": "utomashii"
+          "romaji": "utomashii",
+          "examples": [
+            {
+              "ja": "彼の態度は本当に疎ましい。",
+              "zh": "他的態度真的令人討厭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の態度は本当に疎ましい。",
+              "zh": "他的態度真的令人討厭。"
+            }
+          ]
         },
         {
           "word": "際どい",
@@ -111693,7 +112929,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2507",
-          "romaji": "kiwadoi"
+          "romaji": "kiwadoi",
+          "examples": [
+            {
+              "ja": "際どい勝負だったが、なんとか勝った。",
+              "zh": "是一場險勝、勝負微妙的比賽，但總算贏了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "際どい勝負だったが、なんとか勝った。",
+              "zh": "是一場險勝、勝負微妙的比賽，但總算贏了。"
+            }
+          ]
         },
         {
           "word": "心憎い",
@@ -111705,7 +112953,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2508",
-          "romaji": "kokoronikui"
+          "romaji": "kokoronikui",
+          "examples": [
+            {
+              "ja": "彼の心憎いまでの気配りに感心した。",
+              "zh": "我佩服他那令人心生敬佩的周到體貼。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の心憎いまでの気配りに感心した。",
+              "zh": "我佩服他那令人心生敬佩的周到體貼。"
+            }
+          ]
         },
         {
           "word": "ごつい",
@@ -111718,7 +112978,19 @@
           "category": "looks_size",
           "kanjiChecked": true,
           "id": "v_n5_auto_2509",
-          "romaji": "gotsui"
+          "romaji": "gotsui",
+          "examples": [
+            {
+              "ja": "ごつい手をした職人が働いていた。",
+              "zh": "有位長著粗大手的職人正在工作。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ごつい手をした職人が働いていた。",
+              "zh": "有位長著粗大手的職人正在工作。"
+            }
+          ]
         },
         {
           "word": "世知辛い",
@@ -111730,7 +113002,19 @@
           "pos": "い形容詞",
           "category": "adj_social_eval",
           "id": "v_n5_auto_2510",
-          "romaji": "sechigarai"
+          "romaji": "sechigarai",
+          "examples": [
+            {
+              "ja": "世知辛い世の中を生き抜くのは大変だ。",
+              "zh": "在這世態炎涼、難以生存的社會中活下去很辛苦。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "世知辛い世の中を生き抜くのは大変だ。",
+              "zh": "在這世態炎涼、難以生存的社會中活下去很辛苦。"
+            }
+          ]
         },
         {
           "word": "小っこい",
@@ -111744,7 +113028,19 @@
           "kanjiChecked": true,
           "reading": "ちっこい",
           "id": "v_n5_auto_2511",
-          "romaji": "chikkoi"
+          "romaji": "chikkoi",
+          "examples": [
+            {
+              "ja": "小っこい箱に大切なものを入れた。",
+              "zh": "把重要的東西放進了非常小的盒子裡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "小っこい箱に大切なものを入れた。",
+              "zh": "把重要的東西放進了非常小的盒子裡。"
+            }
+          ]
         },
         {
           "word": "捗々しい",
@@ -111756,7 +113052,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2512",
-          "romaji": "hakabakashii"
+          "romaji": "hakabakashii",
+          "examples": [
+            {
+              "ja": "進捗は捗々しくない。",
+              "zh": "進度並不順利。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "進捗は捗々しくない。",
+              "zh": "進度並不順利。"
+            }
+          ]
         },
         {
           "word": "まん丸い",
@@ -111768,7 +113076,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2513",
-          "romaji": "manmarui"
+          "romaji": "manmarui",
+          "examples": [
+            {
+              "ja": "まん丸い月が空に浮かんでいる。",
+              "zh": "圓圓的月亮浮在天空中。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "まん丸い月が空に浮かんでいる。",
+              "zh": "圓圓的月亮浮在天空中。"
+            }
+          ]
         },
         {
           "word": "見窄らしい",
@@ -111804,7 +113124,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2515",
-          "romaji": "musagurushii"
+          "romaji": "musagurushii",
+          "examples": [
+            {
+              "ja": "むさ苦しい部屋を掃除した。",
+              "zh": "打掃了邋遢骯髒的房間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "むさ苦しい部屋を掃除した。",
+              "zh": "打掃了邋遢骯髒的房間。"
+            }
+          ]
         },
         {
           "word": "目ぼしい",
@@ -111816,7 +113148,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2516",
-          "romaji": "meboshii"
+          "romaji": "meboshii",
+          "examples": [
+            {
+              "ja": "目ぼしい成果はまだ出ていない。",
+              "zh": "還沒有出現惹人注目的重要成果。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "目ぼしい成果はまだ出ていない。",
+              "zh": "還沒有出現惹人注目的重要成果。"
+            }
+          ]
         },
         {
           "word": "脆い",
@@ -111828,7 +113172,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2517",
-          "romaji": "moroi"
+          "romaji": "moroi",
+          "examples": [
+            {
+              "ja": "このガラスは脆いので注意して扱ってください。",
+              "zh": "這玻璃很脆弱，請小心拿取。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このガラスは脆いので注意して扱ってください。",
+              "zh": "這玻璃很脆弱，請小心拿取。"
+            }
+          ]
         },
         {
           "word": "厄介い",
@@ -111840,7 +113196,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2518",
-          "romaji": "yabai"
+          "romaji": "yabai",
+          "examples": [
+            {
+              "ja": "厄介い問題に巻き込まれてしまった。",
+              "zh": "被捲入了糟糕難纏的問題。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "厄介い問題に巻き込まれてしまった。",
+              "zh": "被捲入了糟糕難纏的問題。"
+            }
+          ]
         },
         {
           "word": "稚ない",
@@ -111852,7 +113220,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2519",
-          "romaji": "adokenai"
+          "romaji": "adokenai",
+          "examples": [
+            {
+              "ja": "稚ない笑顔が印象に残った。",
+              "zh": "那天真無邪的笑容令人印象深刻。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "稚ない笑顔が印象に残った。",
+              "zh": "那天真無邪的笑容令人印象深刻。"
+            }
+          ]
         },
         {
           "word": "甲斐甲斐しい",
@@ -111864,7 +113244,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2520",
-          "romaji": "kaigaigaigaishii"
+          "romaji": "kaigaigaigaishii",
+          "examples": [
+            {
+              "ja": "甲斐甲斐しく世話をしてくれた。",
+              "zh": "殷勤地照顧了我。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "甲斐甲斐しく世話をしてくれた。",
+              "zh": "殷勤地照顧了我。"
+            }
+          ]
         },
         {
           "word": "恭しい",
@@ -111876,7 +113268,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2521",
-          "romaji": "uyauyashii"
+          "romaji": "uyauyashii",
+          "examples": [
+            {
+              "ja": "恭しい態度で挨拶をした。",
+              "zh": "以恭敬的態度打了招呼。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "恭しい態度で挨拶をした。",
+              "zh": "以恭敬的態度打了招呼。"
+            }
+          ]
         },
         {
           "word": "麁末",
@@ -111924,7 +113328,19 @@
           "pos": "な形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2525",
-          "romaji": "kisaku"
+          "romaji": "kisaku",
+          "examples": [
+            {
+              "ja": "気さくな人柄でみんなに好かれている。",
+              "zh": "因坦率平易近人的性格而受到大家喜愛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "気さくな人柄でみんなに好かれている。",
+              "zh": "因坦率平易近人的性格而受到大家喜愛。"
+            }
+          ]
         },
         {
           "word": "軽薄",
@@ -112116,7 +113532,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2541",
-          "romaji": "aikurushii"
+          "romaji": "aikurushii",
+          "examples": [
+            {
+              "ja": "愛くるしい子犬が駆け寄ってきた。",
+              "zh": "可愛的小狗跑了過來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "愛くるしい子犬が駆け寄ってきた。",
+              "zh": "可愛的小狗跑了過來。"
+            }
+          ]
         },
         {
           "word": "青臭い",
@@ -112128,7 +113556,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2542",
-          "romaji": "aokusai"
+          "romaji": "aokusai",
+          "examples": [
+            {
+              "ja": "青臭い理想論だけでは何も変わらない。",
+              "zh": "光靠不成熟的理想論什麼都改變不了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "青臭い理想論だけでは何も変わらない。",
+              "zh": "光靠不成熟的理想論什麼都改變不了。"
+            }
+          ]
         },
         {
           "word": "息苦しい",
@@ -112140,7 +113580,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2543",
-          "romaji": "ikigurushii"
+          "romaji": "ikigurushii",
+          "examples": [
+            {
+              "ja": "満員電車は息苦しい。",
+              "zh": "擠滿人的電車令人感到窒息。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "満員電車は息苦しい。",
+              "zh": "擠滿人的電車令人感到窒息。"
+            }
+          ]
         },
         {
           "word": "いけ好かない",
@@ -112152,7 +113604,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2544",
-          "romaji": "ikesukanai"
+          "romaji": "ikesukanai",
+          "examples": [
+            {
+              "ja": "いけ好かない態度に腹が立った。",
+              "zh": "那令人討厭的態度讓我生氣了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "いけ好かない態度に腹が立った。",
+              "zh": "那令人討厭的態度讓我生氣了。"
+            }
+          ]
         },
         {
           "word": "痛々しい",
@@ -112164,7 +113628,19 @@
           "pos": "い形容詞",
           "category": "human_body",
           "id": "v_n5_auto_2545",
-          "romaji": "itaitashii"
+          "romaji": "itaitashii",
+          "examples": [
+            {
+              "ja": "痛々しい姿を見て胸が痛んだ。",
+              "zh": "看到那令人心痛的模樣，心裡很難過。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "痛々しい姿を見て胸が痛んだ。",
+              "zh": "看到那令人心痛的模樣，心裡很難過。"
+            }
+          ]
         },
         {
           "word": "薄暗い",
@@ -112176,7 +113652,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2546",
-          "romaji": "usugurai"
+          "romaji": "usugurai",
+          "examples": [
+            {
+              "ja": "薄暗い廊下を慎重に歩いた。",
+              "zh": "小心翼翼地走在昏暗的走廊上。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "薄暗い廊下を慎重に歩いた。",
+              "zh": "小心翼翼地走在昏暗的走廊上。"
+            }
+          ]
         },
         {
           "word": "薄気味悪い",
@@ -112188,7 +113676,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2547",
-          "romaji": "usukimiwarui"
+          "romaji": "usukimiwarui",
+          "examples": [
+            {
+              "ja": "薄気味悪い静けさが続いている。",
+              "zh": "有點令人發毛的寂靜持續著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "薄気味悪い静けさが続いている。",
+              "zh": "有點令人發毛的寂靜持續著。"
+            }
+          ]
         },
         {
           "word": "角々しい",
@@ -112200,7 +113700,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2548",
-          "romaji": "kadokadoshii"
+          "romaji": "kadokadoshii",
+          "examples": [
+            {
+              "ja": "角々しい物言いで相手を傷つけてしまった。",
+              "zh": "用棱角分明、生硬的說法傷害了對方。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "角々しい物言いで相手を傷つけてしまった。",
+              "zh": "用棱角分明、生硬的說法傷害了對方。"
+            }
+          ]
         },
         {
           "word": "気恥ずかしい",
@@ -112212,7 +113724,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2549",
-          "romaji": "kihazukashii"
+          "romaji": "kihazukashii",
+          "examples": [
+            {
+              "ja": "人前で褒めてもらうのは気恥ずかしい。",
+              "zh": "在別人面前被誇獎會難為情。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "人前で褒めてもらうのは気恥ずかしい。",
+              "zh": "在別人面前被誇獎會難為情。"
+            }
+          ]
         },
         {
           "word": "素早い",
@@ -112224,7 +113748,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2550",
-          "romaji": "subayai"
+          "romaji": "subayai",
+          "examples": [
+            {
+              "ja": "素早い判断が勝利につながった。",
+              "zh": "敏捷的判斷促成了勝利。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "素早い判断が勝利につながった。",
+              "zh": "敏捷的判斷促成了勝利。"
+            }
+          ]
         },
         {
           "word": "照れくさい",
@@ -112236,7 +113772,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2551",
-          "romaji": "terekusai"
+          "romaji": "terekusai",
+          "examples": [
+            {
+              "ja": "そんなことを言われると照れくさい。",
+              "zh": "被那麼說會覺得害羞難為情。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そんなことを言われると照れくさい。",
+              "zh": "被那麼說會覺得害羞難為情。"
+            }
+          ]
         },
         {
           "word": "憎たらしい",
@@ -112248,7 +113796,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2552",
-          "romaji": "nikutarashii"
+          "romaji": "nikutarashii",
+          "examples": [
+            {
+              "ja": "憎たらしい顔をして笑っている。",
+              "zh": "一臉可恨的樣子在笑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "憎たらしい顔をして笑っている。",
+              "zh": "一臉可恨的樣子在笑。"
+            }
+          ]
         },
         {
           "word": "眠たい",
@@ -112260,7 +113820,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2553",
-          "romaji": "nemutai"
+          "romaji": "nemutai",
+          "examples": [
+            {
+              "ja": "昨夜あまり眠れず、とても眠たい。",
+              "zh": "昨晚沒怎麼睡，非常睏。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昨夜あまり眠れず、とても眠たい。",
+              "zh": "昨晚沒怎麼睡，非常睏。"
+            }
+          ]
         },
         {
           "word": "馬鹿らしい",
@@ -112272,7 +113844,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2554",
-          "romaji": "bakarashii"
+          "romaji": "bakarashii",
+          "examples": [
+            {
+              "ja": "そんな馬鹿らしい話は信じられない。",
+              "zh": "那種荒唐的話實在無法相信。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そんな馬鹿らしい話は信じられない。",
+              "zh": "那種荒唐的話實在無法相信。"
+            }
+          ]
         },
         {
           "word": "仰々しい",
@@ -112284,7 +113868,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2555",
-          "romaji": "gyougyoushii"
+          "romaji": "gyougyoushii",
+          "examples": [
+            {
+              "ja": "仰々しい演出に少し引いてしまった。",
+              "zh": "對那誇張的演出有點卻步。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "仰々しい演出に少し引いてしまった。",
+              "zh": "對那誇張的演出有點卻步。"
+            }
+          ]
         },
         {
           "word": "騒々しい",
@@ -112296,7 +113892,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2556",
-          "romaji": "souzoushii"
+          "romaji": "souzoushii",
+          "examples": [
+            {
+              "ja": "騒々しい通りを避けて裏道を通った。",
+              "zh": "避開喧鬧的街道，走了後巷。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "騒々しい通りを避けて裏道を通った。",
+              "zh": "避開喧鬧的街道，走了後巷。"
+            }
+          ]
         },
         {
           "word": "猛々しい",
@@ -112308,7 +113916,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2557",
-          "romaji": "taketakeshii"
+          "romaji": "taketakeshii",
+          "examples": [
+            {
+              "ja": "猛々しい雄叫びが戦場に響いた。",
+              "zh": "勇猛的吼聲響徹戰場。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "猛々しい雄叫びが戦場に響いた。",
+              "zh": "勇猛的吼聲響徹戰場。"
+            }
+          ]
         },
         {
           "word": "初々しい",
@@ -112320,7 +113940,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2558",
-          "romaji": "uiuishii"
+          "romaji": "uiuishii",
+          "examples": [
+            {
+              "ja": "初々しい花嫁が緊張した様子で立っていた。",
+              "zh": "純真無邪的新娘緊張地站著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "初々しい花嫁が緊張した様子で立っていた。",
+              "zh": "純真無邪的新娘緊張地站著。"
+            }
+          ]
         },
         {
           "word": "毒々しい",
@@ -112332,7 +113964,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2559",
-          "romaji": "dokudokushii"
+          "romaji": "dokudokushii",
+          "examples": [
+            {
+              "ja": "毒々しい色の花が庭に咲いている。",
+              "zh": "顏色刺眼的花在庭院裡盛開。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毒々しい色の花が庭に咲いている。",
+              "zh": "顏色刺眼的花在庭院裡盛開。"
+            }
+          ]
         },
         {
           "word": "凛々しい",
@@ -112344,7 +113988,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2560",
-          "romaji": "ririshii"
+          "romaji": "ririshii",
+          "examples": [
+            {
+              "ja": "凛々しい武将が馬に跨って進んでいく。",
+              "zh": "威風凜凜的武將騎著馬前進。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "凛々しい武将が馬に跨って進んでいく。",
+              "zh": "威風凜凜的武將騎著馬前進。"
+            }
+          ]
         },
         {
           "word": "空恐ろしい",
@@ -112356,7 +114012,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2561",
-          "romaji": "soraosoroshii"
+          "romaji": "soraosoroshii",
+          "examples": [
+            {
+              "ja": "その話を聞いて空恐ろしい気持ちになった。",
+              "zh": "聽了那番話後感到毛骨悚然。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "その話を聞いて空恐ろしい気持ちになった。",
+              "zh": "聽了那番話後感到毛骨悚然。"
+            }
+          ]
         },
         {
           "word": "底知れない",
@@ -112368,7 +114036,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2562",
-          "romaji": "sokoshirenai"
+          "romaji": "sokoshirenai",
+          "examples": [
+            {
+              "ja": "彼の野心は底知れないほど大きい。",
+              "zh": "他的野心深不可測地大。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の野心は底知れないほど大きい。",
+              "zh": "他的野心深不可測地大。"
+            }
+          ]
         },
         {
           "word": "名高い",
@@ -112380,7 +114060,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2563",
-          "romaji": "nadakai"
+          "romaji": "nadakai",
+          "examples": [
+            {
+              "ja": "この町は名高い温泉で知られている。",
+              "zh": "這座城鎮以有名的溫泉聞名。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この町は名高い温泉で知られている。",
+              "zh": "這座城鎮以有名的溫泉聞名。"
+            }
+          ]
         },
         {
           "word": "涙もろい",
@@ -112392,7 +114084,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2564",
-          "romaji": "namidamoroi"
+          "romaji": "namidamoroi",
+          "examples": [
+            {
+              "ja": "母は涙もろくて映画を見るとすぐ泣く。",
+              "zh": "母親容易流淚，一看電影就哭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "母は涙もろくて映画を見るとすぐ泣く。",
+              "zh": "母親容易流淚，一看電影就哭。"
+            }
+          ]
         },
         {
           "word": "寝苦しい",
@@ -112404,7 +114108,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2565",
-          "romaji": "negurushii"
+          "romaji": "negurushii",
+          "examples": [
+            {
+              "ja": "昨夜は暑くて寝苦しい夜だった。",
+              "zh": "昨晚又熱又難以入睡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昨夜は暑くて寝苦しい夜だった。",
+              "zh": "昨晚又熱又難以入睡。"
+            }
+          ]
         },
         {
           "word": "誇り高い",
@@ -112416,7 +114132,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2566",
-          "romaji": "hokoritakai"
+          "romaji": "hokoritakai",
+          "examples": [
+            {
+              "ja": "誇り高い職人は妥協を許さない。",
+              "zh": "非常自豪的職人絕不妥協。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "誇り高い職人は妥協を許さない。",
+              "zh": "非常自豪的職人絕不妥協。"
+            }
+          ]
         },
         {
           "word": "尤もらしい",
@@ -112428,7 +114156,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2567",
-          "romaji": "mottomorashii"
+          "romaji": "mottomorashii",
+          "examples": [
+            {
+              "ja": "尤もらしい言い訳を並べ立てた。",
+              "zh": "編了一堆冠冕堂皇的藉口。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "尤もらしい言い訳を並べ立てた。",
+              "zh": "編了一堆冠冕堂皇的藉口。"
+            }
+          ]
         },
         {
           "word": "欲深い",
@@ -112440,7 +114180,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2568",
-          "romaji": "yokubukai"
+          "romaji": "yokubukai",
+          "examples": [
+            {
+              "ja": "欲深い人はいつまでも満足できない。",
+              "zh": "貪婪的人永遠無法滿足。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "欲深い人はいつまでも満足できない。",
+              "zh": "貪婪的人永遠無法滿足。"
+            }
+          ]
         },
         {
           "word": "奥ゆかしい",
@@ -112452,7 +114204,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2569",
-          "romaji": "okuyukashii"
+          "romaji": "okuyukashii",
+          "examples": [
+            {
+              "ja": "奥ゆかしい着物姿が印象的だった。",
+              "zh": "高雅的和服身姿令人印象深刻。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "奥ゆかしい着物姿が印象的だった。",
+              "zh": "高雅的和服身姿令人印象深刻。"
+            }
+          ]
         },
         {
           "word": "軽々しい",
@@ -112464,7 +114228,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2570",
-          "romaji": "karugarushii"
+          "romaji": "karugarushii",
+          "examples": [
+            {
+              "ja": "軽々しい発言は後で後悔する。",
+              "zh": "輕率的發言事後會後悔。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "軽々しい発言は後で後悔する。",
+              "zh": "輕率的發言事後會後悔。"
+            }
+          ]
         },
         {
           "word": "狂おしい",
@@ -112476,7 +114252,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2571",
-          "romaji": "kuruoshii"
+          "romaji": "kuruoshii",
+          "examples": [
+            {
+              "ja": "狂おしいほど彼女を想っていた。",
+              "zh": "發狂似地思念著她。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "狂おしいほど彼女を想っていた。",
+              "zh": "發狂似地思念著她。"
+            }
+          ]
         },
         {
           "word": "吝嗇臭い",
@@ -112488,7 +114276,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2572",
-          "romaji": "kechikusai"
+          "romaji": "kechikusai",
+          "examples": [
+            {
+              "ja": "吝嗇臭い態度に周りが呆れた。",
+              "zh": "周圍的人對他小氣的態度感到傻眼。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "吝嗇臭い態度に周りが呆れた。",
+              "zh": "周圍的人對他小氣的態度感到傻眼。"
+            }
+          ]
         },
         {
           "word": "心許ない",
@@ -112500,7 +114300,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2573",
-          "romaji": "kokoromotonai"
+          "romaji": "kokoromotonai",
+          "examples": [
+            {
+              "ja": "この計画は心許ない点が多い。",
+              "zh": "這項計畫有很多讓人不放心的地方。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この計画は心許ない点が多い。",
+              "zh": "這項計畫有很多讓人不放心的地方。"
+            }
+          ]
         },
         {
           "word": "萎らしい",
@@ -112512,7 +114324,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2574",
-          "romaji": "shiorashii"
+          "romaji": "shiorashii",
+          "examples": [
+            {
+              "ja": "萎らしい猫が膝の上で丸くなった。",
+              "zh": "溫順乖巧的貓在膝上蜷成一團。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "萎らしい猫が膝の上で丸くなった。",
+              "zh": "溫順乖巧的貓在膝上蜷成一團。"
+            }
+          ]
         },
         {
           "word": "生臭い",
@@ -112524,7 +114348,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2575",
-          "romaji": "namagusai"
+          "romaji": "namagusai",
+          "examples": [
+            {
+              "ja": "生臭い魚の匂いが台所に漂う。",
+              "zh": "腥味的魚腥氣在廚房裡飄散。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "生臭い魚の匂いが台所に漂う。",
+              "zh": "腥味的魚腥氣在廚房裡飄散。"
+            }
+          ]
         },
         {
           "word": "直向き",
@@ -112548,7 +114384,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2577",
-          "romaji": "mirengamashii"
+          "romaji": "mirengamashii",
+          "examples": [
+            {
+              "ja": "未練がましい態度は見苦しい。",
+              "zh": "依依不捨的態度很難看。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "未練がましい態度は見苦しい。",
+              "zh": "依依不捨的態度很難看。"
+            }
+          ]
         },
         {
           "word": "目聡い",
@@ -112560,7 +114408,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2578",
-          "romaji": "mezatoi"
+          "romaji": "mezatoi",
+          "examples": [
+            {
+              "ja": "目聡い店員がすぐに商品を見つけた。",
+              "zh": "眼尖的店員立刻找到了商品。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "目聡い店員がすぐに商品を見つけた。",
+              "zh": "眼尖的店員立刻找到了商品。"
+            }
+          ]
         },
         {
           "word": "潔い",
@@ -112572,7 +114432,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2579",
-          "romaji": "isagiyoi"
+          "romaji": "isagiyoi",
+          "examples": [
+            {
+              "ja": "潔い負け方をするのが大切だ。",
+              "zh": "乾脆果斷地認輸很重要。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "潔い負け方をするのが大切だ。",
+              "zh": "乾脆果斷地認輸很重要。"
+            }
+          ]
         },
         {
           "word": "幼い",
@@ -112584,7 +114456,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2580",
-          "romaji": "osanai"
+          "romaji": "osanai",
+          "examples": [
+            {
+              "ja": "まだ幼い子供には理解が難しい。",
+              "zh": "對還年幼的孩子來說很難理解。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "まだ幼い子供には理解が難しい。",
+              "zh": "對還年幼的孩子來說很難理解。"
+            }
+          ]
         },
         {
           "word": "一途",
@@ -113196,7 +115080,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2631",
-          "romaji": "darui"
+          "romaji": "darui",
+          "examples": [
+            {
+              "ja": "風邪のあと体が怠い。",
+              "zh": "感冒後身體感到倦怠。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "風邪のあと体が怠い。",
+              "zh": "感冒後身體感到倦怠。"
+            }
+          ]
         },
         {
           "word": "鈍い",
@@ -113208,7 +115104,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2632",
-          "romaji": "nibui"
+          "romaji": "nibui",
+          "examples": [
+            {
+              "ja": "今日は反応が鈍くて仕事が進まない。",
+              "zh": "今天反應緩慢，工作進展不了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日は反応が鈍くて仕事が進まない。",
+              "zh": "今天反應緩慢，工作進展不了。"
+            }
+          ]
         },
         {
           "word": "鈍い",
@@ -113220,7 +115128,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2633",
-          "romaji": "noroi"
+          "romaji": "noroi",
+          "examples": [
+            {
+              "ja": "今日は反応が鈍くて仕事が進まない。",
+              "zh": "今天反應緩慢，工作進展不了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日は反応が鈍くて仕事が進まない。",
+              "zh": "今天反應緩慢，工作進展不了。"
+            }
+          ]
         },
         {
           "word": "晴れがましい",
@@ -113232,7 +115152,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2634",
-          "romaji": "haregamashii"
+          "romaji": "haregamashii",
+          "examples": [
+            {
+              "ja": "晴れがましい舞台に立つのが夢だ。",
+              "zh": "站上光榮的舞台是夢想。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "晴れがましい舞台に立つのが夢だ。",
+              "zh": "站上光榮的舞台是夢想。"
+            }
+          ]
         },
         {
           "word": "腹立たしい",
@@ -113244,7 +115176,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2635",
-          "romaji": "haradatashii"
+          "romaji": "haradatashii",
+          "examples": [
+            {
+              "ja": "腹立たしい仕打ちに怒りがこみ上げた。",
+              "zh": "令人氣憤的對待讓怒火湧上心頭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腹立たしい仕打ちに怒りがこみ上げた。",
+              "zh": "令人氣憤的對待讓怒火湧上心頭。"
+            }
+          ]
         },
         {
           "word": "如何わしい",
@@ -113256,7 +115200,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2636",
-          "romaji": "ikagawashii"
+          "romaji": "ikagawashii",
+          "examples": [
+            {
+              "ja": "如何わしい人物との接触は避けるべきだ。",
+              "zh": "應該避免與可疑人物接觸。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "如何わしい人物との接触は避けるべきだ。",
+              "zh": "應該避免與可疑人物接觸。"
+            }
+          ]
         },
         {
           "word": "疎い",
@@ -113268,7 +115224,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2637",
-          "romaji": "utoi"
+          "romaji": "utoi",
+          "examples": [
+            {
+              "ja": "機械には疎いので説明が必要だ。",
+              "zh": "對機械很生疏，所以需要說明。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "機械には疎いので説明が必要だ。",
+              "zh": "對機械很生疏，所以需要說明。"
+            }
+          ]
         },
         {
           "word": "きな臭い",
@@ -113280,7 +115248,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2638",
-          "romaji": "kinakusai"
+          "romaji": "kinakusai",
+          "examples": [
+            {
+              "ja": "きな臭い噂が社内に流れている。",
+              "zh": "有火藥味的傳聞在公司裡流傳。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "きな臭い噂が社内に流れている。",
+              "zh": "有火藥味的傳聞在公司裡流傳。"
+            }
+          ]
         },
         {
           "word": "照れ臭い",
@@ -113292,7 +115272,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2639",
-          "romaji": "terekusai"
+          "romaji": "terekusai",
+          "examples": [
+            {
+              "ja": "褒められると照れ臭い。",
+              "zh": "被稱讚時會害羞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "褒められると照れ臭い。",
+              "zh": "被稱讚時會害羞。"
+            }
+          ]
         },
         {
           "word": "朧気",
@@ -113400,7 +115392,19 @@
           "pos": "い形容詞",
           "category": "nature_weather",
           "id": "v_n5_auto_2648",
-          "romaji": "atsukurushii"
+          "romaji": "atsukurushii",
+          "examples": [
+            {
+              "ja": "満員電車は暑苦しくて息が詰まる。",
+              "zh": "擁擠的電車悶熱得令人喘不過氣。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "満員電車は暑苦しくて息が詰まる。",
+              "zh": "擁擠的電車悶熱得令人喘不過氣。"
+            }
+          ]
         },
         {
           "word": "聞き苦しい",
@@ -113412,7 +115416,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2649",
-          "romaji": "kikigurushii"
+          "romaji": "kikigurushii",
+          "examples": [
+            {
+              "ja": "聞き苦しい言い訳はやめてほしい。",
+              "zh": "希望別再說刺耳難聽的藉口。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "聞き苦しい言い訳はやめてほしい。",
+              "zh": "希望別再說刺耳難聽的藉口。"
+            }
+          ]
         },
         {
           "word": "泥臭い",
@@ -113424,7 +115440,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2650",
-          "romaji": "dorokusai"
+          "romaji": "dorokusai",
+          "examples": [
+            {
+              "ja": "泥臭い努力がついに実を結んだ。",
+              "zh": "笨拙但踏實的努力終於開花結果。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "泥臭い努力がついに実を結んだ。",
+              "zh": "笨拙但踏實的努力終於開花結果。"
+            }
+          ]
         },
         {
           "word": "古臭い",
@@ -113436,7 +115464,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2651",
-          "romaji": "furukusai"
+          "romaji": "furukusai",
+          "examples": [
+            {
+              "ja": "その考えはもう古臭い。",
+              "zh": "那種想法已經老掉牙了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "その考えはもう古臭い。",
+              "zh": "那種想法已經老掉牙了。"
+            }
+          ]
         },
         {
           "word": "嘘くさい",
@@ -113448,7 +115488,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2652",
-          "romaji": "usokusai"
+          "romaji": "usokusai",
+          "examples": [
+            {
+              "ja": "彼の話はどこか嘘くさい。",
+              "zh": "他的話聽起來有點像在說謊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の話はどこか嘘くさい。",
+              "zh": "他的話聽起來有點像在說謊。"
+            }
+          ]
         },
         {
           "word": "気色悪い",
@@ -113460,7 +115512,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2653",
-          "romaji": "kishokuwarui"
+          "romaji": "kishokuwarui",
+          "examples": [
+            {
+              "ja": "気色悪い虫が部屋に入ってきた。",
+              "zh": "令人作嘔的蟲子爬進了房間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "気色悪い虫が部屋に入ってきた。",
+              "zh": "令人作嘔的蟲子爬進了房間。"
+            }
+          ]
         },
         {
           "word": "気持ち悪い",
@@ -113472,7 +115536,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2654",
-          "romaji": "kimochiwarui"
+          "romaji": "kimochiwarui",
+          "examples": [
+            {
+              "ja": "乗り物酔いで気持ち悪い。",
+              "zh": "因為暈車而感到噁心不舒服。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "乗り物酔いで気持ち悪い。",
+              "zh": "因為暈車而感到噁心不舒服。"
+            }
+          ]
         },
         {
           "word": "他愛ない",
@@ -113484,7 +115560,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2655",
-          "romaji": "taainai"
+          "romaji": "taainai",
+          "examples": [
+            {
+              "ja": "他愛ない話で一日が過ぎた。",
+              "zh": "在無聊的閒聊中一天就過去了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "他愛ない話で一日が過ぎた。",
+              "zh": "在無聊的閒聊中一天就過去了。"
+            }
+          ]
         },
         {
           "word": "仕様がない",
@@ -113496,7 +115584,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2656",
-          "romaji": "shiyouganai"
+          "romaji": "shiyouganai",
+          "examples": [
+            {
+              "ja": "雨が降ったのだから仕様がない。",
+              "zh": "既然下雨了，也沒辦法。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "雨が降ったのだから仕様がない。",
+              "zh": "既然下雨了，也沒辦法。"
+            }
+          ]
         },
         {
           "word": "止む無い",
@@ -113508,7 +115608,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2657",
-          "romaji": "yamunai"
+          "romaji": "yamunai",
+          "examples": [
+            {
+              "ja": "止む無い事情で欠席した。",
+              "zh": "因不得已的事情而缺席了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "止む無い事情で欠席した。",
+              "zh": "因不得已的事情而缺席了。"
+            }
+          ]
         },
         {
           "word": "途方もない",
@@ -113520,7 +115632,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2658",
-          "romaji": "tohoumonai"
+          "romaji": "tohoumonai",
+          "examples": [
+            {
+              "ja": "途方もない金額を請求された。",
+              "zh": "被要求支付了天文數字般的金額。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "途方もない金額を請求された。",
+              "zh": "被要求支付了天文數字般的金額。"
+            }
+          ]
         },
         {
           "word": "際限ない",
@@ -113532,7 +115656,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2659",
-          "romaji": "saigennai"
+          "romaji": "saigennai",
+          "examples": [
+            {
+              "ja": "欲望には際限ないものがある。",
+              "zh": "慾望是無止境的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "欲望には際限ないものがある。",
+              "zh": "慾望是無止境的。"
+            }
+          ]
         },
         {
           "word": "気怠い",
@@ -113544,7 +115680,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2660",
-          "romaji": "kedarui"
+          "romaji": "kedarui",
+          "examples": [
+            {
+              "ja": "休日の午後は気怠い気分だ。",
+              "zh": "假日午後是慵懶疲乏的心情。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "休日の午後は気怠い気分だ。",
+              "zh": "假日午後是慵懶疲乏的心情。"
+            }
+          ]
         },
         {
           "word": "諄い",
@@ -113556,7 +115704,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2661",
-          "romaji": "kudoi"
+          "romaji": "kudoi",
+          "examples": [
+            {
+              "ja": "諄い説明はかえって分かりにくい。",
+              "zh": "囉嗦的說明反而更難懂。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "諄い説明はかえって分かりにくい。",
+              "zh": "囉嗦的說明反而更難懂。"
+            }
+          ]
         },
         {
           "word": "素気無い",
@@ -113568,7 +115728,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2662",
-          "romaji": "sugenai"
+          "romaji": "sugenai",
+          "examples": [
+            {
+              "ja": "店員の素気無い対応に少しがっかりした。",
+              "zh": "店員冷淡的應對讓我有點失望。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "店員の素気無い対応に少しがっかりした。",
+              "zh": "店員冷淡的應對讓我有點失望。"
+            }
+          ]
         },
         {
           "word": "神々しい",
@@ -113580,7 +115752,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2663",
-          "romaji": "kougoukougoushii"
+          "romaji": "kougoukougoushii",
+          "examples": [
+            {
+              "ja": "朝日に照らされた山々が神々しく見えた。",
+              "zh": "被朝陽照耀的群山顯得神聖莊嚴。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "朝日に照らされた山々が神々しく見えた。",
+              "zh": "被朝陽照耀的群山顯得神聖莊嚴。"
+            }
+          ]
         },
         {
           "word": "素っ気ない",
@@ -113592,7 +115776,19 @@
           "pos": "い形容詞",
           "category": "nature_weather",
           "id": "v_n5_auto_2664",
-          "romaji": "sokkenai"
+          "romaji": "sokkenai",
+          "examples": [
+            {
+              "ja": "彼は素っ気ない返事しかくれなかった。",
+              "zh": "他只給了我冷淡的答覆。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は素っ気ない返事しかくれなかった。",
+              "zh": "他只給了我冷淡的答覆。"
+            }
+          ]
         },
         {
           "word": "力強い",
@@ -113604,7 +115800,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2665",
-          "romaji": "chikarazuyoi"
+          "romaji": "chikarazuyoi",
+          "examples": [
+            {
+              "ja": "力強い声で応援の歌を歌った。",
+              "zh": "用強有力的聲音唱了加油歌。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "力強い声で応援の歌を歌った。",
+              "zh": "用強有力的聲音唱了加油歌。"
+            }
+          ]
         },
         {
           "word": "手堅い",
@@ -113616,7 +115824,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2666",
-          "romaji": "tegatai"
+          "romaji": "tegatai",
+          "examples": [
+            {
+              "ja": "手堅い投資で少しずつ資産を増やしている。",
+              "zh": "以穩妥的投資慢慢增加資產。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "手堅い投資で少しずつ資産を増やしている。",
+              "zh": "以穩妥的投資慢慢增加資產。"
+            }
+          ]
         },
         {
           "word": "手荒い",
@@ -113628,7 +115848,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2667",
-          "romaji": "tearai"
+          "romaji": "tearai",
+          "examples": [
+            {
+              "ja": "子どもに手荒い扱いをしてはいけない。",
+              "zh": "不可以粗暴地對待孩子。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "子どもに手荒い扱いをしてはいけない。",
+              "zh": "不可以粗暴地對待孩子。"
+            }
+          ]
         },
         {
           "word": "根強い",
@@ -113640,7 +115872,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2668",
-          "romaji": "nezuyoi"
+          "romaji": "nezuyoi",
+          "examples": [
+            {
+              "ja": "この町には根強い伝統が残っている。",
+              "zh": "這個城鎮仍保留著根深蒂固的傳統。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この町には根強い伝統が残っている。",
+              "zh": "這個城鎮仍保留著根深蒂固的傳統。"
+            }
+          ]
         },
         {
           "word": "幅広い",
@@ -113652,7 +115896,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2669",
-          "romaji": "habahiroi"
+          "romaji": "habahiroi",
+          "examples": [
+            {
+              "ja": "彼女は幅広い知識を持っている。",
+              "zh": "她擁有廣泛的知識。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は幅広い知識を持っている。",
+              "zh": "她擁有廣泛的知識。"
+            }
+          ]
         },
         {
           "word": "古めかしい",
@@ -113664,7 +115920,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2670",
-          "romaji": "furumekashii"
+          "romaji": "furumekashii",
+          "examples": [
+            {
+              "ja": "古めかしい家具が並んだ部屋に入った。",
+              "zh": "走進了擺滿陳舊家具的房間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "古めかしい家具が並んだ部屋に入った。",
+              "zh": "走進了擺滿陳舊家具的房間。"
+            }
+          ]
         },
         {
           "word": "物凄い",
@@ -113676,7 +115944,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2671",
-          "romaji": "monosugoi"
+          "romaji": "monosugoi",
+          "examples": [
+            {
+              "ja": "昨夜は物凄い雨が降った。",
+              "zh": "昨晚下了驚人的大雨。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昨夜は物凄い雨が降った。",
+              "zh": "昨晚下了驚人的大雨。"
+            }
+          ]
         },
         {
           "word": "余所余所しい",
@@ -113688,7 +115968,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2672",
-          "romaji": "yosoyososhii"
+          "romaji": "yosoyososhii",
+          "examples": [
+            {
+              "ja": "昔の友人なのに余所余所しい態度だった。",
+              "zh": "明明是老朋友，態度卻很見外。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昔の友人なのに余所余所しい態度だった。",
+              "zh": "明明是老朋友，態度卻很見外。"
+            }
+          ]
         },
         {
           "word": "悪賢い",
@@ -113700,7 +115992,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2673",
-          "romaji": "warugashikoi"
+          "romaji": "warugashikoi",
+          "examples": [
+            {
+              "ja": "悪賢い狐が人をだます昔話を読んだ。",
+              "zh": "讀了狡猾的狐狸騙人的民間故事。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "悪賢い狐が人をだます昔話を読んだ。",
+              "zh": "讀了狡猾的狐狸騙人的民間故事。"
+            }
+          ]
         },
         {
           "word": "付き合い辛い",
@@ -113712,7 +116016,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2674",
-          "romaji": "tsukiaizurai"
+          "romaji": "tsukiaizurai",
+          "examples": [
+            {
+              "ja": "彼は誠実だが、少し付き合い辛いところがある。",
+              "zh": "他很誠實，但有點難相處。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は誠実だが、少し付き合い辛いところがある。",
+              "zh": "他很誠實，但有點難相處。"
+            }
+          ]
         },
         {
           "word": "疚しい",
@@ -113724,7 +116040,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2675",
-          "romaji": "yamashii"
+          "romaji": "yamashii",
+          "examples": [
+            {
+              "ja": "嘘をついたことが疚しくて眠れなかった。",
+              "zh": "撒了謊感到內疚，睡不著覺。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "嘘をついたことが疚しくて眠れなかった。",
+              "zh": "撒了謊感到內疚，睡不著覺。"
+            }
+          ]
         },
         {
           "word": "鋭い",
@@ -113736,7 +116064,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2676",
-          "romaji": "surudoi"
+          "romaji": "surudoi",
+          "examples": [
+            {
+              "ja": "彼は鋭い観察力で問題の本質を見抜いた。",
+              "zh": "他以敏銳的觀察力看穿了問題的本質。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は鋭い観察力で問題の本質を見抜いた。",
+              "zh": "他以敏銳的觀察力看穿了問題的本質。"
+            }
+          ]
         },
         {
           "word": "甘酸っぱい",
@@ -113748,7 +116088,19 @@
           "pos": "い形容詞",
           "category": "adj_taste",
           "id": "v_n5_auto_2677",
-          "romaji": "amazuppai"
+          "romaji": "amazuppai",
+          "examples": [
+            {
+              "ja": "甘酸っぱいイチゴの香りが漂ってきた。",
+              "zh": "飄來了酸甜的草莓香氣。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "甘酸っぱいイチゴの香りが漂ってきた。",
+              "zh": "飄來了酸甜的草莓香氣。"
+            }
+          ]
         },
         {
           "word": "奥深い",
@@ -113760,7 +116112,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2678",
-          "romaji": "okubukai"
+          "romaji": "okubukai",
+          "examples": [
+            {
+              "ja": "この小説は奥深いテーマを扱っている。",
+              "zh": "這部小說探討了深奧的主題。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この小説は奥深いテーマを扱っている。",
+              "zh": "這部小說探討了深奧的主題。"
+            }
+          ]
         },
         {
           "word": "色濃い",
@@ -113772,7 +116136,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2679",
-          "romaji": "irokoi"
+          "romaji": "irokoi",
+          "examples": [
+            {
+              "ja": "事件には政治的な色濃い背景がある。",
+              "zh": "事件有濃厚的政治背景。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "事件には政治的な色濃い背景がある。",
+              "zh": "事件有濃厚的政治背景。"
+            }
+          ]
         },
         {
           "word": "厳つい",
@@ -113784,7 +116160,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2680",
-          "romaji": "ikatsui"
+          "romaji": "ikatsui",
+          "examples": [
+            {
+              "ja": "厳つい顔の警備員が入口に立っていた。",
+              "zh": "面容嚴厲的警衛站在入口處。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "厳つい顔の警備員が入口に立っていた。",
+              "zh": "面容嚴厲的警衛站在入口處。"
+            }
+          ]
         },
         {
           "word": "か弱い",
@@ -113796,7 +116184,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2681",
-          "romaji": "kayowai"
+          "romaji": "kayowai",
+          "examples": [
+            {
+              "ja": "か弱い体で必死に頑張っている姿が印象的だった。",
+              "zh": "以纖弱的身體拼命努力的樣子令人印象深刻。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "か弱い体で必死に頑張っている姿が印象的だった。",
+              "zh": "以纖弱的身體拼命努力的樣子令人印象深刻。"
+            }
+          ]
         },
         {
           "word": "気味悪い",
@@ -113808,7 +116208,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2682",
-          "romaji": "kimiwarui"
+          "romaji": "kimiwarui",
+          "examples": [
+            {
+              "ja": "暗い路地に気味悪い影が見えた。",
+              "zh": "在黑暗的巷子裡看到令人發毛的影子。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "暗い路地に気味悪い影が見えた。",
+              "zh": "在黑暗的巷子裡看到令人發毛的影子。"
+            }
+          ]
         },
         {
           "word": "心安い",
@@ -113820,7 +116232,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2683",
-          "romaji": "kokoroyasui"
+          "romaji": "kokoroyasui",
+          "examples": [
+            {
+              "ja": "長年の友人なので心安く話せる。",
+              "zh": "因為是多年老友，可以毫無拘束地交談。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "長年の友人なので心安く話せる。",
+              "zh": "因為是多年老友，可以毫無拘束地交談。"
+            }
+          ]
         },
         {
           "word": "小うるさい",
@@ -113832,7 +116256,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2684",
-          "romaji": "kourusai"
+          "romaji": "kourusai",
+          "examples": [
+            {
+              "ja": "母が小うるさいことを言うのでうんざりした。",
+              "zh": "母親囉嗦個不停，讓我煩透了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "母が小うるさいことを言うのでうんざりした。",
+              "zh": "母親囉嗦個不停，讓我煩透了。"
+            }
+          ]
         },
         {
           "word": "小難しい",
@@ -113844,7 +116280,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2685",
-          "romaji": "komuzukashii"
+          "romaji": "komuzukashii",
+          "examples": [
+            {
+              "ja": "説明書が小難しくてよく分からなかった。",
+              "zh": "說明書有些難懂，沒太看明白。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "説明書が小難しくてよく分からなかった。",
+              "zh": "說明書有些難懂，沒太看明白。"
+            }
+          ]
         },
         {
           "word": "ずる賢い",
@@ -113856,7 +116304,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2686",
-          "romaji": "zurugashikoi"
+          "romaji": "zurugashikoi",
+          "examples": [
+            {
+              "ja": "ずる賢いやり方で得をしようとする人がいる。",
+              "zh": "有人想用狡猾的手段獲利。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ずる賢いやり方で得をしようとする人がいる。",
+              "zh": "有人想用狡猾的手段獲利。"
+            }
+          ]
         },
         {
           "word": "罪深い",
@@ -113868,7 +116328,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2687",
-          "romaji": "tsumibukai"
+          "romaji": "tsumibukai",
+          "examples": [
+            {
+              "ja": "彼は罪深い過去を背負って生きている。",
+              "zh": "他背負著罪孽深重的過去活著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は罪深い過去を背負って生きている。",
+              "zh": "他背負著罪孽深重的過去活著。"
+            }
+          ]
         },
         {
           "word": "手痛い",
@@ -113880,7 +116352,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2688",
-          "romaji": "teitai"
+          "romaji": "teitai",
+          "examples": [
+            {
+              "ja": "試合で手痛い敗北を喫した。",
+              "zh": "在比賽中遭受了沉重的敗北。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "試合で手痛い敗北を喫した。",
+              "zh": "在比賽中遭受了沉重的敗北。"
+            }
+          ]
         },
         {
           "word": "手強い",
@@ -113892,7 +116376,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2689",
-          "romaji": "tegowai"
+          "romaji": "tegowai",
+          "examples": [
+            {
+              "ja": "今大会の相手は手強いチームばかりだ。",
+              "zh": "本屆大賽的對手都是難對付的強隊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今大会の相手は手強いチームばかりだ。",
+              "zh": "本屆大賽的對手都是難對付的強隊。"
+            }
+          ]
         },
         {
           "word": "生温かい",
@@ -113904,7 +116400,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2690",
-          "romaji": "namaatatakai"
+          "romaji": "namaatatakai",
+          "examples": [
+            {
+              "ja": "生温かいお茶ではあまり美味しくない。",
+              "zh": "微溫的茶不太好喝。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "生温かいお茶ではあまり美味しくない。",
+              "zh": "微溫的茶不太好喝。"
+            }
+          ]
         },
         {
           "word": "根気強い",
@@ -113916,7 +116424,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2691",
-          "romaji": "konkizuyoi"
+          "romaji": "konkizuyoi",
+          "examples": [
+            {
+              "ja": "根気強く練習を続けた結果、上達した。",
+              "zh": "耐心持續練習的結果，有了進步。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "根気強く練習を続けた結果、上達した。",
+              "zh": "耐心持續練習的結果，有了進步。"
+            }
+          ]
         },
         {
           "word": "馬鹿でかい",
@@ -113928,7 +116448,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2692",
-          "romaji": "bakadekai"
+          "romaji": "bakadekai",
+          "examples": [
+            {
+              "ja": "公園に馬鹿でかい彫刻が置いてあった。",
+              "zh": "公園裡放著巨大無比的雕塑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "公園に馬鹿でかい彫刻が置いてあった。",
+              "zh": "公園裡放著巨大無比的雕塑。"
+            }
+          ]
         },
         {
           "word": "鼻高い",
@@ -113940,7 +116472,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2693",
-          "romaji": "hanatakai"
+          "romaji": "hanatakai",
+          "examples": [
+            {
+              "ja": "息子の合格を鼻高く語る親もいる。",
+              "zh": "也有父母得意地談論兒子考上了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "息子の合格を鼻高く語る親もいる。",
+              "zh": "也有父母得意地談論兒子考上了。"
+            }
+          ]
         },
         {
           "word": "飢じい",
@@ -113952,7 +116496,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2694",
-          "romaji": "himojii"
+          "romaji": "himojii",
+          "examples": [
+            {
+              "ja": "一日中何も食べず、腹が飢じくなってきた。",
+              "zh": "一整天沒吃東西，肚子開始餓了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "一日中何も食べず、腹が飢じくなってきた。",
+              "zh": "一整天沒吃東西，肚子開始餓了。"
+            }
+          ]
         },
         {
           "word": "目新しい",
@@ -113964,7 +116520,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2695",
-          "romaji": "meatarashii"
+          "romaji": "meatarashii",
+          "examples": [
+            {
+              "ja": "目新しい商品が店頭に並んでいた。",
+              "zh": "新奇的商品陳列在店頭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "目新しい商品が店頭に並んでいた。",
+              "zh": "新奇的商品陳列在店頭。"
+            }
+          ]
         },
         {
           "word": "多感",
@@ -114012,7 +116580,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2699",
-          "romaji": "imashii"
+          "romaji": "imashii",
+          "examples": [
+            {
+              "ja": "また電車が遅れて忌々しい限りだ。",
+              "zh": "電車又晚點了，真是令人惱火。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "また電車が遅れて忌々しい限りだ。",
+              "zh": "電車又晚點了，真是令人惱火。"
+            }
+          ]
         },
         {
           "word": "香ばしい",
@@ -114024,7 +116604,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2700",
-          "romaji": "koubashii"
+          "romaji": "koubashii",
+          "examples": [
+            {
+              "ja": "焼きたてのパンの香ばしい匂いがする。",
+              "zh": "聞到剛出爐麵包的芳香。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "焼きたてのパンの香ばしい匂いがする。",
+              "zh": "聞到剛出爐麵包的芳香。"
+            }
+          ]
         },
         {
           "word": "小気味よい",
@@ -114036,7 +116628,19 @@
           "pos": "い形容詞",
           "category": "human_body",
           "id": "v_n5_auto_2701",
-          "romaji": "kokimiyoi"
+          "romaji": "kokimiyoi",
+          "examples": [
+            {
+              "ja": "彼の歯切れの良い答えが小気味よかった。",
+              "zh": "他乾脆俐落的回答令人痛快。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の歯切れの良い答えが小気味よかった。",
+              "zh": "他乾脆俐落的回答令人痛快。"
+            }
+          ]
         },
         {
           "word": "意地汚い",
@@ -114048,7 +116652,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2702",
-          "romaji": "ijigitanai"
+          "romaji": "ijigitanai",
+          "examples": [
+            {
+              "ja": "意地汚く残り物まで全部食べてしまった。",
+              "zh": "嘴饞地把剩菜全部吃光了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "意地汚く残り物まで全部食べてしまった。",
+              "zh": "嘴饞地把剩菜全部吃光了。"
+            }
+          ]
         },
         {
           "word": "青々しい",
@@ -114060,7 +116676,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2703",
-          "romaji": "aoaoshii"
+          "romaji": "aoaoshii",
+          "examples": [
+            {
+              "ja": "春になると山が青々しく色づく。",
+              "zh": "一到春天，山巒便變得青蔥翠綠。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "春になると山が青々しく色づく。",
+              "zh": "一到春天，山巒便變得青蔥翠綠。"
+            }
+          ]
         },
         {
           "word": "熱っぽい",
@@ -114072,7 +116700,19 @@
           "pos": "い形容詞",
           "category": "nature_weather",
           "id": "v_n5_auto_2704",
-          "romaji": "netsuppoi"
+          "romaji": "netsuppoi",
+          "examples": [
+            {
+              "ja": "今朝から少し熱っぽいので休むことにした。",
+              "zh": "從今早起有點發燒，所以決定休息。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今朝から少し熱っぽいので休むことにした。",
+              "zh": "從今早起有點發燒，所以決定休息。"
+            }
+          ]
         },
         {
           "word": "慌ただしい",
@@ -114084,7 +116724,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2705",
-          "romaji": "awatadashii"
+          "romaji": "awatadashii",
+          "examples": [
+            {
+              "ja": "朝は慌ただしく家を出ることが多い。",
+              "zh": "早上常常匆忙地離家出門。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "朝は慌ただしく家を出ることが多い。",
+              "zh": "早上常常匆忙地離家出門。"
+            }
+          ]
         },
         {
           "word": "大人げない",
@@ -114096,7 +116748,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2706",
-          "romaji": "otonagenai"
+          "romaji": "otonagenai",
+          "examples": [
+            {
+              "ja": "そんなことで怒るのは大人げない。",
+              "zh": "為那種事生氣太孩子氣了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そんなことで怒るのは大人げない。",
+              "zh": "為那種事生氣太孩子氣了。"
+            }
+          ]
         },
         {
           "word": "気障",
@@ -114120,7 +116784,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2708",
-          "romaji": "guchippoi"
+          "romaji": "guchippoi",
+          "examples": [
+            {
+              "ja": "愚痴っぽい話ばかりでは周りが疲れる。",
+              "zh": "老是發牢騷會讓周圍的人很累。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "愚痴っぽい話ばかりでは周りが疲れる。",
+              "zh": "老是發牢騷會讓周圍的人很累。"
+            }
+          ]
         },
         {
           "word": "荒涼",
@@ -114144,7 +116820,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2710",
-          "romaji": "shuunenbukai"
+          "romaji": "shuunenbukai",
+          "examples": [
+            {
+              "ja": "彼は執念深く目標を追い続けるタイプだ。",
+              "zh": "他是那種固執地追尋目標的人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は執念深く目標を追い続けるタイプだ。",
+              "zh": "他是那種固執地追尋目標的人。"
+            }
+          ]
         },
         {
           "word": "耐え難い",
@@ -114156,7 +116844,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2711",
-          "romaji": "taegatai"
+          "romaji": "taegatai",
+          "examples": [
+            {
+              "ja": "真夏の暑さは耐え難いほどだった。",
+              "zh": "盛夏的酷熱令人難以忍受。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "真夏の暑さは耐え難いほどだった。",
+              "zh": "盛夏的酷熱令人難以忍受。"
+            }
+          ]
         },
         {
           "word": "でかい",
@@ -114169,7 +116869,19 @@
           "category": "looks_size",
           "kanjiChecked": true,
           "id": "v_n5_auto_2712",
-          "romaji": "dekai"
+          "romaji": "dekai",
+          "examples": [
+            {
+              "ja": "このでかい荷物を一人で運ぶのは無理だ。",
+              "zh": "這個巨大的行李一個人搬是辦不到的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このでかい荷物を一人で運ぶのは無理だ。",
+              "zh": "這個巨大的行李一個人搬是辦不到的。"
+            }
+          ]
         },
         {
           "word": "緩らか",
@@ -114193,7 +116905,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2714",
-          "romaji": "futebuteshii"
+          "romaji": "futebuteshii",
+          "examples": [
+            {
+              "ja": "そんな態々しい態度で謝られても、許せるわけがない。",
+              "zh": "用那種厚顏無恥的態度道歉，根本不可能原諒。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そんな態々しい態度で謝られても、許せるわけがない。",
+              "zh": "用那種厚顏無恥的態度道歉，根本不可能原諒。"
+            }
+          ]
         },
         {
           "word": "微笑ましい",
@@ -114205,7 +116929,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2715",
-          "romaji": "hohoemashii"
+          "romaji": "hohoemashii",
+          "examples": [
+            {
+              "ja": "子どもの無邪気な笑顔は、とても微笑ましい。",
+              "zh": "孩子天真的笑容，令人十分欣慰。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "子どもの無邪気な笑顔は、とても微笑ましい。",
+              "zh": "孩子天真的笑容，令人十分欣慰。"
+            }
+          ]
         },
         {
           "word": "腕白",
@@ -114229,7 +116965,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2717",
-          "romaji": "utagaibukai"
+          "romaji": "utagaibukai",
+          "examples": [
+            {
+              "ja": "彼は疑い深い性格で、誰の話もすぐに信じない。",
+              "zh": "他生性多疑，誰的話都不輕易相信。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は疑い深い性格で、誰の話もすぐに信じない。",
+              "zh": "他生性多疑，誰的話都不輕易相信。"
+            }
+          ]
         },
         {
           "word": "柔い",
@@ -114241,7 +116989,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2718",
-          "romaji": "yawai"
+          "romaji": "yawai",
+          "examples": [
+            {
+              "ja": "このパンは生地が柔くて、とても食べやすい。",
+              "zh": "這個麵包麵團很柔軟，非常好入口。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このパンは生地が柔くて、とても食べやすい。",
+              "zh": "這個麵包麵團很柔軟，非常好入口。"
+            }
+          ]
         },
         {
           "word": "分厚い",
@@ -114253,7 +117013,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2719",
-          "romaji": "buatsui"
+          "romaji": "buatsui",
+          "examples": [
+            {
+              "ja": "分厚い本を抱えて、図書館から出てきた。",
+              "zh": "抱著厚厚的書，從圖書館走了出來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "分厚い本を抱えて、図書館から出てきた。",
+              "zh": "抱著厚厚的書，從圖書館走了出來。"
+            }
+          ]
         },
         {
           "word": "息長い",
@@ -114265,7 +117037,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2720",
-          "romaji": "ikinagai"
+          "romaji": "ikinagai",
+          "examples": [
+            {
+              "ja": "息長い努力の末に、ようやく目標を達成した。",
+              "zh": "經過長久的努力，終於達成了目標。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "息長い努力の末に、ようやく目標を達成した。",
+              "zh": "經過長久的努力，終於達成了目標。"
+            }
+          ]
         },
         {
           "word": "気短い",
@@ -114277,7 +117061,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2721",
-          "romaji": "kimijikai"
+          "romaji": "kimijikai",
+          "examples": [
+            {
+              "ja": "気短い上司は、説明が少しでも長いとすぐ怒ってしまう。",
+              "zh": "性子急的上司，說明稍長一點就立刻發火。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "気短い上司は、説明が少しでも長いとすぐ怒ってしまう。",
+              "zh": "性子急的上司，說明稍長一點就立刻發火。"
+            }
+          ]
         },
         {
           "word": "浅はか",
@@ -114496,7 +117292,19 @@
           "pos": "い形容詞",
           "category": "adj_taste",
           "id": "v_n5_auto_2739",
-          "romaji": "sui"
+          "romaji": "sui",
+          "examples": [
+            {
+              "ja": "このレモンはとても酸くて、そのままでは食べられない。",
+              "zh": "這個檸檬很酸，無法直接食用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このレモンはとても酸くて、そのままでは食べられない。",
+              "zh": "這個檸檬很酸，無法直接食用。"
+            }
+          ]
         },
         {
           "word": "卑しい",
@@ -114508,7 +117316,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2740",
-          "romaji": "iyashii"
+          "romaji": "iyashii",
+          "examples": [
+            {
+              "ja": "金に対して卑しい態度は、人から嫌われる。",
+              "zh": "對金錢貪婪卑劣的態度，會招人厭惡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "金に対して卑しい態度は、人から嫌われる。",
+              "zh": "對金錢貪婪卑劣的態度，會招人厭惡。"
+            }
+          ]
         },
         {
           "word": "図太い",
@@ -114520,7 +117340,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2741",
-          "romaji": "zubutoi"
+          "romaji": "zubutoi",
+          "examples": [
+            {
+              "ja": "図太い彼は、遅刻したのに平然と席に座った。",
+              "zh": "厚顏無恥的他，明明遲到了卻若無其事地坐下。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "図太い彼は、遅刻したのに平然と席に座った。",
+              "zh": "厚顏無恥的他，明明遲到了卻若無其事地坐下。"
+            }
+          ]
         },
         {
           "word": "訝しい",
@@ -114532,7 +117364,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2742",
-          "romaji": "ibukashii"
+          "romaji": "ibukashii",
+          "examples": [
+            {
+              "ja": "彼の説明には何か訝しいところがある。",
+              "zh": "他的說明有些地方很可疑。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の説明には何か訝しいところがある。",
+              "zh": "他的說明有些地方很可疑。"
+            }
+          ]
         },
         {
           "word": "阿呆らしい",
@@ -114544,7 +117388,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2743",
-          "romaji": "ahorashii"
+          "romaji": "ahorashii",
+          "examples": [
+            {
+              "ja": "そんな阿呆らしいことで喧嘩するなんて、信じられない。",
+              "zh": "為那麼愚蠢的事吵架，真令人難以置信。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "そんな阿呆らしいことで喧嘩するなんて、信じられない。",
+              "zh": "為那麼愚蠢的事吵架，真令人難以置信。"
+            }
+          ]
         },
         {
           "word": "嫉妬深い",
@@ -114556,7 +117412,19 @@
           "pos": "い形容詞",
           "category": "adj_emotion",
           "id": "v_n5_auto_2744",
-          "romaji": "shittobukai"
+          "romaji": "shittobukai",
+          "examples": [
+            {
+              "ja": "嫉妬深い人は、他人の成功を素直に喜べない。",
+              "zh": "愛嫉妒的人，無法由衷為他人的成功高興。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "嫉妬深い人は、他人の成功を素直に喜べない。",
+              "zh": "愛嫉妒的人，無法由衷為他人的成功高興。"
+            }
+          ]
         },
         {
           "word": "意義深い",
@@ -114568,7 +117436,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2745",
-          "romaji": "igibukai"
+          "romaji": "igibukai",
+          "examples": [
+            {
+              "ja": "この会議は、今後の方針を決める意義深い場となった。",
+              "zh": "這次會議成了決定今後方針的意義深遠的場合。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この会議は、今後の方針を決める意義深い場となった。",
+              "zh": "這次會議成了決定今後方針的意義深遠的場合。"
+            }
+          ]
         },
         {
           "word": "興味深い",
@@ -114580,7 +117460,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2746",
-          "romaji": "kyoumibukai"
+          "romaji": "kyoumibukai",
+          "examples": [
+            {
+              "ja": "その研究結果は、とても興味深い内容だった。",
+              "zh": "那項研究結果的內容非常有趣。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "その研究結果は、とても興味深い内容だった。",
+              "zh": "那項研究結果的內容非常有趣。"
+            }
+          ]
         },
         {
           "word": "味わい深い",
@@ -114592,7 +117484,19 @@
           "pos": "い形容詞",
           "category": "looks_size",
           "id": "v_n5_auto_2747",
-          "romaji": "ajiwaibukai"
+          "romaji": "ajiwaibukai",
+          "examples": [
+            {
+              "ja": "この小説は、読むたびに味わい深い発見がある。",
+              "zh": "這本小說每次讀都有意味深長的發現。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この小説は、読むたびに味わい深い発見がある。",
+              "zh": "這本小說每次讀都有意味深長的發現。"
+            }
+          ]
         },
         {
           "word": "慎み深い",
@@ -114604,7 +117508,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2748",
-          "romaji": "tsutsushimibukai"
+          "romaji": "tsutsushimibukai",
+          "examples": [
+            {
+              "ja": "彼女は慎み深い人で、決して自慢しない。",
+              "zh": "她是個謹慎的人，從不誇耀自己。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は慎み深い人で、決して自慢しない。",
+              "zh": "她是個謹慎的人，從不誇耀自己。"
+            }
+          ]
         },
         {
           "word": "業突く張り",
@@ -114652,7 +117568,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2752",
-          "romaji": "shiganai"
+          "romaji": "shiganai",
+          "examples": [
+            {
+              "ja": "身分が賤ないからといって、人を見下してはいけない。",
+              "zh": "即使身分微賤，也不該看不起人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "身分が賤ないからといって、人を見下してはいけない。",
+              "zh": "即使身分微賤，也不該看不起人。"
+            }
+          ]
         },
         {
           "word": "拙い",
@@ -114664,7 +117592,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2753",
-          "romaji": "tsutanai"
+          "romaji": "tsutanai",
+          "examples": [
+            {
+              "ja": "拙い文章だが、精一杯気持ちを込めて書いた。",
+              "zh": "雖然文章笨拙，但已盡全力傾注了心意。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "拙い文章だが、精一杯気持ちを込めて書いた。",
+              "zh": "雖然文章笨拙，但已盡全力傾注了心意。"
+            }
+          ]
         },
         {
           "word": "忝ない",
@@ -114676,7 +117616,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2754",
-          "romaji": "katajikenai"
+          "romaji": "katajikenai",
+          "examples": [
+            {
+              "ja": "このようなご厚意は、誠に忝ない限りです。",
+              "zh": "如此厚意，實在感激不盡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このようなご厚意は、誠に忝ない限りです。",
+              "zh": "如此厚意，實在感激不盡。"
+            }
+          ]
         },
         {
           "word": "遣り切れない",
@@ -114688,7 +117640,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2755",
-          "romaji": "yarikirenai"
+          "romaji": "yarikirenai",
+          "examples": [
+            {
+              "ja": "連日の残業で、もう心身ともに遣り切れない。",
+              "zh": "連日加班，身心都已經受不了了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "連日の残業で、もう心身ともに遣り切れない。",
+              "zh": "連日加班，身心都已經受不了了。"
+            }
+          ]
         },
         {
           "word": "どぎつい",
@@ -114701,7 +117665,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2756",
-          "romaji": "dogitsui"
+          "romaji": "dogitsui",
+          "examples": [
+            {
+              "ja": "どぎつい色の看板が、街並みに全く合っていない。",
+              "zh": "刺眼的顏色招牌，與街景完全不搭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "どぎつい色の看板が、街並みに全く合っていない。",
+              "zh": "刺眼的顏色招牌，與街景完全不搭。"
+            }
+          ]
         },
         {
           "word": "色よい",
@@ -114713,7 +117689,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2757",
-          "romaji": "iroyoi"
+          "romaji": "iroyoi",
+          "examples": [
+            {
+              "ja": "面接で色よい返事をもらい、安心した。",
+              "zh": "面試得到了令人滿意的答覆，鬆了一口氣。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "面接で色よい返事をもらい、安心した。",
+              "zh": "面試得到了令人滿意的答覆，鬆了一口氣。"
+            }
+          ]
         },
         {
           "word": "色白",
@@ -114749,7 +117737,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2760",
-          "romaji": "haraguroi"
+          "romaji": "haraguroi",
+          "examples": [
+            {
+              "ja": "表面上は優しいが、実は腹黒い人間だと後でわかった。",
+              "zh": "表面上很和善，後來才發現其實是居心叵測的人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "表面上は優しいが、実は腹黒い人間だと後でわかった。",
+              "zh": "表面上很和善，後來才發現其實是居心叵測的人。"
+            }
+          ]
         },
         {
           "word": "禍々しい",
@@ -114761,7 +117761,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2761",
-          "romaji": "magamagashii"
+          "romaji": "magamagashii",
+          "examples": [
+            {
+              "ja": "禍々しい夢を見て、朝まで眠れなかった。",
+              "zh": "做了不吉利的夢，直到早上都睡不著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "禍々しい夢を見て、朝まで眠れなかった。",
+              "zh": "做了不吉利的夢，直到早上都睡不著。"
+            }
+          ]
         },
         {
           "word": "可憐",
@@ -114810,7 +117822,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2765",
-          "romaji": "dasai"
+          "romaji": "dasai",
+          "examples": [
+            {
+              "ja": "その服は少しダサいので、もっと流行のものを選ぼう。",
+              "zh": "那件衣服有點土氣，選更流行的吧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "その服は少しダサいので、もっと流行のものを選ぼう。",
+              "zh": "那件衣服有點土氣，選更流行的吧。"
+            }
+          ]
         },
         {
           "word": "煩い",
@@ -114822,7 +117846,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2766",
-          "romaji": "uzai"
+          "romaji": "uzai",
+          "examples": [
+            {
+              "ja": "隣の部屋の音楽が煩くて、勉強に集中できない。",
+              "zh": "隔壁房間的音樂很煩人，無法專心讀書。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "隣の部屋の音楽が煩くて、勉強に集中できない。",
+              "zh": "隔壁房間的音樂很煩人，無法專心讀書。"
+            }
+          ]
         },
         {
           "word": "肝い",
@@ -114834,7 +117870,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2767",
-          "romaji": "kimoi"
+          "romaji": "kimoi",
+          "examples": [
+            {
+              "ja": "ホラー映画の肝いシーンで、思わず目をそらした。",
+              "zh": "恐怖片裡噁心的畫面，讓我不由得移開視線。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ホラー映画の肝いシーンで、思わず目をそらした。",
+              "zh": "恐怖片裡噁心的畫面，讓我不由得移開視線。"
+            }
+          ]
         },
         {
           "word": "しょぼい",
@@ -114847,7 +117895,19 @@
           "category": "looks_state",
           "kanjiChecked": true,
           "id": "v_n5_auto_2768",
-          "romaji": "shoboi"
+          "romaji": "shoboi",
+          "examples": [
+            {
+              "ja": "期待していたのに、景品がしょぼくてがっかりした。",
+              "zh": "原本很期待，結果獎品很寒酸，令人失望。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "期待していたのに、景品がしょぼくてがっかりした。",
+              "zh": "原本很期待，結果獎品很寒酸，令人失望。"
+            }
+          ]
         },
         {
           "word": "しどけない",
@@ -114860,7 +117920,19 @@
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2769",
-          "romaji": "shidokenai"
+          "romaji": "shidokenai",
+          "examples": [
+            {
+              "ja": "しどけない格好で外出するのは、やめた方がいい。",
+              "zh": "衣冠不整地出門，還是別這樣比較好。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "しどけない格好で外出するのは、やめた方がいい。",
+              "zh": "衣冠不整地出門，還是別這樣比較好。"
+            }
+          ]
         },
         {
           "word": "何気ない",
@@ -114872,7 +117944,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2770",
-          "romaji": "nanigenai"
+          "romaji": "nanigenai",
+          "examples": [
+            {
+              "ja": "何気ない一言が、相手を深く傷つけてしまった。",
+              "zh": "一句無意的話，卻深深傷害了對方。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "何気ない一言が、相手を深く傷つけてしまった。",
+              "zh": "一句無意的話，卻深深傷害了對方。"
+            }
+          ]
         },
         {
           "word": "白っぽい",
@@ -114884,7 +117968,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2771",
-          "romaji": "shiroppoi"
+          "romaji": "shiroppoi",
+          "examples": [
+            {
+              "ja": "白っぽい雲が、空一面に広がっている。",
+              "zh": "偏白的雲彩，鋪滿了整片天空。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "白っぽい雲が、空一面に広がっている。",
+              "zh": "偏白的雲彩，鋪滿了整片天空。"
+            }
+          ]
         },
         {
           "word": "黒っぽい",
@@ -114896,7 +117992,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2772",
-          "romaji": "kuroppoi"
+          "romaji": "kuroppoi",
+          "examples": [
+            {
+              "ja": "黒っぽい服を着ると、少し大人びて見える。",
+              "zh": "穿上偏黑的衣服，看起來會稍顯成熟。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "黒っぽい服を着ると、少し大人びて見える。",
+              "zh": "穿上偏黑的衣服，看起來會稍顯成熟。"
+            }
+          ]
         },
         {
           "word": "赤っぽい",
@@ -114908,7 +118016,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2773",
-          "romaji": "akappoi"
+          "romaji": "akappoi",
+          "examples": [
+            {
+              "ja": "夕焼けで、空が赤っぽく染まっていた。",
+              "zh": "晚霞把天空染成了偏紅的顏色。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夕焼けで、空が赤っぽく染まっていた。",
+              "zh": "晚霞把天空染成了偏紅的顏色。"
+            }
+          ]
         },
         {
           "word": "怒りっぽい",
@@ -114920,7 +118040,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2774",
-          "romaji": "okorippoi"
+          "romaji": "okorippoi",
+          "examples": [
+            {
+              "ja": "彼は怒りっぽいので、冗談を言うときは注意が必要だ。",
+              "zh": "他容易發脾氣，開玩笑時需要小心。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は怒りっぽいので、冗談を言うときは注意が必要だ。",
+              "zh": "他容易發脾氣，開玩笑時需要小心。"
+            }
+          ]
         },
         {
           "word": "飽きっぽい",
@@ -114932,7 +118064,19 @@
           "pos": "い形容詞",
           "category": "social_personality",
           "id": "v_n5_auto_2775",
-          "romaji": "akippoi"
+          "romaji": "akippoi",
+          "examples": [
+            {
+              "ja": "飽きっぽい性格で、何を始めても三日坊主で終わる。",
+              "zh": "沒常性，無論開始什麼都三天打魚兩天曬網。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "飽きっぽい性格で、何を始めても三日坊主で終わる。",
+              "zh": "沒常性，無論開始什麼都三天打魚兩天曬網。"
+            }
+          ]
         },
         {
           "word": "湿っぽい",
@@ -114944,7 +118088,19 @@
           "pos": "い形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2776",
-          "romaji": "shimeppoi"
+          "romaji": "shimeppoi",
+          "examples": [
+            {
+              "ja": "梅雨時の湿っぽい空気が、体にまとわりつくようだ。",
+              "zh": "梅雨時潮濕的空氣，彷彿黏在身上似的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "梅雨時の湿っぽい空気が、体にまとわりつくようだ。",
+              "zh": "梅雨時潮濕的空氣，彷彿黏在身上似的。"
+            }
+          ]
         },
         {
           "id": "pro_1782205852337_0",
