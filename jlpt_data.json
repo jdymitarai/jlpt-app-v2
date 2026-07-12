@@ -142767,6 +142767,1018 @@
               "zh": "醫師完成臨終宣告後，在顧及家屬心情的情況下協助死亡確認相關手續。"
             }
           ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287788_5",
+          "word": "聴診する",
+          "furigana": "聴診[ちょうしん]する",
+          "romaji": "chōshin suru",
+          "meaning": "聽診",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "看護師は聴診器を用いて、患者の呼吸音や心音を聴診します。",
+              "zh": "護理師使用聽診器聽診患者的呼吸音與心音。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "看護師は聴診器を用いて、患者の呼吸音や心音を聴診します。",
+              "zh": "護理師使用聽診器聽診患者的呼吸音與心音。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287789_366",
+          "word": "触診する",
+          "furigana": "触診[しょくしん]する",
+          "romaji": "shokushin suru",
+          "meaning": "觸診",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腹部膨満感を訴える患者に対し、腹部を優しく触診してガスの貯留を確認します。",
+              "zh": "對於主訴腹脹的患者，輕柔地觸診腹部以確認氣體積聚。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腹部膨満感を訴える患者に対し、腹部を優しく触診してガスの貯留を確認します。",
+              "zh": "對於主訴腹脹的患者，輕柔地觸診腹部以確認氣體積聚。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287790_474",
+          "word": "打診する",
+          "furigana": "打診[だしん]する",
+          "romaji": "dashin suru",
+          "meaning": "叩診",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肺の含気状態を評価するため、胸部を指で打診して音を確かめます。",
+              "zh": "為了評估肺部的含氣狀態，用手指叩診胸部以確認聲音。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肺の含気状態を評価するため、胸部を指で打診して音を確かめます。",
+              "zh": "為了評估肺部的含氣狀態，用手指叩診胸部以確認聲音。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287790_420",
+          "word": "誤嚥する",
+          "furigana": "誤嚥[ごえん]する",
+          "romaji": "goen suru",
+          "meaning": "誤吸 / 嗆入",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "嚥下機能が低下した高齢者は、お茶などの水分を誤嚥しやすいため注意が必要です。",
+              "zh": "吞嚥功能下降的長者容易誤吸茶水等水分，因此需要注意。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "嚥下機能が低下した高齢者は、お茶などの水分を誤嚥しやすいため注意が必要です。",
+              "zh": "吞嚥功能下降的長者容易誤吸茶水等水分，因此需要注意。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287790_27",
+          "word": "吸引する",
+          "furigana": "吸引[きゅういん]する",
+          "romaji": "kyūin suru",
+          "meaning": "抽吸 / 吸痰",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "喀痰困難な患者に対し、吸引カテーテルを用いて速やかに口腔内を吸引します。",
+              "zh": "對於排痰困難的患者，使用抽吸導管迅速抽吸口腔內。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "喀痰困難な患者に対し、吸引カテーテルを用いて速やかに口腔内を吸引します。",
+              "zh": "對於排痰困難的患者，使用抽吸導管迅速抽吸口腔內。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_429",
+          "word": "離床する",
+          "furigana": "離床[りしょう]する",
+          "romaji": "rishō suru",
+          "meaning": "下床 / 離床",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "廃用症候群を予防するため、術後早期から少しずつ離床するよう促します。",
+              "zh": "為了預防廢用性症候群，鼓勵其在術後早期開始逐漸下床活動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "廃用症候群を予防するため、術後早期から少しずつ離床するよう促します。",
+              "zh": "為了預防廢用性症候群，鼓勵其在術後早期開始逐漸下床活動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_714",
+          "word": "移乗する",
+          "furigana": "移乗[いじょう]する",
+          "romaji": "ijō suru",
+          "meaning": "移位 / 轉移",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ベッドから車椅子へ移乗する際、患側の足に過度な体重がかからないよう介助します。",
+              "zh": "從病床移位至輪椅時，協助以防患側腳承受過度重量。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ベッドから車椅子へ移乗する際、患側の足に過度な体重がかからないよう介助します。",
+              "zh": "從病床移位至輪椅時，協助以防患側腳承受過度重量。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_227",
+          "word": "寝返る",
+          "furigana": "寝返[ねが]る",
+          "romaji": "negaeru",
+          "meaning": "翻身",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "自力で寝返ることができない患者のため、2時間おきに体位変換を行います。",
+              "zh": "為無法自行翻身的患者，每2小時進行一次體位轉換。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "自力で寝返ることができない患者のため、2時間おきに体位変換を行います。",
+              "zh": "為無法自行翻身的患者，每2小時進行一次體位轉換。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_626",
+          "word": "抜去する",
+          "furigana": "抜去[ばっきょ]する",
+          "romaji": "bakkyo suru",
+          "meaning": "拔除",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "医師の指示に基づき、尿道留置カテーテルを安全に抜去しました。",
+              "zh": "根據醫師指示，安全地拔除了尿道留置導尿管。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "医師の指示に基づき、尿道留置カテーテルを安全に抜去しました。",
+              "zh": "根據醫師指示，安全地拔除了尿道留置導尿管。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_524",
+          "word": "留置する",
+          "furigana": "留置[りうち]する",
+          "romaji": "ryūchi suru",
+          "meaning": "留置",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脱水症の治療のため、静脈ラインを確保して点滴針を一時的に留置します。",
+              "zh": "為了治療脫水症，建立靜脈管路並暫時留置點滴針。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脱水症の治療のため、静脈ラインを確保して点滴針を一時的に留置します。",
+              "zh": "為了治療脫水症，建立靜脈管路並暫時留置點滴針。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_100",
+          "word": "むせる",
+          "furigana": "むせる",
+          "romaji": "museru",
+          "meaning": "嗆到",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "食事中にむせることが増えた場合は、嚥下食の段階を下げることを検討します。",
+              "zh": "若進食中嗆到的次數增加，會考慮降低吞嚥輔助飲食的階段。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "食事中にむせることが増えた場合は、嚥下食の段階を下げることを検討します。",
+              "zh": "若進食中嗆到的次數增加，會考慮降低吞嚥輔助飲食的階段。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_996",
+          "word": "ふらつく",
+          "furigana": "ふらつく",
+          "romaji": "furatsuku",
+          "meaning": "搖晃 / 步履蹣跚",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "起立時にふらつく様子が見られたため、直ちに車椅子を準備して着座させました。",
+              "zh": "由於看到站立時身體搖晃的樣子，立即準備輪椅並使其就座。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "起立時にふらつく様子が見られたため、直ちに車椅子を準備して着座させました。",
+              "zh": "由於看到站立時身體搖晃的樣子，立即準備輪椅並使其就座。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287791_83",
+          "word": "腫れる",
+          "furigana": "腫[は]れる",
+          "romaji": "hareru",
+          "meaning": "腫脹 / 紅腫",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "点滴漏れが原因で、針を刺している周辺の皮膚が赤く腫れています。",
+              "zh": "因點滴滲漏，導致注射針周邊的皮膚發紅且腫脹。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "点滴漏れが原因で、針を刺している周辺の皮膚が赤く腫れています。",
+              "zh": "因點滴滲漏，導致注射針周邊的皮膚發紅且腫脹。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_228",
+          "word": "しびれる",
+          "furigana": "しびれる",
+          "romaji": "shibireru",
+          "meaning": "麻木 / 發麻",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "長時間の同じ体位により、足がしびれて一時的に歩行困難となることがあります。",
+              "zh": "由於長時間維持相同姿勢，有時腳會發麻而暫時行走困難。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "長時間の同じ体位により、足がしびれて一時的に歩行困難となることがあります。",
+              "zh": "由於長時間維持相同姿勢，有時腳會發麻而暫時行走困難。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_5",
+          "word": "ただれる",
+          "furigana": "ただれる",
+          "romaji": "tadareru",
+          "meaning": "糜爛 / 發炎潰爛",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "おむつかぶれが悪化し、臀部の皮膚が赤くただれて痛みを伴っています。",
+              "zh": "尿布疹惡化，導致臀部皮膚紅腫糜爛且伴隨疼痛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "おむつかぶれが悪化し、臀部の皮膚が赤くただれて痛みを伴っています。",
+              "zh": "尿布疹惡化，導致臀部皮膚紅腫糜爛且伴隨疼痛。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_168",
+          "word": "安静にする",
+          "furigana": "安静[あんせい]にする",
+          "romaji": "ansei ni suru",
+          "meaning": "保持安靜、靜養",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "術後は合併症を防ぐため、ベッドの上で安静にしてください。",
+              "zh": "手術後為了預防併發症，請在床上保持安靜休養。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "術後は合併症を防ぐため、ベッドの上で安静にしてください。",
+              "zh": "手術後為了預防併發症，請在床上保持安靜休養。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_220",
+          "word": "与薬する",
+          "furigana": "与薬[よやく]する",
+          "romaji": "yoyaku suru",
+          "meaning": "給藥",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "患者さんに処方された鎮痛剤を指示通りに与薬します。",
+              "zh": "依照指示給予病患處方的止痛藥。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "患者さんに処方された鎮痛剤を指示通りに与薬します。",
+              "zh": "依照指示給予病患處方的止痛藥。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_760",
+          "word": "だるい",
+          "furigana": "だるい",
+          "romaji": "darui",
+          "meaning": "倦怠的、沉重的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "熱があって体がだるい場合は、無理をせずにナースコールを押してください。",
+              "zh": "如果發燒覺得身體倦怠，請不要勉強，按下呼叫鈴。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "熱があって体がだるい場合は、無理をせずにナースコールを押してください。",
+              "zh": "如果發燒覺得身體倦怠，請不要勉強，按下呼叫鈴。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_61",
+          "word": "重篤な",
+          "furigana": "重篤[じゅうとく]な",
+          "romaji": "juutoku na",
+          "meaning": "病危的、嚴重的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "重篤な状態が続いているため、集中治療室での継続的な観察が必要です。",
+              "zh": "由於持續處於病危狀態，需要在加護病房進行持續觀察。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "重篤な状態が続いているため、集中治療室での継続的な観察が必要です。",
+              "zh": "由於持續處於病危狀態，需要在加護病房進行持續觀察。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_341",
+          "word": "不穏な",
+          "furigana": "不穏[ふおん]な",
+          "romaji": "fuon na",
+          "meaning": "煩躁不安的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "夜間帯に不穏な行動が見られるため、転倒リスクに注意が必要です。",
+              "zh": "夜間觀察到有煩躁不安的行為，需要注意跌倒的風險。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夜間帯に不穏な行動が見られるため、転倒リスクに注意が必要です。",
+              "zh": "夜間觀察到有煩躁不安的行為，需要注意跌倒的風險。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_784",
+          "word": "安楽な",
+          "furigana": "安楽[あんらく]な",
+          "romaji": "anraku na",
+          "meaning": "舒適的、安適的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "患者さんが安楽な体勢を保てるように、クッションを使って体位変換を行います。",
+              "zh": "為了讓病患保持舒適的姿勢，使用靠墊協助翻身擺位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "患者さんが安楽な体勢を保てるように、クッションを使って体位変換を行います。",
+              "zh": "為了讓病患保持舒適的姿勢，使用靠墊協助翻身擺位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_695",
+          "word": "清潔な",
+          "furigana": "清潔[せいけつ]な",
+          "romaji": "seiketsu na",
+          "meaning": "乾淨的、清潔的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "感染予防のため、常に清潔なガーゼと器具を使用して処置を行います。",
+              "zh": "為了預防感染，進行處置時務必使用清潔的紗布與器具。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "感染予防のため、常に清潔なガーゼと器具を使用して処置を行います。",
+              "zh": "為了預防感染，進行處置時務必使用清潔的紗布與器具。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_805",
+          "word": "不潔な",
+          "furigana": "不潔[ふけつ]な",
+          "romaji": "fuketsu na",
+          "meaning": "不潔的、骯髒的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "不潔な手でカテーテルの挿入部を触らないように患者さんに指導します。",
+              "zh": "指導病患不要用不潔的手觸摸導管插入部位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "不潔な手でカテーテルの挿入部を触らないように患者さんに指導します。",
+              "zh": "指導病患不要用不潔的手觸摸導管插入部位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287792_692",
+          "word": "健康な",
+          "furigana": "健康[けんこう]な",
+          "romaji": "kenkou na",
+          "meaning": "健康的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "退院後も健康な生活を維持できるように、食事指導を実施します。",
+              "zh": "為了讓病患出院後也能維持健康的生活，實施飲食衛教。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "退院後も健康な生活を維持できるように、食事指導を実施します。",
+              "zh": "為了讓病患出院後也能維持健康的生活，實施飲食衛教。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_690",
+          "word": "微弱な",
+          "furigana": "微弱[びじゃく]な",
+          "romaji": "bijaku na",
+          "meaning": "微弱的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "橈骨動脈の脈拍が微弱なため、血圧の変動に注意してください。",
+              "zh": "橈動脈的脈搏微弱，請注意血壓的變化。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "橈骨動脈の脈拍が微弱なため、血圧の変動に注意してください。",
+              "zh": "橈動脈的脈搏微弱，請注意血壓的變化。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_919",
+          "word": "明瞭な",
+          "furigana": "明瞭[めいりょう]な",
+          "romaji": "meiryou na",
+          "meaning": "清晰的、明確的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "意識障害がなく、患者の受け答えは非常に明瞭です。",
+              "zh": "沒有意識障礙，病患的回答非常清晰。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "意識障害がなく、患者の受け答えは非常に明瞭です。",
+              "zh": "沒有意識障礙，病患的回答非常清晰。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_843",
+          "word": "ゼーゼー",
+          "furigana": "ゼーゼー",
+          "romaji": "zeezee",
+          "meaning": "喘鳴聲 (低音、呼嚕聲)",
+          "type": "mimetic",
+          "pos": "擬声擬態語",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "呼吸するたびにゼーゼーと音がする場合は、気管支が狭くなっている可能性があります。",
+              "zh": "每次呼吸時若發出呼嚕呼嚕的喘鳴聲，可能是支氣管變窄了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "呼吸するたびにゼーゼーと音がする場合は、気管支が狭くなっている可能性があります。",
+              "zh": "每次呼吸時若發出呼嚕呼嚕的喘鳴聲，可能是支氣管變窄了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_650",
+          "word": "ヒューヒュー",
+          "furigana": "ヒューヒュー",
+          "romaji": "hyuuhyuu",
+          "meaning": "咻咻聲 (高音喘鳴聲)",
+          "type": "mimetic",
+          "pos": "擬声擬態語",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "喘息の発作が起きると、呼吸時にヒューヒューという連続性ラ音を聴取します。",
+              "zh": "氣喘發作時，呼吸會聽診到咻咻的連續性囉音。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "喘息の発作が起きると、呼吸時にヒューヒューという連続性ラ音を聴取します。",
+              "zh": "氣喘發作時，呼吸會聽診到咻咻的連續性囉音。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_568",
+          "word": "ひやりと",
+          "furigana": "ひやりと",
+          "romaji": "hiyari to",
+          "meaning": "捏一把冷汗、感到驚嚇 (常指虛驚一場)",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "患者さんがベッドから落ちそうになり、ひやりとしました。",
+              "zh": "病患差點從床上掉下來，讓我捏了一把冷汗。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "患者さんがベッドから落ちそうになり、ひやりとしました。",
+              "zh": "病患差點從床上掉下來，讓我捏了一把冷汗。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_317",
+          "word": "ゆっくり",
+          "furigana": "ゆっくり",
+          "romaji": "yukkuri",
+          "meaning": "慢慢地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "立ちくらみを防ぐため、ベッドから起き上がるときはゆっくり動いてください。",
+              "zh": "為了防止起立性暈眩，從床上起身時請慢慢動作。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "立ちくらみを防ぐため、ベッドから起き上がるときはゆっくり動いてください。",
+              "zh": "為了防止起立性暈眩，從床上起身時請慢慢動作。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_863",
+          "word": "急激に",
+          "furigana": "急激[きゅうげき]に",
+          "romaji": "kyūgeki ni",
+          "meaning": "急劇地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "患者の血圧が急激に低下したため、直ちに医師へ報告した。",
+              "zh": "因患者血壓急劇下降，立即向醫師報告。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "患者の血圧が急激に低下したため、直ちに医師へ報告した。",
+              "zh": "因患者血壓急劇下降，立即向醫師報告。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_894",
+          "word": "対称性に",
+          "furigana": "対称性[たいしょうせい]に",
+          "romaji": "taishōsei ni",
+          "meaning": "對稱地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "両下肢の浮腫が対称性に出現しているか確認する。",
+              "zh": "確認兩下肢的水腫是否對稱出現。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "両下肢の浮腫が対称性に出現しているか確認する。",
+              "zh": "確認兩下肢的水腫是否對稱出現。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_682",
+          "word": "持続的に",
+          "furigana": "持続的[じぞくてき]に",
+          "romaji": "jizokuteki ni",
+          "meaning": "持續地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "創部の痛みが持続的に続く場合は、鎮痛薬の使用を検討する。",
+              "zh": "若傷口疼痛持續不止，則考慮使用止痛藥。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "創部の痛みが持続的に続く場合は、鎮痛薬の使用を検討する。",
+              "zh": "若傷口疼痛持續不止，則考慮使用止痛藥。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_3",
+          "word": "滅菌する",
+          "furigana": "滅菌[めっきん]する",
+          "romaji": "mekkin suru",
+          "meaning": "滅菌",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "手術器械はオートクレーブで滅菌する。",
+              "zh": "手術器械以高壓滅菌器滅菌。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "手術器械はオートクレーブで滅菌する。",
+              "zh": "手術器械以高壓滅菌器滅菌。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_721",
+          "word": "消毒する",
+          "furigana": "消毒[しょうどく]する",
+          "romaji": "shōdoku suru",
+          "meaning": "消毒",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "注射前に皮膚をアルコールで消毒する。",
+              "zh": "注射前以酒精消毒皮膚。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "注射前に皮膚をアルコールで消毒する。",
+              "zh": "注射前以酒精消毒皮膚。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287793_20",
+          "word": "処置する",
+          "furigana": "処置[しょち]する",
+          "romaji": "shochi suru",
+          "meaning": "處理 / 處置",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "医師の指示に従い、褥瘡を処置する。",
+              "zh": "依醫師指示處置褥瘡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "医師の指示に従い、褥瘡を処置する。",
+              "zh": "依醫師指示處置褥瘡。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_841",
+          "word": "観察する",
+          "furigana": "観察[かんさつ]する",
+          "romaji": "kansatsu suru",
+          "meaning": "觀察",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "術後は呼吸状態と創部の出血を観察する。",
+              "zh": "術後觀察呼吸狀態與傷口出血情形。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "術後は呼吸状態と創部の出血を観察する。",
+              "zh": "術後觀察呼吸狀態與傷口出血情形。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_310",
+          "word": "測定する",
+          "furigana": "測定[そくてい]する",
+          "romaji": "sokutei suru",
+          "meaning": "測量",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "毎時、体温・脈拍・血圧を測定する。",
+              "zh": "每小時測量體溫、脈搏與血壓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毎時、体温・脈拍・血圧を測定する。",
+              "zh": "每小時測量體溫、脈搏與血壓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_762",
+          "word": "介助する",
+          "furigana": "介助[かいじょ]する",
+          "romaji": "kaijo suru",
+          "meaning": "協助 / 介助",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "歩行が不安定な患者の移乗を介助する。",
+              "zh": "協助步態不穩的患者進行移位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "歩行が不安定な患者の移乗を介助する。",
+              "zh": "協助步態不穩的患者進行移位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_197",
+          "word": "転倒する",
+          "furigana": "転倒[てんとう]する",
+          "romaji": "tentō suru",
+          "meaning": "跌倒",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "夜間にトイレへ向かう途中で患者が転倒する危険がある。",
+              "zh": "夜間前往廁所途中，患者有跌倒的危險。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夜間にトイレへ向かう途中で患者が転倒する危険がある。",
+              "zh": "夜間前往廁所途中，患者有跌倒的危險。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_657",
+          "word": "転落する",
+          "furigana": "転落[てんらく]する",
+          "romaji": "tenraku suru",
+          "meaning": "墜落 / 跌落",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ベッド柵を確実に上げ、転落する事故を予防する。",
+              "zh": "確實拉起床欄，預防跌落事故。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ベッド柵を確実に上げ、転落する事故を予防する。",
+              "zh": "確實拉起床欄，預防跌落事故。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_454",
+          "word": "汚染する",
+          "furigana": "汚染[おせん]する",
+          "romaji": "osen suru",
+          "meaning": "污染",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "無菌操作を怠ると、創部が汚染する恐れがある。",
+              "zh": "若疏忽無菌操作，傷口可能受污染。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "無菌操作を怠ると、創部が汚染する恐れがある。",
+              "zh": "若疏忽無菌操作，傷口可能受污染。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_648",
+          "word": "窒息する",
+          "furigana": "窒息[ちっそく]する",
+          "romaji": "chissoku suru",
+          "meaning": "窒息",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "食事中に誤嚥し、患者が窒息する危険性に注意する。",
+              "zh": "注意進食時誤嚥導致患者窒息的危險。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "食事中に誤嚥し、患者が窒息する危険性に注意する。",
+              "zh": "注意進食時誤嚥導致患者窒息的危險。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_nursing_nonnoun_1783832287794_268",
+          "word": "冷却する",
+          "furigana": "冷却[れいきゃく]する",
+          "romaji": "reikyaku suru",
+          "meaning": "冷卻 / 冰敷",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "nursing_care",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "打撲後の腫脹を軽減するため、患部を冷却する。",
+              "zh": "為減輕挫傷後的腫脹，對患部進行冰敷。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "打撲後の腫脹を軽減するため、患部を冷却する。",
+              "zh": "為減輕挫傷後的腫脹，對患部進行冰敷。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
