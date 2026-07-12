@@ -75343,7 +75343,7 @@
             }
           ],
           "type": "noun",
-          "pos": "い形容詞",
+          "pos": "名詞",
           "examples": [
             {
               "ja": "私[わたし]は乗[の]り物酔[ものよ]いです。",
@@ -75374,7 +75374,7 @@
             }
           ],
           "type": "noun",
-          "pos": "い形容詞",
+          "pos": "名詞",
           "examples": [
             {
               "ja": "彼[かれ]は二日酔[ふつかよ]いです。",
@@ -77322,8 +77322,8 @@
               "zh": "她並不服輸。"
             }
           ],
-          "type": "i-adjective",
-          "pos": "い形容詞",
+          "type": "na-adjective",
+          "pos": "な形容詞",
           "examples": [
             {
               "ja": "彼女[かのじょ]は負[ま]けず嫌[ぎら]いです。",
@@ -94893,8 +94893,8 @@
               "zh": "這不是店裡的員工餐。"
             }
           ],
-          "type": "i-adjective",
-          "pos": "い形容詞",
+          "type": "noun",
+          "pos": "名詞",
           "kanjiChecked": true,
           "reading": "まかない",
           "examples": [
@@ -97872,7 +97872,7 @@
           "furigana": "手[て]洗[あら]い",
           "romaji": "tearai",
           "meaning": "洗手",
-          "pos": "い形容詞",
+          "pos": "名詞",
           "type": "noun",
           "category": "human_health_medical",
           "level": "N5",
@@ -111031,7 +111031,7 @@
           "furigana": "お手洗[てあら]い",
           "romaji": "otearai",
           "meaning": "洗手間、廁所",
-          "pos": "い形容詞",
+          "pos": "名詞",
           "type": "noun",
           "category": "material_housing_appliances",
           "level": "N5",
@@ -112407,8 +112407,8 @@
           "furigana": "大嫌[だいきら]い",
           "romaji": "daikirai",
           "meaning": "非常討厭的",
-          "pos": "い形容詞",
-          "type": "i-adjective",
+          "pos": "な形容詞",
+          "type": "na-adjective",
           "encyclopedia_category": "人類自身 ＞ 情感心理",
           "category": "adj_emotion",
           "level": "N5",
@@ -131229,10 +131229,10 @@
           "word": "ぞんざい",
           "kanji": "",
           "furigana": "ぞんざい",
-          "type": "i-adjective",
+          "type": "na-adjective",
           "meaning": "草率的、粗魯的",
           "example": "ぞんざいな扱いを受ける。",
-          "pos": "い形容詞",
+          "pos": "な形容詞",
           "category": "abstract_value",
           "kanjiChecked": true,
           "id": "v_n5_auto_2394",
@@ -134366,13 +134366,13 @@
           ]
         },
         {
-          "word": "厄介い",
+          "word": "厄介",
           "kanji": "",
           "furigana": "厄介[やば]い",
-          "type": "i-adjective",
+          "type": "na-adjective",
           "meaning": "糟糕的、厲害的",
           "example": "これはやばい状況だ。",
-          "pos": "い形容詞",
+          "pos": "な形容詞",
           "category": "abstract_value",
           "id": "v_n5_auto_2518",
           "romaji": "yabai",
@@ -134398,7 +134398,7 @@
           ]
         },
         {
-          "word": "稚ない",
+          "word": "稚い",
           "kanji": "",
           "furigana": "稚[あどけ]ない",
           "type": "i-adjective",
@@ -167622,7 +167622,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287792_61",
-          "word": "重篤な",
+          "word": "重篤",
           "furigana": "重篤[じゅうとく]な",
           "romaji": "juutoku na",
           "meaning": "病危的、嚴重的",
@@ -167653,7 +167653,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287792_341",
-          "word": "不穏な",
+          "word": "不穏",
           "furigana": "不穏[ふおん]な",
           "romaji": "fuon na",
           "meaning": "煩躁不安的",
@@ -167684,7 +167684,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287792_784",
-          "word": "安楽な",
+          "word": "安楽",
           "furigana": "安楽[あんらく]な",
           "romaji": "anraku na",
           "meaning": "舒適的、安適的",
@@ -167715,7 +167715,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287792_695",
-          "word": "清潔な",
+          "word": "清潔",
           "furigana": "清潔[せいけつ]な",
           "romaji": "seiketsu na",
           "meaning": "乾淨的、清潔的",
@@ -167746,7 +167746,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287792_805",
-          "word": "不潔な",
+          "word": "不潔",
           "furigana": "不潔[ふけつ]な",
           "romaji": "fuketsu na",
           "meaning": "不潔的、骯髒的",
@@ -167777,7 +167777,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287792_692",
-          "word": "健康な",
+          "word": "健康",
           "furigana": "健康[けんこう]な",
           "romaji": "kenkou na",
           "meaning": "健康的",
@@ -167808,7 +167808,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287793_690",
-          "word": "微弱な",
+          "word": "微弱",
           "furigana": "微弱[びじゃく]な",
           "romaji": "bijaku na",
           "meaning": "微弱的",
@@ -167839,7 +167839,7 @@
         },
         {
           "id": "v_n5_nursing_nonnoun_1783832287793_919",
-          "word": "明瞭な",
+          "word": "明瞭",
           "furigana": "明瞭[めいりょう]な",
           "romaji": "meiryou na",
           "meaning": "清晰的、明確的",
@@ -175456,7 +175456,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657603_355",
-          "word": "大雑把な",
+          "word": "大雑把",
           "furigana": "大雑把[おおざっぱ]な",
           "romaji": "ōzappa na",
           "meaning": "粗枝大葉的 / 粗略的",
@@ -175487,7 +175487,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657603_893",
-          "word": "几帳面な",
+          "word": "几帳面",
           "furigana": "几帳面[きちょうめん]な",
           "romaji": "kichōmen na",
           "meaning": "一絲不苟的 / 規規矩矩的",
@@ -175518,7 +175518,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657603_443",
-          "word": "ルーズな",
+          "word": "ルーズ",
           "furigana": "ルーズな",
           "romaji": "rūzu na",
           "meaning": "鬆散的 / 散漫的 (尤指時間或金錢概念)",
@@ -175549,7 +175549,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657603_592",
-          "word": "短気な",
+          "word": "短気",
           "furigana": "短気[たんき]な",
           "romaji": "tanki na",
           "meaning": "脾氣暴躁的 / 沒耐性的",
@@ -175580,7 +175580,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657603_241",
-          "word": "呑気な",
+          "word": "呑気",
           "furigana": "呑気[のんき]な",
           "romaji": "nonkina",
           "meaning": "悠閒的、漫不經心的",
@@ -175611,7 +175611,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657603_943",
-          "word": "頑固な",
+          "word": "頑固",
           "furigana": "頑固[がんこ]な",
           "romaji": "gankona",
           "meaning": "固執的、頑強的",
@@ -175642,7 +175642,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_463",
-          "word": "素直な",
+          "word": "素直",
           "furigana": "素直[すなお]な",
           "romaji": "sunaona",
           "meaning": "坦率的、順從的",
@@ -175673,7 +175673,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_440",
-          "word": "わがままな",
+          "word": "わがまま",
           "furigana": "わがままな",
           "romaji": "wagamamana",
           "meaning": "任性的",
@@ -175704,7 +175704,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_720",
-          "word": "生意気な",
+          "word": "生意気",
           "furigana": "生意気[なまいき]な",
           "romaji": "namaikina",
           "meaning": "自大的、傲慢的",
@@ -175798,7 +175798,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_298",
-          "word": "内気な",
+          "word": "内気",
           "furigana": "内気[うちき]な",
           "romaji": "uchikina",
           "meaning": "內向的、羞怯的",
@@ -175829,7 +175829,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_321",
-          "word": "社交的な",
+          "word": "社交的",
           "furigana": "社交的[しゃこうてき]な",
           "romaji": "shakoutekina",
           "meaning": "善於交際的、外向的",
@@ -175860,7 +175860,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_306",
-          "word": "消極的な",
+          "word": "消極的",
           "furigana": "消極的[しょうきょくてき]な",
           "romaji": "shoukyokutekina",
           "meaning": "消極的、被動的",
@@ -175891,7 +175891,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun2_1783833657604_403",
-          "word": "積極的な",
+          "word": "積極的",
           "furigana": "積極的[せっきょくてき]な",
           "romaji": "sekkyokutekina",
           "meaning": "積極的、主動的",
@@ -176985,7 +176985,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun3_1783833778000_973",
-          "word": "下品な",
+          "word": "下品",
           "furigana": "下品[げひん]な",
           "romaji": "gehin na",
           "meaning": "粗俗的、沒教養的、低俗的",
@@ -177016,7 +177016,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun3_1783833778000_922",
-          "word": "上品な",
+          "word": "上品",
           "furigana": "上品[じょうひん]な",
           "romaji": "jouhin na",
           "meaning": "優雅的、高尚的、有氣質的",
@@ -177047,7 +177047,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun3_1783833778000_445",
-          "word": "器用な",
+          "word": "器用",
           "furigana": "器用[きよう]な",
           "romaji": "kiyou na",
           "meaning": "靈巧的、手巧的、精明的",
@@ -177078,7 +177078,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun3_1783833778000_154",
-          "word": "不器用な",
+          "word": "不器用",
           "furigana": "不器用[ぶきよう]な",
           "romaji": "bukiyou na",
           "meaning": "笨拙的、不靈巧的",
@@ -177109,7 +177109,7 @@
         },
         {
           "id": "v_n5_daily_nonnoun3_1783833778000_824",
-          "word": "贅沢な",
+          "word": "贅沢",
           "furigana": "贅沢[ぜいたく]な",
           "romaji": "zeitaku na",
           "meaning": "奢侈的、奢華的",
@@ -189715,7 +189715,7 @@
         },
         {
           "id": "v_n5_5000_v2_1783834975274_91057",
-          "word": "円滑な",
+          "word": "円滑",
           "furigana": "円滑[えんかつ]な",
           "romaji": "enkatsu na",
           "meaning": "順暢的",
@@ -213590,7 +213590,7 @@
         },
         {
           "id": "v_n4_10000_1783837114178_364275",
-          "word": "真面目な",
+          "word": "真面目",
           "furigana": "真面目[まじめ]な",
           "romaji": "majime na",
           "meaning": "認真的、用功的",
@@ -215615,7 +215615,7 @@
         },
         {
           "id": "v_n4_10000_1783840753299_217124",
-          "word": "新鮮な",
+          "word": "新鮮",
           "furigana": "新[しん]鮮[せん]な",
           "romaji": "shinsen na",
           "meaning": "新鮮的",
@@ -215646,7 +215646,7 @@
         },
         {
           "id": "v_n4_10000_1783840753299_329046",
-          "word": "カジュアルな",
+          "word": "カジュアル",
           "furigana": "カジュアルな",
           "romaji": "kajuaru na",
           "meaning": "休閒的",
@@ -215677,7 +215677,7 @@
         },
         {
           "id": "v_n4_10000_1783840753299_996136",
-          "word": "フォーマルな",
+          "word": "フォーマル",
           "furigana": "フォーマルな",
           "romaji": "fōmaru na",
           "meaning": "正式的、正式場合用的",
@@ -215739,7 +215739,7 @@
         },
         {
           "id": "v_n4_10000_1783840753299_901374",
-          "word": "おしゃれな",
+          "word": "おしゃれ",
           "furigana": "おしゃれな",
           "romaji": "oshare na",
           "meaning": "時髦的、有品味的",
@@ -216248,7 +216248,7 @@
         },
         {
           "id": "v_n4_10000_1783842490318_559078",
-          "word": "派手な",
+          "word": "派手",
           "furigana": "派[は]手[で]な",
           "romaji": "hade na",
           "meaning": "花俏的、華麗的",
@@ -216279,7 +216279,7 @@
         },
         {
           "id": "v_n4_10000_1783842490318_227726",
-          "word": "地味な",
+          "word": "地味",
           "furigana": "地[じ]味[み]な",
           "romaji": "jimi na",
           "meaning": "樸素的、低調的",
@@ -217198,7 +217198,7 @@
         },
         {
           "id": "v_n4_10000_1783844078467_618194",
-          "word": "便利な",
+          "word": "便利",
           "furigana": "便利[べんり]な",
           "romaji": "benri na",
           "meaning": "方便的、便利的",
@@ -217229,7 +217229,7 @@
         },
         {
           "id": "v_n4_10000_1783844078467_889263",
-          "word": "快適な",
+          "word": "快適",
           "furigana": "快適[かいてき]な",
           "romaji": "kaiteki na",
           "meaning": "舒適的",
@@ -217260,7 +217260,7 @@
         },
         {
           "id": "v_n4_10000_1783844078467_676641",
-          "word": "お得な",
+          "word": "お得",
           "furigana": "お得[とく]な",
           "romaji": "otoku na",
           "meaning": "划算的、優惠的",
@@ -217337,7 +217337,7 @@
         },
         {
           "id": "v_n4_10000_1783844354535_238220",
-          "word": "不便な",
+          "word": "不便",
           "furigana": "不便[ふべん]な",
           "romaji": "fuben na",
           "meaning": "不方便的",
@@ -233851,7 +233851,7 @@
         },
         {
           "id": "v_n3_10000_1783836301023_274909",
-          "word": "静かな",
+          "word": "静か",
           "furigana": "静[しず]かな",
           "romaji": "shizukana",
           "meaning": "安靜的；寧靜的",
@@ -238112,7 +238112,7 @@
         },
         {
           "id": "v_n3_10000_1783838780574_973330",
-          "word": "厳格な",
+          "word": "厳格",
           "furigana": "厳格[げんかく]な",
           "romaji": "genkaku na",
           "meaning": "嚴格的",
@@ -238143,7 +238143,7 @@
         },
         {
           "id": "v_n3_10000_1783838780574_827789",
-          "word": "丁寧な",
+          "word": "丁寧",
           "furigana": "丁寧[ていねい]な",
           "romaji": "teinei na",
           "meaning": "有禮貌的、仔細的",
@@ -240456,7 +240456,7 @@
         },
         {
           "id": "v_n3_10000_1783841190334_951626",
-          "word": "熱心な",
+          "word": "熱心",
           "furigana": "熱心[ねっしん]な",
           "romaji": "nesshin na",
           "meaning": "熱心的、積極投入的",
@@ -241452,7 +241452,7 @@
         },
         {
           "id": "v_n3_10000_1783842829694_943456",
-          "word": "正式な",
+          "word": "正式",
           "furigana": "正式[せいしき]な",
           "romaji": "seishiki na",
           "meaning": "正式的",
@@ -243789,7 +243789,7 @@
         },
         {
           "id": "v_n3_10000_1783846740316_45522",
-          "word": "貴重な",
+          "word": "貴重",
           "furigana": "貴重[きちょう]な",
           "romaji": "kichou na",
           "meaning": "珍貴的、貴重的",
@@ -244452,7 +244452,7 @@
         },
         {
           "id": "v_n3_10000_1783848583297_733770",
-          "word": "真剣な",
+          "word": "真剣",
           "furigana": "真剣[しんけん]な",
           "romaji": "shinken na",
           "meaning": "認真的、嚴謹的",
@@ -258744,7 +258744,7 @@
         },
         {
           "id": "v_n2_10000_1783836901111_329415",
-          "word": "深刻な",
+          "word": "深刻",
           "furigana": "深[しん]刻[こく]な",
           "romaji": "shinkoku na",
           "meaning": "嚴重的",
@@ -262186,7 +262186,7 @@
         },
         {
           "id": "v_n2_10000_1783838333732_109251",
-          "word": "顕著な",
+          "word": "顕著",
           "furigana": "顕[けん]著[ちょ]な",
           "romaji": "kencho na",
           "meaning": "顯著的、明顯的",
@@ -262248,7 +262248,7 @@
         },
         {
           "id": "v_n2_10000_1783838333732_266150",
-          "word": "抜本的な",
+          "word": "抜本的",
           "furigana": "抜[ばっ]本[ぽん]的[てき]な",
           "romaji": "bapponteki na",
           "meaning": "徹底的、釜底抽薪的",
@@ -303105,7 +303105,7 @@
         },
         {
           "id": "v_n1_10000_1783838670219_635941",
-          "word": "苛烈な",
+          "word": "苛烈",
           "furigana": "苛烈[かれつ]な",
           "romaji": "karetsu na",
           "meaning": "嚴酷激烈、苛烈",
@@ -303136,7 +303136,7 @@
         },
         {
           "id": "v_n1_10000_1783838670219_670207",
-          "word": "幽玄な",
+          "word": "幽玄",
           "furigana": "幽玄[ゆうげん]な",
           "romaji": "yuugen na",
           "meaning": "幽玄、深遠含蓄的美",
@@ -303198,7 +303198,7 @@
         },
         {
           "id": "v_n1_10000_1783838670219_604322",
-          "word": "蠱惑的な",
+          "word": "蠱惑的",
           "furigana": "蠱惑的[こわくてき]な",
           "romaji": "kowakuteki na",
           "meaning": "蠱惑人心、迷人而危險",
@@ -303229,7 +303229,7 @@
         },
         {
           "id": "v_n1_10000_1783838670219_913388",
-          "word": "冷徹な",
+          "word": "冷徹",
           "furigana": "冷徹[れいてつ]な",
           "romaji": "reitetsu na",
           "meaning": "冷酷透徹、冷靜無情",
@@ -307739,7 +307739,7 @@
         },
         {
           "id": "v_n1_10000_1783840857611_522191",
-          "word": "適法な",
+          "word": "適法",
           "furigana": "適[てき]法[ほう]な",
           "romaji": "tekihou na",
           "meaning": "合法的、適法的",
@@ -307770,7 +307770,7 @@
         },
         {
           "id": "v_n1_10000_1783840857611_256323",
-          "word": "違法な",
+          "word": "違法",
           "furigana": "違[い]法[ほう]な",
           "romaji": "ihou na",
           "meaning": "違法的",
@@ -311486,7 +311486,7 @@
         },
         {
           "id": "v_n1_10000_1783843362183_278602",
-          "word": "合法的な",
+          "word": "合法的",
           "furigana": "合[ごう]法[ほう]的[てき]な",
           "romaji": "gouteki na",
           "meaning": "合法的、合乎法規的",
@@ -312527,7 +312527,7 @@
         },
         {
           "id": "v_n1_10000_1783844037396_938746",
-          "word": "精緻な",
+          "word": "精緻",
           "furigana": "精緻[せいち]な",
           "romaji": "seichi na",
           "meaning": "精緻的、細緻的",
@@ -313697,7 +313697,7 @@
         },
         {
           "id": "v_n1_10000_1783845159348_838026",
-          "word": "遥かな",
+          "word": "遥か",
           "furigana": "遥[はる]かな",
           "romaji": "haruka na",
           "meaning": "遙遠的、久遠的",
