@@ -146723,6 +146723,949 @@
               "zh": "退租時有時會被收取更換鑰匙的費用。"
             }
           ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275712_704",
+          "word": "簡易書留",
+          "furigana": "簡易[かんい]書留[かきとめ]",
+          "romaji": "kani kakitome",
+          "meaning": "簡易掛號",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大切な契約書類を送るため、郵便局の窓口で簡易書留の手続きをしました。",
+              "zh": "為了寄送重要的契約文件，我在郵局櫃檯辦理了簡易掛號的手續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大切な契約書類を送るため、郵便局の窓口で簡易書留の手続きをしました。",
+              "zh": "為了寄送重要的契約文件，我在郵局櫃檯辦理了簡易掛號的手續。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275713_810",
+          "word": "ゆうパック",
+          "furigana": "ゆうパック",
+          "romaji": "yūpakku",
+          "meaning": "郵局包裹 (Yu-Pack)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "実家の両親から、地元の特産品が入ったゆうパックが届きました。",
+              "zh": "收到老家父母寄來裝有當地特產的郵局包裹。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "実家の両親から、地元の特産品が入ったゆうパックが届きました。",
+              "zh": "收到老家父母寄來裝有當地特產的郵局包裹。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275713_57",
+          "word": "定形郵便",
+          "furigana": "定形[ていけい]郵便[ゆうびん]",
+          "romaji": "teikei yūbin",
+          "meaning": "標準規格信件",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "定形郵便は25gまでであれば、一律の切手料金で送ることができます。",
+              "zh": "標準規格信件只要在25公克以內，就可以用統一的郵票資費寄送。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "定形郵便は25gまでであれば、一律の切手料金で送ることができます。",
+              "zh": "標準規格信件只要在25公克以內，就可以用統一的郵票資費寄送。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275714_490",
+          "word": "定形外郵便",
+          "furigana": "定形外[ていけいがい]郵便[ゆうびん]",
+          "romaji": "teikeigai yūbin",
+          "meaning": "非標準規格信件",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "厚みのある冊子を送るため、定形外郵便としてポストに投函しました。",
+              "zh": "為了寄送有厚度的冊子，我將其作為規格外信件投入了郵筒。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "厚みのある冊子を送るため、定形外郵便としてポストに投函しました。",
+              "zh": "為了寄送有厚度的冊子，我將其作為規格外信件投入了郵筒。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275715_475",
+          "word": "送り状",
+          "furigana": "送り状[おくりじょう]",
+          "romaji": "okurijō",
+          "meaning": "託運單 / 寄件單",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "荷物を発送する前に、送り状に届け先の住所と氏名をはっきりと記入します。",
+              "zh": "寄送行李前，在託運單上清楚填寫收件地址與姓名。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "荷物を発送する前に、送り状に届け先の住所と氏名をはっきりと記入します。",
+              "zh": "寄送行李前，在託運單上清楚填寫收件地址與姓名。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275715_728",
+          "word": "追跡番号",
+          "furigana": "追跡[ついせき]番号[ばんごう]",
+          "romaji": "tsuiseki bangō",
+          "meaning": "追蹤號碼 / 物流單號",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "送り状に記載されている追跡番号を使って、荷物の配送状況をネットで確認します。",
+              "zh": "使用託運單上記載的追蹤號碼，在網路上確認行李的配送狀況。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "送り状に記載されている追跡番号を使って、荷物の配送状況をネットで確認します。",
+              "zh": "使用託運單上記載的追蹤號碼，在網路上確認行李的配送狀況。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275716_640",
+          "word": "配達状況",
+          "furigana": "配達[はいたつ]状況[じょうきょう]",
+          "romaji": "haitatsu jōkyō",
+          "meaning": "配送狀況",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "台風の影響で物流が混乱しており、配達状況が「遅延」になっていました。",
+              "zh": "受到颱風影響物流混亂，配送狀況顯示為「延遲」。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "台風の影響で物流が混乱しており、配達状況が「遅延」になっていました。",
+              "zh": "受到颱風影響物流混亂，配送狀況顯示為「延遲」。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275716_960",
+          "word": "不在連絡票",
+          "furigana": "不在[ふざい]連絡票[れんらくひょう]",
+          "romaji": "fuzai renrakuhyō",
+          "meaning": "不在聯絡票 (投遞未成功通知單)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "留守中に荷物が届いたため、ポストに不在連絡票が入れられていました。",
+              "zh": "因為不在家時行李送達，郵筒裡被放入了不在聯絡票。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "留守中に荷物が届いたため、ポストに不在連絡票が入れられていました。",
+              "zh": "因為不在家時行李送達，郵筒裡被放入了不在聯絡票。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275716_830",
+          "word": "再配達",
+          "furigana": "再[さい]配達[はいたつ]",
+          "romaji": "saihaitatsu",
+          "meaning": "重新投遞",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "不在連絡票に記載されたQRコードを読み取り、夜間の時間帯で再配達を依頼しました。",
+              "zh": "掃描不在聯絡票上記載的QR code，申請了夜間時段的重新投遞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "不在連絡票に記載されたQRコードを読み取り、夜間の時間帯で再配達を依頼しました。",
+              "zh": "掃描不在聯絡票上記載的QR code，申請了夜間時段的重新投遞。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275716_810",
+          "word": "受領印",
+          "furigana": "受領[じゅりょう]印[いん]",
+          "romaji": "juryōin",
+          "meaning": "收領章 / 簽收印章",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "荷物を受け取る際、サインの代わりにシャチハタで受領印を押しました。",
+              "zh": "收到行李時，用連續印章蓋了簽收章以代替簽名。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "荷物を受け取る際、サインの代わりにシャチハタで受領印を押しました。",
+              "zh": "收到行李時，用連續印章蓋了簽收章以代替簽名。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275717_549",
+          "word": "着払い",
+          "furigana": "着[ちゃく]払い[ばらい]",
+          "romaji": "chakubarai",
+          "meaning": "貨到付款",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ネットオークションで落札した商品を、着払いで発送してもらいました。",
+              "zh": "我讓賣家以運費到付的方式寄送在網路拍賣上得標的商品。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ネットオークションで落札した商品を、着払いで発送してもらいました。",
+              "zh": "我讓賣家以運費到付的方式寄送在網路拍賣上得標的商品。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275717_265",
+          "word": "元払い",
+          "furigana": "元[もと]払い[ばらい]",
+          "romaji": "motobarai",
+          "meaning": "運費已付 / 寄件人付款",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "友人にプレゼントを送るため、送料元払いで荷物の発送を依頼しました。",
+              "zh": "為了寄禮物給朋友，我以運費已付的方式委託寄送行李。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "友人にプレゼントを送るため、送料元払いで荷物の発送を依頼しました。",
+              "zh": "為了寄禮物給朋友，我以運費已付的方式委託寄送行李。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275717_257",
+          "word": "郵便受け",
+          "furigana": "郵便[ゆうびん]受[う]け",
+          "romaji": "yūbin'uke",
+          "meaning": "信箱",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "毎日家に帰ったら、まず郵便受けにチラシや手紙が届いていないか確認します。",
+              "zh": "每天回家後，首先會確認信箱裡有沒有傳單或信件。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毎日家に帰ったら、まず郵便受けにチラシや手紙が届いていないか確認します。",
+              "zh": "每天回家後，首先會確認信箱裡有沒有傳單或信件。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275717_901",
+          "word": "健康保険証",
+          "furigana": "健康[けんこう]保険証[ほけんしょう]",
+          "romaji": "kenkō hokenshō",
+          "meaning": "健康保險證 / 健保卡",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "病院を受診する際は、窓口で健康保険証を提示する必要があります。",
+              "zh": "前往醫院就診時，需要在窗口出示健康保險證。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "病院を受診する際は、窓口で健康保険証を提示する必要があります。",
+              "zh": "前往醫院就診時，需要在窗口出示健康保險證。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275717_97",
+          "word": "初診",
+          "furigana": "初診[しょしん]",
+          "romaji": "shoshin",
+          "meaning": "初診 / 第一次看診",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "初めて受診する病院なので、初診受付の窓口で問診票の記入を求められました。",
+              "zh": "因為是第一次就診的醫院，在初診掛號窗口被要求填寫問診單。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "初めて受診する病院なので、初診受付の窓口で問診票の記入を求められました。",
+              "zh": "因為是第一次就診的醫院，在初診掛號窗口被要求填寫問診單。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_563",
+          "word": "再診",
+          "furigana": "再診[さいしん]",
+          "romaji": "saishin",
+          "meaning": "複診",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "再診の予約は、インターネットからでも可能です。",
+              "zh": "複診的預約也可以透過網路進行。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "再診の予約は、インターネットからでも可能です。",
+              "zh": "複診的預約也可以透過網路進行。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_230",
+          "word": "お薬手帳",
+          "furigana": "お薬手帳[おくすりてちょう]",
+          "romaji": "okusuritechou",
+          "meaning": "用藥手冊",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "病院へ行く時は、必ずお薬手帳を持参してください。",
+              "zh": "去醫院時，請務必攜帶用藥手冊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "病院へ行く時は、必ずお薬手帳を持参してください。",
+              "zh": "去醫院時，請務必攜帶用藥手冊。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_181",
+          "word": "問診票",
+          "furigana": "問診票[もんしんひょう]",
+          "romaji": "monshinhyou",
+          "meaning": "問診表",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "待合室でこちらの問診票にご記入をお願いいたします。",
+              "zh": "請在候診室填寫這份問診表。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "待合室でこちらの問診票にご記入をお願いいたします。",
+              "zh": "請在候診室填寫這份問診表。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_873",
+          "word": "自己負担",
+          "furigana": "自己負担[じこふたん]",
+          "romaji": "jikofutan",
+          "meaning": "自付額",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "保険証を提示すれば、医療費の自己負担は3割になります。",
+              "zh": "只要出示健保卡，醫療費的自付額就是三成。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "保険証を提示すれば、医療費の自己負担は3割になります。",
+              "zh": "只要出示健保卡，醫療費的自付額就是三成。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_608",
+          "word": "医療費控除",
+          "furigana": "医療費控除[いりょうひこうじょ]",
+          "romaji": "iryouhikoujo",
+          "meaning": "醫療費扣除額",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "確定申告で医療費控除を申請するため、領収書を大切に保管しています。",
+              "zh": "為了在申報所得稅時申請醫療費扣除，我把收據都妥善保管起來了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "確定申告で医療費控除を申請するため、領収書を大切に保管しています。",
+              "zh": "為了在申報所得稅時申請醫療費扣除，我把收據都妥善保管起來了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_572",
+          "word": "紹介状",
+          "furigana": "紹介状[しょうかいじょう]",
+          "romaji": "shoukaijou",
+          "meaning": "轉診單 / 介紹信",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大きな病院を受診する際は、かかりつけ医の紹介状が必要です。",
+              "zh": "去大醫院就診時，需要有家庭醫師開立的轉診單。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大きな病院を受診する際は、かかりつけ医の紹介状が必要です。",
+              "zh": "去大醫院就診時，需要有家庭醫師開立的轉診單。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_144",
+          "word": "救急外来",
+          "furigana": "救急外来[きゅうきゅうがいらい]",
+          "romaji": "kyuukyuugairai",
+          "meaning": "急診",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "夜中に子供が熱を出したので、救急外来へ行きました。",
+              "zh": "半夜孩子發燒了，所以我們去了急診。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夜中に子供が熱を出したので、救急外来へ行きました。",
+              "zh": "半夜孩子發燒了，所以我們去了急診。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_536",
+          "word": "薬局",
+          "furigana": "薬局[やっきょく]",
+          "romaji": "yakkyoku",
+          "meaning": "藥局",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "処方箋を持って、近くの薬局で薬を受け取ります。",
+              "zh": "我拿著處方箋去附近的藥局領藥。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "処方箋を持って、近くの薬局で薬を受け取ります。",
+              "zh": "我拿著處方箋去附近的藥局領藥。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_194",
+          "word": "格安SIM",
+          "furigana": "格安SIM[かくやすしむ]",
+          "romaji": "kakuyasu shimu",
+          "meaning": "廉價SIM卡",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "毎月の携帯代を節約するために、格安SIMに乗り換えました。",
+              "zh": "為了節省每個月的手機費，我換成了廉價SIM卡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "毎月の携帯代を節約するために、格安SIMに乗り換えました。",
+              "zh": "為了節省每個月的手機費，我換成了廉價SIM卡。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275718_740",
+          "word": "新規契約",
+          "furigana": "新規契約[しんきけいやく]",
+          "romaji": "shinkikeiyaku",
+          "meaning": "新申辦 / 新簽約",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "スマートフォンの新規契約には、本人確認書類が必要です。",
+              "zh": "新申辦智慧型手機門號時，需要身分證明文件。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "スマートフォンの新規契約には、本人確認書類が必要です。",
+              "zh": "新申辦智慧型手機門號時，需要身分證明文件。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_450",
+          "word": "解約金",
+          "furigana": "解約金[かいやくきん]",
+          "romaji": "kaiyakukin",
+          "meaning": "違約金 / 解約金",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "更新月以外に解約すると、解約金が発生する場合があります。",
+              "zh": "若在非合約更新月份解約，可能會產生違約金。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "更新月以外に解約すると、解約金が発生する場合があります。",
+              "zh": "若在非合約更新月份解約，可能會產生違約金。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_182",
+          "word": "事務手数料",
+          "furigana": "事務手数料[じむてすうりょう]",
+          "romaji": "jimutesuuryou",
+          "meaning": "手續費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "契約時には、初期費用として事務手数料が3,300円かかります。",
+              "zh": "簽約時，需要支付3,300日圓的手續費作為初期費用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "契約時には、初期費用として事務手数料が3,300円かかります。",
+              "zh": "簽約時，需要支付3,300日圓的手續費作為初期費用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_205",
+          "word": "通信制限",
+          "furigana": "通信制限[つうしんせいげん]",
+          "romaji": "tsuushinseigen",
+          "meaning": "流量限制",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "データ容量を使い切ってしまい、通信制限がかかりました。",
+              "zh": "網路流量用盡了，所以被限制了流量。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "データ容量を使い切ってしまい、通信制限がかかりました。",
+              "zh": "網路流量用盡了，所以被限制了流量。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_383",
+          "word": "速度制限",
+          "furigana": "速度制限[そくどせいげん]",
+          "romaji": "sokudoseigen",
+          "meaning": "降速 / 速度限制",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "速度制限のせいで、動画がなかなか読み込めません。",
+              "zh": "因為被降速的關係，影片一直讀取不出來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "速度制限のせいで、動画がなかなか読み込めません。",
+              "zh": "因為被降速的關係，影片一直讀取不出來。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_160",
+          "word": "テザリング",
+          "furigana": "テザリング[てざりんぐ]",
+          "romaji": "tezaringu",
+          "meaning": "網路分享 / 個人熱點",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "外出先では、スマートフォンのテザリング機能を使ってパソコンをネットに繋いでいます。",
+              "zh": "在外頭時，我會使用智慧型手機的網路分享功能讓電腦連上網。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "外出先では、スマートフォンのテザリング機能を使ってパソコンをネットに繋いでいます。",
+              "zh": "在外頭時，我會使用智慧型手機的網路分享功能讓電腦連上網。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_249",
+          "word": "MNP転出",
+          "furigana": "MNP転出[てんしゅつ]",
+          "romaji": "MNP tenshutsu",
+          "meaning": "行動號碼攜碼轉出 (MNP)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "来月、MNP転出の手続きをする予定です。",
+              "zh": "我打算下個月辦理行動號碼攜碼轉出手續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "来月、MNP転出の手続きをする予定です。",
+              "zh": "我打算下個月辦理行動號碼攜碼轉出手續。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_157",
+          "word": "SIMフリー",
+          "furigana": "SIMフリー",
+          "romaji": "shimu furī",
+          "meaning": "SIM卡解鎖 / SIM卡無鎖",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "このスマホはSIMフリーなので、どのキャリアでも使えます。",
+              "zh": "這支手機是SIM卡無鎖的，所以任何電信業者都能使用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このスマホはSIMフリーなので、どのキャリアでも使えます。",
+              "zh": "這支手機是SIM卡無鎖的，所以任何電信業者都能使用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_673",
+          "word": "SIMロック解除",
+          "furigana": "SIMロック解除[かいじょ]",
+          "romaji": "shimu rokku kaijo",
+          "meaning": "解除SIM卡鎖定",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "SIMロック解除をしてから、他社のSIMカードを入れました。",
+              "zh": "解除SIM卡鎖定後，我插入了其他業者的SIM卡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "SIMロック解除をしてから、他社のSIMカードを入れました。",
+              "zh": "解除SIM卡鎖定後，我插入了其他業者的SIM卡。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_608",
+          "word": "ギガ",
+          "furigana": "ギガ",
+          "romaji": "giga",
+          "meaning": "流量 (Gigabytes)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "abs_num_measure",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今月のギガがもう残り少ないので、節約しています。",
+              "zh": "這個月的流量已經所剩不多，所以我正在節省使用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今月のギガがもう残り少ないので、節約しています。",
+              "zh": "這個月的流量已經所剩不多，所以我正在節省使用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_586",
+          "word": "容量",
+          "furigana": "容量[ようりょう]",
+          "romaji": "yōryō",
+          "meaning": "容量 / 數據量",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "abs_num_measure",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "プランを選ぶ前に、データの容量をよく確認してください。",
+              "zh": "在選擇方案之前，請仔細確認數據容量。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "プランを選ぶ前に、データの容量をよく確認してください。",
+              "zh": "在選擇方案之前，請仔細確認數據容量。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275719_818",
+          "word": "基本料金",
+          "furigana": "基本[きほん]料金[りょうきん]",
+          "romaji": "kihon ryōkin",
+          "meaning": "基本月租費 / 基本資費",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "このプランの基本料金は月額三千円です。",
+              "zh": "這個方案的基本月租費是每月三千日圓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "このプランの基本料金は月額三千円です。",
+              "zh": "這個方案的基本月租費是每月三千日圓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275720_837",
+          "word": "音声通話",
+          "furigana": "音声[おんせい]通話[つうわ]",
+          "romaji": "onsei tsūwa",
+          "meaning": "語音通話",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "この料金プランには音声通話が十分間まで無料でついています。",
+              "zh": "這個資費方案內含最多十分鐘的免費語音通話。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この料金プランには音声通話が十分間まで無料でついています。",
+              "zh": "這個資費方案內含最多十分鐘的免費語音通話。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275720_175",
+          "word": "データ通信",
+          "furigana": "データ通信[つうしん]",
+          "romaji": "dēta tsūshin",
+          "meaning": "數據通信 / 上網數據流量",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "電車の中ではデータ通信が不安定になることがあります。",
+              "zh": "在電車上，數據通信有時會變得不穩定。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "電車の中ではデータ通信が不安定になることがあります。",
+              "zh": "在電車上，數據通信有時會變得不穩定。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275720_105",
+          "word": "電波",
+          "furigana": "電波[でんぱ]",
+          "romaji": "dempa",
+          "meaning": "電波 / 手機訊號",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "nature_physics_phenomena",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "この辺りは電波が弱くて、電話がつながりにくいです。",
+              "zh": "這一帶訊號很弱，電話不太容易接通。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この辺りは電波が弱くて、電話がつながりにくいです。",
+              "zh": "這一帶訊號很弱，電話不太容易接通。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275720_463",
+          "word": "Wi-Fi",
+          "furigana": "Wi-Fi",
+          "romaji": "waifai",
+          "meaning": "無線網路 / Wi-Fi",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "カフェでWi-Fiに接続して、動画を見ています。",
+              "zh": "我在咖啡廳連接Wi-Fi，正在看影片。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "カフェでWi-Fiに接続して、動画を見ています。",
+              "zh": "我在咖啡廳連接Wi-Fi，正在看影片。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily3_1783833275720_815",
+          "word": "ログインする",
+          "furigana": "ログインする",
+          "romaji": "roguin suru",
+          "meaning": "登入 / 登錄",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "パスワードを入力して、アカウントにログインしてください。",
+              "zh": "請輸入密碼並登入帳戶。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "パスワードを入力して、アカウントにログインしてください。",
+              "zh": "請輸入密碼並登入帳戶。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
