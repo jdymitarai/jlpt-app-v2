@@ -282,6 +282,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
   const [activeGroup, setActiveGroup] = useState('all');
   const [activeSub, setActiveSub] = useState('all');
   const [selectedVerb, setSelectedVerb] = useState(null); // Used for both Verbs and Adjectives detail modals
+  const [verbBannerTab, setVerbBannerTab] = useState('types');
 
   const speak = (text) => {
     if (!text) return;
@@ -973,6 +974,66 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
 
       <div className="vocab-main-container">
         
+        {posFilter === 'adverb' && (
+          <div className="adj-intro-banner" style={{ background: '#f0fdf4', borderColor: '#bbf7d0', color: '#166534' }}>
+            <div className="adj-intro-title" style={{ color: '#15803d' }}>
+              <span>📖</span> 日文副詞分類與呼應句型指南
+            </div>
+            <p className="adj-intro-desc" style={{ color: '#1e293b', marginBottom: '16px' }}>
+              副詞用來修飾動詞、形容詞或整個句子，不需進行詞尾變化。掌握副詞能顯著提升日語表達的生動度與精準度：
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #bbf7d0' }}>
+                <div style={{ fontWeight: '800', color: '#15803d', marginBottom: '12px', fontSize: '1.15rem' }}>
+                  🟢 1. 程度副詞（修飾程度與量）
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  用於修飾形容詞或動詞的「程度深淺」或「數量多寡」：<br/>
+                  ・<strong>とても</strong> (非常) → 很常用於修飾形容詞。<br/>
+                  ・<strong>少し / ちょっと</strong> (稍微) → 表示程度較低。<br/>
+                  ・<strong>非常に / 大変</strong> (極其/非常) → 用於較正式或書面的語境。<br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #15803d' }}>
+                    例：この料理は<strong>とても</strong>美味しいです。<br/>
+                    例：熱が<strong>少し</strong>あります。
+                  </div>
+                </div>
+              </div>
+              
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #bbf7d0' }}>
+                <div style={{ fontWeight: '800', color: '#15803d', marginBottom: '12px', fontSize: '1.15rem' }}>
+                  🟢 2. 狀態副詞（修飾動作的狀態方式）
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  用來具體描繪動作是如何進行的（常含有「〜り」或擬聲擬態詞語尾）：<br/>
+                  ・<strong>ゆっくり</strong> (慢慢地) → 描寫速度或步調。<br/>
+                  ・<strong>はっきり</strong> (清晰地) → 描寫狀態明瞭。<br/>
+                  ・<strong>すっかり</strong> (完全/徹底) → 描寫事情進行得乾淨俐落。<br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #15803d' }}>
+                    例：<strong>ゆっくり</strong>話してください (請慢慢說)。<br/>
+                    例：日本語が<strong>はっきり</strong>聞こえました。
+                  </div>
+                </div>
+              </div>
+
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #bbf7d0' }}>
+                <div style={{ fontWeight: '800', color: '#15803d', marginBottom: '12px', fontSize: '1.15rem' }}>
+                  🟢 3. 陳述呼應副詞（文法呼應句型）
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  這類副詞與句尾的「否定型」或「推測型」等特定文法具有<strong>強制呼應關係</strong>：<br/>
+                  ・<strong>全然 / ちっとも ＋ 否定型</strong> (完全不...)<br/>
+                  ・<strong>決して ＋ 否定型</strong> (絕對不...)<br/>
+                  ・<strong>おそらく ＋ 推測型(〜でしょう)</strong> (恐怕/大概...)<br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #15803d' }}>
+                    例：日本語が<strong>全然</strong>分かりません (完全不懂日語)。<br/>
+                    例：明日は<strong>おそらく</strong>雨でしょう (明天恐怕會下雨吧)。
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
         {posFilter === 'adjective' && (
           <div className="adj-intro-banner">
             <div className="adj-intro-title">
@@ -990,48 +1051,14 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   <strong>修飾名詞</strong>：直接接名詞<br/>
                   <span style={{ color: '#64748b' }}>例：美味しい＋ご飯 → <strong style={{ color: '#0f172a' }}>美味しいご飯</strong> (美味的飯)</span><br/><br/>
                   <strong>否定形式變化</strong>：去尾部的<strong>「い」＋「くない」</strong>（非正式口語）或 <strong>「くありません」</strong>（正式敬體）<br/>
-                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #e11d48' }}>
-                    例：暑い (熱) → <strong style={{ color: '#e11d48' }}>暑くない</strong> / <strong style={{ color: '#e11d48' }}>暑くありません</strong><br/>
-                    例：遠い (遠) → <strong style={{ color: '#e11d48' }}>遠くない</strong> / <strong style={{ color: '#e11d48' }}>遠くありません</strong>
-                  </div>
-                  <span style={{ color: '#be123c', fontSize: '0.85rem', display: 'block', marginTop: '8px' }}>※例外注意：良い (いい) 的否定是固定變成 <strong style={{ color: '#e11d48' }}>よくない</strong> / <strong style={{ color: '#e11d48' }}>よくありません</strong>。</span>
-                </div>
-              </div>
-              
-              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #fecdd3' }}>
-                <div style={{ fontWeight: '800', color: '#e11d48', marginBottom: '12px', fontSize: '1.15rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                  🟢 な形容詞（語幹不以「い」結尾）
-                </div>
-                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
-                  <strong>修飾名詞</strong>：詞尾加上<strong>「な」</strong>再接名詞<br/>
-                  <span style={{ color: '#64748b' }}>例：綺麗＋部屋 → <strong style={{ color: '#0f172a' }}>綺麗な部屋</strong> (乾淨漂亮的房間)</span><br/><br/>
-                  <strong>句尾接「です」（表示禮貌肯定陳述）</strong>：<br/>
-                  直接加上<strong>「です」</strong>（<strong>⚠️注意：必須去掉「な」直接接「です」！</strong>）<br/>
-                  <span style={{ color: '#64748b' }}>
-                    例：綺麗 ＋ です → <strong style={{ color: '#16a34a' }}>綺麗です。</strong> (很漂亮。)<br/>
-                    例：暇 ＋ です → <strong style={{ color: '#16a34a' }}>暇です。</strong> (我有空。)<br/>
-                    <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>❌ 錯誤用法：綺麗なです (×)</span>
-                  </span><br/><br/>
-                  <strong>否定形式變化</strong>：詞尾去掉「な」，加上 <strong>「ではない」/「じゃない」</strong>（口語）或 <strong>「ではありません」/「じゃありません」</strong>（敬體）<br/>
-                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #16a34a' }}>
-                    例：暇 (空閒) → <strong style={{ color: '#16a34a' }}>暇ではない</strong> / <strong style={{ color: '#16a34a' }}>暇ではありません</strong><br/>
-                    例：親切 (親切) → <strong style={{ color: '#16a34a' }}>親切じゃない</strong> / <strong style={{ color: '#16a34a' }}>親切ではありません</strong>
-                  </div>
-                  <span style={{ color: '#15803d', fontSize: '0.85rem', display: 'block', marginTop: '8px' }}>※語音提示：大部分「な形容詞」的字典形態是不帶「な」的（如：靜か、賑やか、綺麗），修飾名詞才加「な」。</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        )}
-
-        {posFilter === 'verb' && (
+                  <div style={{ background: '#fff', pa        {posFilter === 'verb' && (
 
           <div className="verb-intro-banner">
             <div className="verb-intro-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px', borderBottom: '1px solid rgba(2, 132, 199, 0.1)', paddingBottom: '12px', marginBottom: '16px' }}>
               <div className="verb-intro-title" style={{ margin: 0 }}>
                 <span>📖</span> 動詞學習指南
               </div>
-              <div style={{ display: 'flex', gap: '8px', background: 'rgba(2, 132, 199, 0.05)', padding: '4px', borderRadius: '8px' }}>
+              <div style={{ display: 'flex', gap: '8px', background: 'rgba(2, 132, 199, 0.05)', padding: '4px', borderRadius: '8px', flexWrap: 'wrap' }}>
                 <button 
                   onClick={() => setVerbBannerTab('types')} 
                   style={{
@@ -1049,6 +1076,22 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                   三大分類 (ます形)
                 </button>
                 <button 
+                  onClick={() => setVerbBannerTab('basics')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: verbBannerTab === 'basics' ? '#0284c7' : 'transparent',
+                    color: verbBannerTab === 'basics' ? '#fff' : '#0284c7'
+                  }}
+                >
+                  常體時態 (ない・た・なかった)
+                </button>
+                <button 
                   onClick={() => setVerbBannerTab('conjugations')} 
                   style={{
                     padding: '6px 12px', 
@@ -1062,45 +1105,123 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
                     color: verbBannerTab === 'conjugations' ? '#fff' : '#0284c7'
                   }}
                 >
-                  使役型與進階變化
+                  進階變化 (使役・受身・可能・意向)
                 </button>
               </div>
             </div>
 
-            {verbBannerTab === 'types' ? (
+            {verbBannerTab === 'types' && (
               <>
                 <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
-                  日文動詞依照變化的規律，主要分為三大類。掌握這三個分類，是學好動詞變化的最重要基礎：
+                  日文動詞依照變化的規律，主要分為三大類。掌握這三個分類，是學好所有動詞變化的核心基礎：
                 </p>
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
                   <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
                     <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>I 類動詞（五段動詞）</div>
                     <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
-                      字典形語尾必定是<strong>「う」段音</strong>。變化最多樣。<br/>
-                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 語尾轉「い」段音＋ます</span><br/>
-                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：書（か）く → 書（か）きます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;話（はな）す → 話（はな）します</span><br/>
-                      <span style={{ color: '#ef4444', fontSize: '0.85rem' }}>※例外：帰（かえ）る、切（き）る、知（し）る、走（はし）る、入（はい）る等，長得像 II 類，但屬於 I 類動詞。</span>
+                      <strong>特徵</strong>：字典形語尾必定是<strong>「う」段音</strong> (即：う、つ、る、ぬ、ぶ、む、く、ぐ、す)。變化最繁複。<br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '700', display: 'block', marginTop: '6px' }}>【ます形 (禮貌肯定)】：將語尾轉為同行的「い」段音 ＋ ます</span>
+                      <span style={{ color: '#64748b', fontSize: '0.85rem', display: 'block', marginTop: '4px' }}>
+                        例：書（か）く → 書（か）きます<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;話（はな）す → 話（はな）します<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;死（し）ぬ → 死（し）にます
+                      </span>
+                      <span style={{ color: '#ef4444', fontSize: '0.85rem', display: 'block', marginTop: '6px', fontWeight: 'bold' }}>※ 例外注意：歸、切、知、走、入、限、減、焦 等動詞雖然以「る」結尾且前一字為「い/え」段音，但屬於五段動詞！例如：帰る → 帰ります。</span>
                     </div>
                   </div>
                   <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
-                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>II 類動詞（上一段/下一段）</div>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>II 類動詞（一段動詞）</div>
                     <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
-                      字典形語尾必定是<strong>「る」</strong>，且前面為「い/え」段。變化最規律。<br/>
-                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 去掉「る」＋ます</span><br/>
-                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：見（み）る → 見（み）ます<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;食（た）べる → 食（た）べます</span>
+                      <strong>特徵</strong>：字典形語尾必定是<strong>「る」</strong>，且「る」的前一個字音必定為<strong>「い」段或「え」段</strong>。變化極為規律。<br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '700', display: 'block', marginTop: '6px' }}>【ます形 (禮貌肯定)】：直接去掉「る」 ＋ ます</span>
+                      <span style={{ color: '#64748b', fontSize: '0.85rem', display: 'block', marginTop: '4px' }}>
+                        例：見（み）る → 見（み）ます<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;食（た）べる → 食（た）べます<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;起（お）きる → 起（お）きます
+                      </span>
                     </div>
                   </div>
                   <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
                     <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>III 類動詞（不規則動詞）</div>
                     <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
-                      只有兩個不規則變化的動詞，以及「名詞＋する」群。<br/>
-                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>[ます形] 不規則變化</span><br/>
-                      <span style={{ color: '#0ea5e9', fontWeight: '600' }}>例：する（做）→ します<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;来（く）る（來）→ 来（き）ます</span>
+                      <strong>特徵</strong>：僅有以下兩個核心動詞，以及所有由「名詞 ＋ する」構成的複合動作。<br/>
+                      <span style={{ color: '#0ea5e9', fontWeight: '700', display: 'block', marginTop: '6px' }}>【ます形 (禮貌肯定)】：完全不規則變化</span>
+                      <span style={{ color: '#64748b', fontSize: '0.85rem', display: 'block', marginTop: '4px' }}>
+                        例：する（做） → します<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;来（く）る（來） → 来（き）ます<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;勉強（べんきょう）する → 勉強します
+                      </span>
                     </div>
                   </div>
                 </div>
               </>
-            ) : (
+            )}
+
+            {verbBannerTab === 'basics' && (
+              <>
+                <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
+                  常體時態（ない形、た形、なかった形）是用於日常對話、朋友間聊天，以及各種中高級文法接續的關鍵：
+                </p>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>ない形（現在常體否定 / 不做...）</div>
+                    <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>I 類動詞 (五段)</span>：將語尾 <strong>u段音 改為同行的 a段音 + ない</strong><br/>
+                      <span style={{ color: '#ef4444', fontSize: '0.82rem', fontWeight: 'bold' }}>⚠️ 語尾是單獨的「う」時，要變為「わ」＋ない</span><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：書く → 書かない / 買う → 買わない / 話す → 話さない</span><br/><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>II 類動詞 (一段)</span>：<strong>直接去「る」 ＋ ない</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：食べる → 食べない / 見る → 見ない</span><br/><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>III 類動詞 (不規則)</span>：<br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>・する → しない<br/>・来る（くる） → 来（こ）ない</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>た形（過去常體肯定 / 做了...）</div>
+                    <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>I 類動詞 (五段)</span>：根據動詞語尾進行<strong>音便變化</strong>：<br/>
+                      ・尾音為 <strong>う、つ、る</strong> → 變為 <strong>った</strong><br/>
+                      <span style={{ color: '#64748b', fontSize: '0.8rem' }}>&nbsp;&nbsp;例：買う→買った / 待つ→待った / 走る→走った</span><br/>
+                      ・尾音為 <strong>ぬ、ぶ、む</strong> → 變為 <strong>んだ</strong><br/>
+                      <span style={{ color: '#64748b', fontSize: '0.8rem' }}>&nbsp;&nbsp;例：死ぬ→死んだ / 遊ぶ→遊んだ / 読む→読んだ</span><br/>
+                      ・尾音為 <strong>く</strong> → 變為 <strong>いた</strong> (例外: <strong>行く→行った</strong>)<br/>
+                      <span style={{ color: '#64748b', fontSize: '0.8rem' }}>&nbsp;&nbsp;例：書く→書いた / 聞く→聞いた</span><br/>
+                      ・尾音為 <strong>ぐ</strong> → 變為 <strong>いだ</strong><br/>
+                      <span style={{ color: '#64748b', fontSize: '0.8rem' }}>&nbsp;&nbsp;例：泳ぐ→泳いだ / 急ぐ→急いだ</span><br/>
+                      ・尾音為 <strong>す</strong> → 變為 <strong>した</strong><br/>
+                      <span style={{ color: '#64748b', fontSize: '0.8rem' }}>&nbsp;&nbsp;例：話す→話した / 直す→直した</span><br/><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>II 類動詞 (一段)</span>：<strong>直接去「る」 ＋ た</strong><br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>例：食べる → 食べた / 見る → 食べた</span><br/><br/>
+                      <span style={{ fontWeight: '600', color: '#0284c7' }}>III 類動詞 (不規則)</span>：<br/>
+                      <span style={{ fontSize: '0.85rem', color: '#64748b' }}>・する → した<br/>・来る（くる） → 来（き）た</span>
+                    </div>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #bae6fd' }}>
+                    <div style={{ fontWeight: '800', color: '#0284c7', marginBottom: '8px', fontSize: '1.1rem' }}>なかった形（過去常體否定 / 沒做...）</div>
+                    <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                      <strong>【萬用規則】</strong>：<br/>
+                      先將動詞轉換為<strong>「ない形」</strong>，再將結尾的<strong>「ない」直接改為「なかった」</strong>即可。<br/><br/>
+                      <div style={{ background: '#fff', padding: '12px', borderRadius: '8px', borderLeft: '3px solid #0284c7' }}>
+                        <strong>變形實例對照表</strong>：<br/>
+                        1. 買う (買)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ 買わない (不買)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ <strong>買わなかった</strong> (沒買)<br/>
+                        2. 食べる (吃)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ 食べない (不吃)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ <strong>食べなかった</strong> (沒吃)<br/>
+                        3. する (做)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ しない (不做)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ <strong>しなかった</strong> (沒做)<br/>
+                        4. 来る (來)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ 来ない (不來)<br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;→ <strong>来なかった</strong> (沒來)
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </>
+            )}
+
+            {verbBannerTab === 'conjugations' && (
               <>
                 <p className="verb-intro-desc" style={{ marginBottom: '16px' }}>
                   日文動詞的進階變化型（如<strong>使役形</strong>、<strong>受身形</strong>等）皆依動詞類別進行規則變形。以下是常用變化公式：
@@ -1155,7 +1276,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
             )}
           </div>
         )}
-        
+
         {posFilter === 'keigo' && (
           <div className="keigo-teaching-banner">
             <div className="keigo-teaching-header">
