@@ -120503,6 +120503,1179 @@
               "zh": "肛門位於消化道末端，將糞便排出體外。"
             }
           ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264448_794",
+          "word": "後頭葉",
+          "furigana": "後頭葉[こうとうよう]",
+          "romaji": "kōtōyō",
+          "meaning": "枕葉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "後頭葉は主に視覚情報の処理を担っている。",
+              "zh": "枕葉主要負責處理視覺資訊。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "後頭葉は主に視覚情報の処理を担っている。",
+              "zh": "枕葉主要負責處理視覺資訊。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264448_482",
+          "word": "前頭葉",
+          "furigana": "前頭葉[ぜんとうよう]",
+          "romaji": "zentōyō",
+          "meaning": "額葉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "前頭葉は意思決定や運動の制御に重要な役割を果たす。",
+              "zh": "額葉在決策和運動控制上扮演重要角色。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "前頭葉は意思決定や運動の制御に重要な役割を果たす。",
+              "zh": "額葉在決策和運動控制上扮演重要角色。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_724",
+          "word": "側頭葉",
+          "furigana": "側頭葉[そくとうよう]",
+          "romaji": "sokutōyō",
+          "meaning": "顳葉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "側頭葉の損傷は記憶や聴覚機能に影響を及ぼす可能性がある。",
+              "zh": "顳葉的損傷可能會影響記憶和聽覺功能。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "側頭葉の損傷は記憶や聴覚機能に影響を及ぼす可能性がある。",
+              "zh": "顳葉的損傷可能會影響記憶和聽覺功能。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_79",
+          "word": "頭頂葉",
+          "furigana": "頭頂葉[とうちょうよう]",
+          "romaji": "tōchōyō",
+          "meaning": "頂葉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "頭頂葉は体性感覚情報の統合に関与している。",
+              "zh": "頂葉參與體感資訊的整合。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "頭頂葉は体性感覚情報の統合に関与している。",
+              "zh": "頂葉參與體感資訊的整合。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_497",
+          "word": "扁桃体",
+          "furigana": "扁桃体[へんとうたい]",
+          "romaji": "hentōtai",
+          "meaning": "杏仁核",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "扁桃体は恐怖や不安などの情動反応の中枢である。",
+              "zh": "杏仁核是恐懼與焦慮等情緒反應的中樞。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "扁桃体は恐怖や不安などの情動反応の中枢である。",
+              "zh": "杏仁核是恐懼與焦慮等情緒反應的中樞。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_956",
+          "word": "海馬",
+          "furigana": "海馬[かいば]",
+          "romaji": "kaiba",
+          "meaning": "海馬迴",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "海馬は短期記憶から長期記憶への変換に不可欠な部位である。",
+              "zh": "海馬迴是將短期記憶轉換為長期記憶不可或缺的部位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "海馬は短期記憶から長期記憶への変換に不可欠な部位である。",
+              "zh": "海馬迴是將短期記憶轉換為長期記憶不可或缺的部位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_449",
+          "word": "中脳",
+          "furigana": "中脳[ちゅうのう]",
+          "romaji": "chūnō",
+          "meaning": "中腦",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "中脳は視覚や聴覚の反射中枢として機能する。",
+              "zh": "中腦作為視覺和聽覺的反射中樞發揮功能。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "中脳は視覚や聴覚の反射中枢として機能する。",
+              "zh": "中腦作為視覺和聽覺的反射中樞發揮功能。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_765",
+          "word": "間脳",
+          "furigana": "間脳[かんのう]",
+          "romaji": "kannō",
+          "meaning": "間腦",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "間脳は視床と視床下部から構成されている。",
+              "zh": "間腦由視丘與下視丘組成。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "間脳は視床と視床下部から構成されている。",
+              "zh": "間腦由視丘與下視丘組成。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_282",
+          "word": "脳室",
+          "furigana": "脳室[のうしつ]",
+          "romaji": "nōshitsu",
+          "meaning": "腦室",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "脳室は脳脊髄液で満たされた空間である。",
+              "zh": "腦室是充滿腦脊髓液的空間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "脳室は脳脊髄液で満たされた空間である。",
+              "zh": "腦室是充滿腦脊髓液的空間。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264449_226",
+          "word": "硬膜",
+          "furigana": "硬膜[こうまく]",
+          "romaji": "kōmaku",
+          "meaning": "硬腦膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "硬膜は脳と脊髄を保護する最も外側の髄膜である。",
+              "zh": "硬腦膜是保護大腦和脊髓的最外層腦膜。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "硬膜は脳と脊髄を保護する最も外側の髄膜である。",
+              "zh": "硬腦膜是保護大腦和脊髓的最外層腦膜。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_641",
+          "word": "クモ膜",
+          "furigana": "クモ膜[くもまく]",
+          "romaji": "kumomaku",
+          "meaning": "蜘蛛膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "クモ膜下腔には脳脊髄液が循環している。",
+              "zh": "蜘蛛膜下腔內有腦脊髓液在循環。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "クモ膜下腔には脳脊髄液が循環している。",
+              "zh": "蜘蛛膜下腔內有腦脊髓液在循環。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_804",
+          "word": "軟膜",
+          "furigana": "軟膜[なんまく]",
+          "romaji": "nanmaku",
+          "meaning": "軟腦膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "軟膜は脳の表面に密着している薄い膜である。",
+              "zh": "軟腦膜是緊貼大腦表面的薄膜。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "軟膜は脳の表面に密着している薄い膜である。",
+              "zh": "軟腦膜是緊貼大腦表面的薄膜。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_862",
+          "word": "脳神経",
+          "furigana": "脳神経[のうしんけい]",
+          "romaji": "nōshinkei",
+          "meaning": "腦神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "人間には12対の脳神経が存在する。",
+              "zh": "人體有12對腦神經。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "人間には12対の脳神経が存在する。",
+              "zh": "人體有12對腦神經。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_356",
+          "word": "迷走神経",
+          "furigana": "迷走神経[めいそうしんけい]",
+          "romaji": "meisōshinkei",
+          "meaning": "迷走神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "迷走神経は内臓の副交感神経支配を広く担っている。",
+              "zh": "迷走神經廣泛支配內臟的副交感神經。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "迷走神経は内臓の副交感神経支配を広く担っている。",
+              "zh": "迷走神經廣泛支配內臟的副交感神經。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_553",
+          "word": "坐骨神経",
+          "furigana": "坐骨神経[ざこつしんけい]",
+          "romaji": "zakotsushinkei",
+          "meaning": "坐骨神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "坐骨神経痛は下肢に鋭い痛みをもたらすことがある。",
+              "zh": "坐骨神經痛可能會引起下肢劇烈的疼痛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "坐骨神経痛は下肢に鋭い痛みをもたらすことがある。",
+              "zh": "坐骨神經痛可能會引起下肢劇烈的疼痛。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_68",
+          "word": "三叉神経",
+          "furigana": "三叉神経[さんさしんけい]",
+          "romaji": "sansashinkei",
+          "meaning": "三叉神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "三叉神経は顔面の感覚と咀嚼運動を支配する。",
+              "zh": "三叉神經支配臉部的感覺與咀嚼運動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "三叉神経は顔面の感覚と咀嚼運動を支配する。",
+              "zh": "三叉神經支配臉部的感覺與咀嚼運動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_963",
+          "word": "視神経",
+          "furigana": "視神経[ししんけい]",
+          "romaji": "shishinkei",
+          "meaning": "視神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "網膜で受け取った光の情報は視神経を通じて脳へ送られる。",
+              "zh": "視網膜接收到的光資訊透過視神經傳送到大腦。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "網膜で受け取った光の情報は視神経を通じて脳へ送られる。",
+              "zh": "視網膜接收到的光資訊透過視神經傳送到大腦。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_795",
+          "word": "聴神経",
+          "furigana": "聴神経[ちょうしんけい]",
+          "romaji": "chōshinkei",
+          "meaning": "聽神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "聴神経腫瘍は難聴や耳鳴りの原因となる。",
+              "zh": "聽神經瘤會導致聽力下降或耳鳴。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "聴神経腫瘍は難聴や耳鳴りの原因となる。",
+              "zh": "聽神經瘤會導致聽力下降或耳鳴。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_474",
+          "word": "顔面神経",
+          "furigana": "顔面神経[がんめんしんけい]",
+          "romaji": "ganmenshinkei",
+          "meaning": "顏面神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "顔面神経麻痺により、表情筋のコントロールが困難になる。",
+              "zh": "顏面神經麻痺會導致表情肌的控制變得困難。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "顔面神経麻痺により、表情筋のコントロールが困難になる。",
+              "zh": "顏面神經麻痺會導致表情肌的控制變得困難。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_890",
+          "word": "嗅神経",
+          "furigana": "嗅神経[きゅうしんけい]",
+          "romaji": "kyūshinkei",
+          "meaning": "嗅神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "嗅神経は匂いの情報を嗅球へと伝達する。",
+              "zh": "嗅神經將氣味資訊傳遞至嗅球。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "嗅神経は匂いの情報を嗅球へと伝達する。",
+              "zh": "嗅神經將氣味資訊傳遞至嗅球。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_277",
+          "word": "大脳皮質",
+          "furigana": "大脳皮質[だいのうひしつ]",
+          "romaji": "dainōhishitsu",
+          "meaning": "大腦皮質",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大脳皮質は高度な精神活動の基盤となる領域である。",
+              "zh": "大腦皮質是高階精神活動的基礎區域。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大脳皮質は高度な精神活動の基盤となる領域である。",
+              "zh": "大腦皮質是高階精神活動的基礎區域。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_155",
+          "word": "髄質",
+          "furigana": "髄質[ずいしつ]",
+          "romaji": "zuishitsu",
+          "meaning": "髓質",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "副腎髄質からはアドレナリンが分泌される。",
+              "zh": "腎上腺髓質會分泌腎上腺素。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "副腎髄質からはアドレナリンが分泌される。",
+              "zh": "腎上腺髓質會分泌腎上腺素。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264450_457",
+          "word": "皮質",
+          "furigana": "皮質[ひしつ]",
+          "romaji": "hishitsu",
+          "meaning": "皮質",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腎皮質には多数の糸球体が分布している。",
+              "zh": "腎皮質分布著大量的腎絲球。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腎皮質には多数の糸球体が分布している。",
+              "zh": "腎皮質分布著大量的腎絲球。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_273",
+          "word": "腎小体",
+          "furigana": "腎小体[じんしょうたい]",
+          "romaji": "jinshōtai",
+          "meaning": "腎小體",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腎小体は糸球体とボーマン嚢から構成される。",
+              "zh": "腎小體由腎絲球與鮑氏囊組成。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腎小体は糸球体とボーマン嚢から構成される。",
+              "zh": "腎小體由腎絲球與鮑氏囊組成。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_173",
+          "word": "糸球体",
+          "furigana": "糸球体[しきゅうたい]",
+          "romaji": "shikyūtai",
+          "meaning": "腎絲球",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "糸球体で血液が濾過され、原尿が生成される。",
+              "zh": "血液在腎絲球被過濾，生成初尿。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "糸球体で血液が濾過され、原尿が生成される。",
+              "zh": "血液在腎絲球被過濾，生成初尿。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_559",
+          "word": "尿細管",
+          "furigana": "尿細管[にょうさいかん]",
+          "romaji": "nyōsaikan",
+          "meaning": "腎小管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "尿細管では水分や必要な電解質の再吸収が行われる。",
+              "zh": "腎小管負責水分及必要電解質的再吸收。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "尿細管では水分や必要な電解質の再吸収が行われる。",
+              "zh": "腎小管負責水分及必要電解質的再吸收。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_121",
+          "word": "ネフロン",
+          "furigana": "ネフロン[ねふろん]",
+          "romaji": "nefuron",
+          "meaning": "腎元",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "片方の腎臓には約100万個のネフロンが存在する。",
+              "zh": "單側腎臟約有100萬個腎元。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "片方の腎臓には約100万個のネフロンが存在する。",
+              "zh": "單側腎臟約有100萬個腎元。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_762",
+          "word": "肝小葉",
+          "furigana": "肝小葉[かんしょうよう]",
+          "romaji": "kanshōyō",
+          "meaning": "肝小葉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肝小葉は肝臓の機能的および構造的な基本単位である。",
+              "zh": "肝小葉是肝臟的功能與結構基本單位。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肝小葉は肝臓の機能的および構造的な基本単位である。",
+              "zh": "肝小葉是肝臟的功能與結構基本單位。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_674",
+          "word": "胆管",
+          "furigana": "胆管[たんかん]",
+          "romaji": "tankan",
+          "meaning": "膽管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "胆管が閉塞すると黄疸の症状が現れる。",
+              "zh": "膽管阻塞時會出現黃疸症狀。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "胆管が閉塞すると黄疸の症状が現れる。",
+              "zh": "膽管阻塞時會出現黃疸症狀。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_147",
+          "word": "膵管",
+          "furigana": "膵管[すいかん]",
+          "romaji": "suikan",
+          "meaning": "胰管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "膵液は膵管を通って十二指腸に分泌される。",
+              "zh": "胰液透過胰管分泌到十二指腸。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "膵液は膵管を通って十二指腸に分泌される。",
+              "zh": "胰液透過胰管分泌到十二指腸。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_605",
+          "word": "ランゲルハンス島",
+          "furigana": "ランゲルハンス島[らんげるはんすとう]",
+          "romaji": "rangeruhansutō",
+          "meaning": "胰島",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ランゲルハンス島のβ細胞はインスリンを分泌する。",
+              "zh": "胰島的β細胞分泌胰島素。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ランゲルハンス島のβ細胞はインスリンを分泌する。",
+              "zh": "胰島的β細胞分泌胰島素。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_193",
+          "word": "胃粘膜",
+          "furigana": "胃粘膜[いねんまく]",
+          "romaji": "inenmaku",
+          "meaning": "胃黏膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ピロリ菌の感染は胃粘膜に慢性的な炎症を引き起こす。",
+              "zh": "幽門螺旋桿菌感染會引起胃黏膜的慢性發炎。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ピロリ菌の感染は胃粘膜に慢性的な炎症を引き起こす。",
+              "zh": "幽門螺旋桿菌感染會引起胃黏膜的慢性發炎。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_595",
+          "word": "幽門",
+          "furigana": "幽門[ゆうもん]",
+          "romaji": "yūmon",
+          "meaning": "幽門",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "消化された食物は幽門を経て十二指腸へと送られる。",
+              "zh": "消化後的食物經過幽門被送往十二指腸。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "消化された食物は幽門を経て十二指腸へと送られる。",
+              "zh": "消化後的食物經過幽門被送往十二指腸。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_329",
+          "word": "噴門",
+          "furigana": "噴門[ふんもん]",
+          "romaji": "funmon",
+          "meaning": "賁門",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "噴門の機能が低下すると、胃酸の逆流が起こりやすくなる。",
+              "zh": "賁門功能退化時，容易發生胃酸逆流。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "噴門の機能が低下すると、胃酸の逆流が起こりやすくなる。",
+              "zh": "賁門功能退化時，容易發生胃酸逆流。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_410",
+          "word": "腹腔動脈",
+          "furigana": "腹腔動脈[ふくくうどうみゃく]",
+          "romaji": "fukukūdōmyaku",
+          "meaning": "腹腔動脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腹腔動脈は胃、肝臓、脾臓などに血液を供給する主要な血管である。",
+              "zh": "腹腔動脈是為胃、肝臟、脾臟等器官供應血液的主要血管。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腹腔動脈は胃、肝臓、脾臓などに血液を供給する主要な血管である。",
+              "zh": "腹腔動脈是為胃、肝臟、脾臟等器官供應血液的主要血管。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_204",
+          "word": "肺動脈",
+          "furigana": "肺動脈[はいどうみゃく]",
+          "romaji": "haidōmyaku",
+          "meaning": "肺動脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肺動脈には二酸化炭素を多く含む静脈血が流れている。",
+              "zh": "肺動脈中流動著富含二氧化碳的靜脈血。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肺動脈には二酸化炭素を多く含む静脈血が流れている。",
+              "zh": "肺動脈中流動著富含二氧化碳的靜脈血。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_743",
+          "word": "肺静脈",
+          "furigana": "肺静脈[はいじょうみゃく]",
+          "romaji": "haijōmyaku",
+          "meaning": "肺靜脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "酸素化された血液は肺静脈を通って左心房に戻る。",
+              "zh": "充氧血透過肺靜脈流回左心房。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "酸素化された血液は肺静脈を通って左心房に戻る。",
+              "zh": "充氧血透過肺靜脈流回左心房。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264451_373",
+          "word": "椎骨",
+          "furigana": "椎骨[ついこつ]",
+          "romaji": "tsuikotsu",
+          "meaning": "椎骨",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ヒトの脊柱は通常33個の椎骨で構成されている。",
+              "zh": "人類的脊柱通常由33塊椎骨組成。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ヒトの脊柱は通常33個の椎骨で構成されている。",
+              "zh": "人類的脊柱通常由33塊椎骨組成。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_334",
+          "word": "肋軟骨",
+          "furigana": "肋軟骨[ろくなんこつ]",
+          "romaji": "rokunankotsu",
+          "meaning": "肋軟骨",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肋軟骨は胸郭に弾力性を与え、呼吸運動を助ける。",
+              "zh": "肋軟骨賦予胸廓彈性，有助於呼吸運動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肋軟骨は胸郭に弾力性を与え、呼吸運動を助ける。",
+              "zh": "肋軟骨賦予胸廓彈性，有助於呼吸運動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_220",
+          "word": "腱板",
+          "furigana": "腱板[けんばん]",
+          "romaji": "kenban",
+          "meaning": "旋轉肌袖",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肩関節の過度な使用により腱板断裂が生じることがある。",
+              "zh": "肩關節過度使用可能會導致旋轉肌袖破裂。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肩関節の過度な使用により腱板断裂が生じることがある。",
+              "zh": "肩關節過度使用可能會導致旋轉肌袖破裂。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_432",
+          "word": "三角筋",
+          "furigana": "三角筋[さんかくきん]",
+          "romaji": "sankakukin",
+          "meaning": "三角肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ワクチンの筋肉注射は通常、上腕の三角筋に行われる。",
+              "zh": "疫苗的肌肉注射通常施打於上臂的三角肌。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ワクチンの筋肉注射は通常、上腕の三角筋に行われる。",
+              "zh": "疫苗的肌肉注射通常施打於上臂的三角肌。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_587",
+          "word": "広背筋",
+          "furigana": "広背筋[こうはいきん]",
+          "romaji": "kōhaikin",
+          "meaning": "闊背肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "広背筋は背中から上腕にかけて広がる大きな筋肉である。",
+              "zh": "闊背肌是從背部延伸至上臂的大型肌肉。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "広背筋は背中から上腕にかけて広がる大きな筋肉である。",
+              "zh": "闊背肌是從背部延伸至上臂的大型肌肉。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_473",
+          "word": "上腕三頭筋",
+          "furigana": "上腕三頭筋[じょうわんさんとうきん]",
+          "romaji": "jōwansantōkin",
+          "meaning": "肱三頭肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肘を伸ばす動作には上腕三頭筋の収縮が必要である。",
+              "zh": "伸直手肘的動作需要肱三頭肌的收縮。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肘を伸ばす動作には上腕三頭筋の収縮が必要である。",
+              "zh": "伸直手肘的動作需要肱三頭肌的收縮。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_96",
+          "word": "大殿筋",
+          "furigana": "大殿筋[だいでんきん]",
+          "romaji": "daidenkin",
+          "meaning": "臀大肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大殿筋は人体の筋肉の中で最も体積が大きく、直立歩行に重要である。",
+              "zh": "臀大肌是人體積最大的肌肉，對直立行走非常重要。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大殿筋は人体の筋肉の中で最も体積が大きく、直立歩行に重要である。",
+              "zh": "臀大肌是人體積最大的肌肉，對直立行走非常重要。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_353",
+          "word": "腓腹筋",
+          "furigana": "腓腹筋[ひふくきん]",
+          "romaji": "hifukukin",
+          "meaning": "腓腸肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腓腹筋の痙攣は、一般に「こむらがえり」と呼ばれる。",
+              "zh": "腓腸肌的痙攣一般被稱為「抽筋」。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腓腹筋の痙攣は、一般に「こむらがえり」と呼ばれる。",
+              "zh": "腓腸肌的痙攣一般被稱為「抽筋」。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_727",
+          "word": "半月板",
+          "furigana": "半月板[はんげつばん]",
+          "romaji": "hangetsuban",
+          "meaning": "半月板",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "スポーツの怪我で膝の半月板を損傷するケースが多い。",
+              "zh": "運動傷害中損傷膝蓋半月板的案例很多。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "スポーツの怪我で膝の半月板を損傷するケースが多い。",
+              "zh": "運動傷害中損傷膝蓋半月板的案例很多。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_774",
+          "word": "滑液包",
+          "furigana": "滑液包[かつえきほう]",
+          "romaji": "katsuekihō",
+          "meaning": "滑液囊",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "関節周囲の滑液包が炎症を起こすと、強い痛みを伴う。",
+              "zh": "關節周圍的滑液囊若發生發炎，會伴隨強烈的疼痛。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "関節周囲の滑液包が炎症を起こすと、強い痛みを伴う。",
+              "zh": "關節周圍的滑液囊若發生發炎，會伴隨強烈的疼痛。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_731",
+          "word": "耳小骨",
+          "furigana": "耳小骨[じしょうこつ]",
+          "romaji": "jishōkotsu",
+          "meaning": "聽小骨",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "耳小骨は鼓膜の振動を増幅して内耳に伝える役割を持つ。",
+              "zh": "聽小骨具有放大耳膜震動並傳遞至內耳的作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "耳小骨は鼓膜の振動を増幅して内耳に伝える役割を持つ。",
+              "zh": "聽小骨具有放大耳膜震動並傳遞至內耳的作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_650",
+          "word": "鼓室",
+          "furigana": "鼓室[こしつ]",
+          "romaji": "koshitsu",
+          "meaning": "鼓室",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "急性中耳炎では、鼓室内に膿が貯留する。",
+              "zh": "急性中耳炎時，鼓室內會積聚膿液。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "急性中耳炎では、鼓室内に膿が貯留する。",
+              "zh": "急性中耳炎時，鼓室內會積聚膿液。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_504",
+          "word": "耳管",
+          "furigana": "耳管[じかん]",
+          "romaji": "jikan",
+          "meaning": "耳咽管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "耳管は中耳の圧力を外界の気圧と等しく保つ働きをしている。",
+              "zh": "耳咽管的作用是保持中耳壓力與外界氣壓相等。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "耳管は中耳の圧力を外界の気圧と等しく保つ働きをしている。",
+              "zh": "耳咽管的作用是保持中耳壓力與外界氣壓相等。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy3_1783821264452_864",
+          "word": "副鼻腔",
+          "furigana": "副鼻腔[ふくびくう]",
+          "romaji": "fukubikū",
+          "meaning": "副鼻竇",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "風邪が長引くと副鼻腔に炎症が波及し、副鼻腔炎になることがある。",
+              "zh": "感冒拖延不癒可能會使發炎蔓延至副鼻竇，引起副鼻竇炎。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "風邪が長引くと副鼻腔に炎症が波及し、副鼻腔炎になることがある。",
+              "zh": "感冒拖延不癒可能會使發炎蔓延至副鼻竇，引起副鼻竇炎。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
