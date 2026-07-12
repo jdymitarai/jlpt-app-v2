@@ -115851,6 +115851,86 @@
             }
           ],
           "id": "v_n5_ex_1783819511265_835"
+        },
+        {
+          "word": "ニュース",
+          "furigana": "ニュース",
+          "romaji": "nyuusu",
+          "meaning": "新聞",
+          "type": "noun",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "毎日ニュースをチェックします。",
+              "zh": "我每天都會看新聞。"
+            }
+          ],
+          "id": "v_n5_ex_1783819791488_89"
+        },
+        {
+          "word": "レストラン",
+          "furigana": "レストラン",
+          "romaji": "resutoran",
+          "meaning": "餐廳",
+          "type": "noun",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "このレストランはハンバーグが有名です。",
+              "zh": "這家餐廳的漢堡排很有名。"
+            }
+          ],
+          "id": "v_n5_ex_1783819791489_733"
+        },
+        {
+          "word": "カップ",
+          "furigana": "カップ",
+          "romaji": "kappu",
+          "meaning": "杯子 / 茶杯",
+          "type": "noun",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "コーヒーカップにコーヒーを注ぎます。",
+              "zh": "往咖啡杯裡倒咖啡。"
+            }
+          ],
+          "id": "v_n5_ex_1783819791490_217"
+        },
+        {
+          "word": "ナイフ",
+          "furigana": "ナイフ",
+          "romaji": "naifu",
+          "meaning": "刀子 / 餐刀",
+          "type": "noun",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ナイフとフォークでステーキを食べます。",
+              "zh": "用刀叉吃牛排。"
+            }
+          ],
+          "id": "v_n5_ex_1783819791490_549"
+        },
+        {
+          "word": "ワイシャツ",
+          "furigana": "ワイシャツ",
+          "romaji": "waishatsu",
+          "meaning": "男裝襯衫 / 白襯衫",
+          "type": "noun",
+          "category": "material_clothing_beauty",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "仕事の時は白いワイシャツを着ます。",
+              "zh": "上班的時候會穿白襯衫。"
+            }
+          ],
+          "id": "v_n5_ex_1783819791490_51"
         }
       ],
       "verbConjugations": [
@@ -125909,6 +125989,182 @@
             }
           ],
           "id": "v_n4_ex_1783819511265_962"
+        },
+        {
+          "word": "スケジュール",
+          "furigana": "スケジュール",
+          "romaji": "sukejuuru",
+          "meaning": "行程 / 時間表",
+          "type": "noun",
+          "category": "abs_time_period",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "来週のスケジュールを確認します。",
+              "zh": "確認下週的行程安排。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_958"
+        },
+        {
+          "word": "キャンセル",
+          "furigana": "キャンセル",
+          "romaji": "kyanseru",
+          "meaning": "取消",
+          "type": "verb",
+          "category": "verb_time_process",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "予約をキャンセルしなければなりません。",
+              "zh": "我必須取消預約。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_858"
+        },
+        {
+          "word": "スタート",
+          "furigana": "スタート",
+          "romaji": "sutaato",
+          "meaning": "開始 / 出發",
+          "type": "verb",
+          "category": "verb_time_process",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "マラソン大会がスタートしました。",
+              "zh": "馬拉松大會開始了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_540"
+        },
+        {
+          "word": "スピーチ",
+          "furigana": "スピーチ",
+          "romaji": "supiichi",
+          "meaning": "演講 / 致詞",
+          "type": "noun",
+          "category": "society_communication_language",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "日本語のスピーチコンテストに出ます。",
+              "zh": "我將參加日語演講比賽。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_385"
+        },
+        {
+          "word": "ボランティア",
+          "furigana": "ボランティア",
+          "romaji": "borantia",
+          "meaning": "志工 / 義工",
+          "type": "noun",
+          "category": "society_work_economy",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "週末にボランティア活動に参加します。",
+              "zh": "週末參加志工活動。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_134"
+        },
+        {
+          "word": "ドライブ",
+          "furigana": "ドライブ",
+          "romaji": "doraibu",
+          "meaning": "開車兜風",
+          "type": "verb",
+          "category": "verb_transport_leisure",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "日曜日に海までドライブに行きました。",
+              "zh": "星期天開車去海邊兜風了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_312"
+        },
+        {
+          "word": "アナウンサー",
+          "furigana": "アナウンサー",
+          "romaji": "anaunsaa",
+          "meaning": "廣播員 / 主播",
+          "type": "noun",
+          "category": "society_work_economy",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "彼女はテレビ局のアナウンサーです。",
+              "zh": "她是電視台的主播。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_108"
+        },
+        {
+          "word": "ソフト",
+          "furigana": "ソフト",
+          "romaji": "sofuto",
+          "meaning": "軟體 / 柔軟的",
+          "type": "noun",
+          "category": "material_housing_appliances",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "新しいソフトウェアをインストールしました。",
+              "zh": "安裝了新的軟體。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_706"
+        },
+        {
+          "word": "パート",
+          "furigana": "パート",
+          "romaji": "paato",
+          "meaning": "兼職 / 部份",
+          "type": "noun",
+          "category": "society_work_economy",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "母はスーパーでパートをしています。",
+              "zh": "媽媽在超級市場做兼職工作。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_613"
+        },
+        {
+          "word": "ビジネス",
+          "furigana": "ビジネス",
+          "romaji": "bijinesu",
+          "meaning": "商業 / 生意",
+          "type": "noun",
+          "category": "society_work_economy",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "ビジネスで日本へ行きます。",
+              "zh": "因為商業出差去日本。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_958"
+        },
+        {
+          "word": "ベル",
+          "furigana": "ベル",
+          "romaji": "beru",
+          "meaning": "鈴 / 電鈴",
+          "type": "noun",
+          "category": "material_housing_appliances",
+          "level": "N4",
+          "examples": [
+            {
+              "ja": "ドアのベルが鳴りました。",
+              "zh": "門鈴響了。"
+            }
+          ],
+          "id": "v_n4_ex_1783819791491_549"
         }
       ],
       "kana": {
@@ -137033,6 +137289,150 @@
             }
           ],
           "id": "v_n3_ex_1783819511265_92"
+        },
+        {
+          "word": "シンプル",
+          "furigana": "シンプル",
+          "romaji": "shinpuru",
+          "meaning": "簡單的 / 簡約的",
+          "type": "na-adjective",
+          "category": "looks_state",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "このデザインはシンプルで美しい。",
+              "zh": "這個設計簡約而美麗。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_208"
+        },
+        {
+          "word": "トラブル",
+          "furigana": "トラブル",
+          "romaji": "toraburu",
+          "meaning": "糾紛 / 麻煩",
+          "type": "noun",
+          "category": "abs_state_nature",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "仕事で金銭的なトラブルが発生しました。",
+              "zh": "工作上發生了金錢糾紛。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_766"
+        },
+        {
+          "word": "リサイクル",
+          "furigana": "リサイクル",
+          "romaji": "risaikuru",
+          "meaning": "資源回收再利用",
+          "type": "verb",
+          "category": "verb_physical_change",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "古い服をリサイクルに出しました。",
+              "zh": "把舊衣服送去回收了。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_225"
+        },
+        {
+          "word": "エチケット",
+          "furigana": "エチケット",
+          "romaji": "echiketto",
+          "meaning": "禮儀 / 禮貌",
+          "type": "noun",
+          "category": "abs_logic_rule",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "公共の場所ではエチケットを守りましょう。",
+              "zh": "在公共場所請遵守禮儀。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_834"
+        },
+        {
+          "word": "インテリ",
+          "furigana": "インテリ",
+          "romaji": "interi",
+          "meaning": "知識份子 / 知識階層",
+          "type": "noun",
+          "category": "society_family_relations",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "彼はインテリな雰囲気を漂わせています。",
+              "zh": "他散發著知識份子的氣息。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_424"
+        },
+        {
+          "word": "エッセイ",
+          "furigana": "エッセイ",
+          "romaji": "essei",
+          "meaning": "隨筆 / 散文",
+          "type": "noun",
+          "category": "society_communication_language",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "新聞のエッセイを読むのが好きです。",
+              "zh": "我喜歡閱讀報紙上的散文隨筆。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_242"
+        },
+        {
+          "word": "サンプル",
+          "furigana": "サンプル",
+          "romaji": "sanpuru",
+          "meaning": "樣品 / 標本",
+          "type": "noun",
+          "category": "material_housing_appliances",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "化粧品の無料サンプルをもらいました。",
+              "zh": "拿到了化妝品的免費樣品。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_249"
+        },
+        {
+          "word": "シーズン",
+          "furigana": "シーズン",
+          "romaji": "shiizun",
+          "meaning": "季節 / 旺季",
+          "type": "noun",
+          "category": "abs_time_calendar",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "今はスキーのシーズンです。",
+              "zh": "現在是滑雪的季節。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_828"
+        },
+        {
+          "word": "ドライ",
+          "furigana": "ドライ",
+          "romaji": "dorai",
+          "meaning": "乾燥的 / 冷酷的",
+          "type": "na-adjective",
+          "category": "social_personality",
+          "level": "N3",
+          "examples": [
+            {
+              "ja": "彼女はドライな性格をしています。",
+              "zh": "她性格很乾脆冷靜。"
+            }
+          ],
+          "id": "v_n3_ex_1783819791491_418"
         }
       ],
       "kana": {
