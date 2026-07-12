@@ -119376,6 +119376,558 @@
             }
           ],
           "id": "v_n5_ex_1783819966707_990"
+        },
+        {
+          "id": "v_n5_anatomy_1783820545162_218",
+          "word": "腱",
+          "furigana": "腱[けん]",
+          "romaji": "ken",
+          "meaning": "肌腱",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "アキレス腱を負傷して、しばらく走れなくなった。",
+              "zh": "因為阿基里斯腱受傷，有一陣子無法跑步。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "アキレス腱を負傷して、しばらく走れなくなった。",
+              "zh": "因為阿基里斯腱受傷，有一陣子無法跑步。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545162_418",
+          "word": "靭帯",
+          "furigana": "靭帯[じんたい]",
+          "romaji": "jintai",
+          "meaning": "韌帶",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "転倒した際に膝の靭帯を痛めてしまった。",
+              "zh": "跌倒時把膝蓋的韌帶弄傷了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "転倒した際に膝の靭帯を痛めてしまった。",
+              "zh": "跌倒時把膝蓋的韌帶弄傷了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545163_182",
+          "word": "軟骨",
+          "furigana": "軟骨[なんこつ]",
+          "romaji": "nankotsu",
+          "meaning": "軟骨",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "加齢とともに関節の軟骨がすり減ることがある。",
+              "zh": "隨著年齡增長，關節的軟骨有時會磨損。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "加齢とともに関節の軟骨がすり減ることがある。",
+              "zh": "隨著年齡增長，關節的軟骨有時會磨損。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545163_228",
+          "word": "骨髄",
+          "furigana": "骨髄[こつずい]",
+          "romaji": "kotsuzui",
+          "meaning": "骨髓",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "骨髄では赤血球や白血球がつくられている。",
+              "zh": "骨髓會製造紅血球和白血球。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "骨髄では赤血球や白血球がつくられている。",
+              "zh": "骨髓會製造紅血球和白血球。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545163_745",
+          "word": "骨格筋",
+          "furigana": "骨格筋[こっかくきん]",
+          "romaji": "kokkakukin",
+          "meaning": "骨骼肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "骨格筋は意識して動かすことができる随意筋だ。",
+              "zh": "骨骼肌是可以意識控制的隨意肌。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "骨格筋は意識して動かすことができる随意筋だ。",
+              "zh": "骨骼肌是可以意識控制的隨意肌。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545164_604",
+          "word": "平滑筋",
+          "furigana": "平滑筋[へいかつきん]",
+          "romaji": "heikatsukin",
+          "meaning": "平滑肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腸の壁には平滑筋があり、消化を助けている。",
+              "zh": "腸壁有平滑肌，有助於消化。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腸の壁には平滑筋があり、消化を助けている。",
+              "zh": "腸壁有平滑肌，有助於消化。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545164_277",
+          "word": "心筋",
+          "furigana": "心筋[しんきん]",
+          "romaji": "shinkin",
+          "meaning": "心肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "心筋は一生涯、休むことなく拍動し続ける。",
+              "zh": "心肌終生不停地持續跳動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "心筋は一生涯、休むことなく拍動し続ける。",
+              "zh": "心肌終生不停地持續跳動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545164_996",
+          "word": "腹直筋",
+          "furigana": "腹直筋[ふくちょくきん]",
+          "romaji": "fukuchokukin",
+          "meaning": "腹直肌",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "プランクは腹直筋を鍛える効果的なトレーニングだ。",
+              "zh": "平板式是鍛鍊腹直肌的有效訓練。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "プランクは腹直筋を鍛える効果的なトレーニングだ。",
+              "zh": "平板式是鍛鍊腹直肌的有效訓練。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545164_611",
+          "word": "自律神経",
+          "furigana": "自律神経[じりつしんけい]",
+          "romaji": "jiritsushinkei",
+          "meaning": "自律神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ストレスが続くと自律神経のバランスが乱れることがある。",
+              "zh": "壓力持續時，自律神經的平衡有時會紊亂。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ストレスが続くと自律神経のバランスが乱れることがある。",
+              "zh": "壓力持續時，自律神經的平衡有時會紊亂。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_321",
+          "word": "副交感神経",
+          "furigana": "副交感神経[ふくこうかんしんけい]",
+          "romaji": "fukukōkanshinkei",
+          "meaning": "副交感神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "副交感神経が優位になると、心身がリラックスしやすくなる。",
+              "zh": "副交感神經佔優勢時，身心較容易放鬆。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "副交感神経が優位になると、心身がリラックスしやすくなる。",
+              "zh": "副交感神經佔優勢時，身心較容易放鬆。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_851",
+          "word": "末梢神経",
+          "furigana": "末梢神経[まっしょうしんけい]",
+          "romaji": "masshōshinkei",
+          "meaning": "周邊神經",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "指先のしびれは末梢神経の障害が原因のこともある。",
+              "zh": "指尖發麻有時是周邊神經障礙所引起。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "指先のしびれは末梢神経の障害が原因のこともある。",
+              "zh": "指尖發麻有時是周邊神經障礙所引起。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_577",
+          "word": "副甲状腺",
+          "furigana": "副甲状腺[ふくこうじょうせん]",
+          "romaji": "fukukōjōsen",
+          "meaning": "副甲狀腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "副甲状腺は血液中のカルシウム濃度を調節している。",
+              "zh": "副甲狀腺會調節血液中的鈣濃度。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "副甲状腺は血液中のカルシウム濃度を調節している。",
+              "zh": "副甲狀腺會調節血液中的鈣濃度。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_789",
+          "word": "胸腺",
+          "furigana": "胸腺[きょうせん]",
+          "romaji": "kyōsen",
+          "meaning": "胸腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "胸腺は免疫に関わるT細胞の成熟に重要な役割を果たす。",
+              "zh": "胸腺在與免疫有關的T細胞成熟上扮演重要角色。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "胸腺は免疫に関わるT細胞の成熟に重要な役割を果たす。",
+              "zh": "胸腺在與免疫有關的T細胞成熟上扮演重要角色。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_440",
+          "word": "前立腺",
+          "furigana": "前立腺[ぜんりつせん]",
+          "romaji": "zenritsusen",
+          "meaning": "前列腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "中高年男性では前立腺の肥大が排尿に影響することがある。",
+              "zh": "中高年男性的前列腺肥大有時會影響排尿。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "中高年男性では前立腺の肥大が排尿に影響することがある。",
+              "zh": "中高年男性的前列腺肥大有時會影響排尿。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_56",
+          "word": "卵巣",
+          "furigana": "卵巣[らんそう]",
+          "romaji": "ransō",
+          "meaning": "卵巢",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "卵巣は女性ホルモンの分泌と卵子の成熟を担っている。",
+              "zh": "卵巢負責分泌女性荷爾蒙與卵子的成熟。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "卵巣は女性ホルモンの分泌と卵子の成熟を担っている。",
+              "zh": "卵巢負責分泌女性荷爾蒙與卵子的成熟。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_197",
+          "word": "輸尿管",
+          "furigana": "輸尿管[ゆにょうかん]",
+          "romaji": "yunyōkan",
+          "meaning": "輸尿管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腎臓でつくられた尿は輸尿管を通って膀胱へ送られる。",
+              "zh": "腎臟製造的尿液經由輸尿管送往膀胱。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腎臓でつくられた尿は輸尿管を通って膀胱へ送られる。",
+              "zh": "腎臟製造的尿液經由輸尿管送往膀胱。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545165_85",
+          "word": "支気管",
+          "furigana": "支気管[しきかん]",
+          "romaji": "shikikan",
+          "meaning": "支氣管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "風邪をひくと支気管が炎症を起こして咳が出やすくなる。",
+              "zh": "感冒時支氣管容易發炎，而容易咳嗽。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "風邪をひくと支気管が炎症を起こして咳が出やすくなる。",
+              "zh": "感冒時支氣管容易發炎，而容易咳嗽。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_311",
+          "word": "心膜",
+          "furigana": "心膜[しんまく]",
+          "romaji": "shinmaku",
+          "meaning": "心膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "心膜は心臓を包み、摩擦から保護している。",
+              "zh": "心膜包覆心臟，保護其免於摩擦。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "心膜は心臓を包み、摩擦から保護している。",
+              "zh": "心膜包覆心臟，保護其免於摩擦。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_577",
+          "word": "髄膜",
+          "furigana": "髄膜[ずいまく]",
+          "romaji": "zuimaku",
+          "meaning": "腦脊髓膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "髄膜は脳と脊髄を覆い、衝撃から守る役割がある。",
+              "zh": "腦脊髓膜覆蓋腦與脊髓，具有防範衝擊的作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "髄膜は脳と脊髄を覆い、衝撃から守る役割がある。",
+              "zh": "腦脊髓膜覆蓋腦與脊髓，具有防範衝擊的作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_224",
+          "word": "扁桃",
+          "furigana": "扁桃[へんとう]",
+          "romaji": "hentō",
+          "meaning": "扁桃腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "子どものころによく扁桃が腫れて熱を出した。",
+              "zh": "小時候常常扁桃腺腫起來發燒。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "子どものころによく扁桃が腫れて熱を出した。",
+              "zh": "小時候常常扁桃腺腫起來發燒。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_612",
+          "word": "リンパ管",
+          "furigana": "リンパ管[りんぱかん]",
+          "romaji": "rinpakan",
+          "meaning": "淋巴管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "リンパ管は余分な組織液を回収して血液循環に戻す。",
+              "zh": "淋巴管回收多餘的組織液，使其回到血液循環。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "リンパ管は余分な組織液を回収して血液循環に戻す。",
+              "zh": "淋巴管回收多餘的組織液，使其回到血液循環。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_623",
+          "word": "表皮",
+          "furigana": "表皮[ひょうひ]",
+          "romaji": "hyōhi",
+          "meaning": "表皮",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "表皮は皮膚の最も外側にあり、外界からの刺激を防ぐ。",
+              "zh": "表皮位於皮膚的最外側，防範來自外界的刺激。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "表皮は皮膚の最も外側にあり、外界からの刺激を防ぐ。",
+              "zh": "表皮位於皮膚的最外側，防範來自外界的刺激。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_385",
+          "word": "真皮",
+          "furigana": "真皮[しんぴ]",
+          "romaji": "shinpi",
+          "meaning": "真皮",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "真皮にはコラーゲンが豊富に含まれ、皮膚の弾力を支えている。",
+              "zh": "真皮含有豐富的膠原蛋白，支撐皮膚的彈性。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "真皮にはコラーゲンが豊富に含まれ、皮膚の弾力を支えている。",
+              "zh": "真皮含有豐富的膠原蛋白，支撐皮膚的彈性。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy_1783820545166_479",
+          "word": "皮下組織",
+          "furigana": "皮下組織[ひかそしき]",
+          "romaji": "hikasoshiki",
+          "meaning": "皮下組織",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "皮下組織には脂肪が多く、体温の保持に役立っている。",
+              "zh": "皮下組織含有大量脂肪，有助於維持體溫。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "皮下組織には脂肪が多く、体温の保持に役立っている。",
+              "zh": "皮下組織含有大量脂肪，有助於維持體溫。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
