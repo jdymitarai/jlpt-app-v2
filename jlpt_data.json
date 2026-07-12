@@ -144814,6 +144814,949 @@
               "zh": "患者主訴飯後心窩部隱隱作痛，因此向醫師報告。"
             }
           ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992873_154",
+          "word": "免税手続き",
+          "furigana": "免税[めんぜい]手続[てつづ]き",
+          "romaji": "menzei tetsuzuki",
+          "meaning": "免稅手續",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "デパートのカウンターで、パスポートを提示して免税手続きを行います。",
+              "zh": "在百貨公司的櫃檯出示護照以進行免稅手續。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "デパートのカウンターで、パスポートを提示して免税手続きを行います。",
+              "zh": "在百貨公司的櫃檯出示護照以進行免稅手續。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992874_219",
+          "word": "キャッシュレス",
+          "furigana": "キャッシュレス",
+          "romaji": "kyasshuresu",
+          "meaning": "無現金支付",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "日本の多くの店舗では、クレジットカードやQRコードなどのキャッシュレス決済が可能です。",
+              "zh": "在日本的許多店鋪，都可以使用信用卡或QR code等無現金支付結帳。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "日本の多くの店舗では、クレジットカードやQRコードなどのキャッシュレス決済が可能です。",
+              "zh": "在日本的許多店鋪，都可以使用信用卡或QR code等無現金支付結帳。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992874_425",
+          "word": "コインロッカー",
+          "furigana": "コインロッカー",
+          "romaji": "koin rokkā",
+          "meaning": "投幣式置物櫃",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "駅のコインロッカーに重いスーツケースを預けて、身軽に観光へ出かけました。",
+              "zh": "把沉重的行李箱寄存在車站的投幣式置物櫃後，輕鬆地出發去觀光。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "駅のコインロッカーに重いスーツケースを預けて、身軽に観光へ出かけました。",
+              "zh": "把沉重的行李箱寄存在車站的投幣式置物櫃後，輕鬆地出發去觀光。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992875_432",
+          "word": "払い戻し",
+          "furigana": "払[はら]い戻[もど]し",
+          "romaji": "haraimodoshi",
+          "meaning": "退款 / 退票",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "電車が大幅に遅延したため、切符の払い戻しを窓口で請求しました。",
+              "zh": "因為火車嚴重誤點，我在窗口要求辦理車票退款。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "電車が大幅に遅延したため、切符の払い戻しを窓口で請求しました。",
+              "zh": "因為火車嚴重誤點，我在窗口要求辦理車票退款。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992875_190",
+          "word": "乗り換え",
+          "furigana": "乗[の]り換[か]え",
+          "romaji": "norikae",
+          "meaning": "換乘 / 轉乘",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "東京駅から山手線への乗り換えは、看板の指示に従えば簡単です。",
+              "zh": "從東京車站轉乘山手線，只要跟著看板的指示就很簡單。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "東京駅から山手線への乗り換えは、看板の指示に従えば簡単です。",
+              "zh": "從東京車站轉乘山手線，只要跟著看板的指示就很簡單。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992875_719",
+          "word": "遅延証明書",
+          "furigana": "遅延[ちえん]証明書[しょうめいしょ]",
+          "romaji": "chien shōmeisho",
+          "meaning": "誤點證明書",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "電車の遅延で会社に遅刻したため、駅でもらった遅延証明書を提出しました。",
+              "zh": "因為火車誤點導致上班遲到，我提交了在車站拿到的誤點證明書。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "電車の遅延で会社に遅刻したため、駅でもらった遅延証明書を提出しました。",
+              "zh": "因為火車誤點導致上班遲到，我提交了在車站拿到的誤點證明書。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992875_254",
+          "word": "忘れ物",
+          "furigana": "忘[わす]れ物[もの]",
+          "romaji": "wasuremono",
+          "meaning": "遺失物 / 忘記帶的物品",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "網棚に忘れ物をしたことに気づき、すぐに駅の遺失物取扱所へ向かいました。",
+              "zh": "注意到把東西忘在行李架上後，立刻前往車站的遺失物招領處。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "網棚に忘れ物をしたことに気づき、すぐに駅の遺失物取扱所へ向かいました。",
+              "zh": "注意到把東西忘在行李架上後，立刻前往車站的遺失物招領處。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_580",
+          "word": "空席",
+          "furigana": "空席[くうせき]",
+          "romaji": "kūseki",
+          "meaning": "空位 / 空席",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "新幹線の自由席を探しましたが、空席が見つからず立ち続けることになりました。",
+              "zh": "我尋找了新幹線的自由座，但因為找不到空位而一直站著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "新幹線の自由席を探しましたが、空席が見つからず立ち続けることになりました。",
+              "zh": "我尋找了新幹線的自由座，但因為找不到空位而一直站著。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_305",
+          "word": "満席",
+          "furigana": "満席[まんせき]",
+          "romaji": "manseki",
+          "meaning": "客滿 / 滿座",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_leisure_sports",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "金曜日の夜の居酒屋はどこも満席で、予約なしでは入れませんでした。",
+              "zh": "週五晚上的居酒屋到處都客滿，沒有預約就進不去。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "金曜日の夜の居酒屋はどこも満席で、予約なしでは入れませんでした。",
+              "zh": "週五晚上的居酒屋到處都客滿，沒有預約就進不去。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_212",
+          "word": "有給休暇",
+          "furigana": "有給[ゆうきゅう]休暇[きゅうか]",
+          "romaji": "yūkyū kyūka",
+          "meaning": "特休 / 有薪假",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "來週、有給休暇を取得して家族と一緒に北海道旅行に行く予定です。",
+              "zh": "我計畫下週休特休，跟家人一起去北海道旅行。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "來週、有給休暇を取得して家族と一緒に北海道旅行に行く予定です。",
+              "zh": "我計畫下週休特休，跟家人一起去北海道旅行。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_16",
+          "word": "休日出勤",
+          "furigana": "休日[きゅうじつ]出勤[しゅっきん]",
+          "romaji": "kyūjitsu shukkin",
+          "meaning": "假日加班 / 假日上班",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "急なシステムトラブル対応のため、今週の土曜日は休日出勤となりました。",
+              "zh": "為了應對突發的系統故障，這週六改為假日上班。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "急なシステムトラブル対応のため、今週の土曜日は休日出勤となりました。",
+              "zh": "為了應對突發的系統故障，這週六改為假日上班。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_544",
+          "word": "残業する",
+          "furigana": "残業[ざんぎょう]する",
+          "romaji": "zangyō suru",
+          "meaning": "加班",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今月はプロジェクトの締め切りが近いため、毎日遅くまで残業しています。",
+              "zh": "因為這個月專案截止日期將近，每天都加班到很晚。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今月はプロジェクトの締め切りが近いため、毎日遅くまで残業しています。",
+              "zh": "因為這個月專案截止日期將近，每天都加班到很晚。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_517",
+          "word": "定時退社",
+          "furigana": "定時[ていじ]退社[たいしゃ]",
+          "romaji": "teiji taisha",
+          "meaning": "準時下班",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "水曜日は「ノー残業デー」に指定されているため、全社員が定時退社を心がけています。",
+              "zh": "因為星期三被指定為「無加班日」，所有員工都盡量準時下班。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "水曜日は「ノー残業デー」に指定されているため、全社員が定時退社を心がけています。",
+              "zh": "因為星期三被指定為「無加班日」，所有員工都盡量準時下班。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_823",
+          "word": "直行直帰",
+          "furigana": "直行[ちょっこう]直帰[ちょっき]",
+          "romaji": "chokkō chokki",
+          "meaning": "直奔現場與直接回家",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今日は午前も午後も社外での営業活動があるため、直行直帰の申請をしました。",
+              "zh": "因為今天上午和下午都在公司外進行業務活動，所以我申請了不進公司直接出發並直接回家。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日は午前も午後も社外での営業活動があるため、直行直帰の申請をしました。",
+              "zh": "因為今天上午和下午都在公司外進行業務活動，所以我申請了不進公司直接出發並直接回家。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992876_847",
+          "word": "出張する",
+          "furigana": "出張[しゅっちょう]する",
+          "romaji": "shutchō suru",
+          "meaning": "出差",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "新製品の取引先との商談を行うため、来週から3日間大阪へ出張します。",
+              "zh": "為了與新產品的客戶進行洽商，我下週將去大阪出差3天。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "新製品の取引先との商談を行うため、来週から3日間大阪へ出張します。",
+              "zh": "為了與新產品的客戶進行洽商，我下週將去大阪出差3天。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_878",
+          "word": "ミーティング",
+          "furigana": "ミーティング",
+          "romaji": "mītingu",
+          "meaning": "會議",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "明日の朝、チームのミーティングがあります。",
+              "zh": "明天早上有團隊會議。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "明日の朝、チームのミーティングがあります。",
+              "zh": "明天早上有團隊會議。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_708",
+          "word": "議事録",
+          "furigana": "議事録[ぎじろく]",
+          "romaji": "gijiroku",
+          "meaning": "會議記錄",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今日のミーティングの議事録を作成しておいてください。",
+              "zh": "請把今天會議的會議記錄整理好。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日のミーティングの議事録を作成しておいてください。",
+              "zh": "請把今天會議的會議記錄整理好。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_166",
+          "word": "報連相",
+          "furigana": "報連相[ほうれんそう]",
+          "romaji": "hōrensō",
+          "meaning": "報告、聯絡、商量 (職場基本守則)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "仕事を進める上で、報連相は非常に重要です。",
+              "zh": "在推進工作時，報告、聯絡、商量是非常重要的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "仕事を進める上で、報連相は非常に重要です。",
+              "zh": "在推進工作時，報告、聯絡、商量是非常重要的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_408",
+          "word": "有給",
+          "furigana": "有給[ゆうきゅう]",
+          "romaji": "yūkyū",
+          "meaning": "特休、有薪假",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "来週、有給を取って家族と旅行に行きます。",
+              "zh": "下週我會請特休和家人去旅行。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "来週、有給を取って家族と旅行に行きます。",
+              "zh": "下週我會請特休和家人去旅行。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_422",
+          "word": "午前休",
+          "furigana": "午前休[ごぜんきゅう]",
+          "romaji": "gozenkyū",
+          "meaning": "上午請假",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "病院に行くため、明日は午前休をいただきます。",
+              "zh": "明天因為要去醫院，所以我上午請假。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "病院に行くため、明日は午前休をいただきます。",
+              "zh": "明天因為要去醫院，所以我上午請假。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_749",
+          "word": "午後休",
+          "furigana": "午後休[ごごきゅう]",
+          "romaji": "gogokyū",
+          "meaning": "下午請假",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "役所で手続きをするので、今日は午後休を取ります。",
+              "zh": "因為要去區公所辦手續，今天下午我要請假。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "役所で手続きをするので、今日は午後休を取ります。",
+              "zh": "因為要去區公所辦手續，今天下午我要請假。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_671",
+          "word": "代休",
+          "furigana": "代休[だいきゅう]",
+          "romaji": "daikyū",
+          "meaning": "補休",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "週末に出勤した分の代休を金曜日に取ります。",
+              "zh": "週末加班的補休我會在星期五放。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "週末に出勤した分の代休を金曜日に取ります。",
+              "zh": "週末加班的補休我會在星期五放。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992877_580",
+          "word": "テイクアウト",
+          "furigana": "テイクアウト",
+          "romaji": "teikuauto",
+          "meaning": "外帶",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "昼ご飯は近くのカフェでテイクアウトしました。",
+              "zh": "午餐在附近的咖啡廳買了外帶。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "昼ご飯は近くのカフェでテイクアウトしました。",
+              "zh": "午餐在附近的咖啡廳買了外帶。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_455",
+          "word": "お持ち帰り",
+          "furigana": "お持[も]ち帰[かえ]り",
+          "romaji": "omochikaeri",
+          "meaning": "外帶",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "こちらの商品は店内でお召し上がりですか、それともお持ち帰りですか。",
+              "zh": "請問這項商品要在店內內用還是外帶呢？"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "こちらの商品は店内でお召し上がりですか、それともお持ち帰りですか。",
+              "zh": "請問這項商品要在店內內用還是外帶呢？"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_459",
+          "word": "イートイン",
+          "furigana": "イートイン",
+          "romaji": "ītoin",
+          "meaning": "內用",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "コンビニで買ったお弁当をイートインコーナーで食べました。",
+              "zh": "在便利商店買的便當在內用區吃完了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "コンビニで買ったお弁当をイートインコーナーで食べました。",
+              "zh": "在便利商店買的便當在內用區吃完了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_408",
+          "word": "お冷や",
+          "furigana": "お冷[ひ]や",
+          "romaji": "ohiya",
+          "meaning": "冰水、冷開水",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "すみません、お冷やをもう一杯いただけますか。",
+              "zh": "不好意思，可以再給我一杯冰水嗎？"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "すみません、お冷やをもう一杯いただけますか。",
+              "zh": "不好意思，可以再給我一杯冰水嗎？"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_337",
+          "word": "お勘定",
+          "furigana": "お勘定[かんじょう]",
+          "romaji": "okanjō",
+          "meaning": "結帳、買單",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "すみません、お勘定をお願いします。",
+              "zh": "不好意思，麻煩結帳。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "すみません、お勘定をお願いします。",
+              "zh": "不好意思，麻煩結帳。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_966",
+          "word": "自炊する",
+          "furigana": "自炊[じすい]する",
+          "romaji": "jisui suru",
+          "meaning": "自己做飯、開伙",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "健康のために、最近はできるだけ自炊するようにしています。",
+              "zh": "為了健康，最近我盡量自己做飯。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "健康のために、最近はできるだけ自炊するようにしています。",
+              "zh": "為了健康，最近我盡量自己做飯。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_151",
+          "word": "外食する",
+          "furigana": "外食[がいしょく]する",
+          "romaji": "gaishoku suru",
+          "meaning": "外食、在外面吃飯",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今夜は疲れているので、外食しましょう。",
+              "zh": "今晚覺得很累，我們出去吃吧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今夜は疲れているので、外食しましょう。",
+              "zh": "今晚覺得很累，我們出去吃吧。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_221",
+          "word": "デリバリー",
+          "furigana": "デリバリー",
+          "romaji": "deribarī",
+          "meaning": "外送",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "雨が降っているので、ピザのデリバリーを頼みました。",
+              "zh": "因為在下雨，所以叫了披薩的外送。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "雨が降っているので、ピザのデリバリーを頼みました。",
+              "zh": "因為在下雨，所以叫了披薩的外送。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992878_553",
+          "word": "食べ歩き",
+          "furigana": "食[た]べ歩[ある]き",
+          "romaji": "tabearuki",
+          "meaning": "邊走邊吃 / 美食巡禮",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "京都では、食べ歩きができるお店がたくさんあります。",
+              "zh": "在京都有很多可以邊走邊吃的店。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "京都では、食べ歩きができるお店がたくさんあります。",
+              "zh": "在京都有很多可以邊走邊吃的店。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_642",
+          "word": "立ち食い",
+          "furigana": "立[た]ち食[ぐ]い",
+          "romaji": "tachigui",
+          "meaning": "立食 / 站著吃",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "時間がないときは、駅の立ち食いそばで済ませます。",
+              "zh": "時間不夠的時候，我會在車站的立食蕎麥麵店解決。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "時間がないときは、駅の立ち食いそばで済ませます。",
+              "zh": "時間不夠的時候，我會在車站的立食蕎麥麵店解決。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_239",
+          "word": "持ち込み",
+          "furigana": "持[も]ち込[こ]み",
+          "romaji": "mochikomi",
+          "meaning": "攜入 / 帶入 (如自備酒水)",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "この店は飲み物の持ち込みが可能です。",
+              "zh": "這家店可以自備飲料帶入。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "この店は飲み物の持ち込みが可能です。",
+              "zh": "這家店可以自備飲料帶入。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_9",
+          "word": "伝票",
+          "furigana": "伝票[でんぴょう]",
+          "romaji": "denpyō",
+          "meaning": "帳單 / 傳票",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "すみません、伝票を持ってきていただけますか。",
+              "zh": "不好意思，可以幫我把帳單拿過來嗎？"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "すみません、伝票を持ってきていただけますか。",
+              "zh": "不好意思，可以幫我把帳單拿過來嗎？"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_842",
+          "word": "会計",
+          "furigana": "会計[かいけい]",
+          "romaji": "kaikei",
+          "meaning": "結帳 / 收銀處",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "お会計をお願いします。",
+              "zh": "麻煩請結帳。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "お会計をお願いします。",
+              "zh": "麻煩請結帳。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_367",
+          "word": "精算する",
+          "furigana": "精算[せいさん]する",
+          "romaji": "seisan suru",
+          "meaning": "補票 / 結算金額",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "駅で乗り越し分を精算してください。",
+              "zh": "請在車站補齊超乘的車資。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "駅で乗り越し分を精算してください。",
+              "zh": "請在車站補齊超乘的車資。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_194",
+          "word": "割り勘にする",
+          "furigana": "割[わ]り勘[かん]にする",
+          "romaji": "warikan ni suru",
+          "meaning": "均分帳單 / Go Dutch",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_work_economy",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "今日の食事は割り勘にしましょう。",
+              "zh": "今天的餐費我們均分吧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "今日の食事は割り勘にしましょう。",
+              "zh": "今天的餐費我們均分吧。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_309",
+          "word": "注文する",
+          "furigana": "注文[ちゅうもん]する",
+          "romaji": "chūmon suru",
+          "meaning": "點餐 / 訂購",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "飲み物から先に注文してもいいですか。",
+              "zh": "可以先點飲料嗎？"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "飲み物から先に注文してもいいですか。",
+              "zh": "可以先點飲料嗎？"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992879_657",
+          "word": "予約する",
+          "furigana": "予約[よやく]する",
+          "romaji": "yoyaku suru",
+          "meaning": "預約 / 訂位",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_leisure_sports",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "人気の店なので、早めに予約したほうがいいです。",
+              "zh": "因為是熱門店，最好提早預約。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "人気の店なので、早めに予約したほうがいいです。",
+              "zh": "因為是熱門店，最好提早預約。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992880_837",
+          "word": "キャンセルする",
+          "furigana": "キャンセルする",
+          "romaji": "kyanseru suru",
+          "meaning": "取消",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_leisure_sports",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "都合が悪くなったので、予約をキャンセルしました。",
+              "zh": "因為時間不方便，所以取消了預約。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "都合が悪くなったので、予約をキャンセルしました。",
+              "zh": "因為時間不方便，所以取消了預約。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily1_1783832992880_853",
+          "word": "始発",
+          "furigana": "始発[しはつ]",
+          "romaji": "shihatsu",
+          "meaning": "首班車 / 始發站",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "明日は始発の電車で空港へ行きます。",
+              "zh": "明天我會搭首班電車去機場。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "明日は始発の電車で空港へ行きます。",
+              "zh": "明天我會搭首班電車去機場。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
