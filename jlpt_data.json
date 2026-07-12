@@ -119928,6 +119928,581 @@
               "zh": "皮下組織含有大量脂肪，有助於維持體溫。"
             }
           ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641054_336",
+          "word": "頸動脈",
+          "furigana": "頸動脈[けいどうみゃく]",
+          "romaji": "keidōmyaku",
+          "meaning": "頸動脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "頸動脈の拍動は首の両側で触れることができます。",
+              "zh": "頸動脈的搏動可以在脖子兩側觸摸到。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "頸動脈の拍動は首の両側で触れることができます。",
+              "zh": "頸動脈的搏動可以在脖子兩側觸摸到。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641054_845",
+          "word": "大腿動脈",
+          "furigana": "大腿動脈[だいたいどうみゃく]",
+          "romaji": "daitaidōmyaku",
+          "meaning": "大腿動脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大腿動脈は太ももの内側を通る太い動脈です。",
+              "zh": "大腿動脈是通過大腿內側的粗大動脈。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大腿動脈は太ももの内側を通る太い動脈です。",
+              "zh": "大腿動脈是通過大腿內側的粗大動脈。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641055_388",
+          "word": "内頚静脈",
+          "furigana": "内頚静脈[ないけいじょうみゃく]",
+          "romaji": "naikeijōmyaku",
+          "meaning": "內頸靜脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "内頚静脈は脳からの血液を心臓へ戻す重要な血管です。",
+              "zh": "內頸靜脈是將腦部血液送回心臟的重要血管。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "内頚静脈は脳からの血液を心臓へ戻す重要な血管です。",
+              "zh": "內頸靜脈是將腦部血液送回心臟的重要血管。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641055_571",
+          "word": "門脈",
+          "furigana": "門脈[もんみゃく]",
+          "romaji": "monmyaku",
+          "meaning": "門靜脈",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "門脈は消化管からの血液を肝臓へ運びます。",
+              "zh": "門靜脈將來自消化道的血液運送到肝臟。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "門脈は消化管からの血液を肝臓へ運びます。",
+              "zh": "門靜脈將來自消化道的血液運送到肝臟。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641056_492",
+          "word": "心臓弁",
+          "furigana": "心臓弁[しんぞうべん]",
+          "romaji": "shinzōben",
+          "meaning": "心臟瓣膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "心臓弁は血液の逆流を防ぎ、一方向に流れるよう制御しています。",
+              "zh": "心臟瓣膜防止血液逆流，控制血液朝單一方向流動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "心臓弁は血液の逆流を防ぎ、一方向に流れるよう制御しています。",
+              "zh": "心臟瓣膜防止血液逆流，控制血液朝單一方向流動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641056_374",
+          "word": "僧帽弁",
+          "furigana": "僧帽弁[そうぼうべん]",
+          "romaji": "sōbōben",
+          "meaning": "僧帽瓣",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "僧帽弁は左心房と左心室の間に位置しています。",
+              "zh": "僧帽瓣位於左心房與左心室之間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "僧帽弁は左心房と左心室の間に位置しています。",
+              "zh": "僧帽瓣位於左心房與左心室之間。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641056_952",
+          "word": "三尖弁",
+          "furigana": "三尖弁[さんせんべん]",
+          "romaji": "sansenben",
+          "meaning": "三尖瓣",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "三尖弁は右心房と右心室を隔てる弁です。",
+              "zh": "三尖瓣是分隔右心房與右心室的瓣膜。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "三尖弁は右心房と右心室を隔てる弁です。",
+              "zh": "三尖瓣是分隔右心房與右心室的瓣膜。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641057_474",
+          "word": "大動脈弁",
+          "furigana": "大動脈弁[だいどうみゃくべん]",
+          "romaji": "daidōmyakuben",
+          "meaning": "主動脈瓣",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "大動脈弁が開くと、血液は左心室から大動脈へ送り出されます。",
+              "zh": "當主動脈瓣打開時，血液從左心室被送往主動脈。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "大動脈弁が開くと、血液は左心室から大動脈へ送り出されます。",
+              "zh": "當主動脈瓣打開時，血液從左心室被送往主動脈。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641057_101",
+          "word": "胸腔",
+          "furigana": "胸腔[きょうくう]",
+          "romaji": "kyōkū",
+          "meaning": "胸腔",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "胸腔には心臓と肺が収まる空間があります。",
+              "zh": "胸腔內有容納心臟與肺臟的空間。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "胸腔には心臓と肺が収まる空間があります。",
+              "zh": "胸腔內有容納心臟與肺臟的空間。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641057_960",
+          "word": "腹腔",
+          "furigana": "腹腔[ふくくう]",
+          "romaji": "fukukū",
+          "meaning": "腹腔",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腹腔には胃や腸などの消化器官が収められています。",
+              "zh": "腹腔內容納著胃、腸等消化器官。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腹腔には胃や腸などの消化器官が収められています。",
+              "zh": "腹腔內容納著胃、腸等消化器官。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641057_888",
+          "word": "骨盤腔",
+          "furigana": "骨盤腔[こつばんくう]",
+          "romaji": "kotsubankū",
+          "meaning": "骨盆腔",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "骨盤腔は膀胱や生殖器などの臓器を保護しています。",
+              "zh": "骨盆腔保護著膀胱與生殖器等臟器。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "骨盤腔は膀胱や生殖器などの臓器を保護しています。",
+              "zh": "骨盆腔保護著膀胱與生殖器等臟器。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_943",
+          "word": "縦隔",
+          "furigana": "縦隔[じゅうかく]",
+          "romaji": "jūkaku",
+          "meaning": "縱隔",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "縦隔は左右の肺の間にあり、心臓や気管などが位置します。",
+              "zh": "縱隔位於左右肺之間，心臟與氣管等器官位於此處。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "縦隔は左右の肺の間にあり、心臓や気管などが位置します。",
+              "zh": "縱隔位於左右肺之間，心臟與氣管等器官位於此處。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_776",
+          "word": "肺葉",
+          "furigana": "肺葉[はいよう]",
+          "romaji": "haiyō",
+          "meaning": "肺葉",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "右肺は三つの肺葉に、左肺は二つの肺葉に分かれています。",
+              "zh": "右肺分為三個肺葉，左肺分為兩個肺葉。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "右肺は三つの肺葉に、左肺は二つの肺葉に分かれています。",
+              "zh": "右肺分為三個肺葉，左肺分為兩個肺葉。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_727",
+          "word": "声帯",
+          "furigana": "声帯[せいたい]",
+          "romaji": "seitai",
+          "meaning": "聲帶",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "声帯が振動することで、人は声を出すことができます。",
+              "zh": "聲帶振動使人能夠發聲。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "声帯が振動することで、人は声を出すことができます。",
+              "zh": "聲帶振動使人能夠發聲。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_561",
+          "word": "椎間板",
+          "furigana": "椎間板[ついかんばん]",
+          "romaji": "tsuikanban",
+          "meaning": "椎間盤",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "椎間板は背骨の椎骨同士の間でクッションの役割を果たします。",
+              "zh": "椎間盤在脊椎骨之間發揮緩衝墊的作用。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "椎間板は背骨の椎骨同士の間でクッションの役割を果たします。",
+              "zh": "椎間盤在脊椎骨之間發揮緩衝墊的作用。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_42",
+          "word": "腱鞘",
+          "furigana": "腱鞘[けんしょう]",
+          "romaji": "kenshō",
+          "meaning": "腱鞘",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "腱鞘は腱を包み、滑らかに動けるよう支えています。",
+              "zh": "腱鞘包覆肌腱，協助其順暢活動。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "腱鞘は腱を包み、滑らかに動けるよう支えています。",
+              "zh": "腱鞘包覆肌腱，協助其順暢活動。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_898",
+          "word": "皮脂腺",
+          "furigana": "皮脂腺[ひしせん]",
+          "romaji": "hishisen",
+          "meaning": "皮脂腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "皮脂腺から分泌される皮脂が皮膚を保護します。",
+              "zh": "皮脂腺分泌的皮脂可保護皮膚。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "皮脂腺から分泌される皮脂が皮膚を保護します。",
+              "zh": "皮脂腺分泌的皮脂可保護皮膚。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_862",
+          "word": "汗腺",
+          "furigana": "汗腺[かんせん]",
+          "romaji": "kansen",
+          "meaning": "汗腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "汗腺は体温を調節するために汗を分泌します。",
+              "zh": "汗腺為調節體溫而分泌汗液。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "汗腺は体温を調節するために汗を分泌します。",
+              "zh": "汗腺為調節體溫而分泌汗液。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_710",
+          "word": "涙腺",
+          "furigana": "涙腺[るいせん]",
+          "romaji": "ruisen",
+          "meaning": "淚腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "涙腺は眼球を潤し、異物から目を守る涙を作ります。",
+              "zh": "淚腺產生淚液，潤濕眼球並保護眼睛免受異物傷害。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "涙腺は眼球を潤し、異物から目を守る涙を作ります。",
+              "zh": "淚腺產生淚液，潤濕眼球並保護眼睛免受異物傷害。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641058_608",
+          "word": "耳下腺",
+          "furigana": "耳下腺[じかせん]",
+          "romaji": "jikasen",
+          "meaning": "耳下腺",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "耳下腺は耳の前下方にあり、唾液を分泌する大きな腺です。",
+              "zh": "耳下腺位於耳朵前下方，是分泌唾液的大腺體。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "耳下腺は耳の前下方にあり、唾液を分泌する大きな腺です。",
+              "zh": "耳下腺位於耳朵前下方，是分泌唾液的大腺體。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641059_513",
+          "word": "味蕾",
+          "furigana": "味蕾[みらい]",
+          "romaji": "mirai",
+          "meaning": "味蕾",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "味蕾は舌の表面にあり、味を感じ取るセンサーです。",
+              "zh": "味蕾位於舌頭表面，是感知味道的感測器。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "味蕾は舌の表面にあり、味を感じ取るセンサーです。",
+              "zh": "味蕾位於舌頭表面，是感知味道的感測器。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641059_352",
+          "word": "半規管",
+          "furigana": "半規管[はんきかん]",
+          "romaji": "hankikan",
+          "meaning": "半規管",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "半規管は内耳にあり、体の回転やバランスを感知します。",
+              "zh": "半規管位於內耳，感知身體的旋轉與平衡。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "半規管は内耳にあり、体の回転やバランスを感知します。",
+              "zh": "半規管位於內耳，感知身體的旋轉與平衡。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641059_278",
+          "word": "前庭",
+          "furigana": "前庭[ぜんてい]",
+          "romaji": "zentei",
+          "meaning": "前庭",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "前庭は内耳にあって、頭の傾きや直線加速度を検知します。",
+              "zh": "前庭位於內耳，偵測頭部傾斜與直線加速度。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "前庭は内耳にあって、頭の傾きや直線加速度を検知します。",
+              "zh": "前庭位於內耳，偵測頭部傾斜與直線加速度。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641059_959",
+          "word": "虹彩",
+          "furigana": "虹彩[こうさい]",
+          "romaji": "kōsai",
+          "meaning": "虹膜",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "虹彩は瞳孔の大きさを変え、目に入る光の量を調節します。",
+              "zh": "虹膜改變瞳孔大小，調節進入眼睛的光量。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "虹彩は瞳孔の大きさを変え、目に入る光の量を調節します。",
+              "zh": "虹膜改變瞳孔大小，調節進入眼睛的光量。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_anatomy2_1783820641059_389",
+          "word": "肛門",
+          "furigana": "肛門[こうもん]",
+          "romaji": "kōmon",
+          "meaning": "肛門",
+          "type": "noun",
+          "pos": "名詞",
+          "category": "human_body_physiology",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "肛門は消化管の末端にあり、便を体外へ排出します。",
+              "zh": "肛門位於消化道末端，將糞便排出體外。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "肛門は消化管の末端にあり、便を体外へ排出します。",
+              "zh": "肛門位於消化道末端，將糞便排出體外。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
