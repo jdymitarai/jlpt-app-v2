@@ -149690,6 +149690,1018 @@
               "zh": "收到文件後，請簽名確認。"
             }
           ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657598_309",
+          "word": "間違える",
+          "furigana": "間違[まちが]える",
+          "romaji": "machigaeru",
+          "meaning": "弄錯 / 搞錯",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_education_learning",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "電車の乗り換えの駅を間違えてしまい、予定より遅れて到着しました。",
+              "zh": "因為弄錯了火車轉乘的車站，所以比預定時間還要晚抵達。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "電車の乗り換えの駅を間違えてしまい、予定より遅れて到着しました。",
+              "zh": "因為弄錯了火車轉乘的車站，所以比預定時間還要晚抵達。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657599_648",
+          "word": "呼び出す",
+          "furigana": "呼[よ]び出[だ]す",
+          "romaji": "yobidasu",
+          "meaning": "傳喚 / 呼叫",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "迷子になった子供を探すため、デパートの館内放送で親を呼び出しました。",
+              "zh": "為了尋找迷路的小孩，透過百貨公司的館內廣播呼叫家長。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "迷子になった子供を探すため、デパートの館内放送で親を呼び出しました。",
+              "zh": "為了尋找迷路的小孩，透過百貨公司的館內廣播呼叫家長。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657600_209",
+          "word": "割り込む",
+          "furigana": "割[わ]り込[こ]む",
+          "romaji": "warikomu",
+          "meaning": "插隊 / 插嘴",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "バスを待つ行列に割り込むのはマナー違反ですので、並んで待ってください。",
+              "zh": "插隊等公車的隊伍是違反禮貌的，請排隊等候。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "バスを待つ行列に割り込むのはマナー違反ですので、並んで待ってください。",
+              "zh": "插隊等公車的隊伍是違反禮貌的，請排隊等候。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657600_825",
+          "word": "混み合う",
+          "furigana": "混[こ]み合う[あう]",
+          "romaji": "komiau",
+          "meaning": "擁擠 / 擠滿人",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_transport_mobility",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "週末のショッピングモールは大変混み合うため、平日に買い物へ行きます。",
+              "zh": "因為週末的購物中心非常擁擠，我都會選在平日去買東西。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "週末のショッピングモールは大変混み合うため、平日に買い物へ行きます。",
+              "zh": "因為週末的購物中心非常擁擠，我都會選在平日去買東西。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657601_976",
+          "word": "見上げる",
+          "furigana": "見上[みあ]げる",
+          "romaji": "miageru",
+          "meaning": "仰望 / 抬頭看",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "夜空を見上げると、満天の星がきれいに輝いていました。",
+              "zh": "抬頭仰望夜空，滿天的星星正美麗地閃耀著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "夜空を見上げると、満天の星がきれいに輝いていました。",
+              "zh": "抬頭仰望夜空，滿天的星星正美麗地閃耀著。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657601_808",
+          "word": "見下ろす",
+          "furigana": "見下[みお]ろす",
+          "romaji": "miorosu",
+          "meaning": "俯瞰 / 往下看",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "東京タワーの展望台から、眼下に広がる街並みを見下ろしました。",
+              "zh": "從東京鐵塔的展望台，俯瞰展現在眼底的街景。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "東京タワーの展望台から、眼下に広がる街並みを見下ろしました。",
+              "zh": "從東京鐵塔的展望台，俯瞰展現在眼底的街景。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657601_49",
+          "word": "ワクワクする",
+          "furigana": "ワクワクする",
+          "romaji": "wakuwaku suru",
+          "meaning": "興奮 / 期待地雀躍",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "来週から始まる初めての海外旅行を思うと、胸がワクワクします。",
+              "zh": "一想到下週即將開始的第一次出國旅行，心裡就感到興奮雀躍。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "来週から始まる初めての海外旅行を思うと、胸がワクワクします。",
+              "zh": "一想到下週即將開始的第一次出國旅行，心裡就感到興奮雀躍。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657602_138",
+          "word": "ニコニコする",
+          "furigana": "ニコニコする",
+          "romaji": "nikoniko suru",
+          "meaning": "微笑 / 笑嘻嘻地",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼女はいつもニコニコしていて、周囲の人を明るい気持ちにさせます。",
+              "zh": "她總是笑嘻嘻的，讓周圍的人心情也跟著開朗起來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女はいつもニコニコしていて、周囲の人を明るい気持ちにさせます。",
+              "zh": "她總是笑嘻嘻的，讓周圍的人心情也跟著開朗起來。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657602_430",
+          "word": "ペラペラ喋る",
+          "furigana": "ペラペラ喋[しゃべ]る",
+          "romaji": "perapera shaberu",
+          "meaning": "滔滔不絕地說 / 嘰哩呱啦地講",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼は秘密にしておくべき話を、お酒の勢いでペラペラ喋ってしまいました。",
+              "zh": "他藉著酒意，把應該保密的話滔滔不絕地全說了出來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は秘密にしておくべき話を、お酒の勢いでペラペラ喋ってしまいました。",
+              "zh": "他藉著酒意，把應該保密的話滔滔不絕地全說了出來。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657602_611",
+          "word": "すやすや眠る",
+          "furigana": "すやすや眠[ねむ]る",
+          "romaji": "suyasuya nemuru",
+          "meaning": "香甜地睡去 / 安詳地入睡",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ミルクをお腹いっぱい飲んだ赤ちゃんが、ベッドですやすや眠っています。",
+              "zh": "喝飽奶的嬰兒正在床上香甜地睡著。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ミルクをお腹いっぱい飲んだ赤ちゃんが、ベッドですやすや眠っています。",
+              "zh": "喝飽奶的嬰兒正在床上香甜地睡著。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_881",
+          "word": "くどい",
+          "furigana": "くどい",
+          "romaji": "kudoi",
+          "meaning": "囉唆的 / 油膩的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "同じ注意を何度も繰り返すのは、くどいと思われて嫌われます。",
+              "zh": "同樣的提醒重複好幾次，會被嫌囉唆而討人厭。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "同じ注意を何度も繰り返すのは、くどいと思われて嫌われます。",
+              "zh": "同樣的提醒重複好幾次，會被嫌囉唆而討人厭。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_355",
+          "word": "大雑把な",
+          "furigana": "大雑把[おおざっぱ]な",
+          "romaji": "ōzappa na",
+          "meaning": "粗枝大葉的 / 粗略的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼の説明は大雑把すぎて、具体的な手順がよく分かりません。",
+              "zh": "他的說明太過粗枝大葉，讓人不太懂具體的步驟。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼の説明は大雑把すぎて、具体的な手順がよく分かりません。",
+              "zh": "他的說明太過粗枝大葉，讓人不太懂具體的步驟。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_893",
+          "word": "几帳面な",
+          "furigana": "几帳面[きちょうめん]な",
+          "romaji": "kichōmen na",
+          "meaning": "一絲不苟的 / 規規矩矩的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "几帳面な性格の彼女は、毎日の家計簿を1円単位まで正確につけています。",
+              "zh": "做事一絲不苟的她，每天記記帳都精確到1日圓。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "几帳面な性格の彼女は、毎日の家計簿を1円単位まで正確につけています。",
+              "zh": "做事一絲不苟的她，每天記記帳都精確到1日圓。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_443",
+          "word": "ルーズな",
+          "furigana": "ルーズな",
+          "romaji": "rūzu na",
+          "meaning": "鬆散的 / 散漫的 (尤指時間或金錢概念)",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "時間にルーズな人と約束をすると、毎回待ち合わせで待たされることになります。",
+              "zh": "跟對時間觀念散漫的人約定，每次在碰面地點都會被迫等待。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "時間にルーズな人と約束をすると、毎回待ち合わせで待たされることになります。",
+              "zh": "跟對時間觀念散漫的人約定，每次在碰面地點都會被迫等待。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_592",
+          "word": "短気な",
+          "furigana": "短気[たんき]な",
+          "romaji": "tanki na",
+          "meaning": "脾氣暴躁的 / 沒耐性的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼は少しでも自分の思い通りにいかないと、すぐに怒り出す短気な人です。",
+              "zh": "他是一個只要事情稍有不如意就立刻發火、脾氣暴躁的人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は少しでも自分の思い通りにいかないと、すぐに怒り出す短気な人です。",
+              "zh": "他是一個只要事情稍有不如意就立刻發火、脾氣暴躁的人。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_241",
+          "word": "呑気な",
+          "furigana": "呑気[のんき]な",
+          "romaji": "nonkina",
+          "meaning": "悠閒的、漫不經心的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼はいつも呑気な性格で、周りを和ませてくれます。",
+              "zh": "他的個性總是很悠閒，能讓周圍的氣氛緩和下來。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼はいつも呑気な性格で、周りを和ませてくれます。",
+              "zh": "他的個性總是很悠閒，能讓周圍的氣氛緩和下來。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657603_943",
+          "word": "頑固な",
+          "furigana": "頑固[がんこ]な",
+          "romaji": "gankona",
+          "meaning": "固執的、頑強的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "祖父は頑固なところがありますが、本当はとても優しい人です。",
+              "zh": "祖父雖然有固執的一面，但其實是個非常溫柔的人。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "祖父は頑固なところがありますが、本当はとても優しい人です。",
+              "zh": "祖父雖然有固執的一面，但其實是個非常溫柔的人。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_463",
+          "word": "素直な",
+          "furigana": "素直[すなお]な",
+          "romaji": "sunaona",
+          "meaning": "坦率的、順從的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼女は誰に対しても素直な態度で接するので、みんなから好かれています。",
+              "zh": "她對任何人態度都很坦率，所以很受大家歡迎。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は誰に対しても素直な態度で接するので、みんなから好かれています。",
+              "zh": "她對任何人態度都很坦率，所以很受大家歡迎。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_440",
+          "word": "わがままな",
+          "furigana": "わがままな",
+          "romaji": "wagamamana",
+          "meaning": "任性的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "たまにはわがままなことを言って、私に甘えてくださいね。",
+              "zh": "偶爾也請說些任性的話，向我撒撒嬌吧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "たまにはわがままなことを言って、私に甘えてくださいね。",
+              "zh": "偶爾也請說些任性的話，向我撒撒嬌吧。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_720",
+          "word": "生意気な",
+          "furigana": "生意気[なまいき]な",
+          "romaji": "namaikina",
+          "meaning": "自大的、傲慢的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "若い頃は少し生意気な態度をとってしまい、先輩にご迷惑をおかけしました。",
+              "zh": "年輕時態度有點自大，給前輩添了麻煩。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "若い頃は少し生意気な態度をとってしまい、先輩にご迷惑をおかけしました。",
+              "zh": "年輕時態度有點自大，給前輩添了麻煩。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_750",
+          "word": "人懐っこい",
+          "furigana": "人懐[ひとなつ]っこい",
+          "romaji": "hitonatsukkoi",
+          "meaning": "容易親近人的、不怕生的",
+          "type": "i-adjective",
+          "pos": "い形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "隣の家の犬はとても人懐っこくて、いつも尻尾を振って近づいてきます。",
+              "zh": "鄰居家的狗非常親人，總是一邊搖著尾巴一邊靠近。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "隣の家の犬はとても人懐っこくて、いつも尻尾を振って近づいてきます。",
+              "zh": "鄰居家的狗非常親人，總是一邊搖著尾巴一邊靠近。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_701",
+          "word": "人見知りする",
+          "furigana": "人見知[ひとみし]りする",
+          "romaji": "hitomishirisuru",
+          "meaning": "怕生",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "私は少し人見知りするタイプなので、初対面の人と話すのは少し緊張します。",
+              "zh": "我是有點怕生的類型，所以和初次見面的人說話會有點緊張。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "私は少し人見知りするタイプなので、初対面の人と話すのは少し緊張します。",
+              "zh": "我是有點怕生的類型，所以和初次見面的人說話會有點緊張。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_298",
+          "word": "内気な",
+          "furigana": "内気[うちき]な",
+          "romaji": "uchikina",
+          "meaning": "內向的、羞怯的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "子どもの頃は内気な性格でしたが、今は色々な人と交流するのが好きです。",
+              "zh": "小時候個性比較內向，但現在很喜歡和各式各樣的人交流。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "子どもの頃は内気な性格でしたが、今は色々な人と交流するのが好きです。",
+              "zh": "小時候個性比較內向，但現在很喜歡和各式各樣的人交流。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_321",
+          "word": "社交的な",
+          "furigana": "社交的[しゃこうてき]な",
+          "romaji": "shakoutekina",
+          "meaning": "善於交際的、外向的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "新しい同僚はとても社交的な人で、すぐに職場に馴染みました。",
+              "zh": "新同事是個非常善於交際的人，很快就融入了職場。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "新しい同僚はとても社交的な人で、すぐに職場に馴染みました。",
+              "zh": "新同事是個非常善於交際的人，很快就融入了職場。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_306",
+          "word": "消極的な",
+          "furigana": "消極的[しょうきょくてき]な",
+          "romaji": "shoukyokutekina",
+          "meaning": "消極的、被動的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "会議では消極的な意見も出ましたが、最終的にはみんなで協力することになりました。",
+              "zh": "雖然會議上也有出現消極的意見，但最終大家還是決定共同合作。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "会議では消極的な意見も出ましたが、最終的にはみんなで協力することになりました。",
+              "zh": "雖然會議上也有出現消極的意見，但最終大家還是決定共同合作。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_403",
+          "word": "積極的な",
+          "furigana": "積極的[せっきょくてき]な",
+          "romaji": "sekkyokutekina",
+          "meaning": "積極的、主動的",
+          "type": "na-adjective",
+          "pos": "な形容詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼は仕事に対して常に積極的な姿勢を持っており、周りから信頼されています。",
+              "zh": "他對工作總是抱持著積極的態度，受到周圍人的信賴。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は仕事に対して常に積極的な姿勢を持っており、周りから信頼されています。",
+              "zh": "他對工作總是抱持著積極的態度，受到周圍人的信賴。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_577",
+          "word": "そわそわ",
+          "furigana": "そわそわ",
+          "romaji": "sowasowa",
+          "meaning": "坐立不安、心神不寧",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "デートの時間が近づいてきて、朝からずっとそわそわしています。",
+              "zh": "約會的時間越來越近，從早上開始就一直心神不寧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "デートの時間が近づいてきて、朝からずっとそわそわしています。",
+              "zh": "約會的時間越來越近，從早上開始就一直心神不寧。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657604_284",
+          "word": "そっと",
+          "furigana": "そっと",
+          "romaji": "sotto",
+          "meaning": "悄悄地、輕輕地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "子どもが寝ているので、ドアをそっと閉めてください。",
+              "zh": "因為孩子正在睡覺，請輕輕地關上門。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "子どもが寝ているので、ドアをそっと閉めてください。",
+              "zh": "因為孩子正在睡覺，請輕輕地關上門。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_923",
+          "word": "じっと",
+          "furigana": "じっと",
+          "romaji": "jitto",
+          "meaning": "目不轉睛地、一動也不動地",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼女は私の顔をじっと見つめて、何か言いたそうな表情をしていました。",
+              "zh": "她目不轉睛地盯著我的臉，露出好像想說些什麼的表情。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼女は私の顔をじっと見つめて、何か言いたそうな表情をしていました。",
+              "zh": "她目不轉睛地盯著我的臉，露出好像想說些什麼的表情。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_966",
+          "word": "さっと",
+          "furigana": "さっと",
+          "romaji": "satto",
+          "meaning": "迅速地、一下子",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "material_housing_appliances",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "お客様がいらっしゃる前に、部屋をさっと片付けておきましょう。",
+              "zh": "在客人來之前，先把房間迅速整理一下吧。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "お客様がいらっしゃる前に、部屋をさっと片付けておきましょう。",
+              "zh": "在客人來之前，先把房間迅速整理一下吧。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_317",
+          "word": "ふっと",
+          "furigana": "ふっと",
+          "romaji": "futto",
+          "meaning": "忽然 / 飄然（如突然想起）",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "ふっと昔の友達のことを思い出しました。",
+              "zh": "忽然想起了以前的朋友。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "ふっと昔の友達のことを思い出しました。",
+              "zh": "忽然想起了以前的朋友。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_641",
+          "word": "にこにこする",
+          "furigana": "にこにこする",
+          "romaji": "nikoniko suru",
+          "meaning": "微笑 / 笑嘻嘻",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "赤ちゃんがこちらを見てにこにこしています。",
+              "zh": "寶寶看著這邊笑嘻嘻的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "赤ちゃんがこちらを見てにこにこしています。",
+              "zh": "寶寶看著這邊笑嘻嘻的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_631",
+          "word": "ぺらぺら話す",
+          "furigana": "ぺらぺら話[はな]す",
+          "romaji": "perapera hanasu",
+          "meaning": "滔滔不絕地說 / 說得流利",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "彼は英語をぺらぺら話しますね。",
+              "zh": "他英語說得很流利呢。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "彼は英語をぺらぺら話しますね。",
+              "zh": "他英語說得很流利呢。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_443",
+          "word": "もぐもぐ食べる",
+          "furigana": "もぐもぐ食[た]べる",
+          "romaji": "mogumogu taberu",
+          "meaning": "嚼著吃 / 鼓著嘴嚼",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "子どもがパンをもぐもぐ食べています。",
+              "zh": "小孩正鼓著嘴嚼麵包。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "子どもがパンをもぐもぐ食べています。",
+              "zh": "小孩正鼓著嘴嚼麵包。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_744",
+          "word": "ごくごく飲む",
+          "furigana": "ごくごく飲[の]む",
+          "romaji": "gokugoku nomu",
+          "meaning": "大口大口喝 / 咕嚕咕嚕地喝",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_food_cooking",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "運動のあとに水をごくごく飲みました。",
+              "zh": "運動後咕嚕咕嚕地喝了很多水。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "運動のあとに水をごくごく飲みました。",
+              "zh": "運動後咕嚕咕嚕地喝了很多水。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_225",
+          "word": "パックリ",
+          "furigana": "パックリ",
+          "romaji": "pakkuri",
+          "meaning": "張大嘴 / 裂大口（如傷口裂開）",
+          "type": "adverb",
+          "pos": "副詞",
+          "category": "looks_size",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "靴の底がパックリ開いてしまいました。",
+              "zh": "鞋底一下子裂開了一大口。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "靴の底がパックリ開いてしまいました。",
+              "zh": "鞋底一下子裂開了一大口。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657605_456",
+          "word": "のんびりする",
+          "furigana": "のんびりする",
+          "romaji": "nonbiri suru",
+          "meaning": "休閒放鬆 / 悠閒生活",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_leisure_sports",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "週末は家でのんびりしたいです。",
+              "zh": "週末想在家悠閒放鬆。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "週末は家でのんびりしたいです。",
+              "zh": "週末想在家悠閒放鬆。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_735",
+          "word": "しっかりする",
+          "furigana": "しっかりする",
+          "romaji": "shikkari suru",
+          "meaning": "打起精神 / 可靠辦事",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "social_personality",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "明日の面接だから、しっかりしてくださいね。",
+              "zh": "明天有面試，請打起精神好好表現喔。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "明日の面接だから、しっかりしてくださいね。",
+              "zh": "明天有面試，請打起精神好好表現喔。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_131",
+          "word": "うっかりする",
+          "furigana": "うっかりする",
+          "romaji": "ukkari suru",
+          "meaning": "不留神 / 粗心大意",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "うっかり約束の時間を忘れてしまいました。",
+              "zh": "一不留神就把約好的時間忘了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "うっかり約束の時間を忘れてしまいました。",
+              "zh": "一不留神就把約好的時間忘了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_714",
+          "word": "ばったり会う",
+          "furigana": "ばったり会[あ]う",
+          "romaji": "battari au",
+          "meaning": "碰巧遇見 / 偶遇",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "駅で久しぶりに高校の友人とばったり会いました。",
+              "zh": "在車站碰巧遇見了好久不見的高中朋友。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "駅で久しぶりに高校の友人とばったり会いました。",
+              "zh": "在車站碰巧遇見了好久不見的高中朋友。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_722",
+          "word": "ふらふらする",
+          "furigana": "ふらふらする",
+          "romaji": "furafura suru",
+          "meaning": "頭暈晃動 / 蹣跚",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_health_medical",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "熱があって、歩くとふらふらします。",
+              "zh": "因為發燒，一走路就頭暈晃晃的。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "熱があって、歩くとふらふらします。",
+              "zh": "因為發燒，一走路就頭暈晃晃的。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_13",
+          "word": "だらだらする",
+          "furigana": "だらだらする",
+          "romaji": "daradara suru",
+          "meaning": "懶散度日 / 拖拖拉拉",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "material_leisure_sports",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "休日はずっとソファでだらだらしてしまいました。",
+              "zh": "假日整天都在沙發上懶懶散散地度過了。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "休日はずっとソファでだらだらしてしまいました。",
+              "zh": "假日整天都在沙發上懶懶散散地度過了。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_630",
+          "word": "そわそわする",
+          "furigana": "そわそわする",
+          "romaji": "sowasowa suru",
+          "meaning": "坐立不安 / 心神不寧",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "human_psychology_emotion",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "発表の前は、どうしてもそわそわしてしまいます。",
+              "zh": "發表之前，總是會坐立不安。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "発表の前は、どうしてもそわそわしてしまいます。",
+              "zh": "發表之前，總是會坐立不安。"
+            }
+          ]
+        },
+        {
+          "id": "v_n5_daily_nonnoun2_1783833657606_954",
+          "word": "ひそひそ話す",
+          "furigana": "ひそひそ話[はな]す",
+          "romaji": "hisohiso hanasu",
+          "meaning": "低聲交談 / 咬耳朵",
+          "type": "verb",
+          "pos": "動詞",
+          "category": "society_communication_language",
+          "level": "N5",
+          "examples": [
+            {
+              "ja": "二人は教室の隅でひそひそ話しています。",
+              "zh": "兩個人在教室角落低聲交談。"
+            }
+          ],
+          "sentences": [
+            {
+              "ja": "二人は教室の隅でひそひそ話しています。",
+              "zh": "兩個人在教室角落低聲交談。"
+            }
+          ]
         }
       ],
       "verbConjugations": [
