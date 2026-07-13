@@ -1311,6 +1311,93 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
           </div>
         )}
 
+        {posFilter === 'pronoun' && (
+          <div className="adj-intro-banner" style={{ background: '#fdf2f8', borderColor: '#fbcfe8', color: '#9d174d' }}>
+            <div className="adj-intro-title" style={{ color: '#be185d' }}>
+              <span>📖</span> 代名詞分類與指示代名詞 (こそあど) 指南
+            </div>
+            <p className="adj-intro-desc" style={{ color: '#1e293b', marginBottom: '16px' }}>
+              代名詞用來指代人、事、物或場所。日語的代名詞包含人稱代名詞與極具規律性的「こそあど」指示代名詞系統：
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #fbcfe8' }}>
+                <div style={{ fontWeight: '800', color: '#be185d', marginBottom: '12px', fontSize: '1.15rem' }}>
+                  👥 1. 人稱代名詞 (指代人)
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  ・<strong>第一人稱 (我)</strong>：<br/>
+                  &nbsp;&nbsp;私 (わたし) [通用] / 僕 (ぼく) [男性口語] / 俺 (おれ) [男性粗魯/親密] / 私 (わたくし) [正式謙遜]<br/>
+                  ・<strong>第二人稱 (你)</strong>：<br/>
+                  &nbsp;&nbsp;あなた [通用/夫妻稱呼] / 君 (きみ) [上對下] / お前 (おまえ) [粗魯/親密]<br/>
+                  ・<strong>第三人稱 (他/她)</strong>：<br/>
+                  &nbsp;&nbsp;彼 (かれ) [他] / 彼女 (かのじょ) [她]
+                </div>
+              </div>
+              
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '20px', borderRadius: '12px', border: '1px solid #fbcfe8' }}>
+                <div style={{ fontWeight: '800', color: '#be185d', marginBottom: '12px', fontSize: '1.15rem' }}>
+                  📍 2. 指示代名詞 (こそあど系統)
+                </div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.7' }}>
+                  根據指代對象與說話者/聽話者的距離，分為四個系列：<br/>
+                  ・<strong>こ系列 (近)</strong>：靠近說話者。<br/>
+                  ・<strong>そ系列 (中)</strong>：靠近聽話者。<br/>
+                  ・<strong>あ系列 (遠)</strong>：遠離雙方。<br/>
+                  ・<strong>ど系列 (疑)</strong>：疑問詞。<br/>
+                  <div style={{ background: '#fff', padding: '10px 14px', borderRadius: '8px', marginTop: '8px', borderLeft: '3px solid #be185d' }}>
+                    物體：<strong>これ / それ / あれ / どれ</strong><br/>
+                    場所：<strong>ここ / そこ / あそこ / どこ</strong><br/>
+                    方向：<strong>こちら / そちら / あちら / どちら</strong>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {posFilter === 'conjunction' && (
+          <div className="adj-intro-banner" style={{ background: '#fffbeb', borderColor: '#fef3c7', color: '#92400e' }}>
+            <div className="adj-intro-title" style={{ color: '#b45309' }}>
+              <span>📖</span> 連接詞功能與邏輯關係指南
+            </div>
+            <p className="adj-intro-desc" style={{ color: '#1e293b', marginBottom: '16px' }}>
+              連接詞用於串聯句子與段落，明晰前後文的邏輯關係，是寫作與長篇口說的靈魂骨架：
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px', marginTop: '16px' }}>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #fef3c7' }}>
+                <div style={{ fontWeight: '800', color: '#b45309', marginBottom: '8px', fontSize: '1.1rem' }}>➡️ 1. 順接 (因果關係)</div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                  後句是前句的自然結果或推導：<br/>
+                  ・<strong>だから / ですから</strong> (所以) [口語/敬體]<br/>
+                  ・<strong>そこで</strong> (因此/於是) [接續動作]<br/>
+                  ・<strong>したがって</strong> (因此) [正式書面語]<br/>
+                  <span style={{ color: '#b45309', fontSize: '0.85rem' }}>例：雨が降りました。<strong>引いて</strong>、遅れました。</span>
+                </div>
+              </div>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #fef3c7' }}>
+                <div style={{ fontWeight: '800', color: '#b45309', marginBottom: '8px', fontSize: '1.1rem' }}>⬅️ 2. 逆接 (轉折關係)</div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                  後句與前句的意思相反或出乎意料：<br/>
+                  ・<strong>しかし / だが</strong> (但是) [正式]<br/>
+                  ・<strong>進んで / けれども</strong> (但是/可是) [口語]<br/>
+                  ・<strong>ところが</strong> (然而/沒想到) [驚訝語氣]<br/>
+                  <span style={{ color: '#b45309', fontSize: '0.85rem' }}>例：勉強しました。<strong>しかし</strong>、不合格でした。</span>
+                </div>
+              </div>
+              <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #fef3c7' }}>
+                <div style={{ fontWeight: '800', color: '#b45309', marginBottom: '8px', fontSize: '1.1rem' }}>➕ 3. 累加與選擇</div>
+                <div style={{ fontSize: '0.95rem', color: '#334155', lineHeight: '1.6' }}>
+                  用於並列、追加或多選一：<br/>
+                  ・<strong>そして</strong> (而且/然後) [順序並列]<br/>
+                  ・<strong>それに / そのうえ</strong> (而且/加上) [累加遞進]<br/>
+                  ・<strong>それとも</strong> (還是/或者) [二選一疑問]<br/>
+                  <span style={{ color: '#b45309', fontSize: '0.85rem' }}>例：コーヒーですか。<strong>それとも</strong>、お茶ですか。</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
         {posFilter === 'keigo' && (
           <div className="keigo-teaching-banner">
             <div className="keigo-teaching-header">
