@@ -283,6 +283,7 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
   const [activeSub, setActiveSub] = useState('all');
   const [selectedVerb, setSelectedVerb] = useState(null); // Used for both Verbs and Adjectives detail modals
   const [verbBannerTab, setVerbBannerTab] = useState('types');
+  const [keigoBannerTab, setKeigoBannerTab] = useState('guide');
 
   const speak = (text) => {
     if (!text) return;
@@ -1400,74 +1401,246 @@ export default function ConsolidationView({ chunks, posFilter = 'noun' }) {
 
         {posFilter === 'keigo' && (
           <div className="keigo-teaching-banner">
-            <div className="keigo-teaching-header">
-              <span className="keigo-teaching-icon">📖</span>
-              <h2 className="keigo-teaching-title">敬語 3 大體系速成指南</h2>
+            <div className="keigo-teaching-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px', borderBottom: '1px solid rgba(139, 92, 246, 0.1)', paddingBottom: '12px', marginBottom: '16px' }}>
+              <div className="keigo-teaching-title" style={{ margin: 0, color: '#8b5cf6', display: 'flex', alignItems: 'center', gap: '8px', fontSize: '1.3rem', fontWeight: '800' }}>
+                <span className="keigo-teaching-icon">📖</span> 敬語學習與實戰指南
+              </div>
+              <div style={{ display: 'flex', gap: '8px', background: 'rgba(139, 92, 246, 0.05)', padding: '4px', borderRadius: '8px', flexWrap: 'wrap' }}>
+                <button 
+                  onClick={() => setKeigoBannerTab('guide')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: keigoBannerTab === 'guide' ? '#8b5cf6' : 'transparent',
+                    color: keigoBannerTab === 'guide' ? '#fff' : '#8b5cf6'
+                  }}
+                >
+                  三大體系
+                </button>
+                <button 
+                  onClick={() => setKeigoBannerTab('table')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: keigoBannerTab === 'table' ? '#8b5cf6' : 'transparent',
+                    color: keigoBannerTab === 'table' ? '#fff' : '#8b5cf6'
+                  }}
+                >
+                  常用動詞對照表
+                </button>
+                <button 
+                  onClick={() => setKeigoBannerTab('formulas')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: keigoBannerTab === 'formulas' ? '#8b5cf6' : 'transparent',
+                    color: keigoBannerTab === 'formulas' ? '#fff' : '#8b5cf6'
+                  }}
+                >
+                  常規變化公式
+                </button>
+                <button 
+                  onClick={() => setKeigoBannerTab('pitfalls')} 
+                  style={{
+                    padding: '6px 12px', 
+                    borderRadius: '6px', 
+                    border: 'none', 
+                    cursor: 'pointer',
+                    fontSize: '0.85rem',
+                    fontWeight: 'bold',
+                    transition: 'all 0.2s',
+                    background: keigoBannerTab === 'pitfalls' ? '#8b5cf6' : 'transparent',
+                    color: keigoBannerTab === 'pitfalls' ? '#fff' : '#8b5cf6'
+                  }}
+                >
+                  常見考試誤區
+                </button>
+              </div>
             </div>
-            <p className="keigo-teaching-desc">日文的敬語核心在於「<strong>動作者是誰</strong>」。搞懂動作者，就能選對敬語！</p>
-            <div className="keigo-teaching-grid">
-              <div className="keigo-teaching-card sonkei">
-                <h3>⬆️ 尊敬語</h3>
-                <p className="keigo-target">動作者：<strong>對方</strong> (長輩/客戶)</p>
-                <p className="keigo-purpose">目的：抬高對方的身分</p>
-                <div className="keigo-examples">
-                  <span>行く → いらっしゃる</span>
-                  <span>食べる → 召し上がる</span>
-                  <span>見る → ご覧になる</span>
-                </div>
-              </div>
-              <div className="keigo-teaching-card kenjou">
-                <h3>⬇️ 謙讓語</h3>
-                <p className="keigo-target">動作者：<strong>自己</strong> (或我方人員)</p>
-                <p className="keigo-purpose">目的：壓低自己以顯得謙卑</p>
-                <div className="keigo-examples">
-                  <span>行く → 参る / 伺う</span>
-                  <span>もらう → いただく</span>
-                  <span>見る → 拝見する</span>
-                </div>
-              </div>
-              <div className="keigo-teaching-card teinei">
-                <h3>🤝 丁寧語 / 美化語</h3>
-                <p className="keigo-target">動作者：<strong>任何人</strong> (無關上下關係)</p>
-                <p className="keigo-purpose">目的：讓談吐顯得優雅、有教養</p>
-                <div className="keigo-examples">
-                  <span>だ/ある → ございます</span>
-                  <span>茶 → お茶</span>
-                  <span>飯 → ご飯</span>
-                </div>
-              </div>
-            </div>
-            
-            <div className="keigo-ogo-box" style={{ marginTop: '24px', background: '#f8fafc', padding: '20px', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
-              <h4 style={{ margin: '0 0 12px 0', fontSize: '1.1rem', color: '#0f172a', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                <span style={{ background: '#38bdf8', color: '#fff', padding: '2px 8px', borderRadius: '4px', fontSize: '0.9rem' }}>重點解析</span> 
-                「お」與「ご」的接續奧秘
-              </h4>
-              <p style={{ margin: '0 0 12px 0', fontSize: '0.95rem', color: '#475569', lineHeight: '1.6' }}>
-                我們經常在名詞前加上「お」或「ご」來構成尊敬語、謙讓語或美化語。要加哪一個，主要取決於單字的<strong>來源</strong>：
-              </p>
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '16px' }}>
-                <div style={{ background: '#fff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #f472b6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
-                  <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '8px' }}>🌸 お ＋ 和語（日本傳統字彙）</div>
-                  <div style={{ fontSize: '0.9rem', color: '#64748b' }}>通常是訓讀字（可以獨立念出意思的字）。</div>
-                  <div style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                    <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>水 (みず) → お水</span>
-                    <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>名前 (なまえ) → お名前</span>
-                    <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>話 (はなし) → お話し</span>
+
+            {keigoBannerTab === 'guide' && (
+              <>
+                <p className="keigo-teaching-desc">日文的敬語核心在於「<strong>動作者是誰</strong>」。搞懂動作者，就能選對敬語！</p>
+                <div className="keigo-teaching-grid">
+                  <div className="keigo-teaching-card sonkei">
+                    <h3>⬆️ 尊敬語</h3>
+                    <p className="keigo-target">動作者：<strong>對方</strong> (長輩/客戶)</p>
+                    <p className="keigo-purpose">目的：抬高對方的身分</p>
+                    <div className="keigo-examples">
+                      <span>行く → いらっしゃる</span>
+                      <span>食べる → 召し上がる</span>
+                      <span>見る → ご覧になる</span>
+                    </div>
+                  </div>
+                  <div className="keigo-teaching-card kenjou">
+                    <h3>⬇️ 謙讓語</h3>
+                    <p className="keigo-target">動作者：<strong>自己</strong> (或我方人員)</p>
+                    <p className="keigo-purpose">目的：壓低自己以顯得謙卑</p>
+                    <div className="keigo-examples">
+                      <span>行く → 参る / 伺う</span>
+                      <span>もらう → いただく</span>
+                      <span>見る → 拝見する</span>
+                    </div>
+                  </div>
+                  <div className="keigo-teaching-card teinei">
+                    <h3>🤝 丁寧語 / 美化語</h3>
+                    <p className="keigo-target">動作者：<strong>任何人</strong> (無關上下關係)</p>
+                    <p className="keigo-purpose">目的：讓談吐顯得優雅、有教養</p>
+                    <div className="keigo-examples">
+                      <span>だ/ある → ございます</span>
+                      <span>茶 → お茶</span>
+                      <span>飯 → ご飯</span>
+                    </div>
                   </div>
                 </div>
-                <div style={{ background: '#fff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #14b8a6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
-                  <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '8px' }}>⛩️ ご ＋ 漢語（來自中國的字彙）</div>
-                  <div style={{ fontSize: '0.9rem', color: '#64748b' }}>通常是音讀字（兩個漢字組合，發音硬挺）。</div>
-                  <div style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
-                    <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>家族 (かぞく) → ご家族</span>
-                    <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>意見 (いけん) → ご意見</span>
-                    <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>連絡 (れんらく) → ご連絡</span>
+                
+                <div className="keigo-ogo-box" style={{ marginTop: '24px', background: '#f8fafc', padding: '20px', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
+                  <h4 style={{ margin: '0 0 12px 0', fontSize: '1.1rem', color: '#0f172a', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                    <span style={{ background: '#38bdf8', color: '#fff', padding: '2px 8px', borderRadius: '4px', fontSize: '0.9rem' }}>重點解析</span> 
+                    「お」與「ご」的接續奧秘
+                  </h4>
+                  <p style={{ margin: '0 0 12px 0', fontSize: '0.95rem', color: '#475569', lineHeight: '1.6' }}>
+                    我們經常在名詞前加上「お」或「ご」來構成尊敬語、謙讓語或美化語。要加哪一個，主要取決於單字的<strong>來源</strong>：
+                  </p>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '16px' }}>
+                    <div style={{ background: '#fff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #f472b6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+                      <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '8px' }}>🌸 お ＋ 和語（日本傳統字彙）</div>
+                      <div style={{ fontSize: '0.9rem', color: '#64748b' }}>通常是訓讀字（可以獨立念出意思的字）。</div>
+                      <div style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                        <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>水 (みず) → お水</span>
+                        <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>名前 (なまえ) → お名前</span>
+                        <span style={{ background: '#fdf2f8', color: '#be185d', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>話 (はなし) → お話し</span>
+                      </div>
+                    </div>
+                    <div style={{ background: '#fff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #14b8a6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+                      <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '8px' }}>⛩️ ご ＋ 漢語（來自中國的字彙）</div>
+                      <div style={{ fontSize: '0.9rem', color: '#64748b' }}>通常是音讀字（兩個漢字組合，發音硬挺）。</div>
+                      <div style={{ marginTop: '12px', display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                        <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>家族 (かぞく) → ご家族</span>
+                        <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>意見 (いけん) → ご意見</span>
+                        <span style={{ background: '#f0fdfa', color: '#0f766e', padding: '4px 8px', borderRadius: '4px', fontSize: '0.85rem' }}>連絡 (れんらく) → ご連絡</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginTop: '12px', fontStyle: 'italic' }}>* 例外提醒：お電話 (でんわ)、お食事 (しょくじ) 等已經深深融入日本人日常生活的漢語，習慣上會使用「お」。</div>
+                </div>
+              </>
+            )}
+
+            {keigoBannerTab === 'table' && (
+              <div style={{ overflowX: 'auto', background: '#fff', padding: '16px', borderRadius: '12px', border: '1px solid rgba(139, 92, 246, 0.15)', boxShadow: '0 4px 6px -1px rgba(0,0,0,0.02)' }}>
+                <h4 style={{ margin: '0 0 12px 0', color: '#7c3aed', fontSize: '1.05rem', fontWeight: 'bold' }}>📋 常用核心動詞敬語對照表</h4>
+                <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.9rem', textAlign: 'left', minWidth: '600px' }}>
+                  <thead>
+                    <tr style={{ borderBottom: '2px solid #ddd', background: 'rgba(139, 92, 246, 0.05)' }}>
+                      <th style={{ padding: '10px', fontWeight: 'bold', color: '#475569' }}>基本字典形 (意味)</th>
+                      <th style={{ padding: '10px', fontWeight: 'bold', color: '#10b981' }}>尊敬語 (⬆️對方動作)</th>
+                      <th style={{ padding: '10px', fontWeight: 'bold', color: '#6366f1' }}>謙讓語 (⬇️自己動作)</th>
+                      <th style={{ padding: '10px', fontWeight: 'bold', color: '#64748b' }}>丁寧語 (一般客氣)</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {[
+                      { base: '行く・来る (去/來)', son: 'いらっしゃる / おいでになる', ken: '参（まい）る / 伺（うかが）う', tei: '行きます / 来ます' },
+                      { base: '食べる・飲む (吃/喝)', son: '召（め）し上がる', ken: 'いただく', tei: '食べます / 飲みます' },
+                      { base: '言う (說)', son: 'おっしゃる', ken: '申（もう）す / 申し上げる', tei: '言います' },
+                      { base: 'する (做)', son: 'なさる', ken: 'いたす', tei: 'します' },
+                      { base: '見る (看)', son: 'ご覧（らん）になる', ken: '拝見（はいけん）する', tei: '見ます' },
+                      { base: '知る (知道)', son: 'ご存（ぞん）じだ', ken: '存（ぞん）じている / 存じる', tei: '知っています' },
+                      { base: '会う (見面)', son: 'お会いになる', ken: 'お目にかかる / お会いする', tei: '會います' },
+                      { base: '与える・あげる (給)', son: 'くださる', ken: '差し上げる', tei: 'あげます / くれます' },
+                      { base: 'もらう (得到)', son: 'お受けになる', ken: 'いただく / 頂戴する', tei: 'もらいます' }
+                    ].map((row, idx) => (
+                      <tr key={idx} style={{ borderBottom: '1px solid #f1f5f9', background: idx % 2 === 1 ? 'rgba(139, 92, 246, 0.02)' : 'transparent' }}>
+                        <td style={{ padding: '10px', fontWeight: '600', color: '#334155' }}>{row.base}</td>
+                        <td style={{ padding: '10px', color: '#059669', fontWeight: '600' }}>{row.son}</td>
+                        <td style={{ padding: '10px', color: '#4f46e5', fontWeight: '600' }}>{row.ken}</td>
+                        <td style={{ padding: '10px', color: '#475569' }}>{row.tei}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+
+            {keigoBannerTab === 'formulas' && (
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px' }}>
+                <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #ddd6fe' }}>
+                  <div style={{ fontWeight: '800', color: '#7c3aed', marginBottom: '8px', fontSize: '1.1rem' }}>1. 尊敬語 常規變化公式</div>
+                  <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.7' }}>
+                    當動詞沒有特殊不規則敬語時，可用以下公式轉換：<br/>
+                    <strong>① お + ます形去ます + になる</strong><br/>
+                    <span style={{ color: '#059669' }}>例：書く ➡️ お書きになる</span><br/>
+                    <span style={{ color: '#059669' }}>例：待つ ➡️ お待ちになる</span><br/>
+                    <strong>② 動詞被動形 (れる / られる)</strong><br/>
+                    <span style={{ color: '#059669' }}>例：社長は明日東京へ行かれます。</span><br/>
+                    <span style={{ color: '#64748b', fontSize: '0.8rem' }}>※ 說明：被動形表敬意程度略低於「お〜になる」，使用更隨和。</span>
+                  </div>
+                </div>
+                <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #ddd6fe' }}>
+                  <div style={{ fontWeight: '800', color: '#7c3aed', marginBottom: '8px', fontSize: '1.1rem' }}>2. 謙讓語 常規變化公式</div>
+                  <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.7' }}>
+                    用於將自己的動作放低，以表示對他人的尊敬：<br/>
+                    <strong>① お + ます形去ます + する / いたす</strong><br/>
+                    <span style={{ color: '#4f46e5' }}>例：持つ ➡️ お持ちする / お持ちいたす</span><br/>
+                    <strong>② ご + 動作性名詞 (三類) + する / いたす</strong><br/>
+                    <span style={{ color: '#4f46e5' }}>例：案内する ➡️ ご案内する / ご案内いたす</span><br/>
+                    <strong>③ お/ご + ます形去ます + いただく</strong><br/>
+                    <span style={{ color: '#4f46e5' }}>例：お読みいただく (承蒙您閱讀)</span>
                   </div>
                 </div>
               </div>
-              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginTop: '12px', fontStyle: 'italic' }}>* 例外提醒：お電話 (でんわ)、お食事 (しょくじ) 等已經深深融入日本人日常生活的漢語，習慣上會使用「お」。</div>
-            </div>
+            )}
+
+            {keigoBannerTab === 'pitfalls' && (
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '16px' }}>
+                <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #fca5a5' }}>
+                  <div style={{ fontWeight: '800', color: '#dc2626', marginBottom: '8px', fontSize: '1.1rem' }}>⚠️ 陷阱一：二重敬語 (過度敬語)</div>
+                  <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                    在一個動詞上重複套用相同種類的敬語，是日語中不合語法的贅言。<br/><br/>
+                    ❌ 錯誤：<strong>お召し上がりになられる</strong><br/>
+                    <span style={{ fontSize: '0.82rem', color: '#64748b' }}>(同時用了特殊尊敬語 召し上がる、お~になる 與 られる)</span><br/>
+                    ⭕ 正確：<strong>召し上がる</strong> / <strong>お召し上がりになる</strong><br/><br/>
+                    ❌ 錯誤：<strong>お読みになられる</strong><br/>
+                    ⭕ 正確：<strong>お読みになる</strong> / <strong>読まれる</strong>
+                  </div>
+                </div>
+                <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #fca5a5' }}>
+                  <div style={{ fontWeight: '800', color: '#dc2626', marginBottom: '8px', fontSize: '1.1rem' }}>⚠️ 陷阱二：尊敬與謙讓對象混淆</div>
+                  <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                    把用在自己身上的「謙讓語」套給長輩，或者把抬高他人的「尊敬語」用在自己身上，在職場上非常失禮。<br/><br/>
+                    ❌ 錯誤：<strong>私がご存じです。</strong> (對長輩稱自己「知道」時，誤用尊敬語的「ご存じ」)<br/>
+                    ⭕ 正確：<strong>私は存じております。</strong> (使用謙讓語)<br/><br/>
+                    ❌ 錯誤：<strong>部長、何時に参りますか。</strong> (詢問部長何時來，卻對部長使用謙讓語的「参る」)<br/>
+                    ⭕ 正確：<strong>部長、何時にいらっしゃいますか。</strong>
+                  </div>
+                </div>
+                <div style={{ background: 'rgba(255,255,255,0.7)', padding: '16px', borderRadius: '12px', border: '1px solid #fca5a5' }}>
+                  <div style={{ fontWeight: '800', color: '#dc2626', marginBottom: '8px', fontSize: '1.1rem' }}>⚠️ 陷阱三：內外關係（ウチ・ソト）</div>
+                  <div style={{ fontSize: '0.9rem', color: '#334155', lineHeight: '1.6' }}>
+                    在日商職場中，<strong>向外部客戶（外）提起自己公司的上司（內）時，必須降格上司，使用謙讓語</strong>，而非尊敬語！<br/><br/>
+                    ❌ 錯誤：<strong>（向客戶說）林部長がいらっしゃいました。</strong> (對自己部長用尊敬語，對客戶失禮)<br/>
+                    ⭕ 正確：<strong>（向客戶說）部長の林が参りました。</strong><br/>
+                    <span style={{ fontSize: '0.82rem', color: '#64748b' }}>(稱謂去頭銜，並使用謙讓語的「參る」)</span>
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         )}
 
