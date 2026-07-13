@@ -37138,7 +37138,7 @@
             "role": "user",
             "text": "すみません、私の荷物が出てこないんですが。",
             "furigana": "すみません、私[わたし]の荷物[にもつ]が出[で]てこないんですが。",
-            "translation": "Excuse me, my luggage hasn't come out.",
+            "translation": "不好意思，我的行李沒有出來。",
             "tags": [
               "N4",
               "トラブル"
@@ -37149,7 +37149,7 @@
             "role": "staff",
             "text": "かしこまりました。お預けになった荷物の引換証を見せていただけますか。",
             "furigana": "かしこまりました。お預[あず]けになった荷物[にもつ]の引換証[ひきかえしょう]を見[み]せていただけますか。",
-            "translation": "Certainly. Could you show me your baggage claim tag?",
+            "translation": "好的。可以請您出示您託運行李的行李領取憑證嗎？",
             "tags": [
               "N4",
               "敬語"
@@ -37160,7 +37160,7 @@
             "role": "user",
             "text": "はい、これです。台北から乗ってきました。",
             "furigana": "はい、これです。台北[たいぺい]から乗[の]ってきました。",
-            "translation": "Yes, here it is. I boarded from Taipei.",
+            "translation": "好的，就是這個。我是從台北搭過來的。",
             "tags": [
               "N5",
               "移動"
@@ -37171,7 +37171,7 @@
             "role": "staff",
             "text": "ありがとうございます。どのような特徴のお荷物ですか。",
             "furigana": "ありがとうございます。どのような特徴[とくちょう]のお荷物[にもつ]ですか。",
-            "translation": "Thank you. What are the characteristics of your luggage?",
+            "translation": "謝謝您。請問您的行李有什麼特徵嗎？",
             "tags": [
               "N4",
               "敬語",
@@ -37183,7 +37183,7 @@
             "role": "user",
             "text": "黒いスーツケースで、赤いベルトが巻いてあります。",
             "furigana": "黒[くろ]いスーツケースで、赤[あか]いベルトが巻[ま]いてあります。",
-            "translation": "It's a black suitcase with a red belt wrapped around it.",
+            "translation": "是黑色的行李箱，上面綁著紅色的行李帶。",
             "tags": [
               "N4",
               "状態",
@@ -37195,7 +37195,7 @@
             "role": "staff",
             "text": "サイズはどれくらいでしょうか。",
             "furigana": "サイズはどれくらいでしょうか。",
-            "translation": "About what size is it?",
+            "translation": "尺寸大約是多少呢？",
             "tags": [
               "N5",
               "質問"
@@ -37206,7 +37206,7 @@
             "role": "user",
             "text": "２８インチくらいです。",
             "furigana": "２８[にじゅうはち]インチくらいです。",
-            "translation": "It's about 28 inches.",
+            "translation": "大約是28吋。",
             "tags": [
               "N5",
               "数字"
@@ -37217,7 +37217,7 @@
             "role": "staff",
             "text": "かしこまりました。システムでお調べいたします。少々お待ちください。",
             "furigana": "かしこまりました。システムでお調[しら]べいたします。少々[しょうしょう]お待[ま]ちください。",
-            "translation": "Understood. I will check in the system. Please wait a moment.",
+            "translation": "好的。我用系統幫您查詢。請稍候。",
             "tags": [
               "N4",
               "敬語",
@@ -37229,7 +37229,7 @@
             "role": "user",
             "text": "お願いします。",
             "furigana": "お願[ねが]いします。",
-            "translation": "Please.",
+            "translation": "拜託您了。",
             "tags": [
               "N5",
               "依頼"
@@ -37240,7 +37240,7 @@
             "role": "staff",
             "text": "お待たせいたしました。お客様のお荷物は次の便に乗せられてしまったようです。",
             "furigana": "お待[ま]たせいたしました。お客様[きゃくさま]のお荷物[にもつ]は次[つぎ]の便[びん]に乗[の]せられてしまったようです。",
-            "translation": "Thank you for waiting. It seems your luggage was put on the next flight.",
+            "translation": "讓您久等了。您的行李似乎被裝到下一個班機了。",
             "tags": [
               "N4",
               "敬語",
@@ -37252,7 +37252,7 @@
             "role": "user",
             "text": "ええっ、本当ですか。いつ届きますか。",
             "furigana": "ええっ、本当[ほんとう]ですか。いつ届[とど]きますか。",
-            "translation": "Oh no, really? When will it arrive?",
+            "translation": "咦，真的嗎？什麼時候會送到？",
             "tags": [
               "N5",
               "驚き",
@@ -37264,7 +37264,7 @@
             "role": "staff",
             "text": "今夜遅くには到着する予定です。明日の朝、ご指定のホテルへお届けいたします。",
             "furigana": "今夜[こんや]遅[おそ]くには到着[とうちゃく]する予定[よてい]です。明日[あした]の朝[あさ]、ご指定[してい]のホテルへお届[とど]けいたします。",
-            "translation": "It is scheduled to arrive late tonight. We will deliver it to your designated hotel tomorrow morning.",
+            "translation": "預計今天深夜會抵達。我們將於明天早上送到您指定的飯店。",
             "tags": [
               "N4",
               "敬語",
@@ -37276,7 +37276,7 @@
             "role": "user",
             "text": "わかりました。ホテルは新宿にあります。",
             "furigana": "わかりました。ホテルは新宿[しんじゅく]にあります。",
-            "translation": "I understand. The hotel is in Shinjuku.",
+            "translation": "我知道了。飯店在新宿。",
             "tags": [
               "N5",
               "場所"
@@ -37287,7 +37287,7 @@
             "role": "staff",
             "text": "承知いたしました。こちらの書類に、ホテルの住所と連絡先をご記入ください。",
             "furigana": "承知[しょうち]いたしました。こちらの書類[しょるい]に、ホテルの住所[じゅうしょ]と連絡先[れんらくさき]をご記入[きにゅう]ください。",
-            "translation": "Understood. Please fill out your hotel address and contact info on this form.",
+            "translation": "好的。請在這份文件上填寫飯店的地址和聯絡方式。",
             "tags": [
               "N4",
               "敬語",
@@ -37314,7 +37314,7 @@
             "role": "staff",
             "text": "パスポートと税関申告書をご提示ください。",
             "furigana": "パスポートと税関申告書[ぜいかんしんこくしょ]をご提示[ていじ]ください。",
-            "translation": "Please show me your passport and customs declaration form.",
+            "translation": "請出示您的護照和海關申報單。",
             "tags": [
               "N4",
               "敬語",
@@ -37326,7 +37326,7 @@
             "role": "user",
             "text": "はい、これです。",
             "furigana": "はい、これです。",
-            "translation": "Yes, here they are.",
+            "translation": "好的，就是這個。",
             "tags": [
               "N5",
               "返答"
@@ -37337,7 +37337,7 @@
             "role": "staff",
             "text": "ありがとうございます。申告するものはありますか。",
             "furigana": "ありがとうございます。申告[しんこく]するものはありますか。",
-            "translation": "Thank you. Do you have anything to declare?",
+            "translation": "謝謝您。請問有要申報的物品嗎？",
             "tags": [
               "N4",
               "質問"
@@ -37348,7 +37348,7 @@
             "role": "user",
             "text": "いいえ、特にありません。",
             "furigana": "いいえ、特[とく]にありません。",
-            "translation": "No, nothing in particular.",
+            "translation": "沒有，沒有特別要申報的。",
             "tags": [
               "N4",
               "否定"
@@ -37359,7 +37359,7 @@
             "role": "staff",
             "text": "タバコやお酒は基準量を超えていませんね。",
             "furigana": "タバコやお酒[さけ]は基準量[きじゅんりょう]を超[こ]えていませんね。",
-            "translation": "Your tobacco and alcohol don't exceed the standard limits, right?",
+            "translation": "香菸和酒類沒有超過標準量對吧？",
             "tags": [
               "N4",
               "確認"
@@ -37370,7 +37370,7 @@
             "role": "user",
             "text": "お酒を二本持っていますが、基準内だと思います。",
             "furigana": "お酒[さけ]を二本[にほん]持[も]っていますが、基準内[きじゅんない]だと思[おも]います。",
-            "translation": "I have two bottles of alcohol, but I think it's within the limit.",
+            "translation": "我帶了兩瓶酒，但我想在標準範圍內。",
             "tags": [
               "N4",
               "推量",
@@ -37382,7 +37382,7 @@
             "role": "staff",
             "text": "はい、二本なら免税の範囲内ですね。",
             "furigana": "はい、二本[にほん]なら免税[めんぜい]の範囲内[はんいない]ですね。",
-            "translation": "Yes, two bottles are within the tax-free exemption.",
+            "translation": "是的，兩瓶的話在免稅範圍之內。",
             "tags": [
               "N4",
               "条件"
@@ -37393,7 +37393,7 @@
             "role": "staff",
             "text": "肉類や植物などは持ち込んでいませんか。",
             "furigana": "肉類[にくるい]や植物[しょくぶつ]などは持[も]ち込[こ]んでいませんか。",
-            "translation": "Are you bringing in any meat or plants?",
+            "translation": "請問有沒有攜帶肉類或植物等入境？",
             "tags": [
               "N4",
               "禁止",
@@ -37405,7 +37405,7 @@
             "role": "user",
             "text": "はい、持っていません。",
             "furigana": "はい、持[も]っていません。",
-            "translation": "No, I am not carrying any.",
+            "translation": "是的，我沒有帶。",
             "tags": [
               "N5",
               "状態"
@@ -37416,7 +37416,7 @@
             "role": "staff",
             "text": "念のため、スーツケースを開けて中を確認してもよろしいですか。",
             "furigana": "念[ねん]のため、スーツケースを開[あ]けて中[なか]を確認[かくにん]してもよろしいですか。",
-            "translation": "Just in case, may I open your suitcase to check inside?",
+            "translation": "保險起見，可以請您打開行李箱讓我確認一下內部嗎？",
             "tags": [
               "N4",
               "敬語",
@@ -37428,7 +37428,7 @@
             "role": "user",
             "text": "はい、構いません。どうぞ。",
             "furigana": "はい、構[かま]いません。どうぞ。",
-            "translation": "Yes, I don't mind. Go ahead.",
+            "translation": "好啊，沒關係。請看。",
             "tags": [
               "N4",
               "許可",
@@ -37440,7 +37440,7 @@
             "role": "staff",
             "text": "ご協力ありがとうございます。問題ありません。",
             "furigana": "ご協力[きょうりょく]ありがとうございます。問題[もんだい]ありません。",
-            "translation": "Thank you for your cooperation. There are no problems.",
+            "translation": "謝謝您的配合。沒有問題。",
             "tags": [
               "N5",
               "お礼"
@@ -37451,7 +37451,7 @@
             "role": "user",
             "text": "よかったです。もう行ってもいいですか。",
             "furigana": "よかったです。もう行[い]ってもいいですか。",
-            "translation": "That's good. May I go now?",
+            "translation": "太好了。我可以走了嗎？",
             "tags": [
               "N5",
               "許可"
@@ -37462,7 +37462,7 @@
             "role": "staff",
             "text": "はい、結構です。日本でのご滞在をお楽しみください。",
             "furigana": "はい、結構[けっこう]です。日本[にほん]でのご滞在[たいざい]をお楽[たの]しみください。",
-            "translation": "Yes, you are all set. Please enjoy your stay in Japan.",
+            "translation": "好的，沒問題。祝您在日本玩得愉快。",
             "tags": [
               "N4",
               "敬語",
@@ -37589,7 +37589,7 @@
             "role": "user",
             "text": "すみません、新幹線の切符を買いたいんですが。",
             "furigana": "すみません、新幹線[しんかんせん]の切符[きっぷ]を買[か]いたいんですが。",
-            "translation": "Excuse me, I'd like to buy a Shinkansen ticket.",
+            "translation": "不好意思，我想買新幹線的車票。",
             "tags": [
               "N5",
               "願望"
@@ -37600,7 +37600,7 @@
             "role": "staff",
             "text": "はい、どちらまで行かれますか。",
             "furigana": "はい、どちらまで行[い]かれますか。",
-            "translation": "Yes, where are you going?",
+            "translation": "好的，請問您要去哪裡呢？",
             "tags": [
               "N4",
               "敬語",
@@ -37612,7 +37612,7 @@
             "role": "user",
             "text": "京都までお願いします。大人二枚です。",
             "furigana": "京都[きょうと]までお願[ねが]いします。大人[おとな]二枚[にまい]です。",
-            "translation": "To Kyoto, please. Two adults.",
+            "translation": "到京都，拜託了。要兩張全票。",
             "tags": [
               "N5",
               "数量",
@@ -37624,7 +37624,7 @@
             "role": "staff",
             "text": "かしこまりました。本日のご利用でよろしいですか。",
             "furigana": "かしこまりました。本日[ほんじつ]のご利用[りよう]でよろしいですか。",
-            "translation": "Certainly. Will this be for use today?",
+            "translation": "好的。請問是今天要搭乘的嗎？",
             "tags": [
               "N4",
               "敬語",
@@ -37636,7 +37636,7 @@
             "role": "user",
             "text": "はい、今日の午前中の便がいいです。",
             "furigana": "はい、今日[きょう]の午前中[ごぜんちゅう]の便[びん]がいいです。",
-            "translation": "Yes, a morning train today would be good.",
+            "translation": "是的，我想要今天早上的班次。",
             "tags": [
               "N5",
               "時間"
@@ -37647,7 +37647,7 @@
             "role": "staff",
             "text": "午前十時発の「のぞみ」はいかがでしょうか。",
             "furigana": "午前十時発[ごぜんじゅうじはつ]の「のぞみ」はいかがでしょうか。",
-            "translation": "How about the Nozomi departing at 10:00 AM?",
+            "translation": "早上10點出發的「希望號（Nozomi）」如何？",
             "tags": [
               "N4",
               "提案",
@@ -37659,7 +37659,7 @@
             "role": "user",
             "text": "それでお願いします。指定席は空いていますか。",
             "furigana": "それでお願[ねが]いします。指定席[していせき]は空[あ]いていますか。",
-            "translation": "I'll take that one. Are there reserved seats available?",
+            "translation": "那就買那個。請問對號座（指定席）還有空位嗎？",
             "tags": [
               "N4",
               "状態",
@@ -37671,7 +37671,7 @@
             "role": "staff",
             "text": "はい、窓側の席が二席空いております。",
             "furigana": "はい、窓側[まどがわ]の席[せき]が二席[ふたせき]空[あ]いております。",
-            "translation": "Yes, there are two window seats available.",
+            "translation": "有的，靠窗的座位還有兩個空位。",
             "tags": [
               "N4",
               "敬語",
@@ -37683,7 +37683,7 @@
             "role": "user",
             "text": "よかったです。窓側の席でお願いします。",
             "furigana": "よかったです。窓側[まどがわ]の席[せき]でお願[ねが]いします。",
-            "translation": "That's good. The window seats, please.",
+            "translation": "太好了。那就麻煩幫我安排靠窗的座位。",
             "tags": [
               "N5",
               "依頼"
@@ -37694,7 +37694,7 @@
             "role": "user",
             "text": "ちなみに、車内でお弁当は買えますか。",
             "furigana": "ちなみに、車内[しゃない]でお弁当[べんとう]は買[か]えますか。",
-            "translation": "By the way, can I buy a bento box on the train?",
+            "translation": "順便問一下，車上可以買到便當嗎？",
             "tags": [
               "N4",
               "可能",
@@ -37706,7 +37706,7 @@
             "role": "staff",
             "text": "はい、車内販売もございますが、駅の売店の方が種類が豊富です。",
             "furigana": "はい、車内販売[しゃないはんばい]もございますが、駅[えき]の売店[ばいてん]の方[ほう]が種類[しゅるい]が豊富[ほうふ]です。",
-            "translation": "Yes, there is onboard sales, but the station kiosks have a wider variety.",
+            "translation": "有的，車上也有販售，但車站商店的種類會比較豐富。",
             "tags": [
               "N4",
               "比較",
@@ -37718,7 +37718,7 @@
             "role": "user",
             "text": "なるほど、じゃあ駅で買っておきます。いくらですか。",
             "furigana": "なるほど、じゃあ駅[えき]で買[か]っておきます。いくらですか。",
-            "translation": "I see. Then I'll buy it at the station. How much is the ticket?",
+            "translation": "原來如此，那我先在車站買好。請問這樣多少錢？",
             "tags": [
               "N4",
               "準備",
@@ -37730,7 +37730,7 @@
             "role": "staff",
             "text": "乗車券と特急券を合わせて、二万八千百四十円になります。",
             "furigana": "乗車券[じょうしゃけん]と特急券[とっきゅうけん]を合[あ]わせて、二万八千百四十円[にまんはっせんひゃくよんじゅうえん]になります。",
-            "translation": "Combined for the base fare and the express ticket, it will be 28,140 yen.",
+            "translation": "乘車券加上特急券總共是兩萬八千一百四十日圓。",
             "tags": [
               "N4",
               "数字",
@@ -37742,7 +37742,7 @@
             "role": "user",
             "text": "クレジットカードで払えますか。",
             "furigana": "クレジットカードで払[はら]えますか。",
-            "translation": "Can I pay by credit card?",
+            "translation": "可以用信用卡付款嗎？",
             "tags": [
               "N4",
               "可能",
@@ -37754,7 +37754,7 @@
             "role": "staff",
             "text": "はい、ご利用いただけます。こちらの端末にカードを挿入してください。",
             "furigana": "はい、ご利用[りよう]いただけます。こちらの端末[たんまつ]にカードを挿入[そうにゅう]してください。",
-            "translation": "Yes, you can use it. Please insert your card into this terminal.",
+            "translation": "可以的。請將卡片插入這台刷卡機。",
             "tags": [
               "N4",
               "敬語",
@@ -37766,7 +37766,7 @@
             "role": "user",
             "text": "はい、入れました。ありがとうございます。",
             "furigana": "はい、入[い]れました。ありがとうございます。",
-            "translation": "Yes, I inserted it. Thank you.",
+            "translation": "好的，插進去了。謝謝您。",
             "tags": [
               "N5",
               "完了"
@@ -37792,7 +37792,7 @@
             "role": "user",
             "text": "すみません、浅草へ行きたいんですが、どうやって行けばいいですか。",
             "furigana": "すみません、浅草[あさくさ]へ行[い]きたいんですが、どうやって行[い]けばいいですか。",
-            "translation": "Excuse me, I want to go to Asakusa. How should I get there?",
+            "translation": "不好意思，我想去淺草，請問該怎麼去？",
             "tags": [
               "N4",
               "方法",
@@ -37804,7 +37804,7 @@
             "role": "staff",
             "text": "浅草ですね。ここからだと、銀座線に乗るのが一番便利です。",
             "furigana": "浅草[あさくさ]ですね。ここからだと、銀座線[ぎんざせん]に乗[の]るのが一番[いちばん]便利[べんり]です。",
-            "translation": "Asakusa, right? From here, taking the Ginza Line is the most convenient.",
+            "translation": "淺草對吧。從這裡去的話，搭乘銀座線是最方便的。",
             "tags": [
               "N4",
               "提案",
@@ -37816,7 +37816,7 @@
             "role": "user",
             "text": "銀座線の乗り場はどこですか。",
             "furigana": "銀座線[ぎんざせん]の乗[の]り場[ば]はどこですか。",
-            "translation": "Where is the platform for the Ginza Line?",
+            "translation": "請問銀座線的乘車月台在哪裡？",
             "tags": [
               "N5",
               "場所"
@@ -37827,7 +37827,7 @@
             "role": "staff",
             "text": "この改札を出て、黄色い看板に沿ってまっすぐ進んでください。",
             "furigana": "この改札[かいさつ]を出[で]て、黄色[きいろ]い看板[かんばん]に沿[そ]ってまっすぐ進[すす]んでください。",
-            "translation": "Go out this ticket gate and go straight following the yellow signs.",
+            "translation": "請出這個剪票口，然後沿著黃色看板一直往前走。",
             "tags": [
               "N4",
               "指示",
@@ -37839,7 +37839,7 @@
             "role": "user",
             "text": "はい、黄色い看板ですね。乗り換えは必要ですか。",
             "furigana": "はい、黄色[きいろ]い看板[かんばん]ですね。乗[の]り換[か]えは必要[ひつよう]ですか。",
-            "translation": "Okay, the yellow signs. Do I need to transfer?",
+            "translation": "好的，黃色看板。請問需要轉車嗎？",
             "tags": [
               "N4",
               "確認",
@@ -37851,7 +37851,7 @@
             "role": "staff",
             "text": "今いるのが新宿駅なので、まず中央線で神田駅まで行きます。",
             "furigana": "今[いま]いるのが新宿駅[しんじゅくえき]なので、まず中央線[ちゅうおうせん]で神田駅[かんだえき]まで行[い]きます。",
-            "translation": "Since we are currently at Shinjuku Station, first you take the Chuo Line to Kanda Station.",
+            "translation": "因為現在在新宿車站，所以要先搭中央線到神田車站。",
             "tags": [
               "N4",
               "理由",
@@ -37863,7 +37863,7 @@
             "role": "user",
             "text": "神田駅で乗り換えるんですね。",
             "furigana": "神田駅[かんだえき]で乗[の]り換[か]えるんですね。",
-            "translation": "I transfer at Kanda Station, right?",
+            "translation": "是在神田車站轉車對吧。",
             "tags": [
               "N4",
               "確認"
@@ -37874,7 +37874,7 @@
             "role": "staff",
             "text": "はい。神田駅で銀座線に乗り換えて、浅草駅で降りてください。",
             "furigana": "はい。神田駅[かんだえき]で銀座線[ぎんざせん]に乗[の]り換[か]えて、浅草駅[あさくさえき]で降[お]りてください。",
-            "translation": "Yes. Transfer to the Ginza Line at Kanda Station and get off at Asakusa Station.",
+            "translation": "是的。請在神田車站轉銀座線，然後在淺草車站下車。",
             "tags": [
               "N4",
               "指示",
@@ -37886,7 +37886,7 @@
             "role": "user",
             "text": "全部でどれくらい時間がかかりますか。",
             "furigana": "全部[ぜんぶ]でどれくらい時間[じかん]がかかりますか。",
-            "translation": "How long will it take in total?",
+            "translation": "總共大概需要多少時間？",
             "tags": [
               "N5",
               "時間",
@@ -37898,7 +37898,7 @@
             "role": "staff",
             "text": "およそ三十分くらいですね。",
             "furigana": "およそ三十分[さんじゅっぷん]くらいですね。",
-            "translation": "It will take about 30 minutes.",
+            "translation": "大約是三十分鐘左右。",
             "tags": [
               "N5",
               "時間",
@@ -37910,7 +37910,7 @@
             "role": "user",
             "text": "わかりました。切符はどこで買えばいいですか。",
             "furigana": "わかりました。切符[きっぷ]はどこで買[か]えばいいですか。",
-            "translation": "I understand. Where should I buy the ticket?",
+            "translation": "我知道了。請問車票要去哪裡買？",
             "tags": [
               "N4",
               "条件",
@@ -37922,7 +37922,7 @@
             "role": "staff",
             "text": "あちらの券売機で買えます。SuicaなどのICカードはお持ちですか。",
             "furigana": "あちらの券売機[けんばいき]で買[か]えます。SuicaなどのICカードはお持[も]ちですか。",
-            "translation": "You can buy it at the ticket machines over there. Do you have an IC card like Suica?",
+            "translation": "可以在那邊的售票機購買。請問您有Suica等電子票證（IC卡）嗎？",
             "tags": [
               "N4",
               "可能",
@@ -37935,7 +37935,7 @@
             "role": "user",
             "text": "はい、Suicaを持っています。",
             "furigana": "はい、Suicaを持[も]っています。",
-            "translation": "Yes, I have a Suica.",
+            "translation": "有的，我有Suica。",
             "tags": [
               "N5",
               "所有"
@@ -37946,7 +37946,7 @@
             "role": "staff",
             "text": "それなら、切符を買わずにそのまま改札を通れますよ。",
             "furigana": "それなら、切符[きっぷ]を買[か]わずにそのまま改札[かいさつ]を通[とお]れますよ。",
-            "translation": "In that case, you can pass through the ticket gates without buying a ticket.",
+            "translation": "那樣的話，您不用買車票直接刷卡進站就可以了喔。",
             "tags": [
               "N4",
               "可能",
@@ -37958,7 +37958,7 @@
             "role": "user",
             "text": "便利ですね。ご丁寧に教えていただき、ありがとうございました。",
             "furigana": "便利[べんり]ですね。ご丁寧[ていねい]に教[おし]えていただき、ありがとうございました。",
-            "translation": "That's convenient. Thank you very much for politely explaining it to me.",
+            "translation": "真方便呢。謝謝您這麼詳細地說明。",
             "tags": [
               "N4",
               "感謝",
@@ -37970,7 +37970,7 @@
             "role": "staff",
             "text": "どういたしまして。お気をつけて行ってらっしゃいませ。",
             "furigana": "どういたしまして。お気[き]をつけて行[い]ってらっしゃいませ。",
-            "translation": "You're welcome. Please take care and have a good trip.",
+            "translation": "不客氣。路上小心，祝您旅途愉快。",
             "tags": [
               "N4",
               "挨拶",
@@ -37997,7 +37997,7 @@
             "role": "user",
             "text": "すみません、東京タワーまでお願いします。",
             "furigana": "すみません、東京[とうきょう]タワーまでお願[ねが]いします。",
-            "translation": "Excuse me, to Tokyo Tower, please.",
+            "translation": "不好意思，請載我到東京鐵塔。",
             "tags": [
               "N5",
               "依頼",
@@ -38009,7 +38009,7 @@
             "role": "staff",
             "text": "はい、東京タワーですね。かしこまりました。",
             "furigana": "はい、東京[とうきょう]タワーですね。かしこまりました。",
-            "translation": "Yes, Tokyo Tower. Understood.",
+            "translation": "好的，到東京鐵塔對吧。我知道了。",
             "tags": [
               "N4",
               "敬語",
@@ -38021,7 +38021,7 @@
             "role": "user",
             "text": "大体どれくらい時間がかかりますか。",
             "furigana": "大体[だいたい]どれくらい時間[じかん]がかかりますか。",
-            "translation": "About how long will it take?",
+            "translation": "大約需要多少時間？",
             "tags": [
               "N5",
               "時間",
@@ -38033,7 +38033,7 @@
             "role": "staff",
             "text": "今の時間は道が少し混んでいるので、二十分ほどかかるかもしれません。",
             "furigana": "今[いま]の時間[じかん]は道[みち]が少[すこ]し混[こ]んでいるので、二十分[にじゅっぷん]ほどかかるかもしれません。",
-            "translation": "The roads are a bit crowded at this time, so it might take about 20 minutes.",
+            "translation": "現在這個時間路上有點塞車，所以可能需要大約二十分鐘左右。",
             "tags": [
               "N4",
               "理由",
@@ -38045,7 +38045,7 @@
             "role": "user",
             "text": "そうですか。急いでいるんですが、別の道はありますか。",
             "furigana": "そうですか。急[いそ]いでいるんですが、別[べつ]の道[みち]はありますか。",
-            "translation": "I see. I'm in a hurry, is there another route?",
+            "translation": "是嗎？我有點趕時間，有其他的路線嗎？",
             "tags": [
               "N4",
               "状況",
@@ -38057,7 +38057,7 @@
             "role": "staff",
             "text": "高速道路を使えば少し早くなりますが、料金が追加でかかります。",
             "furigana": "高速道路[こうそくどうろ]を使[つか]えば少[すこ]し早[はや]くなりますが、料金[りょうきん]が追加[ついか]でかかります。",
-            "translation": "If we use the expressway it will be a bit faster, but there will be an additional toll.",
+            "translation": "如果走高速公路的話會快一點，但是需要額外付過路費。",
             "tags": [
               "N4",
               "条件",
@@ -38069,7 +38069,7 @@
             "role": "user",
             "text": "高速料金はいくらですか。",
             "furigana": "高速料金[こうそくりょうきん]はいくらですか。",
-            "translation": "How much is the expressway toll?",
+            "translation": "高速公路過路費是多少呢？",
             "tags": [
               "N5",
               "値段"
@@ -38080,7 +38080,7 @@
             "role": "staff",
             "text": "プラスで千円くらいになりますね。",
             "furigana": "プラスで千円[せんえん]くらいになりますね。",
-            "translation": "It will be about 1,000 yen extra.",
+            "translation": "大約需要追加一千日圓左右。",
             "tags": [
               "N5",
               "数字",
@@ -38092,7 +38092,7 @@
             "role": "user",
             "text": "わかりました。じゃあ、高速を使ってください。",
             "furigana": "わかりました。じゃあ、高速[こうそく]を使[つか]ってください。",
-            "translation": "Understood. Well then, please use the expressway.",
+            "translation": "我知道了。那請幫我走高速公路。",
             "tags": [
               "N5",
               "依頼",
@@ -38104,7 +38104,7 @@
             "role": "staff",
             "text": "かしこまりました。シートベルトをお締めください。",
             "furigana": "かしこまりました。シートベルトをお締[し]めください。",
-            "translation": "Certainly. Please fasten your seatbelt.",
+            "translation": "好的。請繫好安全帶。",
             "tags": [
               "N4",
               "敬語",
@@ -38116,7 +38116,7 @@
             "role": "user",
             "text": "あの、手前の交差点で止めてもらえますか。",
             "furigana": "あの、手前[てまえ]の交差点[こうさてん]で止[と]めてもらえますか。",
-            "translation": "Umm, could you stop at the intersection just ahead?",
+            "translation": "那個，可以在前面的十字路口幫我停車嗎？",
             "tags": [
               "N4",
               "依頼",
@@ -38128,7 +38128,7 @@
             "role": "staff",
             "text": "こちらの角ですね。かしこまりました。",
             "furigana": "こちらの角[かど]ですね。かしこまりました。",
-            "translation": "At this corner, right? Understood.",
+            "translation": "是這個轉角對吧。我知道了。",
             "tags": [
               "N4",
               "敬語",
@@ -38140,7 +38140,7 @@
             "role": "user",
             "text": "はい、ここです。おいくらですか。",
             "furigana": "はい、ここです。おいくらですか。",
-            "translation": "Yes, here. How much is it?",
+            "translation": "是的，就在這裡。請問多少錢？",
             "tags": [
               "N5",
               "値段",
@@ -38152,7 +38152,7 @@
             "role": "staff",
             "text": "高速料金を含めて、三千五百円になります。",
             "furigana": "高速料金[こうそくりょうきん]を含[ふく]めて、三千五百円[さんぜんごひゃくえん]になります。",
-            "translation": "Including the expressway toll, it is 3,500 yen.",
+            "translation": "包含過路費總共是三千五百日圓。",
             "tags": [
               "N4",
               "合計",
@@ -38164,7 +38164,7 @@
             "role": "user",
             "text": "五千円札でお願いします。領収書もいただけますか。",
             "furigana": "五千円札[ごせんえんさつ]でお願[ねが]いします。領収書[りょうしゅうしょ]もいただけますか。",
-            "translation": "Here is a 5,000 yen bill. Can I have a receipt as well?",
+            "translation": "請收五千日圓。順便可以給我收據嗎？",
             "tags": [
               "N4",
               "依頼",
@@ -38176,7 +38176,7 @@
             "role": "staff",
             "text": "はい、千五百円のお返しと、領収書です。ありがとうございました。",
             "furigana": "はい、千五百円[せんごひゃくえん]のお返[かえ]しと、領収書[りょうしゅうしょ]です。ありがとうございました。",
-            "translation": "Yes, here is your change of 1,500 yen, and the receipt. Thank you very much.",
+            "translation": "好的，這是找您的一千五百日圓和收據。非常謝謝您。",
             "tags": [
               "N5",
               "お礼",
@@ -39389,7 +39389,7 @@
             "role": "user",
             "text": "すみません、このシャツを試着してもいいですか。",
             "furigana": "すみません、このシャツを試着[しちゃく]してもいいですか。",
-            "translation": "Excuse me, may I try on this shirt?",
+            "translation": "不好意思，我可以試穿這件襯衫嗎？",
             "tags": [
               "N4",
               "許可",
@@ -39401,7 +39401,7 @@
             "role": "staff",
             "text": "はい、もちろんです。試着室へご案内いたします。",
             "furigana": "はい、もちろんです。試着室[しちゃくしつ]へご案内[あんない]いたします。",
-            "translation": "Yes, of course. I will show you to the fitting room.",
+            "translation": "好的，當然可以。我帶您去試衣間。",
             "tags": [
               "N4",
               "敬語",
@@ -39413,7 +39413,7 @@
             "role": "user",
             "text": "ありがとうございます。",
             "furigana": "ありがとうございます。",
-            "translation": "Thank you.",
+            "translation": "謝謝您。",
             "tags": [
               "N5",
               "お礼"
@@ -39424,7 +39424,7 @@
             "role": "staff",
             "text": "サイズはいかがでしたか。",
             "furigana": "サイズはいかがでしたか。",
-            "translation": "How was the size?",
+            "translation": "尺寸還合適嗎？",
             "tags": [
               "N4",
               "敬語",
@@ -39436,7 +39436,7 @@
             "role": "user",
             "text": "少し小さいみたいです。もう少し大きいサイズはありますか。",
             "furigana": "少[すこ]し小[ちい]さいみたいです。もう少[すこ]し大[おお]きいサイズはありますか。",
-            "translation": "It seems a bit small. Do you have a slightly larger size?",
+            "translation": "好像有一點小。請問有稍微大一點的尺寸嗎？",
             "tags": [
               "N4",
               "比較",
@@ -39448,7 +39448,7 @@
             "role": "staff",
             "text": "かしこまりました。こちらはMサイズですので、Lサイズをお持ちしますね。",
             "furigana": "かしこまりました。こちらはMサイズですので、Lサイズをお持[も]ちしますね。",
-            "translation": "Certainly. This one is a size M, so I will bring you a size L.",
+            "translation": "好的。這件是M號的，我幫您拿L號過來喔。",
             "tags": [
               "N4",
               "理由",
@@ -39460,7 +39460,7 @@
             "role": "user",
             "text": "お願いします。色違いもありますか。",
             "furigana": "お願[ねが]いします。色違[いろちが]いもありますか。",
-            "translation": "Please. Do you also have it in other colors?",
+            "translation": "麻煩您了。請問有其他顏色嗎？",
             "tags": [
               "N5",
               "質問",
@@ -39472,7 +39472,7 @@
             "role": "staff",
             "text": "はい、白のほかに、黒とネイビーがございます。",
             "furigana": "はい、白[しろ]のほかに、黒[くろ]とネイビーがございます。",
-            "translation": "Yes, besides white, we have black and navy.",
+            "translation": "有的，除了白色之外，還有黑色和藏青色。",
             "tags": [
               "N4",
               "敬語",
@@ -39484,7 +39484,7 @@
             "role": "user",
             "text": "じゃあ、ネイビーのLサイズを着てみたいです。",
             "furigana": "じゃあ、ネイビーのLサイズを着[き]てみたいです。",
-            "translation": "Well then, I'd like to try on the navy size L.",
+            "translation": "那麼，我想試穿藏青色的L號。",
             "tags": [
               "N4",
               "願望",
@@ -39496,7 +39496,7 @@
             "role": "staff",
             "text": "少々お待ちください。お待たせいたしました。こちらになります。",
             "furigana": "少々[しょうしょう]お待[ま]ちください。お待[ま]たせいたしました。こちらになります。",
-            "translation": "Please wait a moment. Thank you for waiting. Here it is.",
+            "translation": "請稍等一下。讓您久等了，是這件。",
             "tags": [
               "N4",
               "敬語",
@@ -39508,7 +39508,7 @@
             "role": "user",
             "text": "ありがとうございます。試着してみます。",
             "furigana": "ありがとうございます。試着[しちゃく]してみます。",
-            "translation": "Thank you. I'll try it on.",
+            "translation": "謝謝您。那我試穿看看。",
             "tags": [
               "N4",
               "試み"
@@ -39519,7 +39519,7 @@
             "role": "staff",
             "text": "いかがでしょうか。",
             "furigana": "いかがでしょうか。",
-            "translation": "How is it?",
+            "translation": "穿起來感覺如何呢？",
             "tags": [
               "N4",
               "敬語",
@@ -39531,7 +39531,7 @@
             "role": "user",
             "text": "ちょうどいいです。デザインも気に入りました。",
             "furigana": "ちょうどいいです。デザインも気[き]に入[い]りました。",
-            "translation": "It's a perfect fit. I like the design too.",
+            "translation": "尺寸剛好。我也很喜歡這個設計。",
             "tags": [
               "N4",
               "感想",
@@ -39543,7 +39543,7 @@
             "role": "staff",
             "text": "お客様にとてもお似合いですよ。",
             "furigana": "お客様[きゃくさま]にとてもお似合[にあ]いですよ。",
-            "translation": "It suits you very well.",
+            "translation": "非常適合您喔。",
             "tags": [
               "N4",
               "敬語",
@@ -39555,7 +39555,7 @@
             "role": "user",
             "text": "嬉しいです。じゃあ、これを買います。",
             "furigana": "嬉[うれ]しいです。じゃあ、これを買[か]います。",
-            "translation": "I'm glad. Then I'll buy this one.",
+            "translation": "真高興。那我買這件。",
             "tags": [
               "N5",
               "決定",
@@ -39567,7 +39567,7 @@
             "role": "staff",
             "text": "ありがとうございます。では、レジまでお持ちいたします。",
             "furigana": "ありがとうございます。では、レジまでお持[も]ちいたします。",
-            "translation": "Thank you. Then I will carry it to the cash register for you.",
+            "translation": "非常謝謝您。那我幫您拿到收銀台。",
             "tags": [
               "N4",
               "敬語",
@@ -39693,7 +39693,7 @@
             "role": "user",
             "text": "すみません、免税の手続きはここでできますか。",
             "furigana": "すみません、免税[めんぜい]の手続[てつづ]きはここでできますか。",
-            "translation": "Excuse me, can I do the tax-free procedure here?",
+            "translation": "不好意思，可以在這裡辦理退稅手續嗎？",
             "tags": [
               "N4",
               "可能",
@@ -39705,7 +39705,7 @@
             "role": "staff",
             "text": "はい、こちらで承ります。レシートと購入された商品をお願いします。",
             "furigana": "はい、こちらで承[うけたまわ]ります。レシートと購入[こうにゅう]された商品[しょうひん]をお願[ねが]いします。",
-            "translation": "Yes, we handle it here. Please give me the receipt and the purchased items.",
+            "translation": "是的，在這裡辦理。請出示發票和購買的商品。",
             "tags": [
               "N4",
               "敬語",
@@ -39717,7 +39717,7 @@
             "role": "user",
             "text": "はい、これです。パスポートも必要ですか。",
             "furigana": "はい、これです。パスポートも必要[ひつよう]ですか。",
-            "translation": "Yes, here they are. Do you need my passport too?",
+            "translation": "好的，這是商品。也需要護照嗎？",
             "tags": [
               "N5",
               "確認"
@@ -39728,7 +39728,7 @@
             "role": "staff",
             "text": "はい、ご本人のパスポートをご提示ください。",
             "furigana": "はい、ご本人[ほんにん]のパスポートをご提示[ていじ]ください。",
-            "translation": "Yes, please show your passport.",
+            "translation": "是的，請出示本人的護照。",
             "tags": [
               "N4",
               "指示",
@@ -39740,7 +39740,7 @@
             "role": "user",
             "text": "はい、どうぞ。",
             "furigana": "はい、どうぞ。",
-            "translation": "Yes, here you go.",
+            "translation": "好的，給您。",
             "tags": [
               "N5",
               "授受"
@@ -39751,7 +39751,7 @@
             "role": "staff",
             "text": "ありがとうございます。免税の対象になるのは税抜きで五千円以上ですが、条件を満たしていますね。",
             "furigana": "ありがとうございます。免税[めんぜい]の対象[たいしょう]になるのは税抜[ぜいぬ]きで五千円以上[ごせんえんいじょう]ですが、条件[じょうけん]を満[み]たしていますね。",
-            "translation": "Thank you. Items eligible for tax exemption must be 5,000 yen or more excluding tax, and you meet the condition.",
+            "translation": "謝謝您。退稅門檻是未稅金額滿五千日圓以上，您的金額有符合喔。",
             "tags": [
               "N4",
               "条件",
@@ -39763,7 +39763,7 @@
             "role": "user",
             "text": "よかったです。商品はもう袋から出してもいいですか。",
             "furigana": "よかったです。商品[しょうひん]はもう袋[ふくろ]から出[だ]してもいいですか。",
-            "translation": "That's good. May I take the items out of the bag now?",
+            "translation": "太好了。商品現在可以拿出來了嗎？",
             "tags": [
               "N4",
               "許可",
@@ -39775,7 +39775,7 @@
             "role": "staff",
             "text": "申し訳ございません。消耗品は専用の袋に入れますので、日本を出国するまで開けないでください。",
             "furigana": "申[もう]し訳[わけ]ございません。消耗品[しょうもうひん]は専用[せんよう]の袋[ふくろ]に入[い]れますので、日本[にほん]を出国[しゅっこく]するまで開[あ]けないでください。",
-            "translation": "I'm sorry. Consumable items will be put in a special bag, so please do not open it until you leave Japan.",
+            "translation": "非常抱歉。消耗品會裝入專用包裝袋，在出境日本前請不要拆封。",
             "tags": [
               "N4",
               "禁止",
@@ -39787,7 +39787,7 @@
             "role": "user",
             "text": "そうなんですね。わかりました。",
             "furigana": "そうなんですね。わかりました。",
-            "translation": "Is that so. I understand.",
+            "translation": "原來是這樣啊。我知道了。",
             "tags": [
               "N5",
               "納得"
@@ -39798,7 +39798,7 @@
             "role": "staff",
             "text": "はい、開けてしまうと消費税を払っていただくことになりますのでご注意ください。",
             "furigana": "はい、開[あ]けてしまうと消費税[しょうひぜい]を払[はら]っていただくことになりますのでご注意[ちゅうい]ください。",
-            "translation": "Yes, if you open it, you will have to pay the consumption tax, so please be careful.",
+            "translation": "是的，如果拆封的話，出境時會被補收消費稅，請務必注意。",
             "tags": [
               "N4",
               "条件",
@@ -39810,7 +39810,7 @@
             "role": "user",
             "text": "了解しました。手続きは以上ですか。",
             "furigana": "了解[りょうかい]しました。手続[てつづ]きは以上[いじょう]ですか。",
-            "translation": "Understood. Is that all for the procedure?",
+            "translation": "了解了。手續這樣就完成了嗎？",
             "tags": [
               "N4",
               "確認"
@@ -39821,7 +39821,7 @@
             "role": "staff",
             "text": "はい、こちらの画面で免税後の金額をご確認ください。",
             "furigana": "はい、こちらの画面[がめん]で免税後[めんぜいご]の金額[きんがく]をご確認[かくにん]ください。",
-            "translation": "Yes, please confirm the amount after tax exemption on this screen.",
+            "translation": "是的，請在這台螢幕上確認退稅後的金額。",
             "tags": [
               "N4",
               "指示",
@@ -39833,7 +39833,7 @@
             "role": "user",
             "text": "はい、確認しました。",
             "furigana": "はい、確認[かくにん]しました。",
-            "translation": "Yes, I have confirmed it.",
+            "translation": "好的，確認過了。",
             "tags": [
               "N5",
               "完了"
@@ -39844,7 +39844,7 @@
             "role": "staff",
             "text": "返金はクレジットカードにいたしますか、それとも現金ですか。",
             "furigana": "返金[へんきん]はクレジットカードにいたしますか、それとも現金[げんきん]ですか。",
-            "translation": "Would you like the refund on your credit card or in cash?",
+            "translation": "請問退款是要退到信用卡還是退現金呢？",
             "tags": [
               "N4",
               "選択",
@@ -39856,7 +39856,7 @@
             "role": "user",
             "text": "現金でお願いします。",
             "furigana": "現金[げんきん]でお願[ねが]いします。",
-            "translation": "In cash, please.",
+            "translation": "現金，拜託了。",
             "tags": [
               "N5",
               "選択"
@@ -39867,7 +39867,7 @@
             "role": "staff",
             "text": "かしこまりました。こちらが現金とパスポートになります。ありがとうございました。",
             "furigana": "かしこまりました。こちらが現金[げんきん]とパスポートになります。ありがとうございました。",
-            "translation": "Certainly. Here is your cash and passport. Thank you very much.",
+            "translation": "好的。這是退您的現金和護照。非常謝謝您。",
             "tags": [
               "N4",
               "敬語",
@@ -65052,7 +65052,7 @@
             "role": "staff",
             "text": "今日はどうされましたか。",
             "furigana": "今日[きょう]はどうされましたか。",
-            "translation": "What seems to be the problem today?",
+            "translation": "您今天哪裡不舒服呢？",
             "tags": [
               "N4",
               "質問",
@@ -65064,7 +65064,7 @@
             "role": "user",
             "text": "昨日の夜から熱があって、喉もすごく痛いんです。",
             "furigana": "昨日[きのう]の夜[よる]から熱[ねつ]があって、喉[のど]もすごく痛[いた]いんです。",
-            "translation": "I've had a fever since last night, and my throat hurts a lot.",
+            "translation": "我從昨天晚上開始發燒，喉嚨也痛得很厲害。",
             "tags": [
               "N4",
               "症状",
@@ -65076,7 +65076,7 @@
             "role": "staff",
             "text": "それはお辛いですね。熱は何度くらいありますか。",
             "furigana": "それはお辛[つら]いですね。熱[ねつ]は何度[なんど]くらいありますか。",
-            "translation": "That must be tough. About what is your temperature?",
+            "translation": "那真是辛苦了。發燒大約是幾度呢？",
             "tags": [
               "N4",
               "共感",
@@ -65088,7 +65088,7 @@
             "role": "user",
             "text": "今朝測ったら、三十八度五分ありました。",
             "furigana": "今朝測[けさはか]ったら、三十八度五分[さんじゅうはちどごぶ]ありました。",
-            "translation": "When I measured it this morning, it was 38.5 degrees.",
+            "translation": "今天早上量的時候是38.5度。",
             "tags": [
               "N4",
               "条件",
@@ -65100,7 +65100,7 @@
             "role": "staff",
             "text": "高いですね。咳や鼻水は出ますか。",
             "furigana": "高[たか]いですね。咳[せき]や鼻水[はなみず]は出[で]ますか。",
-            "translation": "That's high. Do you have a cough or runny nose?",
+            "translation": "燒得滿高的。有咳嗽或流鼻水嗎？",
             "tags": [
               "N5",
               "質問",
@@ -65112,7 +65112,7 @@
             "role": "user",
             "text": "咳は少し出ますが、鼻水は出ません。",
             "furigana": "咳[せき]は少[すこ]し出[で]ますが、鼻水[はなみず]は出[で]ません。",
-            "translation": "I cough a little, but I don't have a runny nose.",
+            "translation": "有一點咳嗽，但沒有流鼻水。",
             "tags": [
               "N5",
               "対比",
@@ -65124,7 +65124,7 @@
             "role": "staff",
             "text": "わかりました。インフルエンザの検査をしてみましょう。",
             "furigana": "わかりました。インフルエンザの検査[けんさ]をしてみましょう。",
-            "translation": "I see. Let's do an influenza test.",
+            "translation": "我知道了。那我們來做個流感快篩吧。",
             "tags": [
               "N4",
               "提案",
@@ -65136,7 +65136,7 @@
             "role": "user",
             "text": "はい、お願いします。痛いですか。",
             "furigana": "はい、お願[ねが]いします。痛[いた]いですか。",
-            "translation": "Yes, please. Does it hurt?",
+            "translation": "好的，拜託了。會痛嗎？",
             "tags": [
               "N5",
               "質問"
@@ -65147,7 +65147,7 @@
             "role": "staff",
             "text": "綿棒を鼻の奥に入れますので、少し痛いかもしれません。我慢してくださいね。",
             "furigana": "綿棒[めんぼう]を鼻[はな]の奥[おく]に入[い]れますので、少[すこ]し痛[いた]いかもしれません。我慢[がまん]してくださいね。",
-            "translation": "I will put a cotton swab deep into your nose, so it might hurt a little. Please bear with it.",
+            "translation": "會用棉花棒深入鼻子深處，可能會有一點痛。請稍微忍耐一下喔。",
             "tags": [
               "N4",
               "理由",
@@ -65160,7 +65160,7 @@
             "role": "user",
             "text": "わかりました。頑張ります。",
             "furigana": "わかりました。頑張[がんば]ります。",
-            "translation": "I understand. I'll do my best.",
+            "translation": "我知道了。我會忍耐的。",
             "tags": [
               "N5",
               "決意"
@@ -65171,7 +65171,7 @@
             "role": "staff",
             "text": "お疲れ様でした。十五分ほどで結果が出ますので、待合室でお待ちください。",
             "furigana": "お疲[つか]れ様[さま]でした。十五分[じゅうごふん]ほどで結果[けっか]が出[で]ますので、待合室[まちあいしつ]でお待[ま]ちください。",
-            "translation": "Good job. The results will be out in about 15 minutes, so please wait in the waiting room.",
+            "translation": "辛苦了。結果大約十五分鐘會出來，請到候診室稍候。",
             "tags": [
               "N4",
               "理由",
@@ -65183,7 +65183,7 @@
             "role": "staff",
             "text": "結果が出ました。インフルエンザではありませんね。ただの風邪のようです。",
             "furigana": "結果[けっか]が出[で]ました。インフルエンザではありませんね。ただの風邪[かぜ]のようです。",
-            "translation": "The results are out. It is not influenza. It seems to be just a cold.",
+            "translation": "結果出來了。不是流感喔。看來只是一般的感冒。",
             "tags": [
               "N4",
               "推量",
@@ -65195,7 +65195,7 @@
             "role": "user",
             "text": "よかったです。安心しました。",
             "furigana": "よかったです。安心[あんしん]しました。",
-            "translation": "That's a relief. I feel reassured.",
+            "translation": "太好了。鬆了一口氣。",
             "tags": [
               "N5",
               "感情"
@@ -65206,7 +65206,7 @@
             "role": "staff",
             "text": "喉の炎症を抑える薬と、解熱剤を出しておきますね。",
             "furigana": "喉[のど]の炎症[えんしょう]を抑[おさ]える薬[くすり]と、解熱剤[げねつざい]を出[だ]しておきますね。",
-            "translation": "I will prescribe medicine to reduce throat inflammation and a fever reducer.",
+            "translation": "我會幫您開消喉嚨發炎的藥和退燒藥喔。",
             "tags": [
               "N4",
               "準備",
@@ -65218,7 +65218,7 @@
             "role": "user",
             "text": "ありがとうございます。薬はどうやって飲めばいいですか。",
             "furigana": "ありがとうございます。薬[くすり]はどうやって飲[のん]めばいいですか。",
-            "translation": "Thank you. How should I take the medicine?",
+            "translation": "謝謝您。藥要怎麼服用呢？",
             "tags": [
               "N4",
               "方法",
@@ -65230,7 +65230,7 @@
             "role": "staff",
             "text": "食後に一錠ずつ飲んでください。ゆっくり休んでくださいね。",
             "furigana": "食後[しょくご]に一錠[いちじょう]ずつ飲[のん]んでください。ゆっくり休[やす]んでくださいね。",
-            "translation": "Please take one tablet each after meals. Please get plenty of rest.",
+            "translation": "請在飯後各服一錠。請多休息喔。",
             "tags": [
               "N4",
               "指示",
